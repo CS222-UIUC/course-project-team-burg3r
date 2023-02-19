@@ -1,0 +1,28 @@
+{
+    "schedule": {
+        "schedule_id": "12345",
+        "sunday": [],
+        "monday": [{
+                "class": {
+                    "name": "CS225",
+                    "section": "ALA1",
+                    "start_time": "1100",
+                    "end_time": "1150"
+                }
+            },
+            {
+                "class": {
+                    "name": "ECE120",
+                    "section": "ABC2",
+                    "start_time": "1300",
+                    "end_time": "1450"
+                }
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+	"all_classes_sections": {
+		"required_classes": "CS225, CS222",
+		"classes": [{
+				"class": {
+					"name": "CS225",
+					"sections": [{
+							"section": "AL1",
+							"days": [{
+								"monday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"wednesday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"friday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								}
+							}]
+						},
+						{
+							"section": "AL2",
+							"days": [{
+								"monday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"wednesday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"friday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								}
+							}]
+						}
+					]
+				}
+			},
+			{
+				"class": {
+					"name": "CS222",
+					"sections": [{
+						"section": "SDL",
+						"days": [{
+							"wednesday": {
+								"start_time": "1300",
+								"end_time": "1350"
+							}
+						}]
+					}]
+				}
+			}
+		]
+	}
+}
