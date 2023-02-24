@@ -1,32 +1,24 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
         <title>CourseBurger - The Auto Scheduler</title>
     </head>
     <body>
-        <style>
-            img {
-                width: 50px;
-                float: left;
-                margin-right: 10px;
-            }
-            table {
-                margin-top: 30px;
-            }
-            text {
-                font-family: Arial, Helvetica, sans-serif;
-            }
-        </style>
-        <img src="Images/burger_icon.png" alt="Picture of a burger">
+        <div class="dropdown">
+            <button onclick="menuToggle()" class="dropbtn">Menu</button>
+            <div class="dropdown-content">
+                <a href="home.html">Scheduler</a>
+                <a href="ouralgorithm.html">Our Algorithm</a>
+                <a href="about.html">About</a>
+            </div>
+        </div> 
+        <img src="Images/burger_icon.png" alt="Picture of a burger" style="width: 50px; float: left; margin-right: 10px">
         <h1>Welcome to CourseBurger!</h1>
-        <h2>What is CourseBurger?</h2>
+        <h2>Create your schedule!</h2>
         <p>
-            CourseBurger is a website where you can enter
-             your courses and our algorithm will create 
-             a schedule for you!
-        </p>
-        <p>
-            Enter your classes below
+            Enter your classes below:
         </p>    
         <label for="class">Class: </label>
         <input type="text">
@@ -34,7 +26,7 @@
         <input type="text">
         <label for="location">Location: </label>
         <input type="text">
-        <table bgcolor="black">
+        <table bgcolor="black" style="margin-top: 30px">
             <tr bgcolor="tan">
                 <th>Time</th>
                 <th>Sunday</th>
