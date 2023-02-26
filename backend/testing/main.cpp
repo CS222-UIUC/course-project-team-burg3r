@@ -6,6 +6,40 @@
 #include <nlohmann/json.hpp>
 using json = nlohmann::json;
 
+// Example print out from running ./main
+//
+// Required Courses:
+//   "CS225"
+//   "CS222"
+// -------------------
+// Course: "CS225"
+//   Section: "AL1"
+//     Day: "monday"
+//       Start Time: "1100"
+//       End Time: "1150"
+//     Day: "wednesday"
+//       Start Time: "1100"
+//       End Time: "1150"
+//     Day: "friday"
+//       Start Time: "1100"
+//       End Time: "1150"
+//   Section: "AL2"
+//     Day: "monday"
+//       Start Time: "1100"
+//       End Time: "1150"
+//     Day: "wednesday"
+//       Start Time: "1100"
+//       End Time: "1150"
+//     Day: "friday"
+//       Start Time: "1100"
+//       End Time: "1150"
+// -------------------
+// Course: "CS222"
+//   Section: "SDL"
+//     Day: "wednesday"
+//       Start Time: "1300"
+//       End Time: "1350"
+// -------------------
 
 int main() {
 	// Read the json file
@@ -19,7 +53,7 @@ int main() {
 	auto requiredCoursesArr = data.at("all_courses_sections").at("required_courses");
 
 	// Print each required course name
-	std::cout << "Required Courses:" << std::endl;
+	std::cout << "Required Courses: " << std::endl;
 	for (auto requiredCourse : requiredCoursesArr) {
 		std::cout << "  " << requiredCourse.at("course") << std::endl;
 	}
