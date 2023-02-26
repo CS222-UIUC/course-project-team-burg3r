@@ -12,15 +12,37 @@ int main() {
 	std::ifstream f("test.json");
 	json data = json::parse(f);
 
-	// Read each object from the classes array
-	auto courses = data.at("all_courses_sections").at("courses");
+	// Read each object from the courses array
+	auto coursesArr = data.at("all_courses_sections").at("courses");
+	
+	// Read from the required courses array
+	auto requiredCoursesArr = data.at("all_courses_sections").at("required_courses");
 
-	// For each class print the names
-	for (auto course : courses) {
-		std::cout << course.at("course").at("name") << std::endl;
+	// Print each required course name
+	std::cout << "Required Courses:" << std::endl;
+	for (auto requiredCourse : requiredCoursesArr) {
+		std::cout << "  " << requiredCourse.at("course") << std::endl;
 	}
 
-	//std::cout << data.at("all_classes_sections").at("classes") << "\n" << std::endl;
+	// For each course print the names, days, and times
+	std::cout << "-------------------" << std::endl;
+	for (auto course : coursesArr) {
+		std::cout << "Course: " << course.at("name") << std::endl;
+
+		auto sectionsArr = course.at("sections");
+		for (auto section : sectionsArr) {
+			std::cout << "  Section: " << section.at("section") << std::endl;
+
+			auto days = section.at("days");
+			for (auto day : days) {
+				std::cout << "    Day: " << day.at("day") << std::endl;
+				std::cout << "      Start Time: " << day.at("start_time") << std::endl;
+				std::cout << "      End Time: " << day.at("end_time") << std::endl;
+			}
+		}
+		
+		std::cout << "-------------------" << std::endl;
+	}
 
 	return 0;
 }

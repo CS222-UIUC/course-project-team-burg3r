@@ -1,59 +1,64 @@
 {
 	"all_courses_sections": {
-		"required_courses": "CS225, CS222",
-		"courses": [{
-				"course": {
-					"name": "CS225",
-					"sections": [{
-							"section": "AL1",
-							"days": [{
-								"monday": {
-									"start_time": "1100",
-									"end_time": "1150"
-								},
-								"wednesday": {
-									"start_time": "1100",
-									"end_time": "1150"
-								},
-								"friday": {
-									"start_time": "1100",
-									"end_time": "1150"
-								}
-							}]
-						},
-						{
-							"section": "AL2",
-							"days": [{
-								"monday": {
-									"start_time": "1100",
-									"end_time": "1150"
-								},
-								"wednesday": {
-									"start_time": "1100",
-									"end_time": "1150"
-								},
-								"friday": {
-									"start_time": "1100",
-									"end_time": "1150"
-								}
-							}]
-						}
-					]
-				}
+		"required_courses": [{
+				"course": "CS225"
 			},
 			{
-				"course": {
-					"name": "CS222",
-					"sections": [{
-						"section": "SDL",
+				"course": "CS222"
+			}
+		],
+		"courses": [{
+				"name": "CS225",
+				"sections": [{
+						"section": "AL1",
 						"days": [{
-							"wednesday": {
-								"start_time": "1300",
-								"end_time": "1350"
+								"day": "monday",
+								"start_time": "1100",
+								"end_time": "1150"
+							},
+							{
+								"day": "wednesday",
+								"start_time": "1100",
+								"end_time": "1150"
+							},
+							{
+								"day": "friday",
+								"start_time": "1100",
+								"end_time": "1150"
 							}
-						}]
+						]
+					},
+					{
+						"section": "AL2",
+						"days": [{
+								"day": "monday",
+								"start_time": "1100",
+								"end_time": "1150"
+							},
+							{
+								"day": "wednesday",
+								"start_time": "1100",
+								"end_time": "1150"
+							},
+							{
+								"day": "friday",
+								"start_time": "1100",
+								"end_time": "1150"
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "CS222",
+				"sections": [{
+					"section": "SDL",
+					"days": [{
+						"day": "wednesday",
+						"start_time": "1300",
+						"end_time": "1350"
 					}]
-				}
+				}]
 			}
 		]
 	}
