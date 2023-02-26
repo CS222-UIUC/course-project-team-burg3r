@@ -1,6 +1,8 @@
 #include <iostream>
 #include "schedule.cpp"
-#include "class.cpp"
+#include "course.cpp"
+#include "json_parser.h"
+#include "schedule_maker.h"
 
 #include <fstream>
 #include <nlohmann/json.hpp>
