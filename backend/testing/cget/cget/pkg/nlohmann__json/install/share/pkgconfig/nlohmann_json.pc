@@ -1,0 +1,4 @@
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.11.2
+Cflags: -I/home/caden/course-project-team-burg3r/backend/testing/cget/cget/pkg/nlohmann__json/install/include

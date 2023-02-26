@@ -1,0 +1,1 @@
+../../cget/pkg/nlohmann__json/install/share/pkgconfig/nlohmann_json.pc

@@ -1,0 +1,1 @@
+../../../cget/pkg/nlohmann__json/install/share/cmake/nlohmann_json/nlohmann_jsonConfig.cmake

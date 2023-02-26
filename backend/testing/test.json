@@ -1,0 +1,60 @@
+{
+	"all_courses_sections": {
+		"required_courses": "CS225, CS222",
+		"courses": [{
+				"course": {
+					"name": "CS225",
+					"sections": [{
+							"section": "AL1",
+							"days": [{
+								"monday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"wednesday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"friday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								}
+							}]
+						},
+						{
+							"section": "AL2",
+							"days": [{
+								"monday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"wednesday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								},
+								"friday": {
+									"start_time": "1100",
+									"end_time": "1150"
+								}
+							}]
+						}
+					]
+				}
+			},
+			{
+				"course": {
+					"name": "CS222",
+					"sections": [{
+						"section": "SDL",
+						"days": [{
+							"wednesday": {
+								"start_time": "1300",
+								"end_time": "1350"
+							}
+						}]
+					}]
+				}
+			}
+		]
+	}
+}
