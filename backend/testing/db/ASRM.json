@@ -1,0 +1,531 @@
+[
+  {
+    "courseCode": "ASRM 210",
+    "title": "Theory of Interest",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "73486",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/210"
+      },
+      {
+        "crn": "73487",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/210"
+      },
+      {
+        "crn": "68699",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "119 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 392",
+    "title": "Actuarial Problem Solving",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "69329",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "P",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "147 Altgeld Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/392"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 398",
+    "title": "Actuarial Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "71619",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "AS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 401",
+    "title": "Actuarial Statistics I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "68737",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/401"
+      },
+      {
+        "crn": "68740",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/401"
+      },
+      {
+        "crn": "68739",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 406",
+    "title": "Linear Algebra with Financial Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "68700",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/406"
+      },
+      {
+        "crn": "75419",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TG",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 409",
+    "title": "Stochastic Processes for Finance and Insurance",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "69393",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/409"
+      },
+      {
+        "crn": "68701",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 450",
+    "title": "Methods of Applied Statistics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "68745",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/450"
+      },
+      {
+        "crn": "68746",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/450"
+      },
+      {
+        "crn": "68743",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2GR",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/450"
+      },
+      {
+        "crn": "68744",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2UG",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 451",
+    "title": "Basics of Statistical Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "68749",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/451"
+      },
+      {
+        "crn": "68750",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 453",
+    "title": "Applied Bayesian Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "68747",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/453"
+      },
+      {
+        "crn": "68748",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 461",
+    "title": "Loss Models",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "74392",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/461"
+      },
+      {
+        "crn": "74393",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/461"
+      },
+      {
+        "crn": "68703",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 471",
+    "title": "Life Contingencies I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "74396",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "243 Altgeld Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/471"
+      },
+      {
+        "crn": "74394",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 472",
+    "title": "Life Contingencies II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "74397",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "341 Altgeld Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/472"
+      },
+      {
+        "crn": "68705",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/472"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 499",
+    "title": "Topics in Actuarial Science",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "73113",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SRG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/499"
+      },
+      {
+        "crn": "72802",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SRU",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 539",
+    "title": "Risk Analytics and Decision Making",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "71734",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "10:00",
+        "endTime": "12:20",
+        "day": "F",
+        "instructor": "2025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/539"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 551",
+    "title": "Statistical Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "68736",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/551"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 555",
+    "title": "Advanced Predictive Analytics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "74398",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/555"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 575",
+    "title": "Life Insurance and Pension Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "74651",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "341 Altgeld Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/575"
+      },
+      {
+        "crn": "70697",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 593",
+    "title": "Graduate Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "71620",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "AS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASRM 598",
+    "title": "Literature Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM",
+    "sections": [
+      {
+        "crn": "69535",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FQ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASRM/598"
+      }
+    ]
+  }
+]

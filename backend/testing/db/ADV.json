@@ -1,0 +1,1174 @@
+[
+  {
+    "courseCode": "ADV 150",
+    "title": "Introduction to Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "74341",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74342",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74343",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74344",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74345",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74346",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB6",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74347",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74348",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB8",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "74350",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      },
+      {
+        "crn": "60077",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/150"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 175",
+    "title": "Diversity in Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "74338",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/175"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 200",
+    "title": "Data Literacy",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "74331",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "328 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/200"
+      },
+      {
+        "crn": "74332",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "W",
+        "instructor": "70B Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/200"
+      },
+      {
+        "crn": "73628",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "223 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 270",
+    "title": "Principles of Sales",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "70232",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 281",
+    "title": "Advertising Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "68850",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "122 1203 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/281"
+      },
+      {
+        "crn": "68854",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "328 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/281"
+      },
+      {
+        "crn": "68855",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "328 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/281"
+      },
+      {
+        "crn": "68856",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "122 1203 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/281"
+      },
+      {
+        "crn": "68852",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/281"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 283",
+    "title": "Advertising and Brand Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "60080",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/283"
+      },
+      {
+        "crn": "60081",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/283"
+      },
+      {
+        "crn": "61736",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/283"
+      },
+      {
+        "crn": "70769",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/283"
+      },
+      {
+        "crn": "74337",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "213 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/283"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 284",
+    "title": "Consumer Insight",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "68858",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/284"
+      },
+      {
+        "crn": "68859",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/284"
+      },
+      {
+        "crn": "68860",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/284"
+      },
+      {
+        "crn": "68865",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/284"
+      },
+      {
+        "crn": "68857",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/284"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 290",
+    "title": "Special Topics in Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "73632",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/290"
+      },
+      {
+        "crn": "73633",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SMJ",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 301",
+    "title": "Becoming an Influencer",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "74402",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "INF",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "319 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 305",
+    "title": "Advertising Technology and the Digital World",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "67033",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/305"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 310",
+    "title": "Intro to Public Relations",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "54936",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "134 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 314",
+    "title": "Sports Public Relations",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "73629",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SPR",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 320",
+    "title": "Sales Management",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "70233",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 350",
+    "title": "Writing for Public Relations",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "55675",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/350"
+      },
+      {
+        "crn": "62664",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 370",
+    "title": "Sales and the Consumer",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "70234",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/370"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 390",
+    "title": "Content Creation",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "60085",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "213 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 392",
+    "title": "Advertising Immersion",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "73423",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AMZ",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/392"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 393",
+    "title": "Advertising and Society",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "60086",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 396",
+    "title": "Research Experience in Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "67032",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 400",
+    "title": "Special Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "10112",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/400"
+      },
+      {
+        "need attention": "yes",
+        "crn": "30686"
+      },
+      {
+        "crn": "11951",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SS",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 409",
+    "title": "Media Entrepreneurship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "68732",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 410",
+    "title": "Public Relations Strategies",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "50144",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/410"
+      },
+      {
+        "crn": "39501",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 454",
+    "title": "Creative Concepts II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "52662",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/454"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 460",
+    "title": "Innovations in Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "60087",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/460"
+      },
+      {
+        "crn": "61526",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/460"
+      },
+      {
+        "crn": "74339",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/460"
+      },
+      {
+        "crn": "74340",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/460"
+      },
+      {
+        "crn": "71954",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "274 Medical Sciences Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 461",
+    "title": "Computational Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "70249",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:30",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 462",
+    "title": "Computational Advertising Infrastructure",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "74910",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ADG",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/462"
+      },
+      {
+        "crn": "74909",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ADU",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 480",
+    "title": "Social Media Analytics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "74411",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SMA",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "70B Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 483",
+    "title": "Audience Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "57841",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "106 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/483"
+      },
+      {
+        "crn": "61524",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/483"
+      },
+      {
+        "crn": "68912",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 490",
+    "title": "Advanced Special Topics in Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "58648",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AMZ",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/490"
+      },
+      {
+        "crn": "57499",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "BA",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/490"
+      },
+      {
+        "crn": "58647",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DP",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/490"
+      },
+      {
+        "crn": "61394",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ECM",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/490"
+      },
+      {
+        "crn": "62646",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SS",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 492",
+    "title": "Tech and Advertising Campaigns",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "64125",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "221 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 495",
+    "title": "Internship Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "49210",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/495"
+      },
+      {
+        "crn": "73777",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "EF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/495"
+      },
+      {
+        "crn": "49825",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 498",
+    "title": "The Sandage Project",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "63424",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/498"
+      },
+      {
+        "crn": "63426",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/498"
+      },
+      {
+        "crn": "63427",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 509",
+    "title": "Media Entrepreneurship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "68920",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/509"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 582",
+    "title": "Qualitative Rsrch in Advert",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "30749",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:30",
+        "endTime": "16:20",
+        "day": "R",
+        "instructor": "123 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 588",
+    "title": "Graduate Seminar II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "57001",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 590",
+    "title": "Special Topics in Advertising",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "10116",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/590"
+      },
+      {
+        "crn": "52664",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CA",
+        "startTime": "11:30",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/590"
+      },
+      {
+        "crn": "49564",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "LYS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 598",
+    "title": "Professional Project",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "67375",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "CDH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "ADV 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ADV",
+    "sections": [
+      {
+        "crn": "10120",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ADV/599"
+      }
+    ]
+  }
+]

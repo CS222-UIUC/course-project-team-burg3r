@@ -1,0 +1,128 @@
+[
+  {
+    "courseCode": "ALEC 393",
+    "title": "Internship in Agricultural Leadership, Education and Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC",
+    "sections": [
+      {
+        "crn": "72254",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "JAS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 410",
+    "title": "Program Planning, Implementation and Evaluation",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC",
+    "sections": [
+      {
+        "crn": "72257",
+        "status": "restricted",
+        "type": "Online",
+        "section": "XM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 490",
+    "title": "Foundations of Adult Training and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC",
+    "sections": [
+      {
+        "crn": "74796",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 491",
+    "title": "Getting 110% Effort \u2013 Principles of Adult Motivation",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC",
+    "sections": [
+      {
+        "crn": "74797",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 492",
+    "title": "Digitizing Development \u2013 Teaching and Training Online",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC",
+    "sections": [
+      {
+        "crn": "74798",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 540",
+    "title": "Volunteer Management",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC",
+    "sections": [
+      {
+        "crn": "72261",
+        "status": "restricted",
+        "type": "Online",
+        "section": "XM",
+        "startTime": "17:30",
+        "endTime": "20:20",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 595",
+    "title": "Capstone Curriculum Project",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC",
+    "sections": [
+      {
+        "crn": "72262",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "20:20",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ALEC/595"
+      }
+    ]
+  }
+]

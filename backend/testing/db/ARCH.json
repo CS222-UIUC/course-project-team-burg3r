@@ -1,0 +1,1437 @@
+[
+  {
+    "courseCode": "ARCH 172",
+    "title": "Drawing and Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "67071",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "ARR Architecture Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/172"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "10337",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/199"
+      },
+      {
+        "crn": "67522",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "DAY",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "301 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 222",
+    "title": "Islamic Gardens & Architecture",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "73057"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73060"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73063"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73066"
+      },
+      {
+        "crn": "58986",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "DFR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/222"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74901"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 232",
+    "title": "Structural Fundamentals",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "67166",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/232"
+      },
+      {
+        "crn": "67165",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/232"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 274",
+    "title": "Representation",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "68735",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "111 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/274"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 314",
+    "title": "History of World Landscapes",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64531"
+      },
+      {
+        "need attention": "yes",
+        "crn": "64532"
+      },
+      {
+        "need attention": "yes",
+        "crn": "64533"
+      },
+      {
+        "need attention": "yes",
+        "crn": "64534"
+      },
+      {
+        "need attention": "yes",
+        "crn": "44251"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73593"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73594"
+      },
+      {
+        "crn": "64455",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 372",
+    "title": "Designing for Human Well-being",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "70934",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      },
+      {
+        "crn": "70134",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E0",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      },
+      {
+        "crn": "70135",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E1",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      },
+      {
+        "crn": "70136",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      },
+      {
+        "crn": "70137",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E3",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      },
+      {
+        "crn": "70138",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E4",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      },
+      {
+        "crn": "70139",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E5",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      },
+      {
+        "crn": "70140",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E6",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/372"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 400",
+    "title": "Senior Honors in Architecture",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "10340",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 401",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "10346",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/401"
+      },
+      {
+        "crn": "73539",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AGD",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/401"
+      },
+      {
+        "crn": "74031",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "HG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/401"
+      },
+      {
+        "crn": "72855",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LEC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/401"
+      },
+      {
+        "crn": "11985",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "VSR",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "102A Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 403",
+    "title": "Special Topics in Architectural History",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "74952",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "102A Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 407",
+    "title": "Rome: City of Visible History",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "51478",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 409",
+    "title": "Special Topics in Spanish Arch",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "61901",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 416",
+    "title": "The Architecture of the United States, c.1650 to Present",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "39951",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "M",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/416"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 435",
+    "title": "Structural Systems and Construction Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "70116",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/435"
+      },
+      {
+        "crn": "70117",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/435"
+      },
+      {
+        "crn": "70118",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/435"
+      },
+      {
+        "crn": "71285",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/435"
+      },
+      {
+        "crn": "70112",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/435"
+      },
+      {
+        "crn": "70546",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 468",
+    "title": "Overseas Architectural Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "61902",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/468"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 472",
+    "title": "Arch Des in Landscape & Cities",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "43798",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "T3",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "217 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/472"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 474",
+    "title": "Architectural Design and Making",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "71792",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71793",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "ARR Chicago IL",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71784",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E0",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71785",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E1",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71786",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71787",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E3",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71788",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E4",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71789",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E5",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71790",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E6",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      },
+      {
+        "crn": "71791",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "E7",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/474"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 482",
+    "title": "Drawing and Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "70401",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/482"
+      },
+      {
+        "crn": "70114",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "PLS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 484",
+    "title": "Representation",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "70115",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/484"
+      },
+      {
+        "crn": "70423",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "PLS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/484"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 490",
+    "title": "Special Topics in Contemporary Architecture",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "74960",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ACA",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 491",
+    "title": "Arch Professional Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "64214",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "M",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 499",
+    "title": "Off-Campus Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "61241",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "MUN",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 501",
+    "title": "Architectural Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "61894"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 510",
+    "title": "History of World Landscapes",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64526"
+      },
+      {
+        "crn": "64457",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 517",
+    "title": "Modern Architectural History, 1850-Present",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "67177",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:30",
+        "endTime": "11:20",
+        "day": "F",
+        "instructor": "102B Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/517"
+      },
+      {
+        "crn": "67178",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:30",
+        "endTime": "11:20",
+        "day": "F",
+        "instructor": "102A Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/517"
+      },
+      {
+        "crn": "67179",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:30",
+        "endTime": "11:20",
+        "day": "F",
+        "instructor": "301 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/517"
+      },
+      {
+        "crn": "67180",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:30",
+        "endTime": "12:20",
+        "day": "F",
+        "instructor": "301 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/517"
+      },
+      {
+        "crn": "67181",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "11:30",
+        "endTime": "12:20",
+        "day": "F",
+        "instructor": "102B Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/517"
+      },
+      {
+        "crn": "67182",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "11:30",
+        "endTime": "12:20",
+        "day": "F",
+        "instructor": "102A Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/517"
+      },
+      {
+        "crn": "67176",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 522",
+    "title": "Advanced Research in Environment, Architecture & Global Health",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "73452",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "GH",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "102A Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 537",
+    "title": "Environmental Control Systems II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "67057",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "F",
+        "instructor": "102A Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/537"
+      },
+      {
+        "crn": "67171",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "F",
+        "instructor": "102B Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/537"
+      },
+      {
+        "crn": "67172",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "F",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/537"
+      },
+      {
+        "crn": "67056",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/537"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 554",
+    "title": "Adv Steel Design",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "44155",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "301 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/554"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 556",
+    "title": "Advanced Structural Planning",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "30321",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "6E Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/556"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 571",
+    "title": "Design: Detail and Architectonics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "54639",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 572",
+    "title": "Design: Health and Well-being",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "53006",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E0",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/572"
+      },
+      {
+        "crn": "30293",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E1",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/572"
+      },
+      {
+        "crn": "30295",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 573",
+    "title": "Design: Technology and Performance",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "45249",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E1",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/573"
+      },
+      {
+        "crn": "54644",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/573"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 574",
+    "title": "Design: Architecture and Urban Design",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "54650",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E0",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/574"
+      },
+      {
+        "crn": "42929",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/574"
+      },
+      {
+        "crn": "42930",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E3",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/574"
+      },
+      {
+        "crn": "42931",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E4",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/574"
+      },
+      {
+        "crn": "42932",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E5",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/574"
+      },
+      {
+        "crn": "42933",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E6",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/574"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 575",
+    "title": "Integrative Architecture Design Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "72848",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E1",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/575"
+      },
+      {
+        "crn": "72851",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/575"
+      },
+      {
+        "crn": "75162",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E3",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 576",
+    "title": "Architectural Design Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "30327",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "CPD",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "102B Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/576"
+      },
+      {
+        "crn": "74927",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "PI4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/576"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 590",
+    "title": "Directed Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "54660",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/590"
+      },
+      {
+        "crn": "75422",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "YKY",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 591",
+    "title": "Special Problems in Architectural History and Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "61938",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/591"
+      },
+      {
+        "crn": "57098",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "HER",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "205 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 592",
+    "title": "Special Problems in Urbanism",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "74966",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "UM",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 593",
+    "title": "Special Problems in Detail and Fabrication",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "69216",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "539",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/593"
+      },
+      {
+        "crn": "75002",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "NYC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "205 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/593"
+      },
+      {
+        "crn": "47481",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "SGL",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 594",
+    "title": "Special Problems in Building Performance",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "74719",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "LCC",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "102A Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/594"
+      },
+      {
+        "crn": "46865",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "SIM",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "6E Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 595",
+    "title": "Spec Prob Struct Theory & Des",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "63530",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "IN",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/595"
+      },
+      {
+        "crn": "73442",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "MT",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "6E Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/595"
+      },
+      {
+        "crn": "53795",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TB",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "day": "TR",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 597",
+    "title": "Special Problems in Architectural Design",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "30346",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARCH 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH",
+    "sections": [
+      {
+        "crn": "10349",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARCH/599"
+      }
+    ]
+  }
+]

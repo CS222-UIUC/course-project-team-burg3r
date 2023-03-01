@@ -1,0 +1,480 @@
+[
+  {
+    "courseCode": "ABE 141",
+    "title": "ABE Principles: Biological",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "54768",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MGD",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/141"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 152",
+    "title": "Water in the Global Environment",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "73114",
+        "status": "restricted",
+        "type": "Online",
+        "section": "WGE",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/152"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "10141",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/199"
+      },
+      {
+        "crn": "68015",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 225",
+    "title": "ABE Principles: Bioenvironment",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "57090",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "242 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/225"
+      },
+      {
+        "crn": "57091",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "242 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/225"
+      },
+      {
+        "crn": "57089",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 226",
+    "title": "ABE Principles: Bioprocessing",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "57087",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "242 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/226"
+      },
+      {
+        "crn": "57088",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "242 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/226"
+      },
+      {
+        "crn": "57086",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/226"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 232",
+    "title": "Context in International Interventions",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "74481",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "APW",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/232"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 341",
+    "title": "Transport Processes in ABE",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74560"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 397",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "47262",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 398",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "74480",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 425",
+    "title": "Engrg Measurement Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "39995",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "248 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/425"
+      },
+      {
+        "crn": "56252",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "248 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/425"
+      },
+      {
+        "crn": "39997",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "272 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 452",
+    "title": "Engineering for Disaster Resilience",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "73989",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LR1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/452"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 456",
+    "title": "Land & Water Resources Engrg",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "29875"
+      },
+      {
+        "need attention": "yes",
+        "crn": "40185"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 457",
+    "title": "NPS Pollution Processes",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "51989",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RBH",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "272 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/457"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 458",
+    "title": "NPS Pollution Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "62504",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "MCC",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "220 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/458"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 469",
+    "title": "Industry-Linked Design Project",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "70549"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 483",
+    "title": "Engineering Properties of Food Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "74549",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "248 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 497",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "61168",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 498",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "10169",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/498"
+      },
+      {
+        "crn": "74543",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "242 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/498"
+      },
+      {
+        "crn": "69694",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "XW3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 526",
+    "title": "Autonomous Systems and Robots",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "72238",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GC",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/526"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 594",
+    "title": "Graduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "45390",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 597",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "10174",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "ABE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+    "sections": [
+      {
+        "crn": "10177",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/599"
+      }
+    ]
+  }
+]

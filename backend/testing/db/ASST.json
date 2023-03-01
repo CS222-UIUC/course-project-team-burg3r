@@ -1,0 +1,74 @@
+[
+  {
+    "courseCode": "ASST 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASST",
+    "sections": [
+      {
+        "crn": "10388",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASST/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASST 208",
+    "title": "Cultures & Literatures of South Asia",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASST",
+    "sections": [
+      {
+        "crn": "56949",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASST/208"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASST 390",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASST",
+    "sections": [
+      {
+        "crn": "10390",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASST/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASST 590",
+    "title": "Individual Study and Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ASST",
+    "sections": [
+      {
+        "crn": "10392",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ASST/590"
+      }
+    ]
+  }
+]

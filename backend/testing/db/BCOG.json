@@ -1,0 +1,38 @@
+[
+  {
+    "courseCode": "BCOG 200",
+    "title": "Introduction to Programming for the Brain and Cognitive Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BCOG",
+    "sections": [
+      {
+        "crn": "69412",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BCOG/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "BCOG 301",
+    "title": "Intelligence and the Brain",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BCOG",
+    "sections": [
+      {
+        "crn": "69283",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1432 Beckman Institute",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BCOG/301"
+      }
+    ]
+  }
+]

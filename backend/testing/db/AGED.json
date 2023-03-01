@@ -1,0 +1,92 @@
+[
+  {
+    "courseCode": "AGED 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGED",
+    "sections": [
+      {
+        "crn": "64704",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GAO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGED/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 250",
+    "title": "Observation and Program Analys",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGED",
+    "sections": [
+      {
+        "crn": "29883",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGED/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 410",
+    "title": "Grad Early Field Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGED",
+    "sections": [
+      {
+        "crn": "54212",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGED/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 420",
+    "title": "Curr Design & Instruction",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGED",
+    "sections": [
+      {
+        "crn": "52917",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGED/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 450",
+    "title": "Program Delivery and Eval",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGED",
+    "sections": [
+      {
+        "crn": "29888",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGED/450"
+      }
+    ]
+  }
+]

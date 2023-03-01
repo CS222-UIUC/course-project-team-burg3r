@@ -1,0 +1,295 @@
+[
+  {
+    "courseCode": "AFST 112",
+    "title": "History of Africa from 1800",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "71778",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/112"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "10130",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/199"
+      },
+      {
+        "crn": "45411",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "TAB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 232",
+    "title": "Elementary Swahili II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "63321"
+      },
+      {
+        "need attention": "yes",
+        "crn": "63323"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 242",
+    "title": "Elementary Wolof II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "30889",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/242"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 252",
+    "title": "Elementary Zulu II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "30934",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/252"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 406",
+    "title": "Topics Swahili Lang & Lit II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "45638",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 408",
+    "title": "Adv Topics Swahili Lang&Lit II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "56162",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/408"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 412",
+    "title": "Lang in African Culture & Soc",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "46205",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "1024 Foreign Languages Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 434",
+    "title": "Intermediate Swahili II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "39263"
+      },
+      {
+        "need attention": "yes",
+        "crn": "30977"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 436",
+    "title": "Advanced Swahili II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "39527",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/436"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 444",
+    "title": "Intermediate Wolof II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "30988",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/444"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 446",
+    "title": "Advanced Wolof II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "62851",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/446"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 490",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "69944",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 515",
+    "title": "Practicum in African Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "31025",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 550",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "10134",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFST 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFST",
+    "sections": [
+      {
+        "crn": "10137",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFST/599"
+      }
+    ]
+  }
+]

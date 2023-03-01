@@ -1,0 +1,740 @@
+[
+  {
+    "courseCode": "ARTS 205",
+    "title": "Introduction to Printmaking",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "68885",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "7 Noble Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 210",
+    "title": "Ceramics Sculpture I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "39795",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "123 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/210"
+      },
+      {
+        "crn": "30375",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "U1",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "89 Allen Residence Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 220",
+    "title": "Introduction to Fashion",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "72035",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 221",
+    "title": "Fashion Illustration",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "72034"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 241",
+    "title": "Image Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "68892",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "229 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/241"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 243",
+    "title": "Time Arts I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "68893",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "224 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/243"
+      },
+      {
+        "crn": "68894",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "224 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/243"
+      },
+      {
+        "crn": "69013",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "3",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "228 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/243"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 244",
+    "title": "Interaction I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "68895",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "229 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/244"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 250",
+    "title": "Life Drawing",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "46765",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "M1",
+        "startTime": "16:00",
+        "endTime": "18:40",
+        "day": "MW",
+        "instructor": "219 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/250"
+      },
+      {
+        "crn": "46766",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "M2",
+        "startTime": "17:00",
+        "endTime": "19:40",
+        "day": "TR",
+        "instructor": "219 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 251",
+    "title": "Beginning Painting",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "68886",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "330 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 252",
+    "title": "Making and Meaning",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "46767",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "T1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "315 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/252"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 264",
+    "title": "Basic Photography",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "71980",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "340 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/264"
+      },
+      {
+        "crn": "71984",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "340 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/264"
+      },
+      {
+        "crn": "71985",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "3",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "340 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/264"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 265",
+    "title": "Photography II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "71990",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "340 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/265"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 266",
+    "title": "View Camera",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "74482",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "316 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/266"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 267",
+    "title": "Digital Photographic Output",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "71991",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "16:00",
+        "endTime": "18:40",
+        "day": "MW",
+        "instructor": "228 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/267"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 280",
+    "title": "Beginning Sculpture",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "68891",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "40 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/280"
+      },
+      {
+        "crn": "30760",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "40 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 299",
+    "title": "Special Topics in Studio Art",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "53716",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AD2",
+        "startTime": "17:00",
+        "endTime": "19:40",
+        "day": "TR",
+        "instructor": "316 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/299"
+      },
+      {
+        "crn": "46876",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "PA1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "330 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 321",
+    "title": "Sustainable Fashion Development and Branding",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "72040",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "315 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 351",
+    "title": "Intermediate Studio II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "46821",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "UG",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "50 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/351"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 354",
+    "title": "Intermediate Painting",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "69017",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "330 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/354"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 365",
+    "title": "Photography Workshop",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "71995",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/365"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 391",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "10362",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 392",
+    "title": "Current Art Issues Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "30723",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "T6",
+        "startTime": "17:00",
+        "endTime": "19:40",
+        "day": "R",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/392"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 405",
+    "title": "Special Topics in Printmaking",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "67434",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "7 Noble Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/405"
+      },
+      {
+        "crn": "67435",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "U",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "7 Noble Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 420",
+    "title": "Making Fashion: Apparel Design in Context",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "72041",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "315 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 443",
+    "title": "Time Arts II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "30355",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "T7U",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "224 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/443"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 445",
+    "title": "Special Topics in New Media",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "58727",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "GR2",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/445"
+      },
+      {
+        "crn": "58726",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "UG2",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 451",
+    "title": "Advanced Studio II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "46823",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "M9A",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MWF",
+        "instructor": "128 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 455",
+    "title": "Advanced Painting",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "52672"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 461",
+    "title": "Advanced Photography",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "71997",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "128 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 490",
+    "title": "Senior Honors",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "10360",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 499",
+    "title": "Special Topics in Studio Art",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "47325",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "RGG",
+        "startTime": "17:00",
+        "endTime": "19:40",
+        "day": "T",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/499"
+      },
+      {
+        "crn": "46779",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "RGU",
+        "startTime": "17:00",
+        "endTime": "19:40",
+        "day": "T",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 591",
+    "title": "Graduate Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "13017",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "0060 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/591"
+      },
+      {
+        "crn": "10363",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/591"
+      },
+      {
+        "need attention": "yes",
+        "crn": "12948"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTS 595",
+    "title": "Graduate Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS",
+    "sections": [
+      {
+        "crn": "10364",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/595"
+      },
+      {
+        "crn": "13319",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "CB",
+        "startTime": "09:00",
+        "endTime": "12:00",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/595"
+      },
+      {
+        "crn": "44470",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "KDH",
+        "startTime": "09:00",
+        "endTime": "12:00",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTS/595"
+      }
+    ]
+  }
+]

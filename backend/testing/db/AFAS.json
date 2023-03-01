@@ -1,0 +1,118 @@
+[
+  {
+    "courseCode": "AFAS 102",
+    "title": "Leadership Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30772"
+      },
+      {
+        "crn": "30775",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "Z",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFAS 112",
+    "title": "Heritage and Values of the United States Air Force II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS",
+    "sections": [
+      {
+        "crn": "30780",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "325 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS/112"
+      },
+      {
+        "crn": "30781",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "O",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "325 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS/112"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFAS 222",
+    "title": "Team and Leadership Fundamentals II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS",
+    "sections": [
+      {
+        "crn": "41653",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "325 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS/222"
+      },
+      {
+        "crn": "30784",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "325 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFAS 332",
+    "title": "Leading People and Effective Communication II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS",
+    "sections": [
+      {
+        "crn": "30788",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "W",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS/332"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFAS 342",
+    "title": "Nat Sec Afrs/Prep Actv Duty II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS",
+    "sections": [
+      {
+        "crn": "30795",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Y",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AFAS/342"
+      }
+    ]
+  }
+]

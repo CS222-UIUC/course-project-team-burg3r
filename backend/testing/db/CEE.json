@@ -1,0 +1,2200 @@
+[
+  {
+    "courseCode": "CEE 201",
+    "title": "Systems Engrg & Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31707",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NP",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 202",
+    "title": "Engineering Risk & Uncertainty",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31708",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 300",
+    "title": "Behavior of Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "36257",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      },
+      {
+        "crn": "36258",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      },
+      {
+        "crn": "36259",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      },
+      {
+        "crn": "36260",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      },
+      {
+        "crn": "39839",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      },
+      {
+        "crn": "53044",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      },
+      {
+        "crn": "54749",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      },
+      {
+        "crn": "36261",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 310",
+    "title": "Transportation Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31699",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 320",
+    "title": "Construction Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31698",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LM",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 330",
+    "title": "Environmental Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31700",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PQ",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 350",
+    "title": "Water Resources Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31701",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 360",
+    "title": "Structural Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31702",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 380",
+    "title": "Geotechnical Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "41439",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 398",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "63170",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "REU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 410",
+    "title": "Railway Signaling & Control",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "71006",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/410"
+      },
+      {
+        "crn": "60842",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/410"
+      },
+      {
+        "crn": "51457",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RO3",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "2312 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/410"
+      },
+      {
+        "crn": "52965",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RO4",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "2312 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 411",
+    "title": "RR Project Design & Constr",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "71007",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/411"
+      },
+      {
+        "crn": "57664",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/411"
+      },
+      {
+        "crn": "56997",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RR3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/411"
+      },
+      {
+        "crn": "56998",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RR4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 415",
+    "title": "Geometric Design of Roads",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "60850",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/415"
+      },
+      {
+        "crn": "31716",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TW",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 418",
+    "title": "Public Transportation Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "68213",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/418"
+      },
+      {
+        "crn": "64160",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/418"
+      },
+      {
+        "crn": "63803",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PT3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/418"
+      },
+      {
+        "crn": "63804",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PT4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 419",
+    "title": "Transportation Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "75143",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/419"
+      },
+      {
+        "crn": "75142",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TE",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/419"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 420",
+    "title": "Construction Productivity",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "39554",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/420"
+      },
+      {
+        "crn": "39555",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/420"
+      },
+      {
+        "crn": "68027",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/420"
+      },
+      {
+        "crn": "57665",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 433",
+    "title": "Water Technology and Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "69565",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/433"
+      },
+      {
+        "crn": "69323",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/433"
+      },
+      {
+        "crn": "67374",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SW3",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/433"
+      },
+      {
+        "crn": "67390",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SW4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 437",
+    "title": "Water Quality Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31720",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/437"
+      },
+      {
+        "crn": "65756",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/437"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 438",
+    "title": "Science & Environmental Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "63664",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3019 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/438"
+      },
+      {
+        "crn": "73475",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/438"
+      },
+      {
+        "crn": "73343",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/438"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 440",
+    "title": "Fate Cleanup Environ Pollutant",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31718",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NP",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/440"
+      },
+      {
+        "crn": "69549",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/440"
+      },
+      {
+        "crn": "45291",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 447",
+    "title": "Atmospheric Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31724",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "2312 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/447"
+      },
+      {
+        "crn": "75174",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "2312 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/447"
+      },
+      {
+        "crn": "73379",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "ONL",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 449",
+    "title": "Environmental Engineering Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "31717"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 452",
+    "title": "Hydraulic Analysis and Design",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31727",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/452"
+      },
+      {
+        "crn": "70861",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/452"
+      },
+      {
+        "crn": "69614",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/452"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 453",
+    "title": "Urban Hydrology and Hydraulics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "44664",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/453"
+      },
+      {
+        "crn": "31728",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TW",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 459",
+    "title": "Ecohydraulics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "74991",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EH",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/459"
+      },
+      {
+        "crn": "75356",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/459"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 460",
+    "title": "Steel Structures I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31703",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LM",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 461",
+    "title": "Reinforced Concrete I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31704",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NP",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 462",
+    "title": "Steel Structures II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "62000",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/462"
+      },
+      {
+        "crn": "62001",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/462"
+      },
+      {
+        "crn": "68031",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/462"
+      },
+      {
+        "crn": "62439",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 465",
+    "title": "Design of Structural Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TW3",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/465"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 468",
+    "title": "Prestressed Concrete",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31732",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LM3",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/468"
+      },
+      {
+        "crn": "40087",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LM4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/468"
+      },
+      {
+        "crn": "75196",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/468"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 470",
+    "title": "Structural Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "68033",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/470"
+      },
+      {
+        "crn": "60847",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/470"
+      },
+      {
+        "crn": "31729",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RS",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 483",
+    "title": "Soil Mechanics and Behavior",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31734",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/483"
+      },
+      {
+        "crn": "31735",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/483"
+      },
+      {
+        "crn": "31736",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/483"
+      },
+      {
+        "crn": "73259",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "OB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/483"
+      },
+      {
+        "crn": "73261",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 484",
+    "title": "Applied Soil Mechanics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31737",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/484"
+      },
+      {
+        "crn": "74941",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/484"
+      },
+      {
+        "crn": "65757",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/484"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 490",
+    "title": "Computer Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "73039",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/490"
+      },
+      {
+        "crn": "73040",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/490"
+      },
+      {
+        "crn": "73262",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 495",
+    "title": "Professional Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "65703",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "H",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "1017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 497",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "10474",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 498",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "58740",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "58741",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "70794",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CSC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "59522",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "need attention": "yes",
+        "crn": "41466"
+      },
+      {
+        "crn": "60843",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ISO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "50877",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MLC",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "59147",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MLO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "49381",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MOC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "44733",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MPG",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      },
+      {
+        "crn": "59028",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MPO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 502",
+    "title": "Advanced Cement Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "53026",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3019 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/502"
+      },
+      {
+        "crn": "73346",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 506",
+    "title": "Pavement Design II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31744",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/506"
+      },
+      {
+        "crn": "59242",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/506"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 509",
+    "title": "Transportation Soils",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "52666",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NP",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/509"
+      },
+      {
+        "crn": "65558",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/509"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 517",
+    "title": "Traffic Signal Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "54742",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/517"
+      },
+      {
+        "crn": "62642",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 522",
+    "title": "Visual Data Analytics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "74729",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DA",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/522"
+      },
+      {
+        "crn": "74730",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 528",
+    "title": "Construction Data Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "73580",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/528"
+      },
+      {
+        "crn": "73263",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/528"
+      },
+      {
+        "crn": "50048",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RS",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/528"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 537",
+    "title": "Water Quality Control Proc I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "69231",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LM",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "2312 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/537"
+      },
+      {
+        "crn": "69327",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/537"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 538",
+    "title": "Water Quality Control Proc II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31746",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/538"
+      },
+      {
+        "crn": "65760",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/538"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 544",
+    "title": "Advanced Surface Science",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "74732",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/544"
+      },
+      {
+        "crn": "66062",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RE",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/544"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 552",
+    "title": "River Basin Management",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "53125",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LM",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/552"
+      },
+      {
+        "crn": "73265",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/552"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 553",
+    "title": "River Morphodynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "58731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "TR",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/553"
+      },
+      {
+        "crn": "73266",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/553"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 559",
+    "title": "Sediment Transport",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "70507",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MG",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/559"
+      },
+      {
+        "crn": "75051",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 570",
+    "title": "Finite Element Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31749",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/570"
+      },
+      {
+        "crn": "60854",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/570"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 571",
+    "title": "Computational Plates & Shells",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "70508",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CD",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "2312 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/571"
+      },
+      {
+        "crn": "70927",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 572",
+    "title": "Earthquake Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "46693",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NP",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/572"
+      },
+      {
+        "crn": "57670",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 573",
+    "title": "Structural Dynamics II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "51043",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/573"
+      },
+      {
+        "crn": "57671",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/573"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 577",
+    "title": "Computational Inelasticity",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "57012",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3019 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/577"
+      },
+      {
+        "crn": "74737",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/577"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 583",
+    "title": "Shear Strength of Soils",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "39561",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/583"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 585",
+    "title": "Deep Foundations",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "69233",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/585"
+      },
+      {
+        "crn": "69303",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/585"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 589",
+    "title": "Computational Geomechanics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "48288",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LM",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/589"
+      },
+      {
+        "crn": "57733",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/589"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 591",
+    "title": "Reliability Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "73043",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/591"
+      },
+      {
+        "crn": "73275",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 592",
+    "title": "Sustainable Urban Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "61987",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/592"
+      },
+      {
+        "crn": "62641",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 595",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31753",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "AG",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "60515",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "EWS",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "31755",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "F",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "31756",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "G",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "55645",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "MA",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "31757",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "S",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "M",
+        "instructor": "1310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "60516",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "SRM",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "58379",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "SRS",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "31754",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "T",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      },
+      {
+        "crn": "31758",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "W",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 597",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "10476",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "31761",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ET",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      },
+      {
+        "crn": "57673",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ETO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      },
+      {
+        "crn": "31759",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PIM",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      },
+      {
+        "crn": "57676",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PIO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      },
+      {
+        "crn": "59655",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RVD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      },
+      {
+        "crn": "41685",
+        "status": "restricted",
+        "type": "Online",
+        "section": "RVO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      },
+      {
+        "crn": "46695",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TB",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "day": "TR",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      },
+      {
+        "crn": "50283",
+        "status": "restricted",
+        "type": "Online",
+        "section": "TBO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "CEE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CEE",
+    "sections": [
+      {
+        "crn": "10478",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CEE/599"
+      }
+    ]
+  }
+]

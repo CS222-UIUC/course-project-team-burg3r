@@ -1,0 +1,4105 @@
+[
+  {
+    "courseCode": "CHEM 101",
+    "title": "Introductory Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "59948"
+      },
+      {
+        "need attention": "yes",
+        "crn": "59951"
+      },
+      {
+        "need attention": "yes",
+        "crn": "59953"
+      },
+      {
+        "need attention": "yes",
+        "crn": "59954"
+      },
+      {
+        "need attention": "yes",
+        "crn": "59955"
+      },
+      {
+        "need attention": "yes",
+        "crn": "59956"
+      },
+      {
+        "need attention": "yes",
+        "crn": "59957"
+      },
+      {
+        "crn": "59958",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 102",
+    "title": "General Chemistry I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32172",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32134",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32143",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32146",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32149",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32151",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32153",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32157",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQH",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "301 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32162",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQJ",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "301 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32167",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQK",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "140 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32165",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQL",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32176",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQN",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "68022",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQO",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "44402",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQP",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46568",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46573",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "301 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46574",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46575",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ6",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "WF",
+        "instructor": "301 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32182",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQD",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32183",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQE",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32186",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQF",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32188",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQG",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32198",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQH",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32201",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQI",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32203",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQJ",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "WF",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47927",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQL",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "49037",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQM",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "64044",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQN",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47915",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47916",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47917",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47918",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47919",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47920",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47921",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47923",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ8",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47924",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ9",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47925",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQA",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "47926",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQB",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32169",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQF",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "300A Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46580",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQG",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "300A Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "69497",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQH",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "300A Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "44403",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQI",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "300A Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32179",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46576",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46577",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46578",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "46579",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "39081",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      },
+      {
+        "crn": "32204",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "EQ1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 103",
+    "title": "General Chemistry Lab I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "68533",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LEC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32343",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R14",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32344",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R15",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32345",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R16",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32346",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R17",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32347",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R18",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32348",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R19",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65645",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R20",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32355",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R22",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32356",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R23",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32357",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R24",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32358",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R25",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32359",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R26",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32360",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R27",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32361",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R28",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32362",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R29",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65647",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R32",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65648",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R33",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65649",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R34",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65650",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R35",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32363",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R36",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65651",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R37",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32365",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R38",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65652",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R39",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32370",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R40",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32369",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R42",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "65653",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R43",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32371",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R44",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "35065",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R45",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "39101",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R46",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "39114",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R47",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "44405",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R48",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "44406",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R49",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "44417",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R52",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "44419",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R53",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "44420",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R54",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "44421",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R55",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32352",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R56",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "1006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      },
+      {
+        "crn": "32367",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R57",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "1007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 104",
+    "title": "General Chemistry II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32231",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32222",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQ6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32224",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQ7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32226",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQ8",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "56578",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQ9",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "56579",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQA",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "56582",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "56583",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "56584",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "300 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32241",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQH",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "300A Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32256",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQI",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "300A Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32261",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32228",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32236",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32243",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32245",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32251",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ8",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32252",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQ9",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32254",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQA",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32258",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "39107",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "39108",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "43149",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "49038",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "57569",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQI",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "57571",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "BQJ",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32305",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32298",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32303",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ6",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32306",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ7",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32307",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ8",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32310",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQ9",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32311",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQA",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32313",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQB",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32314",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32316",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32318",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32320",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32321",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "303 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "57570",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQH",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "57568",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "CQI",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32309",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32324",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "32326",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "44422",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "51039",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ6",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "39109",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "39110",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQ8",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "43151",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "49039",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "41121",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "56575",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "204 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "57572",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQH",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      },
+      {
+        "crn": "57573",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "DQI",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 105",
+    "title": "General Chemistry Lab II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "68534",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LEC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32372",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X14",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32373",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X15",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32375",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X16",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32377",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X17",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32378",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X18",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32379",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X19",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32381",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X20",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32382",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X21",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32383",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X22",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32384",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X23",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32385",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X24",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32386",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X25",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32387",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X26",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32388",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X27",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32389",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X28",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32390",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X29",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32391",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X32",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32392",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X33",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32393",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X34",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32394",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X35",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32396",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X36",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32397",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X37",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32417",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X38",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32419",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X39",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32425",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X40",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32428",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X42",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32430",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X43",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32432",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X44",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32439",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X45",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32440",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X46",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32441",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X47",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32442",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X48",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32443",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X49",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "32444",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X50",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "39117",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X52",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "39118",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X53",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "43152",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X54",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "43154",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X55",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "43156",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X56",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "2006 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      },
+      {
+        "crn": "43157",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "X57",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "2007 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/105"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 108",
+    "title": "Chemistry, Everyday Phenomena",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "39201",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/108"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 197",
+    "title": "Individual Study Freshman",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "53498",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/197"
+      },
+      {
+        "crn": "71383",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "NJ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/197"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "69594",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DG2",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "64045",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DGS",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "55609",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "F",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "300A Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "41974",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "K",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "67693",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "67694",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "67695",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M3",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "209 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "67696",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M4",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "67698",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M5",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "67699",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M6",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "67700",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M7",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "32559",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      },
+      {
+        "crn": "55606",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "SG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "304 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 204",
+    "title": "Accelerated Chemistry II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32457",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      },
+      {
+        "crn": "71933",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      },
+      {
+        "crn": "71934",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      },
+      {
+        "crn": "71935",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      },
+      {
+        "crn": "71961",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      },
+      {
+        "crn": "71938",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQI",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      },
+      {
+        "crn": "71939",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQL",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      },
+      {
+        "crn": "71941",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQP",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "152 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/204"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 205",
+    "title": "Accelerated Chemistry Lab II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32544",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3026 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      },
+      {
+        "crn": "32551",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "3026 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      },
+      {
+        "crn": "39125",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "3026 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      },
+      {
+        "crn": "44424",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "3026 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      },
+      {
+        "crn": "54353",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "3026 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      },
+      {
+        "crn": "32545",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      },
+      {
+        "crn": "32542",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "3026 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      },
+      {
+        "crn": "32549",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 232",
+    "title": "Elementary Organic Chemistry I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "53070",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "63826",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65654",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65655",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65656",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65657",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65658",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65659",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65660",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65661",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQH",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65662",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQI",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65663",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQJ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65664",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQK",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65665",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQL",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65666",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65667",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQN",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65668",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQO",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "65669",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQP",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "2012 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "73515",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQQ",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "73516",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQR",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "203 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "39183",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "53073",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "CQ",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      },
+      {
+        "crn": "55787",
+        "status": "restricted",
+        "type": "Online",
+        "section": "EL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/232"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 233",
+    "title": "Elementary Organic Chem Lab I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32580",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "255 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32583",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "256 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32587",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "257 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32590",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32592",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "255 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32595",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "256 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32597",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "257 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "47658",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "262 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "44520",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "255 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62107",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "256 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62108",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "257 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62109",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "262 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62110",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "256 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62111",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "257 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62112",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABF",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "256 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62113",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABG",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "257 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62114",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABH",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "255 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62115",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABI",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "256 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62116",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABJ",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "257 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62117",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABK",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "262 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62118",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABL",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "255 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62119",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABM",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "256 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62120",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABN",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "257 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "62121",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABO",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "262 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32573",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      },
+      {
+        "crn": "32576",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "R",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/233"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 236",
+    "title": "Fundamental Organic Chem I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32605",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/236"
+      },
+      {
+        "crn": "32607",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "T",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/236"
+      },
+      {
+        "crn": "32600",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "217 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/236"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 237",
+    "title": "Structure and Synthesis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32618",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "263 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/237"
+      },
+      {
+        "crn": "32622",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "263 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/237"
+      },
+      {
+        "crn": "32616",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "263 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/237"
+      },
+      {
+        "crn": "32612",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "day": "T",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/237"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 293",
+    "title": "Cooperative Education Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32568",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/293"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 295",
+    "title": "Chemistry Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32572",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/295"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 297",
+    "title": "Individual Study Sophomore",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "53499",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/297"
+      },
+      {
+        "crn": "69704",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "SN",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/297"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 312",
+    "title": "Inorganic Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32624",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/312"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 315",
+    "title": "Instrumental Chem Systems Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32634",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "463 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/315"
+      },
+      {
+        "crn": "32635",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "463 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/315"
+      },
+      {
+        "crn": "53505",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "463 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/315"
+      },
+      {
+        "crn": "54351",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "463 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/315"
+      },
+      {
+        "crn": "59603",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABF",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "463 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/315"
+      },
+      {
+        "crn": "59604",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABG",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "463 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/315"
+      },
+      {
+        "crn": "32638",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/315"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 332",
+    "title": "Elementary Organic Chem II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "60621",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "17:30",
+        "endTime": "18:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "63781",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AQ1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "63782",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AQ2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "63784",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AQ3",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "64047",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AQ4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "60622",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "63785",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BQ1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "63786",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BQ2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "63787",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BQ3",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "163 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      },
+      {
+        "crn": "64048",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BQ4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/332"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 360",
+    "title": "Chemistry of the Environment",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "59243",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 397",
+    "title": "Individual Study Junior",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "53500",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 420",
+    "title": "Instrumental Characterization",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32639",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 436",
+    "title": "Fundamental Organic Chem II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32672",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/436"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 437",
+    "title": "Organic Chemistry Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32675",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "263 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/437"
+      },
+      {
+        "crn": "32678",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "263 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/437"
+      },
+      {
+        "crn": "32673",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALA",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/437"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 440",
+    "title": "Physical Chemistry Principles",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "70046",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "245 Altgeld Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 442",
+    "title": "Physical Chemistry I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32679",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/442"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 444",
+    "title": "Physical Chemistry II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32681",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/444"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 445",
+    "title": "Physical Principles Lab I",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32735",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "462 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/445"
+      },
+      {
+        "crn": "32733",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "462 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/445"
+      },
+      {
+        "crn": "32734",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQ1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 447",
+    "title": "Physical Principles Lab II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32736",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "462 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/447"
+      },
+      {
+        "crn": "41589",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "462 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/447"
+      },
+      {
+        "crn": "32737",
+        "status": "restricted",
+        "type": "Quiz",
+        "section": "AQ1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 472",
+    "title": "Physical Biochemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "31669",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/472"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 474",
+    "title": "Drug Discovery & Development",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "64931",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/474"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 482",
+    "title": "Polymer Physics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "38262",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/482"
+      },
+      {
+        "crn": "38263",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 483",
+    "title": "Solid State Structural Anlys",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "32739"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 492",
+    "title": "Special Topics in Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "58422",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "PMT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/492"
+      },
+      {
+        "crn": "66459",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "STA",
+        "startTime": "18:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 494",
+    "title": "Lab Safety Fundamentals",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "69239",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "MW",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 497",
+    "title": "Individual Study Senior",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "53501",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 499",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "10508",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 515",
+    "title": "Inorganic Chemistry Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32746",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 516",
+    "title": "Physical Inorganic Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32747",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/516"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 524",
+    "title": "Electrochemical Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32749",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/524"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 525",
+    "title": "Analytical Chemistry Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32750",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "F",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/525"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 530",
+    "title": "Structure and Spectroscopy",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "43148",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/530"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 535",
+    "title": "Organic Chemistry Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "32752"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 538",
+    "title": "Topics in Organic Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "45816",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/538"
+      },
+      {
+        "crn": "43147",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/538"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 542",
+    "title": "Quantum Mech and Spectroscopy",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32738",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MWF",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 545",
+    "title": "Physical Chemistry Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "32754"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 548",
+    "title": "Molecular Electronic Structure",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32755",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/548"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 575",
+    "title": "Chemical Biology Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "32760",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "217 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 585",
+    "title": "Materials Chemistry Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "39853",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/585"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 588",
+    "title": "Physical Methods Mat Chem",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "43049",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 590",
+    "title": "Special Topics in Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "10512",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 593",
+    "title": "Advanced Professional Development for Chemists",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "71947",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "M",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHEM 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM",
+    "sections": [
+      {
+        "crn": "10514",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CHEM/599"
+      }
+    ]
+  }
+]

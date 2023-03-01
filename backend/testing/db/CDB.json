@@ -1,0 +1,67 @@
+[
+  {
+    "courseCode": "CDB 590",
+    "title": "Individual Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CDB",
+    "sections": [
+      {
+        "crn": "44921",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CDB/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "CDB 595",
+    "title": "Graduate Sem Cell Devel Biol",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CDB",
+    "sections": [
+      {
+        "crn": "44945",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "B102 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CDB/595"
+      },
+      {
+        "crn": "44947",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "C",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "B102 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CDB/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "CDB 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CDB",
+    "sections": [
+      {
+        "crn": "44922",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CDB/599"
+      }
+    ]
+  }
+]

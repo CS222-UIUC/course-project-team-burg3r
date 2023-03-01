@@ -1,0 +1,74 @@
+[
+  {
+    "courseCode": "BCS 102",
+    "title": "First Year Bosnian-Croatian-Serbian II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BCS",
+    "sections": [
+      {
+        "crn": "61651",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BCS/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "BCS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BCS",
+    "sections": [
+      {
+        "crn": "61653",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BCS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "BCS 202",
+    "title": "Second Year Bosnian-Croatian-Serbian II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BCS",
+    "sections": [
+      {
+        "crn": "61655",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "1140 Foreign Languages Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BCS/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "BCS 302",
+    "title": "Third Year Bosnian-Croatian-Serbian II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BCS",
+    "sections": [
+      {
+        "crn": "61657",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1140 Foreign Languages Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BCS/302"
+      }
+    ]
+  }
+]

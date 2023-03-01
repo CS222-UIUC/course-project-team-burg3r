@@ -1,0 +1,85 @@
+[
+  {
+    "courseCode": "AGCM 220",
+    "title": "Communicating Agriculture",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM",
+    "sections": [
+      {
+        "crn": "52697",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM/220"
+      },
+      {
+        "crn": "73165",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGCM 310",
+    "title": "Investigating Agricultural Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM",
+    "sections": [
+      {
+        "crn": "74782",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGCM 398",
+    "title": "Undergraduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM",
+    "sections": [
+      {
+        "crn": "55680",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "393 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGCM 420",
+    "title": "Public Information Campaigns",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM",
+    "sections": [
+      {
+        "crn": "74731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/AGCM/420"
+      }
+    ]
+  }
+]

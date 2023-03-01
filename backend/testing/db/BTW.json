@@ -1,0 +1,454 @@
+[
+  {
+    "courseCode": "BTW 250",
+    "title": "Principles Bus Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "31488",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "69 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31492",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31537",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "65192",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "36 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "46085",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31513",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "MW",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31499",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F2",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "MW",
+        "instructor": "149 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "65194",
+        "status": "restricted",
+        "type": "Online",
+        "section": "F3",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31519",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "36 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "51862",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G3",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31523",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "51860",
+        "status": "restricted",
+        "type": "Online",
+        "section": "M3",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31526",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "70301",
+        "status": "restricted",
+        "type": "Online",
+        "section": "P2",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31490",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P3",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "36 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31530",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q1",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "36 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "70962",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q4",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "G23 Foreign Languages Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31535",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S1",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "44 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "46086",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S2",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "36 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31522",
+        "status": "restricted",
+        "type": "Online",
+        "section": "S4",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31485",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T1",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "70298",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T3",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "G7 Foreign Languages Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31507",
+        "status": "restricted",
+        "type": "Online",
+        "section": "T4",
+        "startTime": "18:30",
+        "endTime": "19:45",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "46082",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "69 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31528",
+        "status": "restricted",
+        "type": "Online",
+        "section": "X4",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "31534",
+        "status": "restricted",
+        "type": "Online",
+        "section": "Z1",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      },
+      {
+        "crn": "44318",
+        "status": "restricted",
+        "type": "Online",
+        "section": "Z2",
+        "startTime": "18:30",
+        "endTime": "19:45",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "BTW 261",
+    "title": "Principles Tech Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "31541",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/261"
+      },
+      {
+        "crn": "31553",
+        "status": "restricted",
+        "type": "Online",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/261"
+      }
+    ]
+  },
+  {
+    "courseCode": "BTW 263",
+    "title": "Writing in the Disciplines",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "40319",
+        "status": "restricted",
+        "type": "Online",
+        "section": "Z2",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/263"
+      }
+    ]
+  },
+  {
+    "courseCode": "BTW 271",
+    "title": "Persuasive Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "31557",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "304 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/271"
+      }
+    ]
+  },
+  {
+    "courseCode": "BTW 280",
+    "title": "Global Business Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "71811",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "BTW 285",
+    "title": "Writing a Web Presence",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "74691",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Z1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "44 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/285"
+      }
+    ]
+  },
+  {
+    "courseCode": "BTW 290",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "10407",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "BTW 402",
+    "title": "Descriptive English Grammar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BTW",
+    "sections": [
+      {
+        "crn": "32126",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "154 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/402"
+      },
+      {
+        "crn": "32125",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "154 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BTW/402"
+      }
+    ]
+  }
+]

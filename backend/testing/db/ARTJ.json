@@ -1,0 +1,139 @@
+[
+  {
+    "courseCode": "ARTJ 101",
+    "title": "Introduction to Japanese Aesthetics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ",
+    "sections": [
+      {
+        "crn": "73184",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "W",
+        "instructor": "ARR Japan House",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 209",
+    "title": "Chado (The Way of Tea)",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ",
+    "sections": [
+      {
+        "crn": "72436",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/209"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 299",
+    "title": "Seminar in Japanese Aesthetics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ",
+    "sections": [
+      {
+        "crn": "72559",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/299"
+      },
+      {
+        "crn": "72326",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "2",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 302",
+    "title": "Intro to Japanese Animation",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ",
+    "sections": [
+      {
+        "crn": "72327",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/302"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 391",
+    "title": "Independent Study in Japanese Aesthetics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ",
+    "sections": [
+      {
+        "crn": "73836",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 397",
+    "title": "Zen, Tea, and Power",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ",
+    "sections": [
+      {
+        "crn": "73171",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 398",
+    "title": "Designing Everyday Life in Modern Japan",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ",
+    "sections": [
+      {
+        "crn": "73172",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "1",
+        "startTime": "16:00",
+        "endTime": "18:40",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/ARTJ/398"
+      }
+    ]
+  }
+]

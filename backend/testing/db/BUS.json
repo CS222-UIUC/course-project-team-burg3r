@@ -1,0 +1,344 @@
+[
+  {
+    "courseCode": "BUS 116",
+    "title": "Intercultural Learning in Business",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "71794",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HON",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/116"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "51518",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "BRZ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/199"
+      },
+      {
+        "crn": "69305",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/199"
+      },
+      {
+        "crn": "64345",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "PNM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/199"
+      },
+      {
+        "crn": "54565",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "SPA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 201",
+    "title": "Business Dynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "68640",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      },
+      {
+        "crn": "68641",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      },
+      {
+        "crn": "70067",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      },
+      {
+        "crn": "70068",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      },
+      {
+        "crn": "70069",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      },
+      {
+        "crn": "70070",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      },
+      {
+        "crn": "70072",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      },
+      {
+        "crn": "70073",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 299",
+    "title": "BUS Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "47914",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 301",
+    "title": "Business in Action",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "71727",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "L",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/301"
+      },
+      {
+        "crn": "71728",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/301"
+      },
+      {
+        "crn": "71729",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/301"
+      },
+      {
+        "crn": "71731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/301"
+      },
+      {
+        "crn": "71732",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/301"
+      },
+      {
+        "crn": "71733",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/301"
+      },
+      {
+        "crn": "74264",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 302",
+    "title": "Principles of Professional Responsibility",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "67692",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/302"
+      },
+      {
+        "crn": "70521",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/302"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 399",
+    "title": "Business Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "54757",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "IP2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 401",
+    "title": "Global Business Perspectives",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/BUS",
+    "sections": [
+      {
+        "crn": "70160",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/401"
+      },
+      {
+        "crn": "70161",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/BUS/401"
+      }
+    ]
+  }
+]
