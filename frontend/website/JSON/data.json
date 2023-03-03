@@ -1,0 +1,24 @@
+[
+    {
+        "startTimeHour": 11,
+        "startAM": true,
+        "startTimeMinute": 35,
+        "endTimeHour": 1,
+        "endAM": false,
+        "endTimeMinute": 0,
+        "className": "CS128",
+        "firstName": "Joe",
+        "lastName": "Bones"
+    },
+    {
+        "startTimeHour": 7,
+        "startAM": true,
+        "startTimeMinute": 3,
+        "endTimeHour": 1,
+        "endAM": false,
+        "endTimeMinute": 0,
+        "className": "CS222",
+        "firstName": "Craig",
+        "lastName": "Ondevilla"
+    }
+]
