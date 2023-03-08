@@ -1,6 +1,9 @@
 #include "course.h"
 
-Course::Course(string course_name, vector<pair<string, vector<tuple<string, string, string>>>> sections) {
+Course::Course(string course_name) {
     course_name_ = course_name;
-    sections_ = sections;
+}
+
+void Course::addSection(Section section) {
+    sections_.push_back(section);
 }

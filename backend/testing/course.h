@@ -5,6 +5,8 @@
 #include <utility>
 #include <string>
 
+#include "section.h"
+
 using namespace std;
 
 class Course {
@@ -13,7 +15,9 @@ class Course {
 		/**
 		 * Constructor that takes in the name and sections
 		 */
-		Course(string course_name, vector<pair<string, vector<tuple<string, string, string>>>> sections);
+		Course(string course_name);
+
+		void addSection(Section section);
 
 	private:
 		/**
@@ -23,11 +27,7 @@ class Course {
 
 		/**
 		 * Vector that contains all sections and their info.
-		 *
-		 * Pair holds the string containing section name and vector of days
-		 *
-		 * Tuple that contains day, start time, end time
 		 */
-		vector<pair<string, vector<tuple<string, string, string>>>> sections_;
+		vector<Section> sections_;
 
 };

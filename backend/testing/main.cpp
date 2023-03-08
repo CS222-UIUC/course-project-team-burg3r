@@ -1,12 +1,8 @@
 #include <iostream>
-#include "schedule.cpp"
-#include "course.cpp"
+#include "json_parser.cpp"
 #include "json_parser.h"
-#include "schedule_maker.h"
-
-#include <fstream>
-#include <nlohmann/json.hpp>
-using json = nlohmann::json;
+#include "course.h"
+#include "section.h"
 
 // Example print out from running ./main
 //
@@ -44,41 +40,10 @@ using json = nlohmann::json;
 // -------------------
 
 int main() {
-	// Read the json file
-	std::ifstream f("test.json");
-	json data = json::parse(f);
+	// Parse the json file with course info
+	read_courses("test.json");
 
-	// Read each object from the courses array
-	auto coursesArr = data.at("all_courses_sections").at("courses");
-	
-	// Read from the required courses array
-	auto requiredCoursesArr = data.at("all_courses_sections").at("required_courses");
-
-	// Print each required course name
-	std::cout << "Required Courses: " << std::endl;
-	for (auto requiredCourse : requiredCoursesArr) {
-		std::cout << "  " << requiredCourse.at("course") << std::endl;
-	}
-
-	// For each course print the names, days, and times
-	std::cout << "-------------------" << std::endl;
-	for (auto course : coursesArr) {
-		std::cout << "Course: " << course.at("name") << std::endl;
-
-		auto sectionsArr = course.at("sections");
-		for (auto section : sectionsArr) {
-			std::cout << "  Section: " << section.at("section") << std::endl;
-
-			auto days = section.at("days");
-			for (auto day : days) {
-				std::cout << "    Day: " << day.at("day") << std::endl;
-				std::cout << "      Start Time: " << day.at("start_time") << std::endl;
-				std::cout << "      End Time: " << day.at("end_time") << std::endl;
-			}
-		}
-		
-		std::cout << "-------------------" << std::endl;
-	}
-
+	// Print out the stats of how many courses/sections were read
+	read_stats();
 	return 0;
 }
