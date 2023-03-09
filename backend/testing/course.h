@@ -13,10 +13,18 @@ class Course {
 	// Course class for storing info on courses and their sections
 	public:
 		/**
-		 * Constructor that takes in the name and sections
+		 * Constructor that takes in the name
+		 * 
+		 * @param course_name	String of the course name
 		 */
 		Course(string course_name);
 
+
+		/**
+		 * Function that adds a section to the private vector
+		 *
+		 * @param section	Section object that contains section info
+		 */
 		void addSection(Section section);
 
 	private:
