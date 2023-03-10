@@ -50,11 +50,11 @@ p {
   
 .dropdown:hover .dropbtn {background-color:brown;} 
 
-.row {
+/* .row {
     display:flex;
 }
   
 .column {
     flex: 25%;
     padding: 5px;
-}
+} */
