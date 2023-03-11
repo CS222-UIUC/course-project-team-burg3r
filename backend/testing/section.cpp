@@ -23,3 +23,15 @@ string Section::getParentCourse() {
 vector<Day> Section::getDays() {
     return days_;
 }
+
+int Section::getCRN() const {
+    return crn_;
+}
+
+string Section::getType() const {
+    return type_;
+}
+
+string Section::getLocation() const {
+    return location_;
+}

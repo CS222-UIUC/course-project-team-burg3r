@@ -11,13 +11,16 @@ struct Day {
         string name;
         string start_time;
         string end_time;
+        // maybe we can change this into military time format.
+        // so start_time and end_time can be integers.
+        // better when checking if there's a conflict in time.
     };
 
 class Section {
 	// Section class for storing info on times and locations
 
 
-	public:
+        public:
         /**
          * Constructor that takes the name of the section and its parent course
          * 
@@ -55,7 +58,28 @@ class Section {
          */
         string getParentCourse();
 
+        /**
+         * Function to get the crn of the course
+        */
+        int getCRN() const;
+
+        /**
+         * function to get the location for the course
+        */
+        string getLocation() const;
+
+        /**
+         * function to get the type of the course
+        */
+        string getType() const;
+
 	private:
+
+        /**
+	* int that contains the CRN
+	*/
+	int crn_;
+
 
         /**
          * String that holds the name of the section
@@ -72,4 +96,16 @@ class Section {
          * Vector that contains all of the section days and times
          */
         vector<Day> days_;
+
+        /**
+        * String contain the type of course
+	* Laboratory/Discussion/Lecture/...
+	*/
+	string type_;
+
+        /**
+	* String contain the location of the class
+	* Possibly used for calculating distance between two courses' location
+	*/
+	string location_;
 };
