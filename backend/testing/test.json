@@ -5,6 +5,9 @@
 			},
 			{
 				"course": "CS222"
+			},
+			{
+				"course": "TEMP101"
 			}
 		],
 		"courses": [{
@@ -13,18 +16,18 @@
 						"section": "AL1",
 						"days": [{
 								"day": "monday",
-								"start_time": "1100",
-								"end_time": "1150"
+								"start_time": "11:00",
+								"end_time": "11:50"
 							},
 							{
 								"day": "wednesday",
-								"start_time": "1100",
-								"end_time": "1150"
+								"start_time": "11:00",
+								"end_time": "11:50"
 							},
 							{
 								"day": "friday",
-								"start_time": "1100",
-								"end_time": "1150"
+								"start_time": "11:00",
+								"end_time": "11:50"
 							}
 						]
 					},
@@ -32,18 +35,18 @@
 						"section": "AL2",
 						"days": [{
 								"day": "monday",
-								"start_time": "1100",
-								"end_time": "1150"
+								"start_time": "11:00",
+								"end_time": "11:50"
 							},
 							{
 								"day": "wednesday",
-								"start_time": "1100",
-								"end_time": "1150"
+								"start_time": "11:00",
+								"end_time": "11:50"
 							},
 							{
 								"day": "friday",
-								"start_time": "1100",
-								"end_time": "1150"
+								"start_time": "11:00",
+								"end_time": "11:50"
 							}
 						]
 					}
@@ -55,8 +58,19 @@
 					"section": "SDL",
 					"days": [{
 						"day": "wednesday",
-						"start_time": "1300",
-						"end_time": "1350"
+						"start_time": "13:00",
+						"end_time": "13:50"
+					}]
+				}]
+			},
+			{
+				"name": "TEMP101",
+				"sections": [{
+					"section": "SDT",
+					"days": [{
+						"day": "wednesday",
+						"start_time": "15:00",
+						"end_time": "15:50"
 					}]
 				}]
 			}

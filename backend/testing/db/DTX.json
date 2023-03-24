@@ -1,0 +1,56 @@
+[
+  {
+    "courseCode": "DTX 251",
+    "title": "Introduction to Design Thinking",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/DTX",
+    "sections": [
+      {
+        "crn": "73427",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/DTX/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "DTX 455",
+    "title": "Design for Social Impact",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/DTX",
+    "sections": [
+      {
+        "crn": "73428",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/DTX/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "DTX 495",
+    "title": "Special Topics in Design Thinking",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/DTX",
+    "sections": [
+      {
+        "crn": "73426",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/DTX/495"
+      }
+    ]
+  }
+]

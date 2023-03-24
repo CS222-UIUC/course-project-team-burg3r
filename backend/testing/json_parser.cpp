@@ -59,6 +59,7 @@ void read_courses(string filename) {
 		
         // std::cout << "-------------------" << std::endl;
     }
+	make_schedule(all_sections_);
 }
 
 

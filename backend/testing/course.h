@@ -4,6 +4,7 @@
 #include <tuple>
 #include <utility>
 #include <string>
+#include <map>
 
 #include "section.h"
 
@@ -37,5 +38,9 @@ class Course {
 		 * Vector that contains all sections and their info.
 		 */
 		vector<Section> sections_;
-
+		
+		/**
+		 * Map of the pre-requisite/concurrent courses
+		*/
+		map<Course, string> requisite_; // better name needed.
 };

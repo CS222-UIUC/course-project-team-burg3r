@@ -178,7 +178,7 @@ def main():
     rows = soup.find_all('tr', {'class': ['even', 'odd']})
     subjects = []
 
-    for row in rows:
+    for row in rows[62:]:
         cells = row.find_all("td")
         code = cells[0].get_text().strip()
         title = cells[1].get_text().strip()

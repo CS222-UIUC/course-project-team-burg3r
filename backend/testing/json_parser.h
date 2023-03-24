@@ -9,6 +9,9 @@
 #include "course.h"
 #include "section.h"
 
+#include "schedule_maker.cpp"
+#include "schedule_maker.h"
+
 using namespace std;
 
 // Functions to read course json info and make course objects, and to read schedule objects and output schedule json info

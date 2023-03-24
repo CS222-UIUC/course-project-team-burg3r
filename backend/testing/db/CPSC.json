@@ -1,0 +1,712 @@
+[
+  {
+    "courseCode": "CPSC 113",
+    "title": "Environment, Agriculture, and Society",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "71645",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/113"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 116",
+    "title": "The Global Food Production Web",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "48193",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "W",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/116"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 117",
+    "title": "Agriculture and Science of Coffee",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "66101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/117"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 180",
+    "title": "Medicinal Plants and Herbology",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "34188",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/180"
+      },
+      {
+        "crn": "69405",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/180"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 212",
+    "title": "Introduction to Plant Protection",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "71662",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/212"
+      },
+      {
+        "crn": "71663",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/212"
+      },
+      {
+        "crn": "71661",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/212"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 241",
+    "title": "Intro to Applied Statistics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "31493"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 261",
+    "title": "Biotechnology in Agriculture",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "31518",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/261"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 265",
+    "title": "Genetic Engineering Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "31495",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "M5 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/265"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 393",
+    "title": "Crop Sciences Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "70102",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 395",
+    "title": "Undergrad Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "70275",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 396",
+    "title": "Undergrad Honors Res or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "10562",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 418",
+    "title": "Crop Growth and Management",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "31547"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 436",
+    "title": "Conservation Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "39494",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/436"
+      },
+      {
+        "crn": "47629",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/436"
+      },
+      {
+        "crn": "39487",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2020B Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/436"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 453",
+    "title": "Principles of Plant Breeding",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "31550"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 462",
+    "title": "Plant Molecular Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "74679",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 467",
+    "title": "Plant Genomics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "74559",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/467"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 480",
+    "title": "Cannabis Classification and Management",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "71659",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 484",
+    "title": "Plant Physiology",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "34657",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2083 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/484"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 488",
+    "title": "Soil Fertility and Fertilizers",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "49708",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/488"
+      },
+      {
+        "crn": "49710",
+        "status": "restricted",
+        "type": "Online",
+        "section": "XM2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/488"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 491",
+    "title": "Ugrad Bioinformatics Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "55646",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/491"
+      },
+      {
+        "crn": "68682",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/491"
+      },
+      {
+        "crn": "71687",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 499",
+    "title": "Advanced Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "57618",
+        "status": "restricted",
+        "type": "Online",
+        "section": "EH",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/499"
+      },
+      {
+        "crn": "15769",
+        "status": "restricted",
+        "type": "Online",
+        "section": "HD",
+        "startTime": "18:30",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/499"
+      },
+      {
+        "need attention": "yes",
+        "crn": "56348"
+      },
+      {
+        "crn": "52527",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/499"
+      },
+      {
+        "crn": "68139",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "21:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 505",
+    "title": "Research Methods in Crop Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "65758",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 518",
+    "title": "Crop Growth and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "31648",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/518"
+      },
+      {
+        "crn": "44523",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/518"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 527",
+    "title": "Weed Science and Management",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "71664",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 540",
+    "title": "Applied Statistical Methods II",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "71657",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/540"
+      },
+      {
+        "crn": "71658",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/540"
+      },
+      {
+        "crn": "71656",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 567",
+    "title": "Bioinformatics & Systems Biol",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "48285",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/567"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 575",
+    "title": "Scientific Writing: Proposals, Manuscripts, and Peer Review",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74235"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 591",
+    "title": "Grad Bioinformatics Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "55648",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/591"
+      },
+      {
+        "crn": "68685",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/591"
+      },
+      {
+        "crn": "71690",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 593",
+    "title": "Adv Studies in Crop Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "15838",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "DKL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 598",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "31638",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "G1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC",
+    "sections": [
+      {
+        "crn": "10569",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/spring/CPSC/599"
+      }
+    ]
+  }
+]
