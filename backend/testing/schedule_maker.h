@@ -1,6 +1,7 @@
 #pragma once
 
 #include <vector>
+#include <string>
 
 #include "course.h"
 #include "schedule.h"
@@ -13,9 +14,19 @@
  */
 Schedule make_schedule(vector<string>);
 
+
 /**
- * helper function checking if there's any time conflict
- * @todo compare if there's a time conflict
- * need to consider exact section
+ * Test function to generate the schedules
+ * @param vector<Section> vector of all sections from all given courses
  */
-bool time_conflict();
+void make_schedule(std::vector<Section> all_sections);
+
+/**
+ * Function to check whether section times overlap
+ * @param string start time for first section
+ * @param string end time for first section
+ * @param string start time for second section
+ * @param string end time for second section
+ * @return true if conflict, false if no conflict
+ */
+bool time_conflict(std::string start_one, std::string end_one, std::string start_two, std::string end_two);

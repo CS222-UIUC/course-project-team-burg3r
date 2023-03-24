@@ -73,6 +73,14 @@ class Section {
         */
         string getType() const;
 
+
+        /**
+         * Overloaded operator< for std::next_permutation
+        */
+        bool operator<(Section other) {
+                return parent_course_ < other.parent_course_;
+        }
+
 	private:
 
         /**
