@@ -1,0 +1,26 @@
+name: Build and Deploy Website via SSH
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: actions/checkout@v2
+
+    - name: Deploy via SCP
+      uses: appleboy/scp-action@master
+      with:
+          host: ${{ secrets.REMOTE_HOST }}
+          username: ${{ secrets.REMOTE_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          passphrase: ${{ secrets.SSH_KEY_PASSPHRASE }}
+          rm: true
+          source: "frontend/website/build/"
+          target: "${{ secrets.REMOTE_DIR }}"
+          script: |
+            sudo chown -R www-data:www-data ${{ secrets.REMOTE_WEB }}
+            sudo chmod -R 755 ${{ secrets.REMOTE_WEB }}
+            sudo systemctl restart nginx
