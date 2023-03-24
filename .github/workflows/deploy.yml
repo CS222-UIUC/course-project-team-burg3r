@@ -18,7 +18,7 @@ jobs:
         username: ${{ secrets.REMOTE_USER }}
         key: ${{ secrets.SSH_KEY }}
         script: |
-            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chown -R github:github ${{ secrets.REMOTE_WEB }}
+            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chown -R github:github ${{ secrets.REMOTE_WEBROOT }}
             echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chmod -R 755 ${{ secrets.REMOTE_WEB }}
 
     - name: Deploy via SCP
@@ -38,6 +38,6 @@ jobs:
         username: ${{ secrets.REMOTE_USER }}
         key: ${{ secrets.SSH_KEY }}
         script: |
-            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chown -R www-data:www-data ${{ secrets.REMOTE_WEB }}
-            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chmod -R 755 ${{ secrets.REMOTE_WEB }}
+            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chown -R www-data:www-data ${{ secrets.REMOTE_WEBROOT }}
+            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chmod -R 755 ${{ secrets.REMOTE_WEBROOT }}
             echo ${{ secrets.SUDO_PASSWORD }} | sudo -S systemctl restart nginx
