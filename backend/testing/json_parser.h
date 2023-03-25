@@ -20,10 +20,16 @@ using namespace std;
 /**
  * Function to parse the course and section information
  * 
- * @param      string String containing the name and path of the json file
+ * @param      string String containing the required courses
+ * @param      string String containing all the courses info.
  */
-void read_courses(string filename);
+void read_courses(string req, string all);
 
+/**
+ * Function to write the generated schedule to json file
+ * @param      string String containing tha name of output file
+*/
+void write_courses(string output);
 
 /**
  * Function to print the number of courses and sections parsed
@@ -39,6 +45,11 @@ vector<Course> courses_;
  * Total number of sections needed
 */
 int num_sections_;
+
+/**
+ * Generated Schedules
+*/
+std::vector<Schedule> ret_;
 
 /**
  * map holding strings with names of all required classes, and the types of classes needed

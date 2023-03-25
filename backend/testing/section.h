@@ -31,7 +31,7 @@ class Section {
          * @param parent_course         String of the parent course name
          * @param d                     Day of the section
          */
-        Section(string section_name, string section_type, int crn, string parent_course, vector<Day> days);
+        Section(string section_name, string section_type, int crn, string parent_course, vector<Day> days, string locaiton);
 
         /**
          * Function to get the name of the section
@@ -45,7 +45,7 @@ class Section {
          * 
          * @return      string containting the section name
          */
-        vector<Day> getDays();
+        vector<Day> getDays() const;
 
         /**
          * Function to get the name of the parent course

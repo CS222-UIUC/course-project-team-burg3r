@@ -5,10 +5,10 @@
 
 using json = nlohmann::json;
 
-void read_courses(string filename) {
+void read_courses(string req, string all) {
   // Read the json file
-  std::ifstream required("required.json");
-  std::ifstream course("all_course.json");
+  std::ifstream required(req);
+  std::ifstream course(all);
   json required_json = json::parse(required);
   json course_json = json::parse(course);
 
@@ -47,7 +47,9 @@ void read_courses(string filename) {
         days.push_back(d);
       }
 
-      Section s(section_name, section_type, section_crn, course_name, days);
+      // this is due to a typo in the course json file.
+      std::string location = section["instructor"].get<std::string>();
+      Section s(section_name, section_type, section_crn, course_name, days, location);
 
       c.addSection(s);
     }
@@ -76,18 +78,48 @@ void read_courses(string filename) {
     }
   }
 
-  std::vector<Schedule> ret = make_schedule(all_sections_, required_courses_, num_sections_);
-  for (const Schedule& r : ret) {
+  ret_ = make_schedule(all_sections_, required_courses_, num_sections_);
+  for (const Schedule &r : ret_) {
     std::cout << r << std::endl;
   }
-  std::cout << "Number of Schedules generated: " << ret.size()
-            << std::endl;
 }
 
 void read_stats() {
   std::cout << "Number of Required Courses: " << required_courses_.size()
             << std::endl;
-  // std::cout << "Number of Required Sections: " <<
   std::cout << "Number of Courses: " << courses_.size() << std::endl;
   std::cout << "Number of Sections needed: " << num_sections_ << std::endl;
+  std::cout << "Number of Schedules generated: " << ret_.size() << std::endl;
+}
+
+json parse(Schedule schedule) {
+  json j;
+  for (const Section &section : schedule.getSchedule()) {
+    json section_json;
+    section_json["course"] = section.getParentCourse();
+    section_json["section"] = section.getName();
+    section_json["type"] = section.getType();
+    section_json["crn"] = section.getCRN();
+    section_json["location"] = section.getLocation();
+    section_json["days"];
+    // had to convert day.name back to string, json turned char into ascii index
+    for (const Day &day : section.getDays()) {
+      section_json["days"].push_back(
+          {{"day", std::string(1, day.name)}, {"start_time", day.start_time}, {"end_time", day.end_time}});
+    }
+    j["schedule"].push_back(section_json);
+  }
+  return j;
+}
+
+void write_courses(string output) {
+  json out = json::array();
+  for (const Schedule &schedule : ret_) {
+    out.push_back(parse(schedule));
+  }
+
+  std::ofstream o(output);
+  o << std::setw(4) << out << std::endl;
+  std::cout << "Schedules generated successfully, saved to " << output << std::endl;
+  o.close();
 }
