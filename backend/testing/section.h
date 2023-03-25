@@ -38,7 +38,7 @@ class Section {
          * 
          * @return      string containting the section name
          */
-        string getName();
+        string getName() const;
 
         /**
          * Function to get a vector containing all of the section days
@@ -52,7 +52,7 @@ class Section {
          * 
          * @return      string containting the parent course name
          */
-        string getParentCourse();
+        string getParentCourse() const;
 
         /**
          * Function to get the crn of the course

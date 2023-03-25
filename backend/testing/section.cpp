@@ -6,11 +6,11 @@ using namespace std;
 Section::Section(string section_name, string section_type, int crn, string parent_course, vector<Day> days)
     : name_(section_name), type_(section_type), crn_(crn), parent_course_(parent_course), days_(days)  {}
 
-string Section::getName() {
+string Section::getName() const {
     return name_;
 }
 
-string Section::getParentCourse() {
+string Section::getParentCourse() const {
     return parent_course_;
 }
 

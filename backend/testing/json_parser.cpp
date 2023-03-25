@@ -76,7 +76,12 @@ void read_courses(string filename) {
     }
   }
 
-  make_schedule(all_sections_, required_courses_, num_sections_);
+  std::vector<Schedule> ret = make_schedule(all_sections_, required_courses_, num_sections_);
+  for (const Schedule& r : ret) {
+    std::cout << r << std::endl;
+  }
+  std::cout << "Number of Schedules generated: " << ret.size()
+            << std::endl;
 }
 
 void read_stats() {
