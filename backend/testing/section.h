@@ -115,5 +115,5 @@ class Section {
 	* String contain the location of the class
 	* Possibly used for calculating distance between two courses' location
 	*/
-	string location_;
+        string location_;
 };

@@ -1,0 +1,16 @@
+{
+  "required_courses": [
+    {
+      "course": "CS 225",
+      "types": ["Lecture", "Laboratory-Discussion"]
+    },
+    {
+      "course": "CS 222",
+      "types": ["Laboratory-Discussion"]
+    },
+    {
+      "course": "CSE 414",
+      "types": ["Lecture"]
+    }
+  ]
+}
