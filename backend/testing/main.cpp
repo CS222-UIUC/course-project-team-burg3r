@@ -89,12 +89,12 @@
 
 int main() {
 	// Parse the json file with course info and print out possible schedules
-	read_courses("required.json", "all_course.json");
+	read_courses("example/required.json", "example/all_course.json");
 
 	// Print out the stats of how many courses/sections were read
 	read_stats();
 
-	write_courses("output.json");
+	write_courses("example/output.json");
 
 	return 0;
 }
