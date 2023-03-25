@@ -36,10 +36,15 @@ void read_stats();
 vector<Course> courses_;
 
 /**
- * Vector holding strings with names of all required classes.
+ * Total number of sections needed
+*/
+int num_sections_;
+
+/**
+ * map holding strings with names of all required classes, and the types of classes needed
  * This is important to make sure a schedule contains all required courses at a minimum.
  */
-vector<string> required_courses_;
+std::map<std::string, std::vector<std::string>> required_courses_;
 
 /**
  * Vector holding every section that was parsed. This is useful for schedule generation

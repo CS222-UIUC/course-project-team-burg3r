@@ -30,3 +30,7 @@ void make_schedule(std::vector<Section> all_sections);
  * @return true if conflict, false if no conflict
  */
 bool time_conflict(std::string start_one, std::string end_one, std::string start_two, std::string end_two);
+
+
+bool typeCheck(Section scheduled_section,
+               std::vector<std::string> required_types);

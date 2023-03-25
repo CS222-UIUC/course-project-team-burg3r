@@ -152,6 +152,42 @@
           "url": "https://courses.illinois.edu/schedule/2023/spring/CSE/414"
         }
       ]
+    },
+    {
+      "courseCode": "ABE 141",
+      "title": "ABE Principles: Biological",
+      "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+      "sections": [
+        {
+          "crn": "54768",
+          "status": "restricted",
+          "type": "Lecture",
+          "section": "MGD",
+          "startTime": "10:00",
+          "endTime": "10:50",
+          "day": "MWF",
+          "instructor": "208 Agricultural Engr Sciences Bld",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/141"
+        }
+      ]
+    },
+    {
+      "courseCode": "ABE 152",
+      "title": "Water in the Global Environment",
+      "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+      "sections": [
+        {
+          "crn": "73114",
+          "status": "restricted",
+          "type": "Online",
+          "section": "WGE",
+          "startTime": "13:00",
+          "endTime": "14:50",
+          "day": "MW",
+          "instructor": "n.a.",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/152"
+        }
+      ]
     }
   ]
 }

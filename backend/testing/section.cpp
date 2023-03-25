@@ -3,14 +3,8 @@
 using namespace std;
 
 
-Section::Section(string name, string parent_course) {
-    name_ = name;
-    parent_course_ = parent_course;
-}
-
-void Section::addDay(Day day) {
-    days_.push_back(day);
-}
+Section::Section(string section_name, string section_type, int crn, string parent_course, vector<Day> days)
+    : name_(section_name), type_(section_type), crn_(crn), parent_course_(parent_course), days_(days)  {}
 
 string Section::getName() {
     return name_;
