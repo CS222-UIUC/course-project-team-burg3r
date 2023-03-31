@@ -1,0 +1,77 @@
+[
+    {
+        "schedule": [
+            {
+                "course": "CS 222",
+                "crn": 71617,
+                "days": [
+                    {
+                        "day": "W",
+                        "end_time": "13:50",
+                        "start_time": "13:00"
+                    }
+                ],
+                "location": "1002 Electrical & Computer Eng Bldg",
+                "section": "SDL",
+                "type": "Laboratory-Discussion"
+            },
+            {
+                "course": "CSE 414",
+                "crn": 58767,
+                "days": [
+                    {
+                        "day": "T",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    },
+                    {
+                        "day": "R",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    }
+                ],
+                "location": "1404 Siebel Center for Comp Sci",
+                "section": "AL2",
+                "type": "Lecture"
+            },
+            {
+                "course": "CS 225",
+                "crn": 31222,
+                "days": [
+                    {
+                        "day": "R",
+                        "end_time": "16:50",
+                        "start_time": "15:00"
+                    }
+                ],
+                "location": "4029 Campus Instructional Facility",
+                "section": "AYC",
+                "type": "Laboratory-Discussion"
+            },
+            {
+                "course": "CS 225",
+                "crn": 31213,
+                "days": [
+                    {
+                        "day": "M",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    },
+                    {
+                        "day": "W",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    },
+                    {
+                        "day": "F",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    }
+                ],
+                "location": "n.a.",
+                "section": "AL3",
+                "type": "Online Lecture"
+            }
+        ]
+    }
+]

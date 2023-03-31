@@ -123,3 +123,24 @@ void write_courses(string output) {
   std::cout << "Schedules generated successfully, saved to " << output << std::endl;
   o.close();
 }
+
+void write_courses_individual(string output) {
+  int count = 0;
+  
+  for (const Schedule &schedule : ret_) {
+    json out = json::array();
+    out.push_back(parse(schedule));
+    
+    string output_modified = output;
+    output_modified += "_";
+    output_modified += to_string(count);
+    output_modified += ".json";
+    
+    std::ofstream o(output_modified);
+    o << std::setw(4) << out << std::endl;
+
+    o.close();
+    count++;
+  }
+  std::cout << "Individual Schedules generated successfully, saved to " << output << std::endl;
+}

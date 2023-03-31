@@ -37,21 +37,8 @@ std::vector<Schedule> make_schedule(
               if (time_conflict(scheduled_section_day.start_time,
                                 scheduled_section_day.end_time,
                                 section_day.start_time, section_day.end_time)) {
-                // std::cout << "CONFLICT BETWEEN (" <<
-                // scheduled_section_day.name << ", " <<
-                // scheduled_section_day.start_time << ", " <<
-                // scheduled_section_day.end_time << ")" << " AND (" <<
-                // section_day.name << ", " << section_day.start_time << ", " <<
-                // section_day.end_time << ")" << std::endl;
                 conflict = true;
                 break;
-              } else {
-                // std::cout << "NO CONFLICT BETWEEN (" <<
-                // scheduled_section_day.name << ", " <<
-                // scheduled_section_day.start_time << ", " <<
-                // scheduled_section_day.end_time << ")" << " AND (" <<
-                // section_day.name << ", " << section_day.start_time << ", " <<
-                // section_day.end_time << ")" << std::endl;
               }
             }
             if (conflict) {
@@ -80,11 +67,11 @@ std::vector<Schedule> make_schedule(
         }
       }
 
-      if (schedule.size() == num_sections_) {
-        break;
-      }
+      // if (schedule.size() == num_sections_) {
+      //   break;
+      // }
     }
-    // Check if this section satisfies all required types for its course
+    // Check if this schedule satisfies all required types for its course
     if (schedule.size() == num_sections_) {
       Schedule s(schedule, courses_scheduled);
 
