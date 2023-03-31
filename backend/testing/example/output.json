@@ -41,16 +41,16 @@
             },
             {
                 "course": "CS 225",
-                "crn": 31222,
+                "crn": 31227,
                 "days": [
                     {
                         "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
+                        "end_time": "10:50",
+                        "start_time": "09:00"
                     }
                 ],
                 "location": "4029 Campus Instructional Facility",
-                "section": "AYC",
+                "section": "AYE",
                 "type": "Laboratory-Discussion"
             },
             {
@@ -116,16 +116,16 @@
             },
             {
                 "course": "CS 225",
-                "crn": 31222,
+                "crn": 31227,
                 "days": [
                     {
                         "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
+                        "end_time": "10:50",
+                        "start_time": "09:00"
                     }
                 ],
                 "location": "4029 Campus Instructional Facility",
-                "section": "AYC",
+                "section": "AYE",
                 "type": "Laboratory-Discussion"
             },
             {
@@ -166,8 +166,27 @@
                 "type": "Laboratory-Discussion"
             },
             {
+                "course": "CSE 414",
+                "crn": 58767,
+                "days": [
+                    {
+                        "day": "T",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    },
+                    {
+                        "day": "R",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    }
+                ],
+                "location": "1404 Siebel Center for Comp Sci",
+                "section": "AL2",
+                "type": "Lecture"
+            },
+            {
                 "course": "CS 225",
-                "crn": 31208,
+                "crn": 31213,
                 "days": [
                     {
                         "day": "M",
@@ -185,178 +204,9 @@
                         "start_time": "11:00"
                     }
                 ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31229,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
-                    }
-                ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31208,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31225,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4025 Campus Instructional Facility",
-                "section": "AYD",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31208,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
+                "location": "n.a.",
+                "section": "AL3",
+                "type": "Online Lecture"
             },
             {
                 "course": "CS 225",
@@ -391,30 +241,6 @@
                 "type": "Laboratory-Discussion"
             },
             {
-                "course": "CS 225",
-                "crn": 31208,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
                 "course": "CSE 414",
                 "crn": 58767,
                 "days": [
@@ -435,39 +261,7 @@
             },
             {
                 "course": "CS 225",
-                "crn": 31229,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
-                    }
-                ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31208,
+                "crn": 59777,
                 "days": [
                     {
                         "day": "M",
@@ -486,25 +280,6 @@
                     }
                 ],
                 "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
                 "section": "AL2",
                 "type": "Lecture"
             },
@@ -542,114 +317,6 @@
             },
             {
                 "course": "CS 225",
-                "crn": 31208,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31225,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4025 Campus Instructional Facility",
-                "section": "AYD",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31229,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
-                    }
-                ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
                 "crn": 31213,
                 "days": [
                     {
@@ -671,667 +338,6 @@
                 "location": "n.a.",
                 "section": "AL3",
                 "type": "Online Lecture"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31229,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
-                    }
-                ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 59777,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL2",
-                "type": "Lecture"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31222,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4029 Campus Instructional Facility",
-                "section": "AYC",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 59777,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL2",
-                "type": "Lecture"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 59777,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31225,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4025 Campus Instructional Facility",
-                "section": "AYD",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31222,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4029 Campus Instructional Facility",
-                "section": "AYC",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31213,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "n.a.",
-                "section": "AL3",
-                "type": "Online Lecture"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31213,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "n.a.",
-                "section": "AL3",
-                "type": "Online Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31225,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4025 Campus Instructional Facility",
-                "section": "AYD",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 225",
-                "crn": 31229,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
-                    }
-                ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31213,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "n.a.",
-                "section": "AL3",
-                "type": "Online Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CS 225",
-                "crn": 31229,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
-                    }
-                ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 59777,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL2",
-                "type": "Lecture"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31213,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "n.a.",
-                "section": "AL3",
-                "type": "Online Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31222,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4029 Campus Instructional Facility",
-                "section": "AYC",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31213,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "n.a.",
-                "section": "AL3",
-                "type": "Online Lecture"
-            },
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
             },
             {
                 "course": "CS 225",
@@ -1346,11 +352,7 @@
                 "location": "4029 Campus Instructional Facility",
                 "section": "AYE",
                 "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
+            },
             {
                 "course": "CSE 414",
                 "crn": 31560,
@@ -1369,7 +371,11 @@
                 "location": "1404 Siebel Center for Comp Sci",
                 "section": "AL1",
                 "type": "Lecture"
-            },
+            }
+        ]
+    },
+    {
+        "schedule": [
             {
                 "course": "CS 222",
                 "crn": 71617,
@@ -1384,48 +390,6 @@
                 "section": "SDL",
                 "type": "Laboratory-Discussion"
             },
-            {
-                "course": "CS 225",
-                "crn": 31213,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "n.a.",
-                "section": "AL3",
-                "type": "Online Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31225,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4025 Campus Instructional Facility",
-                "section": "AYD",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
             {
                 "course": "CSE 414",
                 "crn": 31560,
@@ -1444,44 +408,6 @@
                 "location": "1404 Siebel Center for Comp Sci",
                 "section": "AL1",
                 "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 59777,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
             },
             {
                 "course": "CS 225",
@@ -1495,132 +421,6 @@
                 ],
                 "location": "4029 Campus Instructional Facility",
                 "section": "AYE",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 59777,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL2",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31222,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4029 Campus Instructional Facility",
-                "section": "AYC",
-                "type": "Laboratory-Discussion"
-            }
-        ]
-    },
-    {
-        "schedule": [
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31225,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
-                    }
-                ],
-                "location": "4025 Campus Instructional Facility",
-                "section": "AYD",
                 "type": "Laboratory-Discussion"
             },
             {

@@ -17,7 +17,7 @@
             },
             {
                 "course": "CS 225",
-                "crn": 31208,
+                "crn": 31213,
                 "days": [
                     {
                         "day": "M",
@@ -35,9 +35,23 @@
                         "start_time": "11:00"
                     }
                 ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
+                "location": "n.a.",
+                "section": "AL3",
+                "type": "Online Lecture"
+            },
+            {
+                "course": "CS 225",
+                "crn": 31227,
+                "days": [
+                    {
+                        "day": "R",
+                        "end_time": "10:50",
+                        "start_time": "09:00"
+                    }
+                ],
+                "location": "4029 Campus Instructional Facility",
+                "section": "AYE",
+                "type": "Laboratory-Discussion"
             },
             {
                 "course": "CSE 414",
@@ -57,20 +71,6 @@
                 "location": "1404 Siebel Center for Comp Sci",
                 "section": "AL1",
                 "type": "Lecture"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31227,
-                "days": [
-                    {
-                        "day": "R",
-                        "end_time": "10:50",
-                        "start_time": "09:00"
-                    }
-                ],
-                "location": "4029 Campus Instructional Facility",
-                "section": "AYE",
-                "type": "Laboratory-Discussion"
             }
         ]
     }

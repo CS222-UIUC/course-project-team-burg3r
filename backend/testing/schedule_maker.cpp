@@ -6,10 +6,12 @@
 std::vector<Schedule> make_schedule(
     std::vector<Section> all_sections,
     std::map<std::string, std::vector<std::string>> required_courses_,
-    int num_sections_) {
+    int num_sections_, std::string preferred_start_time, std::string preferred_end_time) {
   std::vector<Schedule> ret;
   std::vector<Section> schedule;
   std::vector<std::string> courses_scheduled;
+
+  // preferred start time, probably replace with morning/afternoon preference with set times
   do {
     // Reset the schedule for this iteration
     schedule.clear();
@@ -28,13 +30,33 @@ std::vector<Schedule> make_schedule(
       // }
 
       if (schedule.empty()) {
-        schedule.push_back(section);
+          bool conflict = false;
+          for (Day section_day : section.getDays()) {
+            if (preferred_start_time > section_day.start_time) {
+              conflict = true;
+              break;
+            } else if (section_day.end_time > preferred_end_time) {
+              conflict = true;
+              break;
+            }
+          }
+          if (conflict) {
+            continue;
+          } else {
+            schedule.push_back(section);
+          }
       } else {
         bool conflict = false;
         for (Section scheduled_section : schedule) {
           for (Day scheduled_section_day : scheduled_section.getDays()) {
             for (Day section_day : section.getDays()) {
-              if (time_conflict(scheduled_section_day.start_time,
+              if (preferred_start_time > section_day.start_time) {
+                conflict = true;
+                break;
+              } else if (section_day.end_time > preferred_end_time) {
+                conflict = true;
+                break;
+              } else if (time_conflict(scheduled_section_day.start_time,
                                 scheduled_section_day.end_time,
                                 section_day.start_time, section_day.end_time)) {
                 conflict = true;
@@ -84,7 +106,7 @@ std::vector<Schedule> make_schedule(
         }
       }
       if (!existed) {
-        std::cout << s << std::endl;
+        // std::cout << s << std::endl;
         ret.push_back(s);
       }
     }

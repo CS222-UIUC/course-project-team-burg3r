@@ -16,8 +16,27 @@
                 "type": "Laboratory-Discussion"
             },
             {
+                "course": "CSE 414",
+                "crn": 58767,
+                "days": [
+                    {
+                        "day": "T",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    },
+                    {
+                        "day": "R",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    }
+                ],
+                "location": "1404 Siebel Center for Comp Sci",
+                "section": "AL2",
+                "type": "Lecture"
+            },
+            {
                 "course": "CS 225",
-                "crn": 31208,
+                "crn": 31213,
                 "days": [
                     {
                         "day": "M",
@@ -35,41 +54,22 @@
                         "start_time": "11:00"
                     }
                 ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 31560,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL1",
-                "type": "Lecture"
+                "location": "n.a.",
+                "section": "AL3",
+                "type": "Online Lecture"
             },
             {
                 "course": "CS 225",
-                "crn": 31229,
+                "crn": 31227,
                 "days": [
                     {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
+                        "day": "R",
+                        "end_time": "10:50",
+                        "start_time": "09:00"
                     }
                 ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
+                "location": "4029 Campus Instructional Facility",
+                "section": "AYE",
                 "type": "Laboratory-Discussion"
             }
         ]

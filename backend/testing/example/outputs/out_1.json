@@ -41,16 +41,16 @@
             },
             {
                 "course": "CS 225",
-                "crn": 31222,
+                "crn": 31227,
                 "days": [
                     {
                         "day": "R",
-                        "end_time": "16:50",
-                        "start_time": "15:00"
+                        "end_time": "10:50",
+                        "start_time": "09:00"
                     }
                 ],
                 "location": "4029 Campus Instructional Facility",
-                "section": "AYC",
+                "section": "AYE",
                 "type": "Laboratory-Discussion"
             },
             {
