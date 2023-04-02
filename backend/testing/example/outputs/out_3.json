@@ -2,22 +2,8 @@
     {
         "schedule": [
             {
-                "course": "CS 222",
-                "crn": 71617,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "13:50",
-                        "start_time": "13:00"
-                    }
-                ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
-                "type": "Laboratory-Discussion"
-            },
-            {
                 "course": "CSE 414",
-                "crn": 58767,
+                "crn": 31560,
                 "days": [
                     {
                         "day": "T",
@@ -31,8 +17,22 @@
                     }
                 ],
                 "location": "1404 Siebel Center for Comp Sci",
-                "section": "AL2",
+                "section": "AL1",
                 "type": "Lecture"
+            },
+            {
+                "course": "CS 222",
+                "crn": 71617,
+                "days": [
+                    {
+                        "day": "W",
+                        "end_time": "13:50",
+                        "start_time": "13:00"
+                    }
+                ],
+                "location": "1002 Electrical & Computer Eng Bldg",
+                "section": "SDL",
+                "type": "Laboratory-Discussion"
             },
             {
                 "course": "CS 225",

@@ -72,3 +72,9 @@ std::string preferred_start_time_;
  * String containing preferred end time for all courses and sections
  */
 std::string preferred_end_time_;
+
+
+/*
+* String containing preferred padding between two classes.
+*/
+std::string preferred_padding_;

@@ -14,6 +14,7 @@ void read_courses(string req, string all) {
 
   preferred_start_time_ = required_json["preferred_start_time"];
   preferred_end_time_ = required_json["preferred_end_time"];
+  preferred_padding_ = required_json["preferred_padding"];
 
   // Iterate through the JSON array and populate the map
   for (auto &course : required_json["required_courses"]) {
@@ -81,7 +82,7 @@ void read_courses(string req, string all) {
     }
   }
 
-  ret_ = make_schedule(all_sections_, required_courses_, num_sections_, preferred_start_time_, preferred_end_time_);
+  ret_ = make_schedule(all_sections_, required_courses_, num_sections_, preferred_start_time_, preferred_end_time_, preferred_padding_);
   for (const Schedule &r : ret_) {
     std::cout << r << std::endl;
   }
