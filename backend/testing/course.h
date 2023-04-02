@@ -28,6 +28,12 @@ class Course {
 		 */
 		void addSection(Section section);
 
+
+		// getter and setters for the class
+		string getName() const { return course_name_; }
+
+		vector<Section> getSection() const { return sections_; }
+
 	private:
 		/**
 		 * String containing the class name

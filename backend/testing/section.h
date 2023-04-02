@@ -6,14 +6,15 @@
 
 using namespace std;
 
-
 struct Day {
-        string name;
+        char name;
         string start_time;
         string end_time;
-        // maybe we can change this into military time format.
-        // so start_time and end_time can be integers.
-        // better when checking if there's a conflict in time.
+        friend std::ostream& operator<<(std::ostream& os, const Day& day) {
+        os << "Name: " << day.name << ", Start Time: " << day.start_time
+           << ", End Time: " << day.end_time;
+        return os;
+    }
     };
 
 class Section {
@@ -24,39 +25,34 @@ class Section {
         /**
          * Constructor that takes the name of the section and its parent course
          * 
-         * @param name          String of the section name
-         * @param parent_course String of the parent course name
+         * @param section_name          String of the section's name
+         * @param section_type          String of the section's type
+         * @param crn                   String of the section's crn
+         * @param parent_course         String of the parent course name
+         * @param d                     Day of the section
          */
-        Section(string name, string parent_course);
-
-
-        /**
-         * Function to add a Day struct to the private vector
-         * 
-         * @param day   Day struct containing name and times
-         */
-        void addDay(Day day);
+        Section(string section_name, string section_type, int crn, string parent_course, vector<Day> days, string locaiton);
 
         /**
          * Function to get the name of the section
          * 
          * @return      string containting the section name
          */
-        string getName();
+        string getName() const;
 
         /**
          * Function to get a vector containing all of the section days
          * 
          * @return      string containting the section name
          */
-        vector<Day> getDays();
+        vector<Day> getDays() const;
 
         /**
          * Function to get the name of the parent course
          * 
          * @return      string containting the parent course name
          */
-        string getParentCourse();
+        string getParentCourse() const;
 
         /**
          * Function to get the crn of the course
@@ -115,5 +111,5 @@ class Section {
 	* String contain the location of the class
 	* Possibly used for calculating distance between two courses' location
 	*/
-	string location_;
+        string location_;
 };
