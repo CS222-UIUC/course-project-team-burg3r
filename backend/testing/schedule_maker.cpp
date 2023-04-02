@@ -3,15 +3,14 @@
 #include <algorithm>
 #include <iostream>
 
-std::vector<Schedule>
-make_schedule(std::vector<Section> all_sections,
-              std::map<std::string, std::vector<std::string>> required_courses_,
-              int num_sections_, std::string preferred_start_time,
-              std::string preferred_end_time, std::string preferred_padding) {
-  std::vector<Schedule> ret;
+void worker(std::vector<Section> all_sections,
+            std::map<std::string, std::vector<std::string>> required_courses_,
+            int num_sections_, std::string preferred_start_time,
+            std::string preferred_end_time, std::string preferred_padding,
+            std::vector<Schedule> &ret, std::mutex &ret_mutex) {
   std::vector<Section> schedule;
   std::vector<std::string> courses_scheduled;
-
+  // std::cout << "running thread" << std::endl;
   // preferred start time, probably replace with morning/afternoon preference
   // with set times
   do {
@@ -61,7 +60,8 @@ make_schedule(std::vector<Section> all_sections,
               } else if (time_conflict(scheduled_section_day.start_time,
                                        scheduled_section_day.end_time,
                                        section_day.start_time,
-                                       section_day.end_time, preferred_padding)) {
+                                       section_day.end_time,
+                                       preferred_padding)) {
                 conflict = true;
                 break;
               }
@@ -91,30 +91,68 @@ make_schedule(std::vector<Section> all_sections,
           }
         }
       }
-
       // if (schedule.size() == num_sections_) {
       //   break;
       // }
     }
+
     // Check if this schedule satisfies all required types for its course
     if (schedule.size() == num_sections_) {
       Schedule s(schedule, courses_scheduled);
 
       bool existed = false;
-      for (Schedule &existing_schedule : ret) {
-        if (existing_schedule == s) {
-          // Schedule already exists, return true to indicate duplicate
-          existed = true;
-          continue;
+      {
+        std::unique_lock<std::mutex> lock(ret_mutex);
+        for (Schedule &existing_schedule : ret) {
+          if (existing_schedule == s) {
+            // Schedule already exists, return true to indicate duplicate
+            existed = true;
+            continue;
+          }
         }
       }
       if (!existed) {
         // std::cout << s << std::endl;
+        std::unique_lock<std::mutex> lock(ret_mutex);
+        std::cout << &s << std::endl;
         ret.push_back(s);
       }
     }
 
   } while (std::next_permutation(all_sections.begin(), all_sections.end()));
+}
+std::vector<Schedule> make_schedule(
+    std::vector<Section> all_sections,
+    std::map<std::string, std::vector<std::string>> required_courses_,
+    int num_sections_, std::string preferred_start_time,
+    std::string preferred_end_time, std::string preferred_padding) {
+
+  std::vector<Schedule> ret;
+  std::mutex ret_mutex;
+
+  unsigned num_threads = std::thread::hardware_concurrency();
+  std::vector<std::thread> threads;
+
+  // Split the all_sections vector into smaller chunks for each thread
+  size_t size_per_thread = all_sections.size() / num_threads;
+
+  for (unsigned i = 0; i < num_threads; ++i) {
+    size_t start = i * size_per_thread;
+    size_t end =
+        (i == num_threads - 1) ? all_sections.size() : (i + 1) * size_per_thread;
+    std::vector<Section> section_chunk(all_sections.begin() + start,
+                                       all_sections.begin() + end);
+    // std::cout << "running thread " << i << std::endl;
+    threads.push_back(std::thread(worker, section_chunk, required_courses_,
+                                  num_sections_, preferred_start_time,
+                                  preferred_end_time, preferred_padding,
+                                  std::ref(ret), std::ref(ret_mutex)));
+  }
+
+  // Wait for all threads to complete
+  for (auto &t : threads) {
+    t.join();
+  }
 
   return ret;
 }
@@ -124,7 +162,7 @@ int time_diff_in_minutes(std::string start, std::string end) {
   int hours_end = stoi(end.substr(0, 2));
   int minutes_start = stoi(start.substr(3, 2));
   int minutes_end = stoi(end.substr(3, 2));
-  
+
   int total_minutes_start = hours_start * 60 + minutes_start;
   int total_minutes_end = hours_end * 60 + minutes_end;
 
@@ -132,12 +170,14 @@ int time_diff_in_minutes(std::string start, std::string end) {
 }
 
 bool time_conflict(std::string start_one, std::string end_one,
-                   std::string start_two, std::string end_two, std::string preferred_padding) {
+                   std::string start_two, std::string end_two,
+                   std::string preferred_padding) {
   int padding_minutes = time_diff_in_minutes("00:00", preferred_padding);
   int end_one_minutes = time_diff_in_minutes("00:00", end_one);
   int start_two_minutes = time_diff_in_minutes("00:00", start_two);
 
-  if (start_one <= start_two && end_one_minutes + padding_minutes >= start_two_minutes ||
+  if (start_one <= start_two &&
+          end_one_minutes + padding_minutes >= start_two_minutes ||
       start_two <= start_one && end_two >= end_one) {
     return true;
   } else {
