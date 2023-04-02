@@ -12,5 +12,8 @@
       "course": "CSE 414",
       "types": ["Lecture"]
     }
-  ]
+  ],
+  "preferred_start_time": "09:00",
+  "preferred_end_time": "16:00",
+  "preferred_padding": "00:10"
 }

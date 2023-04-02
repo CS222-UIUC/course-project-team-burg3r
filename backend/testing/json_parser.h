@@ -62,3 +62,19 @@ std::map<std::string, std::vector<std::string>> required_courses_;
  * as we can build schedules using every section stored.
  */
 vector<Section> all_sections_;
+
+/**
+ * String containing preferred start time for all courses and sections
+ */
+std::string preferred_start_time_;
+
+/**
+ * String containing preferred end time for all courses and sections
+ */
+std::string preferred_end_time_;
+
+
+/*
+* String containing preferred padding between two classes.
+*/
+std::string preferred_padding_;

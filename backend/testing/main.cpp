@@ -95,6 +95,8 @@ int main() {
 	read_stats();
 
 	write_courses("example/output.json");
+	
+	write_courses_individual("example/outputs/out");
 
 	return 0;
 }

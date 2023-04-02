@@ -12,6 +12,10 @@ void read_courses(string req, string all) {
   json required_json = json::parse(required);
   json course_json = json::parse(course);
 
+  preferred_start_time_ = required_json["preferred_start_time"];
+  preferred_end_time_ = required_json["preferred_end_time"];
+  preferred_padding_ = required_json["preferred_padding"];
+
   // Iterate through the JSON array and populate the map
   for (auto &course : required_json["required_courses"]) {
     std::string course_name = course["course"].get<std::string>();
@@ -22,15 +26,15 @@ void read_courses(string req, string all) {
   }
 
   // Print the map
-  for (auto &course : required_courses_) {
-    std::cout << "Required Course: " << course.first << " (";
-    for (auto &type : course.second) {
-      std::cout << type << ", ";
-    }
-    std::cout << ")" << std::endl;
-  }
+  // for (auto &course : required_courses_) {
+  //   std::cout << "Required Course: " << course.first << " (";
+  //   for (auto &type : course.second) {
+  //     std::cout << type << ", ";
+  //   }
+  //   std::cout << ")" << std::endl;
+  // }
 
-  std::cout << "===================" << std::endl;
+  // std::cout << "===================" << std::endl;
 
   // Iterate through the JSON array and populate the Course and Section objects
   for (auto &course : course_json["courses"]) {
@@ -58,18 +62,18 @@ void read_courses(string req, string all) {
   }
 
   // Print the Course and Section objects
-  for (auto &course : courses_) {
-    std::cout << "Course: " << course.getName() << std::endl;
-    for (auto &section : course.getSection()) {
-      std::cout << "  Section: " << section.getName()
-                << ", Type: " << section.getType() << std::endl;
-      for (auto &day : section.getDays()) {
-        std::cout << "    Day: " << day.name << std::endl;
-        std::cout << "      Start Time: " << day.start_time << std::endl;
-        std::cout << "      End Time: " << day.end_time << std::endl;
-      }
-    }
-  }
+  // for (auto &course : courses_) {
+  //   std::cout << "Course: " << course.getName() << std::endl;
+  //   for (auto &section : course.getSection()) {
+  //     std::cout << "  Section: " << section.getName()
+  //               << ", Type: " << section.getType() << std::endl;
+  //     for (auto &day : section.getDays()) {
+  //       std::cout << "    Day: " << day.name << std::endl;
+  //       std::cout << "      Start Time: " << day.start_time << std::endl;
+  //       std::cout << "      End Time: " << day.end_time << std::endl;
+  //     }
+  //   }
+  // }
 
   // add all possible sections into
   for (auto course : courses_) {
@@ -78,7 +82,7 @@ void read_courses(string req, string all) {
     }
   }
 
-  ret_ = make_schedule(all_sections_, required_courses_, num_sections_);
+  ret_ = make_schedule(all_sections_, required_courses_, num_sections_, preferred_start_time_, preferred_end_time_, preferred_padding_);
   for (const Schedule &r : ret_) {
     std::cout << r << std::endl;
   }
@@ -122,4 +126,25 @@ void write_courses(string output) {
   o << std::setw(4) << out << std::endl;
   std::cout << "Schedules generated successfully, saved to " << output << std::endl;
   o.close();
+}
+
+void write_courses_individual(string output) {
+  int count = 0;
+  
+  for (const Schedule &schedule : ret_) {
+    json out = json::array();
+    out.push_back(parse(schedule));
+    
+    string output_modified = output;
+    output_modified += "_";
+    output_modified += to_string(count);
+    output_modified += ".json";
+    
+    std::ofstream o(output_modified);
+    o << std::setw(4) << out << std::endl;
+
+    o.close();
+    count++;
+  }
+  std::cout << "Individual Schedules generated successfully, saved to " << output << std::endl;
 }
