@@ -7,13 +7,28 @@ function addCourse() {
         subject: document.getElementById("subject").value,
         number: document.getElementById("number").value
     };
-            
-    // currently just displays the value added (to change)
+    
     alert(JSON.stringify(course));
+
+    if (0){ // check course list if invalid course (to change)
+      alert("error: invalid class")
+    }
+    else {
+      // alert(JSON.stringify(course));
+      var course_list = document.getElementById("course_list");
+      var course_bubble = document.createElement("&#10006; {subject},{number}");
+      course_list.appendChild(course_bubble);
+      // <button type="button" id="course_bubble" onclick="deleteCourse();">&#10006; subject,number</button>
+    }
+}
+
+function deleteCourse() {
+  var elem = document.getElementById("course_bubble");
+  elem.parentNode.removeChild(elem);
 }
 
 function submitCourses() {
-    var courses = document.getElementsByClassName("course")
+    var courses = document.getElementsByClassName("course");
 
     // currently just displays all courses added (to change)
     alert(JSON.stringify(courses));

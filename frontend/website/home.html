@@ -34,13 +34,16 @@
         </p>
 
 
-        <label for="class">Subject: </label>
-        <input type="text" id="subject">
+        <label for="subject">Subject: </label>
+        <input type="text" id="subject" size="8">
 
-        <label for="time">Number: </label>
-        <input type="text" id="number">
+        <label for="number">Number: </label>
+        <input type="text" id="number" size="8">
 
         <button type="button" onclick="addCourse();">Add</button>
+
+        <br>
+        <p id="course_list"></p>
 
         <br><br>
         <button type="button" onclick="submitCourses();">Submit Courses</button>
