@@ -1,0 +1,193 @@
+{
+  "courses": [
+    {
+      "courseCode": "CS 222",
+      "title": "Software Design Lab",
+      "url": "https://courses.illinois.edu/schedule/2023/spring/CS",
+      "sections": [
+        {
+          "crn": "71617",
+          "status": "restricted",
+          "type": "Laboratory-Discussion",
+          "section": "SDL",
+          "startTime": "13:00",
+          "endTime": "13:50",
+          "day": "W",
+          "instructor": "1002 Electrical & Computer Eng Bldg",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/222"
+        }
+      ]
+    },
+    {
+      "courseCode": "CS 225",
+      "title": "Data Structures",
+      "url": "https://courses.illinois.edu/schedule/2023/spring/CS",
+      "sections": [
+        {
+          "crn": "31208",
+          "status": "restricted",
+          "type": "Lecture",
+          "section": "AL1",
+          "startTime": "11:00",
+          "endTime": "11:50",
+          "day": "MWF",
+          "instructor": "THEAT Lincoln Hall",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "59777",
+          "status": "restricted",
+          "type": "Lecture",
+          "section": "AL2",
+          "startTime": "11:00",
+          "endTime": "11:50",
+          "day": "MWF",
+          "instructor": "THEAT Lincoln Hall",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "31213",
+          "status": "restricted",
+          "type": "Online Lecture",
+          "section": "AL3",
+          "startTime": "11:00",
+          "endTime": "11:50",
+          "day": "MWF",
+          "instructor": "n.a.",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "31234",
+          "status": "restricted",
+          "type": "Laboratory-Discussion",
+          "section": "AYA",
+          "startTime": "13:00",
+          "endTime": "14:50",
+          "day": "R",
+          "instructor": "4029 Campus Instructional Facility",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "31218",
+          "status": "restricted",
+          "type": "Laboratory-Discussion",
+          "section": "AYB",
+          "startTime": "13:00",
+          "endTime": "14:50",
+          "day": "R",
+          "instructor": "4025 Campus Instructional Facility",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "31222",
+          "status": "restricted",
+          "type": "Laboratory-Discussion",
+          "section": "AYC",
+          "startTime": "15:00",
+          "endTime": "16:50",
+          "day": "R",
+          "instructor": "4029 Campus Instructional Facility",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "31225",
+          "status": "restricted",
+          "type": "Laboratory-Discussion",
+          "section": "AYD",
+          "startTime": "15:00",
+          "endTime": "16:50",
+          "day": "R",
+          "instructor": "4025 Campus Instructional Facility",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "31227",
+          "status": "restricted",
+          "type": "Laboratory-Discussion",
+          "section": "AYE",
+          "startTime": "09:00",
+          "endTime": "10:50",
+          "day": "R",
+          "instructor": "4029 Campus Instructional Facility",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        },
+        {
+          "crn": "31229",
+          "status": "restricted",
+          "type": "Laboratory-Discussion",
+          "section": "AYF",
+          "startTime": "16:00",
+          "endTime": "17:50",
+          "day": "W",
+          "instructor": "0035 Campus Instructional Facility",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CS/225"
+        }
+      ]
+    },
+    {
+      "courseCode": "CSE 414",
+      "title": "Algorithms",
+      "url": "https://courses.illinois.edu/schedule/2023/spring/CSE",
+      "sections": [
+        {
+          "crn": "31560",
+          "status": "restricted",
+          "type": "Lecture",
+          "section": "AL1",
+          "startTime": "14:00",
+          "endTime": "15:15",
+          "day": "TR",
+          "instructor": "1404 Siebel Center for Comp Sci",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CSE/414"
+        },
+        {
+          "crn": "58767",
+          "status": "restricted",
+          "type": "Lecture",
+          "section": "AL2",
+          "startTime": "14:00",
+          "endTime": "15:15",
+          "day": "TR",
+          "instructor": "1404 Siebel Center for Comp Sci",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/CSE/414"
+        }
+      ]
+    },
+    {
+      "courseCode": "ABE 141",
+      "title": "ABE Principles: Biological",
+      "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+      "sections": [
+        {
+          "crn": "54768",
+          "status": "restricted",
+          "type": "Lecture",
+          "section": "MGD",
+          "startTime": "10:00",
+          "endTime": "10:50",
+          "day": "MWF",
+          "instructor": "208 Agricultural Engr Sciences Bld",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/141"
+        }
+      ]
+    },
+    {
+      "courseCode": "ABE 152",
+      "title": "Water in the Global Environment",
+      "url": "https://courses.illinois.edu/schedule/2023/spring/ABE",
+      "sections": [
+        {
+          "crn": "73114",
+          "status": "restricted",
+          "type": "Online",
+          "section": "WGE",
+          "startTime": "13:00",
+          "endTime": "14:50",
+          "day": "MW",
+          "instructor": "n.a.",
+          "url": "https://courses.illinois.edu/schedule/2023/spring/ABE/152"
+        }
+      ]
+    }
+  ]
+}
