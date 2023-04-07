@@ -38,27 +38,22 @@ function deleteCourse() {
 }
 
 function submitCourses() {
-    var course_list = document.getElementById("course_list");
-    // alert(course_list.nodeType); // undefined
+    // dummy window
     var a = window.open('', '', 'height=500, width=500');
     a.document.write('<html>');
     a.document.write('<body > <h1>Course list:<br>');
-    a.document.write(JSON.stringify(course_list.childNodes));
-    // a.document.write(course_list.childNodes.values);
-    // alert(course_list.childNodes.length);
-    // for (const course of course_list.childNodes.values()) {
-    //   a.document.write(JSON.stringify(course));
-    // }
-    // for (let i = 0; i < course_list.childNodes.length; i++) {
-    //   a.document.write(course_list.childNodes[i]);
-    // }
+    for (let i = 0; i < course_list.childNodes.length; i++) {
+      a.document.write(course_list.childNodes[i].innerText, '<br>');
+    }
     a.document.write('</body></html>');
+    // a.document.close();
+
+    // alert(location.pathname);
+    fetch('./example.json') // problem reading file
+      .then((response) => response.json())
+      .then((json) => a.document.write(JSON.stringify(json)));
     a.document.close();
-    // a.print();
-    // currently just displays all courses added (to change)
-    // alert(course_list);
-    // alert(JSON.stringify(course_list));
-    // alert(JSON.stringify(course_list));
+    // alert("DONE?");
 }
 
 window.onclick = function(event) {
