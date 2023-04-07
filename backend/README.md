@@ -1,6 +1,6 @@
 # Overall flowchart:
 
-![Flowchart](https://github.com/CS222-UIUC/course-project-team-burg3r/raw/master/backend/CPPFunction.png)
+![Flowchart](https://github.com/CS222-UIUC/course-project-team-burg3r/raw/master/backend/FunctionFlowchart.png)
 
 # Data Format
 
