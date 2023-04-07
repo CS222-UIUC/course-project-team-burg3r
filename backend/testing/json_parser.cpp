@@ -25,17 +25,6 @@ void read_courses(string req, string all) {
     required_courses_[course_name] = course_types;
   }
 
-  // Print the map
-  // for (auto &course : required_courses_) {
-  //   std::cout << "Required Course: " << course.first << " (";
-  //   for (auto &type : course.second) {
-  //     std::cout << type << ", ";
-  //   }
-  //   std::cout << ")" << std::endl;
-  // }
-
-  // std::cout << "===================" << std::endl;
-
   // Iterate through the JSON array and populate the Course and Section objects
   for (auto &course : course_json["courses"]) {
     std::string course_name = course["courseCode"].get<std::string>();
@@ -60,20 +49,6 @@ void read_courses(string req, string all) {
 
     courses_.push_back(c);
   }
-
-  // Print the Course and Section objects
-  // for (auto &course : courses_) {
-  //   std::cout << "Course: " << course.getName() << std::endl;
-  //   for (auto &section : course.getSection()) {
-  //     std::cout << "  Section: " << section.getName()
-  //               << ", Type: " << section.getType() << std::endl;
-  //     for (auto &day : section.getDays()) {
-  //       std::cout << "    Day: " << day.name << std::endl;
-  //       std::cout << "      Start Time: " << day.start_time << std::endl;
-  //       std::cout << "      End Time: " << day.end_time << std::endl;
-  //     }
-  //   }
-  // }
 
   // add all possible sections into
   for (auto course : courses_) {
