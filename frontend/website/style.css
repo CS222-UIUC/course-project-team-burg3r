@@ -14,6 +14,23 @@ p {
     color:black;
 }
 
+.left-offset {
+    margin-left: 30%;
+}
+
+/* .course_list {
+    background-color: #fff;
+    border: 1px solid #e5e5ea;
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    font-family: "SanFrancisco";
+    font-size: 1.25rem;
+    margin: 0 auto 1rem;
+    max-width: 600px;
+    padding: 0.5rem 1.5rem;
+} */
+
 .dropbtn {
     background-color:crimson;
     color:white;

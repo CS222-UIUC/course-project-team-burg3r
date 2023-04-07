@@ -2,23 +2,33 @@ function menuToggle() {
     document.getElementById("dropdown").classList.toggle("show");
 }
 
+// const course_list = document.getElementById("course_list");
+// const courses = document.createElement("p");
+
 function addCourse() {
     var course = {
         subject: document.getElementById("subject").value,
         number: document.getElementById("number").value
     };
     
-    alert(JSON.stringify(course));
+    // alert(JSON.stringify(course));
+
 
     if (0){ // check course list if invalid course (to change)
-      alert("error: invalid class")
+      alert("Invalid class");
     }
     else {
-      // alert(JSON.stringify(course));
-      var course_list = document.getElementById("course_list");
-      var course_bubble = document.createElement("&#10006; {subject},{number}");
-      course_list.appendChild(course_bubble);
-      // <button type="button" id="course_bubble" onclick="deleteCourse();">&#10006; subject,number</button>
+      const new_course = document.createElement("p");
+      const new_course_name = document.createTextNode("[" + course.subject + " " + course.number + "]   ");
+      new_course.append(new_course_name)
+      const course_list = document.getElementById("course_list");
+      if (course_list.contains(new_course)) {
+        // this doesnt properly prevent duplicate classes -- FIX
+        alert("Class has already been added");
+      }
+      else {
+          course_list.append(new_course);
+      }
     }
 }
 
@@ -28,10 +38,27 @@ function deleteCourse() {
 }
 
 function submitCourses() {
-    var courses = document.getElementsByClassName("course");
-
+    var course_list = document.getElementById("course_list");
+    // alert(course_list.nodeType); // undefined
+    var a = window.open('', '', 'height=500, width=500');
+    a.document.write('<html>');
+    a.document.write('<body > <h1>Course list:<br>');
+    a.document.write(JSON.stringify(course_list.childNodes));
+    // a.document.write(course_list.childNodes.values);
+    // alert(course_list.childNodes.length);
+    // for (const course of course_list.childNodes.values()) {
+    //   a.document.write(JSON.stringify(course));
+    // }
+    // for (let i = 0; i < course_list.childNodes.length; i++) {
+    //   a.document.write(course_list.childNodes[i]);
+    // }
+    a.document.write('</body></html>');
+    a.document.close();
+    // a.print();
     // currently just displays all courses added (to change)
-    alert(JSON.stringify(courses));
+    // alert(course_list);
+    // alert(JSON.stringify(course_list));
+    // alert(JSON.stringify(course_list));
 }
 
 window.onclick = function(event) {

@@ -40,18 +40,20 @@
         <label for="number">Number: </label>
         <input type="text" id="number" size="8">
 
-        <button type="button" onclick="addCourse();">Add</button>
+        <button onclick="addCourse()">Add</button>
 
         <br>
         <p id="course_list"></p>
 
         <br><br>
-        <button type="button" onclick="submitCourses();">Submit Courses</button>
-
+        <div class="left-offset">
+            <button onclick="submitCourses()">Submit Courses</button>
+        </div>
+        
         <!-- <label for="location">Location: </label>
         <input type="text"> -->
 
-        <table bgcolor="black" style="margin-top: 30px">
+        <!-- <table bgcolor="black" style="margin-top: 30px">
             <tr bgcolor="tan">
                 <th>Time</th>
                 <th>Sunday</th>
@@ -162,6 +164,6 @@
                 <td> </td>
                 <td> </td>
             </tr>
-        </table>
+        </table> -->
     </body>
 </html>
