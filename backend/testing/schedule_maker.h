@@ -11,6 +11,7 @@
 /**
  * helper function to generate the schedule
  * @param vector<string>
+ * @return Schedule object
  */
 Schedule make_schedule(vector<string>);
 
@@ -28,6 +29,7 @@ void make_schedule(std::vector<Section> all_sections);
  * @param int number of sections needed for the schedule to be complete
  * @param string string containing the preferred start time for all courses and sections
  * @param string string containing the preferred end time for all courses and sections
+ * @return vector holding all schedules made
  */
 std::vector<Schedule> make_schedule(
     std::vector<Section> all_sections,
@@ -39,7 +41,8 @@ std::vector<Schedule> make_schedule(
  * Helper function for time_conflict function.
  * Calculates the time difference in minutes to help satisfy user's padding requirement.
  * @param time1 start time 
- * @parem time2 end time
+ * @param time2 end time
+ * @return time difference
 */
 int time_diff_in_minutes(std::string start, std::string end);
 

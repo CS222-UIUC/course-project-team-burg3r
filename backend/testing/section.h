@@ -55,23 +55,28 @@ class Section {
         string getParentCourse() const;
 
         /**
-         * Function to get the crn of the course
+         * Function to get the crn of the section
+         * @return int holding the crn
         */
         int getCRN() const;
 
         /**
-         * function to get the location for the course
+         * function to get the location for the secion
+         * @return string with location
         */
         string getLocation() const;
 
         /**
-         * function to get the type of the course
+         * function to get the type of the secion
+         * @return string with secion type
         */
         string getType() const;
 
 
         /**
          * Overloaded operator< for std::next_permutation
+         * @param Section other section with day info
+         * @return bool true if this parent course is less than the other parent course
         */
         bool operator<(Section other) {
                 return parent_course_ < other.parent_course_;
@@ -102,14 +107,14 @@ class Section {
         vector<Day> days_;
 
         /**
-        * String contain the type of course
+        * String contain the type of section
 	* Laboratory/Discussion/Lecture/...
 	*/
 	string type_;
 
         /**
 	* String contain the location of the class
-	* Possibly used for calculating distance between two courses' location
+	* Possibly used for calculating distance between two sections' location
 	*/
         string location_;
 };
