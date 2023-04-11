@@ -6,3 +6,4 @@ main
 .vscode/
 *.o
 build/CMakeFiles/
+node_modules/
