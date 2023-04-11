@@ -28,7 +28,7 @@ jobs:
           username: ${{ secrets.REMOTE_USER }}
           key: ${{ secrets.SSH_KEY }}
           rm: true
-          source: "/"
+          source: "."
           target: "${{ secrets.REMOTE_DIR }}"
 
     - name: restart nginx
