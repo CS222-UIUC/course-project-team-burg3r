@@ -19,7 +19,7 @@ jobs:
         key: ${{ secrets.SSH_KEY }}
         script: |
             echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chown -R github:github ${{ secrets.REMOTE_WEBROOT }}
-            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chmod -R 755 ${{ secrets.REMOTE_WEB }}
+            echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chmod -R 755 ${{ secrets.REMOTE_WEBROOT }}
 
     - name: Deploy via SCP
       uses: appleboy/scp-action@master
@@ -28,8 +28,8 @@ jobs:
           username: ${{ secrets.REMOTE_USER }}
           key: ${{ secrets.SSH_KEY }}
           rm: true
-          source: "frontend/website/"
-          target: "${{ secrets.REMOTE_DIR }}"
+          source: "."
+          target: "${{ secrets.REMOTE_WEB }}"
 
     - name: restart nginx
       uses: appleboy/ssh-action@master
