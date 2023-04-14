@@ -2,7 +2,7 @@ function menuToggle() {
     document.getElementById("dropdown").classList.toggle("show");
 }
 
-// const course_list = document.getElementById("course_list");
+const course_list = document.getElementById("course_list");
 // const courses = document.createElement("p");
 
 function addCourse() {
@@ -20,15 +20,30 @@ function addCourse() {
     else {
       const new_course = document.createElement("p");
       const new_course_name = document.createTextNode("[" + course.subject + " " + course.number + "]   ");
-      new_course.append(new_course_name)
-      const course_list = document.getElementById("course_list");
-      if (course_list.contains(new_course)) {
+      new_course_name.textContent = "[" + course.subject + " " + course.number + "]   ";
+      new_course.append(new_course_name);
+      // alert("adding", new_course_name.data);
+      if (course_list.childElementCount > 0) {
+        for (i=0; i<course_list.childElementCount; i++) {
+          // alert(course_list.childNodes[i].textContent);
+          if (new_course_name.textContent == course_list.childNodes[i].textContent) {
+            alert("Class has already been added");
+            return;
+          }
+        }
+        // alert(course_list.childNodes[0].textContent);
+      }
+      // alert(course_list.childNodes);
+      // if (course_list.length > 0) {
+      //   alert("theres something");
+      // }
+      // const course_list = document.getElementById("course_list");
+      // if (new_course in course_list.childNodes) {
         // this doesnt properly prevent duplicate classes -- FIX
-        alert("Class has already been added");
-      }
-      else {
-          course_list.append(new_course);
-      }
+        // alert("Class has already been added");
+      // }
+      
+      course_list.append(new_course);
     }
 }
 
@@ -52,6 +67,7 @@ function submitCourses() {
     fetch('./example.json') // problem reading file
       .then((response) => response.json())
       .then((json) => a.document.write(JSON.stringify(json)));
+
     a.document.close();
     // alert("DONE?");
 }
