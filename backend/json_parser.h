@@ -78,3 +78,8 @@ std::string preferred_end_time_;
 * String containing preferred padding between two classes.
 */
 std::string preferred_padding_;
+
+/**
+ * Vector holding blocked out times
+ */
+vector<Section> blocked_times_;

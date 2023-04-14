@@ -7,7 +7,7 @@ std::vector<Schedule>
 make_schedule(std::vector<Section> all_sections,
               std::map<std::string, std::vector<std::string>> required_courses_,
               int num_sections_, std::string preferred_start_time,
-              std::string preferred_end_time, std::string preferred_padding) {
+              std::string preferred_end_time, std::string preferred_padding, std::vector<Section> blocked_times) {
   std::vector<Schedule> ret;
   std::vector<Section> schedule;
   std::vector<std::string> courses_scheduled;
@@ -18,6 +18,11 @@ make_schedule(std::vector<Section> all_sections,
     // Reset the schedule for this iteration
     schedule.clear();
     courses_scheduled.clear();
+
+    // Populate schedule with blocked out times
+    for (Section blocked : blocked_times) {
+      schedule.push_back(blocked);
+    }
 
     for (Section section : all_sections) {
       // Skip sections that are not required for any course
@@ -97,7 +102,7 @@ make_schedule(std::vector<Section> all_sections,
       // }
     }
     // Check if this schedule satisfies all required types for its course
-    if (schedule.size() == num_sections_) {
+    if (schedule.size() == num_sections_ + blocked_times.size()) {
       Schedule s(schedule, courses_scheduled);
 
       bool existed = false;

@@ -15,6 +15,16 @@ void read_courses(string req, string all) {
   preferred_start_time_ = required_json["preferred_start_time"];
   preferred_end_time_ = required_json["preferred_end_time"];
   preferred_padding_ = required_json["preferred_padding"];
+  
+  for (auto &block : required_json["block_out_times"]) {
+    std::vector<Day> days;
+    for (char x : block["day"].get<std::string>()) {
+      Day d = {x, block["startTime"], block["endTime"]};
+      days.push_back(d);
+    }
+    Section s("BLOCK", "BLOCK", 00000, "BLOCK", days, "N/A");
+    blocked_times_.push_back(s);
+  }
 
   // Iterate through the JSON array and populate the map
   for (auto &course : required_json["required_courses"]) {
@@ -57,7 +67,7 @@ void read_courses(string req, string all) {
     }
   }
 
-  ret_ = make_schedule(all_sections_, required_courses_, num_sections_, preferred_start_time_, preferred_end_time_, preferred_padding_);
+  ret_ = make_schedule(all_sections_, required_courses_, num_sections_, preferred_start_time_, preferred_end_time_, preferred_padding_, blocked_times_);
   for (const Schedule &r : ret_) {
     std::cout << r << std::endl;
   }

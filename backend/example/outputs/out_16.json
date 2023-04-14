@@ -7,18 +7,18 @@
                 "days": [
                     {
                         "day": "M",
-                        "end_time": "08:00",
-                        "start_time": "07:00"
+                        "end_time": "10:00",
+                        "start_time": "09:00"
                     },
                     {
                         "day": "W",
-                        "end_time": "08:00",
-                        "start_time": "07:00"
+                        "end_time": "10:00",
+                        "start_time": "09:00"
                     },
                     {
                         "day": "F",
-                        "end_time": "08:00",
-                        "start_time": "07:00"
+                        "end_time": "10:00",
+                        "start_time": "09:00"
                     }
                 ],
                 "location": "N/A",
@@ -26,22 +26,27 @@
                 "type": "BLOCK"
             },
             {
-                "course": "CS 225",
-                "crn": 31229,
+                "course": "CSE 414",
+                "crn": 31560,
                 "days": [
                     {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
+                        "day": "T",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    },
+                    {
+                        "day": "R",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
                     }
                 ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
+                "location": "1404 Siebel Center for Comp Sci",
+                "section": "AL1",
+                "type": "Lecture"
             },
             {
                 "course": "CS 225",
-                "crn": 31208,
+                "crn": 59777,
                 "days": [
                     {
                         "day": "M",
@@ -60,40 +65,21 @@
                     }
                 ],
                 "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
-            },
-            {
-                "course": "CSE 414",
-                "crn": 58767,
-                "days": [
-                    {
-                        "day": "T",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    },
-                    {
-                        "day": "R",
-                        "end_time": "15:15",
-                        "start_time": "14:00"
-                    }
-                ],
-                "location": "1404 Siebel Center for Comp Sci",
                 "section": "AL2",
                 "type": "Lecture"
             },
             {
-                "course": "CS 222",
-                "crn": 71617,
+                "course": "CS 225",
+                "crn": 31218,
                 "days": [
                     {
-                        "day": "W",
-                        "end_time": "13:50",
+                        "day": "R",
+                        "end_time": "14:50",
                         "start_time": "13:00"
                     }
                 ],
-                "location": "1002 Electrical & Computer Eng Bldg",
-                "section": "SDL",
+                "location": "4025 Campus Instructional Facility",
+                "section": "AYB",
                 "type": "Laboratory-Discussion"
             }
         ]

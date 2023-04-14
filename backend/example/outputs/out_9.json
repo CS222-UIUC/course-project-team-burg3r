@@ -7,61 +7,23 @@
                 "days": [
                     {
                         "day": "M",
-                        "end_time": "08:00",
-                        "start_time": "07:00"
+                        "end_time": "10:00",
+                        "start_time": "09:00"
                     },
                     {
                         "day": "W",
-                        "end_time": "08:00",
-                        "start_time": "07:00"
+                        "end_time": "10:00",
+                        "start_time": "09:00"
                     },
                     {
                         "day": "F",
-                        "end_time": "08:00",
-                        "start_time": "07:00"
+                        "end_time": "10:00",
+                        "start_time": "09:00"
                     }
                 ],
                 "location": "N/A",
                 "section": "BLOCK",
                 "type": "BLOCK"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31229,
-                "days": [
-                    {
-                        "day": "W",
-                        "end_time": "17:50",
-                        "start_time": "16:00"
-                    }
-                ],
-                "location": "0035 Campus Instructional Facility",
-                "section": "AYF",
-                "type": "Laboratory-Discussion"
-            },
-            {
-                "course": "CS 225",
-                "crn": 31208,
-                "days": [
-                    {
-                        "day": "M",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "W",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    },
-                    {
-                        "day": "F",
-                        "end_time": "11:50",
-                        "start_time": "11:00"
-                    }
-                ],
-                "location": "THEAT Lincoln Hall",
-                "section": "AL1",
-                "type": "Lecture"
             },
             {
                 "course": "CSE 414",
@@ -95,6 +57,30 @@
                 "location": "1002 Electrical & Computer Eng Bldg",
                 "section": "SDL",
                 "type": "Laboratory-Discussion"
+            },
+            {
+                "course": "CS 225",
+                "crn": 31213,
+                "days": [
+                    {
+                        "day": "M",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    },
+                    {
+                        "day": "W",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    },
+                    {
+                        "day": "F",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    }
+                ],
+                "location": "n.a.",
+                "section": "AL3",
+                "type": "Online Lecture"
             }
         ]
     }
