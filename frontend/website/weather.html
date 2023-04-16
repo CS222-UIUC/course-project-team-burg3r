@@ -13,7 +13,16 @@
     <link rel="stylesheet" href="./weather_style.css">
     <script src="./script.js"></script>
 </head>
-<body onload="weather.fetchWeather2()"">
+<body onload="weather.fetchWeather2()">
+    <div class="dropdown">
+        <button onclick="menuToggle()" class="dropbtn">Menu</button>
+        <div class="dropdown-content">
+            <a href="home.html">Scheduler</a>
+            <a href="ouralgorithm.html">Our Algorithm</a>
+            <a href="about.html">About</a>
+            <a href="weather.html">Campus Weather</a>
+        </div>
+    </div> 
     <div class="card">
         <div class="search">
             <button>
@@ -22,10 +31,10 @@
         </div>
         <div class="weather">
             <h2 class="city">How's the weather at the UIUC?</h2>
-            <h1 class="temp">51°F</h1>
-            <div class="description">Cloudy</div>
-            <div class="humidity">Humidity</div>
-            <div class="wind">Wind Speed: 2.5 mph</div>
+            <h1 class="temp">Loading...</h1>
+            <div class="description">Loading...</div>
+            <div class="humidity">Loading...</div>
+            <div class="wind">Loading...</div>
         </div>
     </div>
 </body>
