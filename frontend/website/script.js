@@ -1,3 +1,459 @@
+// const dataJson = require('../example.json'); // assert { type: 'JSON' };
+// console.log(dataJson);
+
+exampleJson = [
+  {
+      "schedule": [
+          {
+              "course": "CSE 414",
+              "crn": 58767,
+              "days": [
+                  {
+                      "day": "T",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  },
+                  {
+                      "day": "R",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  }
+              ],
+              "location": "1404 Siebel Center for Comp Sci",
+              "section": "AL2",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 222",
+              "crn": 71617,
+              "days": [
+                  {
+                      "day": "W",
+                      "end_time": "13:50",
+                      "start_time": "13:00"
+                  }
+              ],
+              "location": "1002 Electrical & Computer Eng Bldg",
+              "section": "SDL",
+              "type": "Laboratory-Discussion"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31208,
+              "days": [
+                  {
+                      "day": "M",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "W",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "F",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  }
+              ],
+              "location": "THEAT Lincoln Hall",
+              "section": "AL1",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31227,
+              "days": [
+                  {
+                      "day": "R",
+                      "end_time": "10:50",
+                      "start_time": "09:00"
+                  }
+              ],
+              "location": "4029 Campus Instructional Facility",
+              "section": "AYE",
+              "type": "Laboratory-Discussion"
+          }
+      ]
+  },
+  {
+      "schedule": [
+          {
+              "course": "CSE 414",
+              "crn": 58767,
+              "days": [
+                  {
+                      "day": "T",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  },
+                  {
+                      "day": "R",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  }
+              ],
+              "location": "1404 Siebel Center for Comp Sci",
+              "section": "AL2",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 222",
+              "crn": 71617,
+              "days": [
+                  {
+                      "day": "W",
+                      "end_time": "13:50",
+                      "start_time": "13:00"
+                  }
+              ],
+              "location": "1002 Electrical & Computer Eng Bldg",
+              "section": "SDL",
+              "type": "Laboratory-Discussion"
+          },
+          {
+              "course": "CS 225",
+              "crn": 59777,
+              "days": [
+                  {
+                      "day": "M",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "W",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "F",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  }
+              ],
+              "location": "THEAT Lincoln Hall",
+              "section": "AL2",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31227,
+              "days": [
+                  {
+                      "day": "R",
+                      "end_time": "10:50",
+                      "start_time": "09:00"
+                  }
+              ],
+              "location": "4029 Campus Instructional Facility",
+              "section": "AYE",
+              "type": "Laboratory-Discussion"
+          }
+      ]
+  },
+  {
+      "schedule": [
+          {
+              "course": "CSE 414",
+              "crn": 31560,
+              "days": [
+                  {
+                      "day": "T",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  },
+                  {
+                      "day": "R",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  }
+              ],
+              "location": "1404 Siebel Center for Comp Sci",
+              "section": "AL1",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 222",
+              "crn": 71617,
+              "days": [
+                  {
+                      "day": "W",
+                      "end_time": "13:50",
+                      "start_time": "13:00"
+                  }
+              ],
+              "location": "1002 Electrical & Computer Eng Bldg",
+              "section": "SDL",
+              "type": "Laboratory-Discussion"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31213,
+              "days": [
+                  {
+                      "day": "M",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "W",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "F",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  }
+              ],
+              "location": "n.a.",
+              "section": "AL3",
+              "type": "Online Lecture"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31227,
+              "days": [
+                  {
+                      "day": "R",
+                      "end_time": "10:50",
+                      "start_time": "09:00"
+                  }
+              ],
+              "location": "4029 Campus Instructional Facility",
+              "section": "AYE",
+              "type": "Laboratory-Discussion"
+          }
+      ]
+  },
+  {
+      "schedule": [
+          {
+              "course": "CSE 414",
+              "crn": 31560,
+              "days": [
+                  {
+                      "day": "T",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  },
+                  {
+                      "day": "R",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  }
+              ],
+              "location": "1404 Siebel Center for Comp Sci",
+              "section": "AL1",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 222",
+              "crn": 71617,
+              "days": [
+                  {
+                      "day": "W",
+                      "end_time": "13:50",
+                      "start_time": "13:00"
+                  }
+              ],
+              "location": "1002 Electrical & Computer Eng Bldg",
+              "section": "SDL",
+              "type": "Laboratory-Discussion"
+          },
+          {
+              "course": "CS 225",
+              "crn": 59777,
+              "days": [
+                  {
+                      "day": "M",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "W",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "F",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  }
+              ],
+              "location": "THEAT Lincoln Hall",
+              "section": "AL2",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31227,
+              "days": [
+                  {
+                      "day": "R",
+                      "end_time": "10:50",
+                      "start_time": "09:00"
+                  }
+              ],
+              "location": "4029 Campus Instructional Facility",
+              "section": "AYE",
+              "type": "Laboratory-Discussion"
+          }
+      ]
+  },
+  {
+      "schedule": [
+          {
+              "course": "CSE 414",
+              "crn": 58767,
+              "days": [
+                  {
+                      "day": "T",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  },
+                  {
+                      "day": "R",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  }
+              ],
+              "location": "1404 Siebel Center for Comp Sci",
+              "section": "AL2",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 222",
+              "crn": 71617,
+              "days": [
+                  {
+                      "day": "W",
+                      "end_time": "13:50",
+                      "start_time": "13:00"
+                  }
+              ],
+              "location": "1002 Electrical & Computer Eng Bldg",
+              "section": "SDL",
+              "type": "Laboratory-Discussion"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31213,
+              "days": [
+                  {
+                      "day": "M",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "W",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "F",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  }
+              ],
+              "location": "n.a.",
+              "section": "AL3",
+              "type": "Online Lecture"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31227,
+              "days": [
+                  {
+                      "day": "R",
+                      "end_time": "10:50",
+                      "start_time": "09:00"
+                  }
+              ],
+              "location": "4029 Campus Instructional Facility",
+              "section": "AYE",
+              "type": "Laboratory-Discussion"
+          }
+      ]
+  },
+  {
+      "schedule": [
+          {
+              "course": "CS 225",
+              "crn": 31208,
+              "days": [
+                  {
+                      "day": "M",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "W",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  },
+                  {
+                      "day": "F",
+                      "end_time": "11:50",
+                      "start_time": "11:00"
+                  }
+              ],
+              "location": "THEAT Lincoln Hall",
+              "section": "AL1",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 225",
+              "crn": 31227,
+              "days": [
+                  {
+                      "day": "R",
+                      "end_time": "10:50",
+                      "start_time": "09:00"
+                  }
+              ],
+              "location": "4029 Campus Instructional Facility",
+              "section": "AYE",
+              "type": "Laboratory-Discussion"
+          },
+          {
+              "course": "CSE 414",
+              "crn": 31560,
+              "days": [
+                  {
+                      "day": "T",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  },
+                  {
+                      "day": "R",
+                      "end_time": "15:15",
+                      "start_time": "14:00"
+                  }
+              ],
+              "location": "1404 Siebel Center for Comp Sci",
+              "section": "AL1",
+              "type": "Lecture"
+          },
+          {
+              "course": "CS 222",
+              "crn": 71617,
+              "days": [
+                  {
+                      "day": "W",
+                      "end_time": "13:50",
+                      "start_time": "13:00"
+                  }
+              ],
+              "location": "1002 Electrical & Computer Eng Bldg",
+              "section": "SDL",
+              "type": "Laboratory-Discussion"
+          }
+      ]
+  }
+];
+
 function menuToggle() {
     document.getElementById("dropdown").classList.toggle("show");
 }
@@ -49,12 +505,20 @@ function submitCourses() {
     // a.document.close();
 
     // alert(location.pathname);
-    fetch('./example.json') // problem reading file
-      .then((response) => response.json())
-      .then((json) => a.document.write(JSON.stringify(json)));
+    // fetch('./example.json') // problem reading file
+    //   .then((response) => response.json())
+    //   .then((json) => a.document.write(JSON.stringify(json)));
 
     a.document.close();
     // alert("DONE?");
+
+    //
+    // get schedule output from backend
+    //
+    // alert("hey");
+    
+    alert(exampleJson);
+    
 }
 
 window.onclick = function(event) {
