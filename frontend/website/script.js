@@ -2,12 +2,12 @@ function menuToggle() {
     document.getElementById("dropdown").classList.toggle("show");
 }
 
-const course_list = document.getElementById("course_list");
+// const course_list = document.getElementById("course_list");
 // const courses = document.createElement("p");
 
 function addCourse() {
     var course = {
-        subject: document.getElementById("subject").value,
+        subject: document.getElementById("subject").value.toUpperCase(),
         number: document.getElementById("number").value
     };
     
@@ -18,38 +18,23 @@ function addCourse() {
       alert("Invalid class");
     }
     else {
-      const new_course = document.createElement("p");
-      const new_course_name = document.createTextNode("[" + course.subject + " " + course.number + "]   ");
-      new_course_name.textContent = "[" + course.subject + " " + course.number + "]   ";
-      new_course.append(new_course_name);
-      // alert("adding", new_course_name.data);
+      const course_list = document.getElementById("course_list");
       if (course_list.childElementCount > 0) {
         for (i=0; i<course_list.childElementCount; i++) {
-          // alert(course_list.childNodes[i].textContent);
-          if (new_course_name.textContent == course_list.childNodes[i].textContent) {
+          if (JSON.stringify(course_list.childNodes[i].data) == JSON.stringify(course)) {
             alert("Class has already been added");
             return;
           }
         }
-        // alert(course_list.childNodes[0].textContent);
       }
-      // alert(course_list.childNodes);
-      // if (course_list.length > 0) {
-      //   alert("theres something");
-      // }
-      // const course_list = document.getElementById("course_list");
-      // if (new_course in course_list.childNodes) {
-        // this doesnt properly prevent duplicate classes -- FIX
-        // alert("Class has already been added");
-      // }
-      
+      const new_course = document.createElement("button");
+      new_course.textContent = course.subject + " " + course.number;
+      new_course.data = course;
+      new_course.onclick = function deleteCourse() {
+        new_course.parentNode.removeChild(new_course);
+      }
       course_list.append(new_course);
     }
-}
-
-function deleteCourse() {
-  var elem = document.getElementById("course_bubble");
-  elem.parentNode.removeChild(elem);
 }
 
 function submitCourses() {
