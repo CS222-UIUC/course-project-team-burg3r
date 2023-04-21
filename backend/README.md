@@ -86,7 +86,7 @@ This file consists of required courses and the type of sections you need: lectur
 
 3. Example schedule output
 
-Function was given 5 total courses, 3 of which were required, and 4 total required sections (2 lectures, 2 lab-discussions). Constraints on course times were also provided. Preferences were 05:00 to 20:00, with a 00:10 padding between courses. Blocked out times were MWF from 07:00 to 08:00 It generated 9 possible schedules and here is one example:
+Function was given 5 total courses, 3 of which were required, and 4 total required sections (2 lectures, 2 lab-discussions). Constraints on course times were also provided. Preferences were from 05:00 to 20:00 with a 00:10 padding between courses. Blocked out times were MWF from 07:00 to 08:00. It generated 9 possible schedules and here is one example:
 
 ```json
 [
