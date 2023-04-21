@@ -51,87 +51,144 @@ note: some of the information here might not be very necessary, and I think is b
 }
 ```
 
-2. Example schedule output
+2. Required Courses + Section Type Input
 
-Function was given 5 total courses, 3 of which were required, and 4 total required sections (Ex: Lecture, Lab/Discussion). Constraints on course times were also provided. Preferences were 09:00 to 16:00, with a 00:10 padding between courses. It generated 6 possible schedules and here is one example:
+This file consists of required courses and the type of sections you need: lecture, discussion, etc. This file contains preferences on start and end times for all courses throughout a day allowing you to choose when you want to have classes. It also contains a preferred padding allowing you to choose how much time to allow yourself to travel between classes or allow for breaks. The last piece of information it holds is a field to add blocked out times. These times will not contain any courses. This is useful to allow you to schedule time for work, clubs, and other various events.
+
+```json
+{
+  "required_courses": [
+    {
+      "course": "CS 225",
+      "types": ["Lecture", "Laboratory-Discussion"]
+    },
+    {
+      "course": "CS 222",
+      "types": ["Laboratory-Discussion"]
+    },
+    {
+      "course": "CSE 414",
+      "types": ["Lecture"]
+    }
+  ],
+  "preferred_start_time": "05:00",
+  "preferred_end_time": "20:00",
+  "preferred_padding": "00:10",
+  "block_out_times": [
+    {
+      "day": "MWF",
+      "startTime": "07:00",
+      "endTime": "08:00"
+    }
+  ]
+}
+```
+
+3. Example schedule output
+
+Function was given 5 total courses, 3 of which were required, and 4 total required sections (2 lectures, 2 lab-discussions). Constraints on course times were also provided. Preferences were 05:00 to 20:00, with a 00:10 padding between courses. Blocked out times were MWF from 07:00 to 08:00 It generated 9 possible schedules and here is one example:
 
 ```json
 [
-  {
-    "schedule": [
-      {
-        "course": "CSE 414",
-        "crn": 58767,
-        "days": [
-          {
-            "day": "T",
-            "end_time": "15:15",
-            "start_time": "14:00"
-          },
-          {
-            "day": "R",
-            "end_time": "15:15",
-            "start_time": "14:00"
-          }
-        ],
-        "location": "1404 Siebel Center for Comp Sci",
-        "section": "AL2",
-        "type": "Lecture"
-      },
-      {
-        "course": "CS 222",
-        "crn": 71617,
-        "days": [
-          {
-            "day": "W",
-            "end_time": "13:50",
-            "start_time": "13:00"
-          }
-        ],
-        "location": "1002 Electrical & Computer Eng Bldg",
-        "section": "SDL",
-        "type": "Laboratory-Discussion"
-      },
-      {
-        "course": "CS 225",
-        "crn": 31208,
-        "days": [
-          {
-            "day": "M",
-            "end_time": "11:50",
-            "start_time": "11:00"
-          },
-          {
-            "day": "W",
-            "end_time": "11:50",
-            "start_time": "11:00"
-          },
-          {
-            "day": "F",
-            "end_time": "11:50",
-            "start_time": "11:00"
-          }
-        ],
-        "location": "THEAT Lincoln Hall",
-        "section": "AL1",
-        "type": "Lecture"
-      },
-      {
-        "course": "CS 225",
-        "crn": 31227,
-        "days": [
-          {
-            "day": "R",
-            "end_time": "10:50",
-            "start_time": "09:00"
-          }
-        ],
-        "location": "4029 Campus Instructional Facility",
-        "section": "AYE",
-        "type": "Laboratory-Discussion"
-      }
-    ]
-  }
+    {
+        "schedule": [
+            {
+                "course": "BLOCK",
+                "crn": 0,
+                "days": [
+                    {
+                        "day": "M",
+                        "end_time": "08:00",
+                        "start_time": "07:00"
+                    },
+                    {
+                        "day": "W",
+                        "end_time": "08:00",
+                        "start_time": "07:00"
+                    },
+                    {
+                        "day": "F",
+                        "end_time": "08:00",
+                        "start_time": "07:00"
+                    }
+                ],
+                "location": "N/A",
+                "section": "BLOCK",
+                "type": "BLOCK"
+            },
+            {
+                "course": "CS 225",
+                "crn": 31229,
+                "days": [
+                    {
+                        "day": "W",
+                        "end_time": "17:50",
+                        "start_time": "16:00"
+                    }
+                ],
+                "location": "0035 Campus Instructional Facility",
+                "section": "AYF",
+                "type": "Laboratory-Discussion"
+            },
+            {
+                "course": "CS 225",
+                "crn": 31208,
+                "days": [
+                    {
+                        "day": "M",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    },
+                    {
+                        "day": "W",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    },
+                    {
+                        "day": "F",
+                        "end_time": "11:50",
+                        "start_time": "11:00"
+                    }
+                ],
+                "location": "THEAT Lincoln Hall",
+                "section": "AL1",
+                "type": "Lecture"
+            },
+            {
+                "course": "CSE 414",
+                "crn": 58767,
+                "days": [
+                    {
+                        "day": "T",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    },
+                    {
+                        "day": "R",
+                        "end_time": "15:15",
+                        "start_time": "14:00"
+                    }
+                ],
+                "location": "1404 Siebel Center for Comp Sci",
+                "section": "AL2",
+                "type": "Lecture"
+            },
+            {
+                "course": "CS 222",
+                "crn": 71617,
+                "days": [
+                    {
+                        "day": "W",
+                        "end_time": "13:50",
+                        "start_time": "13:00"
+                    }
+                ],
+                "location": "1002 Electrical & Computer Eng Bldg",
+                "section": "SDL",
+                "type": "Laboratory-Discussion"
+            }
+        ]
+    }
 ]
 ```
 
