@@ -15,8 +15,8 @@ jobs:
         run: sudo apt install -y build-essential
       - name: make
         run: cd backend && mkdir build && make
-      - name: Upload executable
-        uses: actions/upload-artifact@v2
+      - name: create release
+      - uses: ncipollo/release-action@v1
         with:
-          name: main
-          path: build/main
+          artifacts: "build/main"
+          
