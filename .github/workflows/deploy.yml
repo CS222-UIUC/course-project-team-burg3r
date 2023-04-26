@@ -43,4 +43,5 @@ jobs:
             echo ${{ secrets.SUDO_PASSWORD }} | sudo -S systemctl restart nginx
             echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chown -R github:github ${{ secrets.REMOTE_BACKEND }}
             echo ${{ secrets.SUDO_PASSWORD }} | sudo -S chmod -R 755 ${{ secrets.REMOTE_BACKEND }}
-            npm install && pm2 restart api
+            cd ${{ secrets.REMOTE_BACKEND }} && mkdir build && make
+            npm install express && pm2 delete api && pm2 start api
