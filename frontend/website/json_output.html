@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Reader</title>
+</head>
+<body>
+    <h1>Schedule Reader</h1>
+    <!-- <p id="id"></p> -->
+    <p id="ALL"> </p>
+    <p id="SU">Sunday: </p>
+    <p id="M">Monday: </p>
+    <p id="T">Tuesday: </p>
+    <p id="W">Wednesday: </p>
+    <p id="R">Thursday: </p>
+    <p id="F">Friday: </p>
+    <p id="SA">Saturday: </p>
+    <script type="text/javascript">
+        fetch("JSON/example.json")
+        .then(function(response) {
+            return response.json();
+        })
+        .then(function(data) {
+            for (sched in data) {
+                // sched = sched.schedule;
+                document.getElementById("ALL").innerHTML += sched.keys; // undefined
+                // document.getElementById("ALL").innerHTML += "poop";
+                // document.getElementById("ALL").innerHTML += sched[0].length;
+                // for (var i = 0; i < sched.schedule.length; i++) {
+                // document.getElementById("ALL").innerHTML += "UH" +sched.course;
+                for (course in sched) {
+                    // document.getElementById("ALL").innerHTML += "hi";
+                    // document.getElementById("ALL").innerHTML += "hi" + course.course;
+                    for (meet in course.days) {
+                        // document.getElementById(meet.day).innerHTML += course.course;
+                    }
+                }
+                // document.getElementById("id").innerHTML +=
+                // "ID: " + data.schedule.schedule_id;
+                // document.getElementById("mon").innerHTML +=
+                // for (var i = 0; i < data.schedule.sunday.length; i++) {
+                //     document.getElementById("days").innerHTML +=
+                //     "Class: " +
+                //     data.schedule.sunday[i].class.name +
+                //     "</br> Section: " +
+                //     data.schedule.sunday[i].class.section +
+                //     "</br> From: " +
+                //     data.schedule.sunday[i].class.start_time + " to " +
+                //     data.schedule.sunday[i].class.end_time + "</br>";
+                // }
+                // document.getElementById("days").innerHTML += "Monday: </br>";
+                // for (var i = 0; i < data.schedule.monday.length; i++) {
+                //     document.getElementById("days").innerHTML +=
+                //     "Class: " +
+                //     data.schedule.monday[i].class.name +
+                //     "</br> Section: " +
+                //     data.schedule.monday[i].class.section +
+                //     "</br> From: " +
+                //     data.schedule.monday[i].class.start_time + " to " +
+                //     data.schedule.monday[i].class.end_time + "</br>";
+                // }
+                // document.getElementById("days").innerHTML += "Tuesday: </br>";
+                // for (var i = 0; i < data.schedule.tuesday.length; i++) {
+                //     document.getElementById("days").innerHTML +=
+                //     "Class: " +
+                //     data.schedule.tuesday[i].class.name +
+                //     "</br> Section: " +
+                //     data.schedule.tuesday[i].class.section +
+                //     "</br> From: " +
+                //     data.schedule.tuesday[i].class.start_time + " to " +
+                //     data.schedule.tuesday[i].class.end_time + "</br>";
+                // }
+                // document.getElementById("days").innerHTML += "Wednesday: </br>";
+                // for (var i = 0; i < data.schedule.wednesday.length; i++) {
+                //     document.getElementById("days").innerHTML +=
+                //     "Class: " +
+                //     data.schedule.wednesday[i].class.name +
+                //     "</br> Section: " +
+                //     data.schedule.wednesday[i].class.section +
+                //     "</br> From: " +
+                //     data.schedule.wednesday[i].class.start_time + " to " +
+                //     data.schedule.wednesday[i].class.end_time + "</br>";
+                // }
+                // document.getElementById("days").innerHTML += "Thursday: </br>";
+                // for (var i = 0; i < data.schedule.thursday.length; i++) {
+                //     document.getElementById("days").innerHTML +=
+                //     "Class: " +
+                //     data.schedule.thursday[i].class.name +
+                //     "</br> Section: " +
+                //     data.schedule.thursday[i].class.section +
+                //     "</br> From: " +
+                //     data.schedule.thursday[i].class.start_time + " to " +
+                //     data.schedule.thursday[i].class.end_time + "</br>";
+                // }
+                // document.getElementById("days").innerHTML += "Friday: </br>";
+                // for (var i = 0; i < data.schedule.wednesday.length; i++) {
+                //     document.getElementById("days").innerHTML +=
+                //     "Class: " +
+                //     data.schedule.friday[i].class.name +
+                //     "</br> Section: " +
+                //     data.schedule.friday[i].class.section +
+                //     "</br> From: " +
+                //     data.schedule.friday[i].class.start_time + " to " +
+                //     data.schedule.friday[i].class.end_time + "</br>";
+                // }
+                // document.getElementById("days").innerHTML += "Saturday: </br>";
+                // for (var i = 0; i < data.schedule.saturday.length; i++) {
+                //     document.getElementById("days").innerHTML +=
+                //     "Class: " +
+                //     data.schedule.saturday[i].class.name +
+                //     "</br> Section: " +
+                //     data.schedule.saturday[i].class.section +
+                //     "</br> From: " +
+                //     data.schedule.saturday[i].class.start_time + " to " +
+                //     data.schedule.saturday[i].class.end_time + "</br>";
+                // }
+            }
+            })
+            .catch(function(err) {
+                console.log(err)
+        })
+
+    </script>
+</body>
+</html>
