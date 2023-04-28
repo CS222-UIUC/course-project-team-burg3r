@@ -59,27 +59,57 @@ function submitCourses() {
     })
     .then(function(data) {
         document.getElementById("Results").innerHTML += "Schedule Results";
-        document.getElementById("SU").innerHTML += "Sunday: ";
-        document.getElementById("M").innerHTML += "Monday: ";
-        document.getElementById("T").innerHTML += "Tuesday: ";
-        document.getElementById("W").innerHTML += "Wednesday: ";
-        document.getElementById("R").innerHTML += "Thursday: ";
-        document.getElementById("F").innerHTML += "Friday: ";
-        document.getElementById("SA").innerHTML += "Saturday: ";
-
+        document.getElementsByClassName("prev").innerHTML += "&#10094";
+        document.getElementsByClassName("next").innerHTML += "&#10095;";
         for (var i=0; i<data.length; i++) {
             sched = data[i];
+            var slide = document.createElement("div");
+            slide.className = "slide";
             for (var j=0; j<sched.schedule.length; j++) {
-                document.getElementById("ALL").innerHTML += sched.schedule[j].course + "</br>";
+                slide.innerHTML += sched.schedule[j].course + "</br>";
             }
+            document.getElementsByClassName("results-slideshow").appendChild(slide);
+            var dot = document.createElement("span");
+            dot.className = "dot";
+            dot.onclick = currentSlide(i);
+            document.getElementsByClassName("dot").appendChild(dot);
         }
+        // document.getElementById("ALL").innerHTML += "last";
         // window.open("results.html");
+        
         })
         .catch(function(err) {
             console.log(err)
     })
     
 }
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("slide");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+    }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+} 
 
 window.onclick = function(event) {
     if (!event.target.matches('.dropbtn')) {
