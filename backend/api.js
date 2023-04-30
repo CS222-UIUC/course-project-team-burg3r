@@ -23,7 +23,7 @@ app.post("/process", (req, res) => {
   }
 
   // Save the received JSON
-  const inputFile = `example/in-${time}.json`;
+  const inputFile = `example/demo/in-${time}.json`;
   fs.writeFileSync(inputFile, JSON.stringify(req.body));
 
   const process = spawn("./build/main", [inputFile, time]);
@@ -44,7 +44,7 @@ app.post("/process", (req, res) => {
       console.error(`Process exited with code ${code}`);
     }
 
-    const outputFile = `example/output-${time}.json`;
+    const outputFile = `example/demo/output-${time}.json`;
     console.log(`file written to: ${outputFile} \n`);
     res.sendFile(path.resolve(outputFile), () => {
       safeDeleteFile(inputFile);

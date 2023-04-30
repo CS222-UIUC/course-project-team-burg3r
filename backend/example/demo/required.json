@@ -1,0 +1,26 @@
+{
+  "required_courses": [
+    {
+      "course": "CS 225",
+      "types": ["Lecture", "Laboratory-Discussion"]
+    },
+    {
+      "course": "CS 222",
+      "types": ["Laboratory-Discussion"]
+    },
+    {
+      "course": "CSE 414",
+      "types": ["Lecture"]
+    }
+  ],
+  "preferred_start_time": "05:00",
+  "preferred_end_time": "20:00",
+  "preferred_padding": "00:10",
+  "block_out_times": [
+    {
+      "day": "MWF",
+      "startTime": "07:00",
+      "endTime": "08:00"
+    }
+  ]
+}

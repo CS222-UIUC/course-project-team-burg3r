@@ -1,0 +1,18 @@
+digraph "read_courses"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="read_courses",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="make_schedule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$schedule__maker_8cpp.html#aa2c88e90267455fdec0d872068b25369",tooltip=" "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="time_conflict",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$schedule__maker_8cpp.html#aaa4b199053a37d93320364c8459d7ded",tooltip=" "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="time_diff_in_minutes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$schedule__maker_8cpp.html#ab756784d7a4d58f3c8ba9c042d42a1cb",tooltip=" "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="parse",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$json__parser_8cpp.html#a05378c4e9e46b5b68d745abfb098160b",tooltip=" "];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Schedule::getSchedule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSchedule.html#a22dde6559eb408d4bf37ca3a7508922e",tooltip=" "];
+}
