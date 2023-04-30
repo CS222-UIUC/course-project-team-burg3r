@@ -55,9 +55,8 @@ void read_courses(string req, string all) {
     Course c(course_name);
 
     for (auto &section : course["sections"]) {
-      try {
-        std::string section_name = section["section"].get<std::string>();
-        std::string section_type = section["type"].get<std::string>();
+
+        std::string section_name = section["section"].get<std::string>();        std::string section_type = section["type"].get<std::string>();
         int section_crn = std::stoi(section["crn"].get<std::string>());
         std::vector<Day> days;
         for (char x : section["day"].get<std::string>()) {
@@ -71,8 +70,6 @@ void read_courses(string req, string all) {
                   location);
 
         c.addSection(s);
-      } catch (...) {
-      }
     }
 
     courses_.push_back(c);
