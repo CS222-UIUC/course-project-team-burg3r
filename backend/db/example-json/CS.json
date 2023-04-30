@@ -1,0 +1,4696 @@
+[
+  {
+    "courseCode": "CS 100",
+    "title": "Computer Science Orientation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "30094",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 101",
+    "title": "Intro Computing: Engrg & Sci",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "35879",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35886",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYA",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35889",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYB",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35890",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYC",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35893",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYD",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "61077",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYE",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35915",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYF",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35896",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYG",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35902",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYH",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35907",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYI",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35899",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYJ",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35918",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYK",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "61078",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYL",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35910",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYM",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "35913",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYN",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "62682",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYO",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "62683",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYP",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "62913",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYQ",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "62914",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYR",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      },
+      {
+        "crn": "75847",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYS",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "L416 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 105",
+    "title": "Intro Computing: Non-Tech",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "35823",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "16:00",
+        "endTime": "17:45",
+        "day": "R",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "47174",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYA",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "M",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35827",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYB",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "M",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35828",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYC",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "M",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35847",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYD",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "M",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35831",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYE",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35833",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYG",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "T",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35835",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYH",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35836",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYI",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "T",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35837",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYJ",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35838",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYK",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35843",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYM",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "W",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "47175",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYN",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "W",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35854",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYP",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "W",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      },
+      {
+        "crn": "35856",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYQ",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "W",
+        "instructor": "101 901 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/105"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 107",
+    "title": "Data Science Discovery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "71813",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "78226",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71814",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y01",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71815",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y02",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71816",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y03",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71817",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y04",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71818",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y05",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71819",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y06",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71820",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y07",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71821",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y08",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71822",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y09",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71823",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y10",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71824",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y11",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "71825",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y12",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77320",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y13",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77321",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y14",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77322",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y15",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77323",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y16",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77324",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y17",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77325",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y18",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77326",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y19",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      },
+      {
+        "crn": "77327",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y20",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/107"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 124",
+    "title": "Introduction to Computer Science I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "74477",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "75242",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74481",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74482",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74490",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74491",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74492",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74493",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74494",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74495",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBH",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74496",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBI",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74497",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBJ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74498",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBK",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74499",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBL",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74500",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBM",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      },
+      {
+        "crn": "74501",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "QBN",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/124"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 128",
+    "title": "Introduction to Computer Science II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "74479",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADA",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "F",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74480",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "F",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74508",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADC",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "F",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74509",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADD",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "F",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74510",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADE",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "F",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74511",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADF",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "F",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74512",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADG",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "F",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74513",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADH",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "F",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74514",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADI",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "F",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74515",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADJ",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "F",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75285",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADK",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "F",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75286",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADL",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "F",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75287",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADM",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "F",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75288",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADN",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "F",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75289",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADO",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "F",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75290",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADP",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "F",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75291",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADQ",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "F",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75292",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADR",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "F",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75293",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADS",
+        "startTime": "18:30",
+        "endTime": "19:45",
+        "day": "F",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75294",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADT",
+        "startTime": "18:30",
+        "endTime": "19:45",
+        "day": "F",
+        "instructor": "4035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75295",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADU",
+        "startTime": "18:30",
+        "endTime": "19:45",
+        "day": "F",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "74478",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      },
+      {
+        "crn": "75244",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/128"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 173",
+    "title": "Discrete Structures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "30102",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/173"
+      },
+      {
+        "crn": "72280",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/173"
+      },
+      {
+        "crn": "40083",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/173"
+      },
+      {
+        "crn": "72281",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL2",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/173"
+      },
+      {
+        "crn": "51495",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL1",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/173"
+      },
+      {
+        "crn": "51497",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL2",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/173"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 199",
+    "title": "Undergraduate Open Seminar in Computer Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "70754",
+        "status": "restricted",
+        "type": "Online",
+        "section": "12",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "69686",
+        "status": "restricted",
+        "type": "Online",
+        "section": "25",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "67084",
+        "status": "restricted",
+        "type": "Online",
+        "section": "124",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "56131",
+        "status": "restricted",
+        "type": "Online",
+        "section": "128",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "55189",
+        "status": "restricted",
+        "type": "Online",
+        "section": "173",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "69687",
+        "status": "restricted",
+        "type": "Online",
+        "section": "196",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "40944",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "225",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "69688",
+        "status": "restricted",
+        "type": "Online",
+        "section": "341",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "63523",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CAO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "55186",
+        "status": "restricted",
+        "type": "Online",
+        "section": "EMP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      },
+      {
+        "crn": "31511",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "STR",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "day": "W",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 210",
+    "title": "Ethical & Professional Issues",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "31516",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 211",
+    "title": "Ethical and Professional Conduct",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "77707",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CSP",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/211"
+      },
+      {
+        "crn": "74483",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EA1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 222",
+    "title": "Software Design Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "74484",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 225",
+    "title": "Data Structures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "65054",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABA",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "61264",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABB",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "35926",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABC",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "35923",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABD",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "35944",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABE",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "58757",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABF",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "62137",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABG",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "58758",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABH",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "35947",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABI",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "35954",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ABJ",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "35917",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      },
+      {
+        "crn": "72271",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 233",
+    "title": "Computer Architecture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "63733",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/233"
+      },
+      {
+        "crn": "72275",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/233"
+      },
+      {
+        "crn": "64548",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "HD",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/233"
+      },
+      {
+        "crn": "64547",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HL1",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/233"
+      },
+      {
+        "crn": "63740",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HL2",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/233"
+      },
+      {
+        "crn": "64513",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "OL1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/233"
+      },
+      {
+        "crn": "72276",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "OL2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/233"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 265",
+    "title": "Innovation Illinois: From Accessible Design to Supercomputing Cultures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "73136",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "TR",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/265"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 307",
+    "title": "Modeling and Learning in Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "77587",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "F",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/307"
+      },
+      {
+        "crn": "77586",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MLD",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/307"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 340",
+    "title": "Introduction to Computer Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "77096",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ICS",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 341",
+    "title": "System Programming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "76768",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADA",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76769",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76770",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADC",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76771",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76772",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADE",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76773",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADF",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "R",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76775",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADH",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76776",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADI",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76777",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADJ",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76778",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ADK",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "W",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "76767",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      },
+      {
+        "crn": "77652",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "CSP",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/341"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 357",
+    "title": "Numerical Methods I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "63536",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "M",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/357"
+      },
+      {
+        "crn": "53280",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/357"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 361",
+    "title": "Probability & Statistics for Computer Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "72361",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "66306",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "66307",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "66303",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "66304",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "66305",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "76052",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "76054",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "76056",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      },
+      {
+        "crn": "66298",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/361"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 374",
+    "title": "Introduction to Algorithms & Models of Computation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "70643",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "70644",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "106B3 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "70645",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "4101 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "72092",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "72094",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66451",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "106B3 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "72201",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "WF",
+        "instructor": "4101 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66453",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "WF",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66455",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "WF",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "75939",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "18:00",
+        "endTime": "18:50",
+        "day": "WF",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66445",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "70641",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66446",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BYA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "2017 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66447",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BYB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66448",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BYC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "4070 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66449",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BYD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "4070 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66450",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BYE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "4070 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "crn": "66452",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BYF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "4070 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/374"
+      },
+      {
+        "need attention": "yes",
+        "crn": "72090"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 397",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "14855",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 400",
+    "title": "Accelerated Fundamentals of Computing I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75641",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AFC",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/400"
+      },
+      {
+        "crn": "75708",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FOC",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 401",
+    "title": "Accelerated Fundamentals of Algorithms I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75642",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AFA",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/401"
+      },
+      {
+        "crn": "75709",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FOA",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "139 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 407",
+    "title": "Cryptography",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "76149",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "2013 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 409",
+    "title": "The Art of Web Programming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "77684",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/409"
+      },
+      {
+        "crn": "76905",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WPG",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/409"
+      },
+      {
+        "crn": "76904",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WPU",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 410",
+    "title": "Text Information Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "67393",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/410"
+      },
+      {
+        "crn": "73825",
+        "status": "restricted",
+        "type": "Online",
+        "section": "TIG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/410"
+      },
+      {
+        "crn": "73824",
+        "status": "restricted",
+        "type": "Online",
+        "section": "TIU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 411",
+    "title": "Database Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "72358",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CSP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/411"
+      },
+      {
+        "crn": "41612",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MCI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/411"
+      },
+      {
+        "crn": "40086",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "QG",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "MW",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/411"
+      },
+      {
+        "crn": "30109",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "QU",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "MW",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 412",
+    "title": "Introduction to Data Mining",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "43358",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PG",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/412"
+      },
+      {
+        "crn": "43357",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PU",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 413",
+    "title": "Intro to Combinatorics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "33540",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X13",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/413"
+      },
+      {
+        "crn": "39196",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X14",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/413"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 415",
+    "title": "Game Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "77100",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "GG",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/415"
+      },
+      {
+        "crn": "77099",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "GU",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 418",
+    "title": "Interactive Computer Graphics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "36119",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/418"
+      },
+      {
+        "crn": "36121",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/418"
+      },
+      {
+        "crn": "67033",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 421",
+    "title": "Programming Languages & Compilers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "65907",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CG",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/421"
+      },
+      {
+        "crn": "72203",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CSP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/421"
+      },
+      {
+        "crn": "65906",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CU",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/421"
+      },
+      {
+        "crn": "40087",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DG",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/421"
+      },
+      {
+        "crn": "30128",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DU",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 422",
+    "title": "Programming Language Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "30132",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T3",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/422"
+      },
+      {
+        "crn": "40088",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T4",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 423",
+    "title": "Operating Systems Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "36115",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SG",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/423"
+      },
+      {
+        "crn": "36113",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SU",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/423"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 424",
+    "title": "Real-Time Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "51776",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PG",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/424"
+      },
+      {
+        "crn": "51775",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PU",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/424"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 425",
+    "title": "Distributed Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "67394",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/425"
+      },
+      {
+        "crn": "57769",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SG",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/425"
+      },
+      {
+        "crn": "72128",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SU4",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/425"
+      },
+      {
+        "crn": "36091",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SU",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 426",
+    "title": "Compiler Construction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "43356",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NG",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/426"
+      },
+      {
+        "crn": "43355",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NU",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/426"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 427",
+    "title": "Software Engineering I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "70960",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/427"
+      },
+      {
+        "crn": "36104",
+        "status": "restricted",
+        "type": "Online",
+        "section": "S3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/427"
+      },
+      {
+        "crn": "36107",
+        "status": "restricted",
+        "type": "Online",
+        "section": "S4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/427"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 433",
+    "title": "Computer System Organization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "36069",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T3",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/433"
+      },
+      {
+        "crn": "43363",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T4",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 437",
+    "title": "Topics in Internet of Things",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75719",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/437"
+      },
+      {
+        "crn": "75715",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EKS",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/437"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 438",
+    "title": "Communication Networks",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "36061",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X3",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/438"
+      },
+      {
+        "crn": "57772",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X4",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/438"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 439",
+    "title": "Wireless Networks",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "61199",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B3",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "WF",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/439"
+      },
+      {
+        "crn": "61201",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B4",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "WF",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/439"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 440",
+    "title": "Artificial Intelligence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "67003",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "R3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/440"
+      },
+      {
+        "crn": "67004",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "R4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 441",
+    "title": "Applied Machine Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "74468",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AMG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/441"
+      },
+      {
+        "crn": "74467",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AMU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/441"
+      },
+      {
+        "crn": "74471",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/441"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 442",
+    "title": "Trustworthy Machine Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "78076",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TLG",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/442"
+      },
+      {
+        "crn": "77551",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TLU",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/442"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 444",
+    "title": "Deep Learning for Computer Vision",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "78419",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CVG",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "WF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/444"
+      },
+      {
+        "crn": "77548",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CVU",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "WF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/444"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 445",
+    "title": "Computational Photography",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "65087",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/445"
+      },
+      {
+        "crn": "65086",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 446",
+    "title": "Machine Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "46792",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/446"
+      },
+      {
+        "crn": "46793",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/446"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 447",
+    "title": "Natural Language Processing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "70473",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/447"
+      },
+      {
+        "crn": "63292",
+        "status": "restricted",
+        "type": "Online",
+        "section": "N3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/447"
+      },
+      {
+        "crn": "63293",
+        "status": "restricted",
+        "type": "Online",
+        "section": "N4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 450",
+    "title": "Numerical Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "36016",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BL1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/450"
+      },
+      {
+        "crn": "36020",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BL2",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 460",
+    "title": "Security Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "78444",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "ALG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/460"
+      },
+      {
+        "crn": "78443",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "ALU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/460"
+      },
+      {
+        "crn": "78448",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LB1",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 461",
+    "title": "Computer Security I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "69008",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "crn": "69009",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "crn": "69010",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "crn": "69013",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "2406 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "crn": "66966",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "crn": "66969",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "crn": "49547",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL4",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "crn": "72159",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALG",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/461"
+      },
+      {
+        "need attention": "yes",
+        "crn": "50236"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 465",
+    "title": "User Interface Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "67943",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AD1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "67945",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "F",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "67946",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AD3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "67944",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "F",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "76292",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AD5",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "F",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "67948",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AD6",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "69398",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AD7",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "F",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "72163",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AEG",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      },
+      {
+        "crn": "43389",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AEU",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/465"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 466",
+    "title": "Introduction to Bioinformatics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "51764",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/466"
+      },
+      {
+        "crn": "51765",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/466"
+      },
+      {
+        "crn": "77850",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 468",
+    "title": "Tech and Advertising Campaigns",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "67895",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/468"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 473",
+    "title": "Algorithms",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "70159",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S4",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/473"
+      },
+      {
+        "crn": "72165",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S4G",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/473"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 475",
+    "title": "Formal Models of Computation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "35887",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/475"
+      },
+      {
+        "crn": "35895",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 476",
+    "title": "Program Verification",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "35855",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/476"
+      },
+      {
+        "crn": "35852",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 481",
+    "title": "Advanced Topics in Stochastic Processes & Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "52040"
+      },
+      {
+        "need attention": "yes",
+        "crn": "58069"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 483",
+    "title": "Applied Parallel Programming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "58793",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/483"
+      },
+      {
+        "crn": "76324",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/483"
+      },
+      {
+        "crn": "67070",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 491",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "65816",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CAP",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "MWF",
+        "instructor": "140 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/491"
+      },
+      {
+        "crn": "54321",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CB",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "day": "R",
+        "instructor": "141 Coordinated Science Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/491"
+      },
+      {
+        "crn": "67520",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ECO",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/491"
+      },
+      {
+        "crn": "66834",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "EIC",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/491"
+      },
+      {
+        "crn": "40557",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EIT",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 492",
+    "title": "Senior Project I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "30139",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 497",
+    "title": "CS Team Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "72830",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/497"
+      },
+      {
+        "crn": "78562",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "EGS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 498",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "61482",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GC3",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "WF",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "47171",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GCG",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "WF",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "40094",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GCU",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "WF",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "40092",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GS3",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "40093",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GSG",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "40091",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GSU",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "72155",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "QC3",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "58241",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "QCG",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "72154",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "QCU",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "49838",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RC1",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      },
+      {
+        "crn": "31535",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RC2",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 499",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "10465",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 500",
+    "title": "Current Topics in Computing Education Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75409",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ECS",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 511",
+    "title": "Advanced Data Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "50497",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DM",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 512",
+    "title": "Data Mining Principles",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "77189",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DMP",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 514",
+    "title": "Advanced Topics in Network Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "78142",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TNS",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "WF",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/514"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 521",
+    "title": "Advanced Topics in Programming Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "77187",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TPS",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "3217 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/521"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 527",
+    "title": "Topics in Software Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "35912",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 537",
+    "title": "Advanced Topics in Internet of Things (IoT)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75892",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/537"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 540",
+    "title": "Deep Learning Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75414",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DLT",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "2055 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 542",
+    "title": "Statistical Reinforcement Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "74766",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 543",
+    "title": "Computer Vision",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "37132",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "MW",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/543"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 545",
+    "title": "Machine Learning for Signal Processing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75562",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MLS",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/545"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 546",
+    "title": "Advanced Topics in Natural Language Processing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "74740",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ATN",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "WF",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 549",
+    "title": "Seminar in Cognitive Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "48226",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/549"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 554",
+    "title": "Parallel Numerical Algorithms",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "57701",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "WF",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/554"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 562",
+    "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75418",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SML",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/562"
+      },
+      {
+        "crn": "78206",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SPM",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 563",
+    "title": "Advanced Computer Security",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "54776",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "WF",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/563"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 567",
+    "title": "Social Signals and Social Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75897",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "106B3 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/567"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 572",
+    "title": "Extremal Graph Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "65443",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 579",
+    "title": "Computational Complexity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "51780",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/579"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 580",
+    "title": "Topics in Algorithmic Game Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "75420",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AGT",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "0216 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/580"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 581",
+    "title": "Algorithmic Genomic Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "70702",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 591",
+    "title": "Advanced Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "35941",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACT",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "day": "M",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35945",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CAP",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "day": "T",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35958",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35939",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DAF",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35980",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DEI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "46417",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FMG",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "F",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "43828",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IG",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "58740",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LRS",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35957",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MH",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "day": "M",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "41977",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PHD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35961",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SCH",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "F",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "49716",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "46060",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SN",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35986",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TA",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      },
+      {
+        "crn": "35951",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "TAO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 597",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "76765",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "69375",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AO2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "49221",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CC1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "42377",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CG",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "46988",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CM",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "70734",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DEL",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "36002",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KCC",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "72124",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KKH",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "62086",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KMC",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "35989",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KPH",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "70361",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LAZ",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "WF",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "57715",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "55918",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PPM",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "70683",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "49224",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RAP",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "73072",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SMC",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "43668",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SML",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "MW",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "49828",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SPH",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "70199",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TMC",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "WF",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "66318",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UCP",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "42393",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WSI",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "WF",
+        "instructor": "1214 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "46983",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "YI",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "158 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      },
+      {
+        "crn": "43669",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "YL",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "WF",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CS",
+    "sections": [
+      {
+        "crn": "76764",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CS/599"
+      }
+    ]
+  }
+]

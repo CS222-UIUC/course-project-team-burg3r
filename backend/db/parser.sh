@@ -4,11 +4,17 @@ if [ $# -ne 2 ]; then
 fi
 
 # Merge all JSON files in the directory
-echo "[" > $2
+echo "{" > $2
+echo "\"courses\": [" >> $2
+first=true
 for file in $1/*.json
 do
-  sed 's/^\[//;s/\]$//' $file >> $2
-  echo "," >> $2
+  if [ "$first" = true ]; then
+    first=false
+  else
+    echo "," >> $2
+  fi
+  sed '1d;$d' $file >> $2
 done
-sed -i '$d' $2
 echo "]" >> $2
+echo "}" >> $2
