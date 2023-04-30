@@ -1,0 +1,56 @@
+[
+  {
+    "courseCode": "LCTL 101",
+    "title": "Elementary Course in a Less Commonly Taught Language I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LCTL",
+    "sections": [
+      {
+        "crn": "77261",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AMH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LCTL/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "LCTL 102",
+    "title": "Elementary Course in a Less Commonly Taught Language II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LCTL",
+    "sections": [
+      {
+        "crn": "77964",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AMH",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LCTL/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "LCTL 201",
+    "title": "Intermediate Course in a Less Commonly Taught Language I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LCTL",
+    "sections": [
+      {
+        "crn": "78563",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "BTA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LCTL/201"
+      }
+    ]
+  }
+]

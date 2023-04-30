@@ -1,0 +1,814 @@
+[
+  {
+    "courseCode": "IE 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "10438",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 297",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "55119",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/297"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 300",
+    "title": "Analysis of Data",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "51894",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "51896",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "53219",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "57756",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "30395",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "51895",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD1",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "51898",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD2",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "53221",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "57757",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      },
+      {
+        "crn": "53217",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 310",
+    "title": "Deterministic Models in Optimization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "31822",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 360",
+    "title": "Facilities Planning and Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "61504",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/360"
+      },
+      {
+        "crn": "61505",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/360"
+      },
+      {
+        "crn": "70699",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/360"
+      },
+      {
+        "crn": "61503",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "217 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 397",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "62672",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 400",
+    "title": "Design & Anlys of Experiments",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "70689",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/400"
+      },
+      {
+        "crn": "30400",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "X",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 405",
+    "title": "Computing for ISE",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "71533",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/405"
+      },
+      {
+        "crn": "71532",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 410",
+    "title": "Advanced Topics in Stochastic Processes & Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30396"
+      },
+      {
+        "need attention": "yes",
+        "crn": "58068"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 411",
+    "title": "Optimization of Large Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "62888",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/411"
+      },
+      {
+        "crn": "62889",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 412",
+    "title": "OR Models for Mfg Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "30397",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/412"
+      },
+      {
+        "crn": "69492",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 421",
+    "title": "High Frequency Trading Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "77289",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "ONL",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 431",
+    "title": "Design for Six Sigma",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "73806",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "MW",
+        "instructor": "106B3 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/431"
+      },
+      {
+        "crn": "76032",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/431"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 434",
+    "title": "Deep Learning: Mathematics and Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "78342",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/434"
+      },
+      {
+        "crn": "78341",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/434"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 445",
+    "title": "Human Performance and Cognition in Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "37985",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AG4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/445"
+      },
+      {
+        "crn": "42726",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AU3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/445"
+      },
+      {
+        "crn": "75064",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GO",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/445"
+      },
+      {
+        "crn": "75063",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UGO",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 497",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "10441",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 517",
+    "title": "Machine Learning in Finance Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "74048",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 518",
+    "title": "Queueing Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "73947",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/518"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 521",
+    "title": "Convex Optimization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "60067",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "139 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/521"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 522",
+    "title": "Statistical Methods in Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "77432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "4101 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 523",
+    "title": "Financial Computing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "55482",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/523"
+      },
+      {
+        "crn": "72244",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/523"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 524",
+    "title": "Optimization in Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "60072",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:40",
+        "day": "MW",
+        "instructor": "112 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/524"
+      },
+      {
+        "crn": "73988",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:40",
+        "day": "MW",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/524"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 527",
+    "title": "MSFE Professional Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "65199",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ML1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 532",
+    "title": "Analysis of Network Data",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "68237",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AN",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/532"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 546",
+    "title": "Human Factors in Health Care Engineering Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "77311",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 583",
+    "title": "MSFE Practicum Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "78429",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/583"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 590",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "30404",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/590"
+      },
+      {
+        "crn": "70950",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1047 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 597",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "10445",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "52048",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "CSQ",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/598"
+      },
+      {
+        "crn": "61631",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DPR",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "IE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IE",
+    "sections": [
+      {
+        "crn": "10447",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IE/599"
+      }
+    ]
+  }
+]

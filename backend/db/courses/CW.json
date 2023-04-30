@@ -1,0 +1,542 @@
+[
+  {
+    "courseCode": "CW 100",
+    "title": "Intro to Creative Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "67101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/100"
+      },
+      {
+        "crn": "77317",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/100"
+      },
+      {
+        "crn": "78137",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S2",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "316N Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/100"
+      },
+      {
+        "crn": "63285",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/100"
+      },
+      {
+        "crn": "71425",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "MW",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 104",
+    "title": "Fiction Workshop I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45273",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/104"
+      },
+      {
+        "crn": "45268",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "MW",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/104"
+      },
+      {
+        "crn": "45271",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/104"
+      },
+      {
+        "crn": "47655",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/104"
+      },
+      {
+        "crn": "45269",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "MW",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 106",
+    "title": "Poetry Workshop I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45277",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CHP",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/106"
+      },
+      {
+        "crn": "50343",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "MW",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/106"
+      },
+      {
+        "crn": "45276",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "125 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/106"
+      },
+      {
+        "crn": "45274",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "MW",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/106"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 200",
+    "title": "Reading for Writers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "61647",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "131 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 204",
+    "title": "Fiction Workshop II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "57710",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/204"
+      },
+      {
+        "crn": "45280",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/204"
+      },
+      {
+        "crn": "45279",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/204"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 206",
+    "title": "Poetry Workshop II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "54259",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "61 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/206"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 208",
+    "title": "Creative Nonfiction Workshop",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45282",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "MW",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/208"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 243",
+    "title": "The Craft Essay: Creative Reading, Reflection, and Revision",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "61787",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/243"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 404",
+    "title": "Fiction Workshop III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45284",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "MW",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/404"
+      },
+      {
+        "crn": "45283",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "MW",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/404"
+      },
+      {
+        "crn": "45286",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2G",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/404"
+      },
+      {
+        "crn": "45285",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2U",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 406",
+    "title": "Poetry Workshop III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45288",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "MW",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/406"
+      },
+      {
+        "crn": "45287",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "MW",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 455",
+    "title": "Creative Writing Tutorial",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45349",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 460",
+    "title": "Intro to Literary Editing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "60208",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "G7 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 463",
+    "title": "Adv Topics in Creative Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "66357",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1G",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "G8A Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/463"
+      },
+      {
+        "crn": "66356",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1U",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "G8A Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/463"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 500",
+    "title": "The Craft of Fiction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45291",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "16:30",
+        "day": "M",
+        "instructor": "1046 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 502",
+    "title": "Problems in Poetry Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45292",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "16:30",
+        "day": "M",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 504",
+    "title": "Writing Workshop in Fiction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45293",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "16:30",
+        "day": "W",
+        "instructor": "1112 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 506",
+    "title": "Writing Workshop in Poetry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45294",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/506"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 591",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "45977",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "CW 595",
+    "title": "Final Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CW",
+    "sections": [
+      {
+        "crn": "58603",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CW/595"
+      }
+    ]
+  }
+]

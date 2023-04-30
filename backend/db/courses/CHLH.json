@@ -1,0 +1,1589 @@
+[
+  {
+    "courseCode": "CHLH 100",
+    "title": "Contemporary Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "33611",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/100"
+      },
+      {
+        "crn": "33618",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/100"
+      },
+      {
+        "crn": "33601",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/100"
+      },
+      {
+        "crn": "59389",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/100"
+      },
+      {
+        "crn": "46159",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "URH",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "9 FAR Meeting Space",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 101",
+    "title": "Introduction to Public Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "33657",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/101"
+      },
+      {
+        "crn": "33661",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/101"
+      },
+      {
+        "crn": "33667",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/101"
+      },
+      {
+        "crn": "33669",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/101"
+      },
+      {
+        "crn": "33648",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/101"
+      },
+      {
+        "crn": "66910",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CL1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/101"
+      },
+      {
+        "crn": "64041",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 125",
+    "title": "Orientation KIN & Comm Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "59577",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "112 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/125"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 126",
+    "title": "Campus Acquaintance Rape Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "74525",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/126"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "10519",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/199"
+      },
+      {
+        "crn": "31590",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AHS",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 200",
+    "title": "Mental Health Issues",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "29988",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/200"
+      },
+      {
+        "crn": "76787",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 201",
+    "title": "Public Health Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "74473",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/201"
+      },
+      {
+        "crn": "74474",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/201"
+      },
+      {
+        "crn": "74475",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/201"
+      },
+      {
+        "crn": "74476",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/201"
+      },
+      {
+        "crn": "68861",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "112 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 206",
+    "title": "Human Sexuality",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "68329",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/206"
+      },
+      {
+        "crn": "57350",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/206"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 210",
+    "title": "Community Health Organizations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "29992",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/210"
+      },
+      {
+        "crn": "78272",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "ON1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 243",
+    "title": "Drug Use and Misuse",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "70237",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/243"
+      },
+      {
+        "crn": "57351",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/243"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 244",
+    "title": "Health Statistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "38824",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "224 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/244"
+      },
+      {
+        "crn": "38825",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "224 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/244"
+      },
+      {
+        "crn": "38821",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "224 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/244"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 250",
+    "title": "Health Care Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "29994",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 260",
+    "title": "Introduction to Medical Ethics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "64915",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/260"
+      },
+      {
+        "crn": "76789",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/260"
+      },
+      {
+        "crn": "77101",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/260"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 274",
+    "title": "Introduction to Epidemiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "29997",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/274"
+      },
+      {
+        "crn": "68385",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/274"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 304",
+    "title": "Foundations of Health Behavior",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "31593",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/304"
+      },
+      {
+        "crn": "31594",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/304"
+      },
+      {
+        "crn": "31596",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/304"
+      },
+      {
+        "crn": "31597",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AD4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/304"
+      },
+      {
+        "crn": "69983",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AD5",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/304"
+      },
+      {
+        "crn": "76781",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AD6",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/304"
+      },
+      {
+        "crn": "31598",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/304"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 330",
+    "title": "Disability in American Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "38406",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "224 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/330"
+      },
+      {
+        "crn": "73248",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 365",
+    "title": "Civic Engagement in Wellness",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "56159",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "224 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/365"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 380",
+    "title": "Orientation to Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "47340",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 393",
+    "title": "Special Projects",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "10521",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 400",
+    "title": "Human-Robot Interaction in Community Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "77516",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/400"
+      },
+      {
+        "crn": "77517",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 402",
+    "title": "Cancer Epidemiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "78273",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/402"
+      },
+      {
+        "crn": "78274",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U1",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 404",
+    "title": "Gerontology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "58803",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/404"
+      },
+      {
+        "crn": "58804",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AU3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 409",
+    "title": "Women's Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "35419",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "112 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 410",
+    "title": "Public Health Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "30000",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/410"
+      },
+      {
+        "crn": "78070",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BMP",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/410"
+      },
+      {
+        "crn": "59825",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MPH",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 415",
+    "title": "International Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "62033",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ASG",
+        "startTime": "13:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/415"
+      },
+      {
+        "crn": "62031",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ASU",
+        "startTime": "13:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 421",
+    "title": "Health Data Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "40991",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/421"
+      },
+      {
+        "crn": "30003",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 448",
+    "title": "Exercise & Health Psychology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "45430",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AG4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "217 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/448"
+      },
+      {
+        "crn": "45432",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "217 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/448"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 455",
+    "title": "Health Services Financing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "30011",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "62 Krannert Art Museum",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 456",
+    "title": "Organization of Health Care",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "35557",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/456"
+      },
+      {
+        "crn": "35550",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "134 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/456"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 457",
+    "title": "Health Planning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "33625",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/457"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 458",
+    "title": "Health Administration",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "30015",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/458"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 465",
+    "title": "Social Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "58223",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BQG",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/465"
+      },
+      {
+        "crn": "58248",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BQU",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/465"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 469",
+    "title": "Environmental Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "78277",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/469"
+      },
+      {
+        "crn": "78302",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/469"
+      },
+      {
+        "crn": "78303",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/469"
+      },
+      {
+        "crn": "78275",
+        "status": "restricted",
+        "type": "Online",
+        "section": "U1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/469"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 470",
+    "title": "Technology, Health, and Aging",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "72026",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "THG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/470"
+      },
+      {
+        "crn": "72027",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "THU",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 485",
+    "title": "Community Health Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "30020",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "W",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 494",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "48358",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HAG",
+        "startTime": "15:00",
+        "endTime": "17:30",
+        "day": "MW",
+        "instructor": "356 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/494"
+      },
+      {
+        "crn": "48359",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HAU",
+        "startTime": "15:00",
+        "endTime": "17:30",
+        "day": "MW",
+        "instructor": "356 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/494"
+      },
+      {
+        "crn": "66711",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RGG",
+        "startTime": "15:30",
+        "endTime": "18:00",
+        "day": "T",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/494"
+      },
+      {
+        "crn": "66710",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RGU",
+        "startTime": "15:30",
+        "endTime": "18:00",
+        "day": "T",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 517",
+    "title": "Principle/Method Epidemiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "53908",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "170 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 540",
+    "title": "Health Behavior: Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "59884",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 551",
+    "title": "Health Administration Professionalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "76782",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/551"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 552",
+    "title": "Health Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "76783",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/552"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 556",
+    "title": "Strategic Planning in Healthcare",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "76785",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/556"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 557",
+    "title": "Operations Management in Healthcare",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "76786",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/557"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 565",
+    "title": "Teaching in the Professoriate",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "56621",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "13:00",
+        "endTime": "14:40",
+        "day": "M",
+        "instructor": "130 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/565"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 568",
+    "title": "Computer Packages in Health Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "74439",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CPH",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/568"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 572",
+    "title": "Principles of Epidemiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "72039",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/572"
+      },
+      {
+        "crn": "72041",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/572"
+      },
+      {
+        "crn": "72038",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 573",
+    "title": "Biostatistics in Public Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "71368",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB1",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "R",
+        "instructor": "328 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/573"
+      },
+      {
+        "crn": "61101",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "328 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/573"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 575",
+    "title": "Chronic Disease Prevention",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "59589",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 576",
+    "title": "Analytical Epidemiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "74449",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/576"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 578",
+    "title": "Applied Epidemiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "56662",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/578"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 579",
+    "title": "Cultural Competence in Public Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "69900",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "130 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/579"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 581",
+    "title": "Professionalism in Public Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "73056",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PPH",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 585",
+    "title": "Community Health Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "46406",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "3019 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/585"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 587",
+    "title": "MPH Applied Practice Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "61099",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/587"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 589",
+    "title": "MPH Integrative Learning Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "60250",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/589"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 591",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "48023",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 593",
+    "title": "Special Projects",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "10523",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHLH 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH",
+    "sections": [
+      {
+        "crn": "10525",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHLH/599"
+      }
+    ]
+  }
+]

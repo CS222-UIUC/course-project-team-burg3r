@@ -1,0 +1,110 @@
+[
+  {
+    "courseCode": "CB 290",
+    "title": "Independent Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CB",
+    "sections": [
+      {
+        "crn": "64409",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CB/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "CB 590",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CB",
+    "sections": [
+      {
+        "crn": "58219",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CB/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "CB 592",
+    "title": "Special Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CB",
+    "sections": [
+      {
+        "crn": "58220",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CB/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "CB 596",
+    "title": "Interdisciplinary Tox Sem",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CB",
+    "sections": [
+      {
+        "crn": "58141",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3526 Vet Med Basic Sciences Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CB/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "CB 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CB",
+    "sections": [
+      {
+        "crn": "58221",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CB/599"
+      }
+    ]
+  },
+  {
+    "courseCode": "CB 692",
+    "title": "Special Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CB",
+    "sections": [
+      {
+        "crn": "58222",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CB/692"
+      }
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "courseCode": "LEAD 140",
+    "title": "Harnessing Your Interpersonal Intelligence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD",
+    "sections": [
+      {
+        "crn": "73431",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "LEAD 230",
+    "title": "Leadership Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD",
+    "sections": [
+      {
+        "crn": "73482",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/230"
+      },
+      {
+        "crn": "73483",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/230"
+      },
+      {
+        "crn": "73484",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/230"
+      },
+      {
+        "crn": "73485",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/230"
+      },
+      {
+        "crn": "73481",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "LEAD 260",
+    "title": "Foundations of Leadership",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD",
+    "sections": [
+      {
+        "crn": "73063",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "7 Weston Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/260"
+      },
+      {
+        "crn": "73064",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/260"
+      },
+      {
+        "crn": "73065",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/260"
+      },
+      {
+        "crn": "73066",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "393 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/260"
+      },
+      {
+        "crn": "77359",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/260"
+      },
+      {
+        "crn": "73069",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/260"
+      }
+    ]
+  },
+  {
+    "courseCode": "LEAD 340",
+    "title": "Leadership Ethics & Society: Addressing Contemporary Challenges",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD",
+    "sections": [
+      {
+        "crn": "73434",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "LEAD 380",
+    "title": "Leadership in Groups and Teams",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD",
+    "sections": [
+      {
+        "crn": "73435",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "LEAD 440",
+    "title": "Interpersonal Intelligence for Professional Success",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD",
+    "sections": [
+      {
+        "crn": "73439",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "LEAD 480",
+    "title": "Collaborative Leadership",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD",
+    "sections": [
+      {
+        "crn": "73441",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/480"
+      },
+      {
+        "crn": "73442",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LEAD/480"
+      }
+    ]
+  }
+]

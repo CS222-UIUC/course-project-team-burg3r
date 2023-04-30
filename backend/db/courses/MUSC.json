@@ -1,0 +1,4041 @@
+[
+  {
+    "courseCode": "MUSC 101",
+    "title": "Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74319"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74320"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74321"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76070"
+      },
+      {
+        "crn": "75048",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/101"
+      },
+      {
+        "crn": "75046",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 102",
+    "title": "Harpsichord",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74322",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "211 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 103",
+    "title": "Organ",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74323",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "216 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/103"
+      },
+      {
+        "crn": "77606",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "216 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 105",
+    "title": "Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74324"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74325"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74326"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74327"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74328"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74329"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74330"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74331"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74332"
+      },
+      {
+        "need attention": "yes",
+        "crn": "75095"
+      },
+      {
+        "need attention": "yes",
+        "crn": "75096"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76069"
+      },
+      {
+        "crn": "76639",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      },
+      {
+        "crn": "77970",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      },
+      {
+        "crn": "77971",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      },
+      {
+        "crn": "75083",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      },
+      {
+        "crn": "75084",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      },
+      {
+        "crn": "75086",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMJ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      },
+      {
+        "crn": "75087",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      },
+      {
+        "crn": "75089",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NML",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/105"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 110",
+    "title": "Violin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74334"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74335"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74336"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74337"
+      },
+      {
+        "crn": "74338",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/110"
+      },
+      {
+        "crn": "75706",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/110"
+      },
+      {
+        "crn": "75707",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/110"
+      },
+      {
+        "crn": "74339",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/110"
+      },
+      {
+        "crn": "75704",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/110"
+      },
+      {
+        "crn": "75705",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/110"
+      },
+      {
+        "crn": "77645",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 111",
+    "title": "Viola",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74340"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74341"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76659"
+      },
+      {
+        "crn": "74343",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/111"
+      },
+      {
+        "crn": "78434",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/111"
+      },
+      {
+        "crn": "78435",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/111"
+      },
+      {
+        "crn": "74342",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/111"
+      },
+      {
+        "crn": "76640",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/111"
+      },
+      {
+        "crn": "78436",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/111"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 112",
+    "title": "Cello",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74344"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74345"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76665"
+      },
+      {
+        "crn": "76079",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/112"
+      },
+      {
+        "crn": "76078",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/112"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 113",
+    "title": "Double Bass",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74346"
+      },
+      {
+        "crn": "75711",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/113"
+      },
+      {
+        "crn": "75710",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/113"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 114",
+    "title": "Harp",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74349"
+      },
+      {
+        "crn": "77446",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3060 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/114"
+      },
+      {
+        "crn": "75050",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3060 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/114"
+      },
+      {
+        "crn": "75049",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3060 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/114"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 115",
+    "title": "Guitar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74350",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/115"
+      },
+      {
+        "crn": "74351",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/115"
+      },
+      {
+        "crn": "78022",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/115"
+      },
+      {
+        "crn": "75054",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/115"
+      },
+      {
+        "crn": "77880",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/115"
+      },
+      {
+        "crn": "75053",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/115"
+      },
+      {
+        "crn": "77879",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 116",
+    "title": "Electric Violin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "76449"
+      },
+      {
+        "crn": "76451",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/116"
+      },
+      {
+        "crn": "76450",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/116"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 117",
+    "title": "Electric Viola",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77448"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 120",
+    "title": "Flute",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74352"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74353"
+      },
+      {
+        "crn": "74355",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "PC2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/120"
+      },
+      {
+        "crn": "74354",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "PIC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 121",
+    "title": "Oboe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74356"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74357"
+      },
+      {
+        "crn": "77561",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "EH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3018 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/121"
+      },
+      {
+        "crn": "75056",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/121"
+      },
+      {
+        "crn": "75055",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/121"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 122",
+    "title": "Bassoon",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74359"
+      },
+      {
+        "crn": "75702",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/122"
+      },
+      {
+        "crn": "75701",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/122"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 123",
+    "title": "Clarinet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74361"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74362"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74363"
+      },
+      {
+        "crn": "76587",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/123"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 124",
+    "title": "Saxophone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74364"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74365"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74366"
+      },
+      {
+        "crn": "76580",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/124"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 125",
+    "title": "Trumpet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74368"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74367"
+      },
+      {
+        "crn": "76536",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/125"
+      },
+      {
+        "crn": "74369",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/125"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 126",
+    "title": "Horn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74370"
+      },
+      {
+        "crn": "74371",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/126"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 127",
+    "title": "Trombone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74372"
+      },
+      {
+        "crn": "74375",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/127"
+      },
+      {
+        "crn": "74374",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/127"
+      },
+      {
+        "crn": "74373",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/127"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 128",
+    "title": "Euphonium",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74376"
+      },
+      {
+        "crn": "76521",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "4060 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/128"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 129",
+    "title": "Tuba",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74377"
+      },
+      {
+        "crn": "75058",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "4060 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/129"
+      },
+      {
+        "crn": "75057",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "4060 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/129"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 130",
+    "title": "Percussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74378"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74379"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74380"
+      },
+      {
+        "crn": "75060",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/130"
+      },
+      {
+        "crn": "75059",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/130"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 131",
+    "title": "Jazz Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74813"
+      },
+      {
+        "crn": "75071",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "203 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/131"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 132",
+    "title": "Jazz Saxophone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74817"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74818"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74819"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78002"
+      },
+      {
+        "crn": "75073",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/132"
+      },
+      {
+        "crn": "76658",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/132"
+      },
+      {
+        "crn": "75072",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/132"
+      },
+      {
+        "crn": "77643",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/132"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 133",
+    "title": "Jazz Trumpet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74825"
+      },
+      {
+        "crn": "75074",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "5C Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/133"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 134",
+    "title": "Jazz Trombone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74829"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74830"
+      },
+      {
+        "crn": "75075",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "5D Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/134"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 135",
+    "title": "Jazz Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74831"
+      },
+      {
+        "crn": "76609",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/135"
+      },
+      {
+        "crn": "74832",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "102 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/135"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 136",
+    "title": "Jazz Double Bass",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74833"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74834"
+      },
+      {
+        "crn": "75076",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "101 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/136"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 137",
+    "title": "Jazz Guitar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74835"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74836"
+      },
+      {
+        "crn": "75077",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "101 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/137"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 138",
+    "title": "Jazz Percussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74837"
+      },
+      {
+        "crn": "76499",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/138"
+      },
+      {
+        "crn": "78046",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/138"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 300",
+    "title": "Junior Recital",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "77646",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 400",
+    "title": "Senior Recital",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "77647",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 401",
+    "title": "Advanced Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74382"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74383"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74384"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 402",
+    "title": "Advanced Harpsichord",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74385",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "211 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 403",
+    "title": "Advanced Organ",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74386",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "216 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/403"
+      },
+      {
+        "crn": "75078",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "216 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 404",
+    "title": "Collaborative Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75069",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/404"
+      },
+      {
+        "crn": "75070",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 405",
+    "title": "Advanced Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74387"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74388"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74389"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74390"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74391"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74392"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74393"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 406",
+    "title": "Lyric Theatre Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75738",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/406"
+      },
+      {
+        "crn": "75739",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/406"
+      },
+      {
+        "crn": "78476",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "200B Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 407",
+    "title": "Vocal Coaching",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75740",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/407"
+      },
+      {
+        "crn": "75741",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 410",
+    "title": "Advanced Violin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74396"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74397"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74398"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74399"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 411",
+    "title": "Advanced Viola",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74402"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74403"
+      },
+      {
+        "crn": "75082",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/411"
+      },
+      {
+        "crn": "75081",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 412",
+    "title": "Advanced Cello",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74404"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76537"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 413",
+    "title": "Advanced Double Bass",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74405"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 414",
+    "title": "Advanced Harp",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74406"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 415",
+    "title": "Advanced Guitar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74407",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 416",
+    "title": "Advanced Electric Violin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "76516"
+      },
+      {
+        "crn": "76518",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/416"
+      },
+      {
+        "crn": "76517",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/416"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 417",
+    "title": "Advanced Electric Viola",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77449"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 420",
+    "title": "Advanced Flute",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74408"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74409"
+      },
+      {
+        "crn": "74411",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "PC2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/420"
+      },
+      {
+        "crn": "74410",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "PIC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 421",
+    "title": "Advanced Oboe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74412"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74413"
+      },
+      {
+        "crn": "77562",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "EH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3018 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 422",
+    "title": "Advanced Bassoon",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74416"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 423",
+    "title": "Advanced Clarinet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74418"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74419"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 424",
+    "title": "Advanced Saxophone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74421"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74422"
+      },
+      {
+        "need attention": "yes",
+        "crn": "77962"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 425",
+    "title": "Advanced Trumpet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74425"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74424"
+      },
+      {
+        "crn": "74426",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 426",
+    "title": "Advanced Horn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74427"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 427",
+    "title": "Advanced Trombone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74430"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 428",
+    "title": "Advanced Euphonium",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74431"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 429",
+    "title": "Advanced Tuba",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74432"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 430",
+    "title": "Advanced Percussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74433"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74434"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76574"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 431",
+    "title": "Advanced Jazz Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74838"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 432",
+    "title": "Advanced Jazz Saxophone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74844"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74849"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 433",
+    "title": "Advanced Jazz Trumpet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74867"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74873"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 434",
+    "title": "Advanced Jazz Trombone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74880"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74885"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 435",
+    "title": "Advanced Jazz Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74889"
+      },
+      {
+        "crn": "76534",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 436",
+    "title": "Advanced Jazz Double Bass",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74891"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74892"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 437",
+    "title": "Advanced Jazz Guitar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74893"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74894"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 438",
+    "title": "Advanced Jazz Percussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74896"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74898"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 448",
+    "title": "Concerto Urbano Baroque Orchestra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "75529"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 449",
+    "title": "Ethnomusicology Performance Ensembles",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "77455",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BAL",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/449"
+      },
+      {
+        "crn": "77456",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BRZ",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "R",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/449"
+      },
+      {
+        "crn": "77681",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "LTN",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "TR",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/449"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 450",
+    "title": "Chamber Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74841",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "K01",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "76087",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "K02",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74842",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S01",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74843",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S02",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74845",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S03",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74846",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S04",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74847",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S05",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74848",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S06",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74850",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S07",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74851",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S08",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "76617",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S09",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "77926",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "S14",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74852",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "W01",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74853",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "W02",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "74855",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "W03",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "77865",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "W04",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "76618",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "W06",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      },
+      {
+        "crn": "76619",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "W07",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 451",
+    "title": "Piano Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74856",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 452",
+    "title": "Guitar Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74857",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/452"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 453",
+    "title": "Saxophone Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "76593",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "ENS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/453"
+      },
+      {
+        "crn": "74859",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "GR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/453"
+      },
+      {
+        "crn": "74860",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "UG1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/453"
+      },
+      {
+        "crn": "77959",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "UG2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 454",
+    "title": "Brass Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74862",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BQ1",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      },
+      {
+        "crn": "74863",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BQ2",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      },
+      {
+        "crn": "76585",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BQ3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      },
+      {
+        "crn": "76586",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BQ4",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      },
+      {
+        "crn": "77963",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BQ5",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      },
+      {
+        "crn": "76255",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "HQ1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      },
+      {
+        "crn": "76299",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "TEE",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      },
+      {
+        "crn": "77982",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "TPT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/454"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 455",
+    "title": "Percussion Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75227",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "114 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 456",
+    "title": "Steel Band",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "76046",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "19:20",
+        "day": "TR",
+        "instructor": "6 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/456"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 457",
+    "title": "Hip-Hop Collective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74864",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/457"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 458",
+    "title": "Electric Strings Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "76480",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "4007 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/458"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 460",
+    "title": "Chamber Singers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74087",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "2317 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 462",
+    "title": "University Chorus",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74089",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 463",
+    "title": "Black Chorus",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74090",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "W",
+        "instructor": "2317 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/463"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 464",
+    "title": "Women's Glee Club",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "73708",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "2317 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/464"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 465",
+    "title": "Men's Glee Club",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "73709",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "18:50",
+        "day": "TR",
+        "instructor": "2317 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/465"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 466",
+    "title": "Oratorio Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74091",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "19:30",
+        "endTime": "21:30",
+        "day": "T",
+        "instructor": "2317 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 468",
+    "title": "LTI Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74871",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2418 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/468"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 469",
+    "title": "LTI Main Stage",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "76471"
+      },
+      {
+        "crn": "75643",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "FLE",
+        "startTime": "19:00",
+        "endTime": "22:00",
+        "day": "MF",
+        "instructor": "2418 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/469"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78481"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 470",
+    "title": "LTI Opera Scenes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74872",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2418 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 473",
+    "title": "Illinois Modern Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74874",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "114 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/473"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 474",
+    "title": "Improvisors Exchange Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74875",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "2310 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/474"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 475",
+    "title": "Symphony Orchestra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74096",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "2310 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 476",
+    "title": "Philharmonia Orchestra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74097",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2310 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 478",
+    "title": "Illini Strings",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74099",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "19:00",
+        "endTime": "21:50",
+        "day": "M",
+        "instructor": "2310 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/478"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 480",
+    "title": "Wind Symphony",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74093",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 481",
+    "title": "Wind Orchestra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74094",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 482",
+    "title": "Hindsley Symphonic Band",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74095",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 484",
+    "title": "Concert Band",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "76063",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/484"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 487",
+    "title": "Marching Illini",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "73710"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73711"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73712"
+      },
+      {
+        "need attention": "yes",
+        "crn": "73713"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 489",
+    "title": "Volleyball Band",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "76570",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "19:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 490",
+    "title": "Concert Jazz Band",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75628",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWRF",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 491",
+    "title": "Repertory Jazz Orchestra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75632",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 492",
+    "title": "Jazz Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75633",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JB3",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 493",
+    "title": "Latin Jazz Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75635",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/493"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 495",
+    "title": "Jazz Trombone Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75636",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JT1",
+        "startTime": "18:00",
+        "endTime": "19:20",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/495"
+      },
+      {
+        "crn": "75637",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JT2",
+        "startTime": "19:30",
+        "endTime": "20:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 496",
+    "title": "Jazz Guitar Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75638",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "F",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 497",
+    "title": "Jazz Vocal Ensemble",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75640",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 498",
+    "title": "Jazz Combo",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74877",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C01",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      },
+      {
+        "crn": "74878",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C02",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      },
+      {
+        "crn": "74879",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C03",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      },
+      {
+        "crn": "74881",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C04",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      },
+      {
+        "crn": "74882",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C05",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      },
+      {
+        "crn": "74883",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "CO6",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      },
+      {
+        "crn": "74884",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "VC1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      },
+      {
+        "crn": "74886",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "VC2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 500",
+    "title": "Graduate Recital",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "77901",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "AY",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77899",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "BDS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77892",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "CJD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77889",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "CMM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77904",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "DJM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77882",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "DMH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77890",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "DMR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77898",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "DR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77908",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "EDF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77902",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "GSP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77893",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77896",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JLM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77885",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77894",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JSK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77883",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "LRH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77907",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "MRF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77887",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77905",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "NL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77881",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "OWD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77906",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "RH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77891",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "RS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77903",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "SJK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77886",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "SS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77900",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "ST",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77909",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "TJE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77895",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "TSM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77888",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "WHH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77897",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "WM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      },
+      {
+        "crn": "77884",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "YGR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 501",
+    "title": "Graduate Level Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74435"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74436"
+      },
+      {
+        "crn": "74437",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "112 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 502",
+    "title": "Graduate Level Harpsichord",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74438",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "211 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 503",
+    "title": "Graduate Level Organ",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74887",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "105 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 504",
+    "title": "Graduate Level Collaborative Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "75875",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/504"
+      },
+      {
+        "crn": "75876",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 505",
+    "title": "Graduate Level Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74888"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74931"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74932"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74933"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74934"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74935"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74936"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 506",
+    "title": "Graduate Level Lyric Theatre Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74937",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "F",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/506"
+      },
+      {
+        "crn": "74938",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/506"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 507",
+    "title": "Graduate Level Vocal Coaching",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74941",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/507"
+      },
+      {
+        "crn": "74942",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/507"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 510",
+    "title": "Graduate Level Violin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74958"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74960"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74961"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74962"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 511",
+    "title": "Graduate Level Viola",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74966"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74967"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 512",
+    "title": "Graduate Level Cello",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74968"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76538"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 513",
+    "title": "Graduate Level Double Bass",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74969"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 514",
+    "title": "Graduate Level Harp",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74970"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 515",
+    "title": "Graduate Level Guitar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "74971",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 516",
+    "title": "Graduate Electric Violin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "76667"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 517",
+    "title": "Graduate Electric Viola",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "76668"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 520",
+    "title": "Graduate Level Flute",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74972"
+      },
+      {
+        "crn": "77655",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "PIC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3020 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/520"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 521",
+    "title": "Graduate Level Oboe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74973"
+      },
+      {
+        "crn": "77563",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "EH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3018 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/521"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 522",
+    "title": "Graduate Level Bassoon",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74974"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 523",
+    "title": "Graduate Level Clarinet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74975"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74976"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 524",
+    "title": "Graduate Level Saxophone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74977"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 525",
+    "title": "Graduate Level Trumpet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74978"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76535"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 526",
+    "title": "Graduate Level Horn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74979"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 527",
+    "title": "Graduate Level Trombone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74980"
+      },
+      {
+        "crn": "74981",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 528",
+    "title": "Graduate Level Euphonium",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74982"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 529",
+    "title": "Graduate Level Tuba",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74983"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 530",
+    "title": "Graduate Level Percussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74984"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74985"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 531",
+    "title": "Graduate Jazz Voice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74986"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 532",
+    "title": "Graduate Jazz Saxophone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74987"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74988"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 533",
+    "title": "Graduate Jazz Trumpet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74989"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 534",
+    "title": "Graduate Jazz Trombone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74990"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 535",
+    "title": "Graduate Jazz Piano",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74991"
+      },
+      {
+        "crn": "78003",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/535"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 536",
+    "title": "Graduate Jazz Double Bass",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74992"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 537",
+    "title": "Graduate Jazz Guitar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74993"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 538",
+    "title": "Graduate Jazz Percussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74994"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSC 542",
+    "title": "Graduate Jazz Strings",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC",
+    "sections": [
+      {
+        "crn": "77928",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSC/542"
+      }
+    ]
+  }
+]

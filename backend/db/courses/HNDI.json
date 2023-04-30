@@ -1,0 +1,67 @@
+[
+  {
+    "courseCode": "HNDI 115",
+    "title": "Language and Culture in India",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HNDI",
+    "sections": [
+      {
+        "crn": "64872",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MM",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HNDI/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "HNDI 201",
+    "title": "Elementary Hindi-Urdu I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HNDI",
+    "sections": [
+      {
+        "crn": "32450",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWRF",
+        "instructor": "1118 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HNDI/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "HNDI 403",
+    "title": "Intermediate Hindi I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HNDI",
+    "sections": [
+      {
+        "crn": "30407",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "1110 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HNDI/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "HNDI 405",
+    "title": "Advanced Hindi I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HNDI",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64342"
+      }
+    ]
+  }
+]

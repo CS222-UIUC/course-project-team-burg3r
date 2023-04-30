@@ -1,0 +1,20 @@
+[
+  {
+    "courseCode": "GMC 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GMC",
+    "sections": [
+      {
+        "crn": "10300",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GMC/199"
+      }
+    ]
+  }
+]

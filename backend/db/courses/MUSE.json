@@ -1,0 +1,56 @@
+[
+  {
+    "courseCode": "MUSE 200",
+    "title": "Introduction to Museums",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSE",
+    "sections": [
+      {
+        "crn": "55606",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "214 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSE/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSE 390",
+    "title": "Museum Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSE",
+    "sections": [
+      {
+        "crn": "60355",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSE/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUSE 500",
+    "title": "Core Prob Museum Theory & Prac",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUSE",
+    "sections": [
+      {
+        "crn": "55607",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "215 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUSE/500"
+      }
+    ]
+  }
+]

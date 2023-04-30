@@ -1,0 +1,295 @@
+[
+  {
+    "courseCode": "EDPR 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR",
+    "sections": [
+      {
+        "crn": "16945",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "SB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDPR 250",
+    "title": "School & Community Experiences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "69872"
+      },
+      {
+        "need attention": "yes",
+        "crn": "69873"
+      },
+      {
+        "need attention": "yes",
+        "crn": "69875"
+      },
+      {
+        "need attention": "yes",
+        "crn": "69876"
+      },
+      {
+        "crn": "31804",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "LBS",
+        "startTime": "15:30",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/250"
+      },
+      {
+        "need attention": "yes",
+        "crn": "68335"
+      },
+      {
+        "crn": "69349",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDPR 420",
+    "title": "School Access & Supports",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR",
+    "sections": [
+      {
+        "crn": "31810",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/420"
+      },
+      {
+        "crn": "31811",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "LBE",
+        "startTime": "15:30",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDPR 432",
+    "title": "Ed Prac in EC & ELED",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR",
+    "sections": [
+      {
+        "crn": "62045",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "ELM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDPR 438",
+    "title": "Educational Practice in Special Fields",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR",
+    "sections": [
+      {
+        "crn": "33943",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/438"
+      },
+      {
+        "crn": "33945",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "EC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/438"
+      },
+      {
+        "crn": "33946",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "L",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/438"
+      },
+      {
+        "crn": "33948",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "O",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/438"
+      },
+      {
+        "crn": "33949",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "P",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/438"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDPR 442",
+    "title": "Educational Practice in Secondary Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR",
+    "sections": [
+      {
+        "crn": "33952",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/442"
+      },
+      {
+        "crn": "33955",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "L",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/442"
+      },
+      {
+        "crn": "33956",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "O",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/442"
+      },
+      {
+        "crn": "33957",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "P",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/442"
+      },
+      {
+        "crn": "42421",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "SCI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/442"
+      },
+      {
+        "crn": "65868",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "T",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/442"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDPR 550",
+    "title": "School and Community Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR",
+    "sections": [
+      {
+        "crn": "72707",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "ART",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/550"
+      },
+      {
+        "crn": "73797",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "ECE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/550"
+      },
+      {
+        "need attention": "yes",
+        "crn": "68379"
+      },
+      {
+        "crn": "77628",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "MG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDPR/550"
+      }
+    ]
+  }
+]

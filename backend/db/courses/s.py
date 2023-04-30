@@ -178,12 +178,12 @@ def main():
     rows = soup.find_all('tr', {'class': ['even', 'odd']})
     subjects = []
 
-    for row in rows[0:]:
+    for row in rows[142:]:
         cells = row.find_all("td")
         code = cells[0].get_text().strip()
         title = cells[1].get_text().strip()
 
-        url = "https://courses.illinois.edu/schedule/2023/spring/" + code.strip()
+        url = "https://courses.illinois.edu/schedule/2023/fall/" + code.strip()
         print("fetching: " + url)
         # os.system('clear')
 

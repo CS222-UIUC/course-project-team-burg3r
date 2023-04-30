@@ -1,0 +1,2578 @@
+[
+  {
+    "courseCode": "LAW 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "40959",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RW",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/199"
+      },
+      {
+        "crn": "55408",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 301",
+    "title": "Introduction to Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "52233",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "F Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "74742",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "E Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "74743",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "F Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "74744",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "F Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "74745",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "E Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "74746",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "F Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "74747",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD7",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "E Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "74748",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD8",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "F Law Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      },
+      {
+        "crn": "54622",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 306",
+    "title": "The Operation of the American Criminal Justice System",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "78259",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JP",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/306"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 499",
+    "title": "LAW Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "62089",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/499"
+      },
+      {
+        "crn": "62090",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 500",
+    "title": "LLM Legal Writing and Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "60360",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60663",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60656",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60658",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60665",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60659",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "F",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60660",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "H",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60661",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "J",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60662",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "K",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      },
+      {
+        "crn": "60655",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 501",
+    "title": "Professional Responsibility",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "65113",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GRA",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "TW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/501"
+      },
+      {
+        "crn": "70570",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GRB",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "TW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "57338",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/599"
+      },
+      {
+        "crn": "46273",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "AR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/599"
+      },
+      {
+        "crn": "69698",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/599"
+      },
+      {
+        "crn": "59168",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JRL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/599"
+      },
+      {
+        "crn": "64166",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ME",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/599"
+      },
+      {
+        "crn": "56983",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/599"
+      },
+      {
+        "crn": "59170",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "WD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/599"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 600",
+    "title": "Pro Bono Service",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "30836",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/600"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 602",
+    "title": "Property",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "50570"
+      },
+      {
+        "crn": "50574",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BG",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/602"
+      },
+      {
+        "crn": "56870",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CG",
+        "startTime": "16:30",
+        "endTime": "17:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/602"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 603",
+    "title": "Torts",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "50571",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/603"
+      },
+      {
+        "crn": "46345",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BG",
+        "startTime": "08:30",
+        "endTime": "09:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/603"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 604",
+    "title": "Criminal Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "54995",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1G",
+        "startTime": "13:30",
+        "endTime": "15:10",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/604"
+      },
+      {
+        "crn": "54985",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "2G",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/604"
+      },
+      {
+        "crn": "31952",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "5G",
+        "startTime": "08:30",
+        "endTime": "10:10",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/604"
+      },
+      {
+        "crn": "56973",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "6G",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/604"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 605",
+    "title": "Criminal Proc: Investigation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "52173",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/605"
+      },
+      {
+        "crn": "52724",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "G",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/605"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 607",
+    "title": "Civil Procedure",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "69538",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/607"
+      },
+      {
+        "crn": "52700",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BG",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/607"
+      },
+      {
+        "crn": "52190",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CG",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "WRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/607"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 629",
+    "title": "Bankruptcy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "43953",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/629"
+      },
+      {
+        "crn": "48683",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/629"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 633",
+    "title": "Business Associations I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "31955",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:30",
+        "endTime": "17:45",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/633"
+      },
+      {
+        "crn": "31957",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/633"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 643",
+    "title": "Trademark & Unfair Competition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "30842",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/643"
+      },
+      {
+        "crn": "42642",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/643"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 645",
+    "title": "Patent Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "30843",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:30",
+        "endTime": "15:10",
+        "day": "TW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/645"
+      },
+      {
+        "crn": "42643",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:30",
+        "endTime": "15:10",
+        "day": "TW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/645"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 647",
+    "title": "Income Taxation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "31958",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/647"
+      },
+      {
+        "crn": "42644",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/647"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 656",
+    "title": "International Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "30848",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "MT",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/656"
+      },
+      {
+        "crn": "48691",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "MT",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/656"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 662",
+    "title": "Labor Law I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "33260",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/662"
+      },
+      {
+        "crn": "50588",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/662"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 667",
+    "title": "Family Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "44132",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/667"
+      },
+      {
+        "crn": "48682",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/667"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 668",
+    "title": "Decedents' Estates and Trusts",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "30849",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/668"
+      },
+      {
+        "crn": "56873",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "G",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/668"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 673",
+    "title": "Workers Compensation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "54962",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/673"
+      },
+      {
+        "crn": "56881",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "G",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/673"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 680",
+    "title": "Professional Responsibility",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "31969",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "TW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/680"
+      },
+      {
+        "crn": "31972",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "TW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/680"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 682",
+    "title": "Evidence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "31960",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "RF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/682"
+      },
+      {
+        "crn": "42651",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AG",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "RF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/682"
+      },
+      {
+        "crn": "31961",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/682"
+      },
+      {
+        "crn": "42652",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BG",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/682"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 684",
+    "title": "Federal Courts",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "43944",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/684"
+      },
+      {
+        "crn": "50567",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "G",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MTW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/684"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 692",
+    "title": "Field Placements",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "58571",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/692"
+      },
+      {
+        "crn": "58572",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/692"
+      },
+      {
+        "crn": "73955",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/692"
+      },
+      {
+        "crn": "61747",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/692"
+      },
+      {
+        "crn": "68780",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "O",
+        "startTime": "17:30",
+        "endTime": "19:20",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/692"
+      },
+      {
+        "crn": "69635",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "P",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/692"
+      },
+      {
+        "crn": "70773",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "Q",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/692"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 693",
+    "title": "Clinical Training",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "33266",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "08:50",
+        "endTime": "10:20",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/693"
+      },
+      {
+        "crn": "35814",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:59",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/693"
+      },
+      {
+        "crn": "41128",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/693"
+      },
+      {
+        "crn": "33122",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "H",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/693"
+      },
+      {
+        "crn": "56478",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "R",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/693"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 694",
+    "title": "Trial Advocacy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "30855",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/694"
+      },
+      {
+        "crn": "46043",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/694"
+      },
+      {
+        "crn": "57318",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/694"
+      },
+      {
+        "crn": "78472",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "E",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/694"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 695",
+    "title": "Fundamentals of Trial Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "33263",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/695"
+      },
+      {
+        "crn": "35819",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/695"
+      },
+      {
+        "crn": "35817",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/695"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 696",
+    "title": "Legal Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "33264",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "62631",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "64115",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AAB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60670",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59077",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60677",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "35821",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59087",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "35822",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60844",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "38077",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "38078",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "76044",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ED",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60872",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EJ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59072",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "38082",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "38080",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59221",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "67528",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "J",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60671",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "69700",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "KLS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60678",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "KS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59128",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "KY",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59289",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60504",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LW",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60392",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "58747",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59073",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59116",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60673",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59211",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "59129",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "69701",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60843",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60672",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60675",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60858",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SMA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "58748",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SMM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "60873",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ST",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "58749",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "TT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "58746",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "VW",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      },
+      {
+        "crn": "65919",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "YC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/696"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 697",
+    "title": "Moot Court",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "35796",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/697"
+      },
+      {
+        "crn": "35797",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/697"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 792",
+    "title": "Current Legal Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "47597",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "48128",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG",
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "52719",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "09:30",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "62240",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C1G",
+        "startTime": "09:30",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "48139",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "E",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "61749",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "EG",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "54564",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "55020",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "F1G",
+        "startTime": "15:00",
+        "endTime": "16:15",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "50141",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "50591",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IG",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "50559",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "56481",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KG",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "56482",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "L1",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "59094",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1G",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "65116",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LL",
+        "startTime": "18:30",
+        "endTime": "21:30",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "65604",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LLG",
+        "startTime": "18:30",
+        "endTime": "21:30",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "65145",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NN",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "RF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "65432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NNG",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "RF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "56765",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "P1",
+        "startTime": "08:20",
+        "endTime": "10:20",
+        "day": "RF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      },
+      {
+        "crn": "56962",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "P1G",
+        "startTime": "08:20",
+        "endTime": "10:20",
+        "day": "RF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/792"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 793",
+    "title": "Advanced Litigation Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "47598",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:59",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "50593",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG",
+        "startTime": "16:00",
+        "endTime": "17:59",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "50134",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "50595",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CG",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "57006",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "60266",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "F",
+        "startTime": "13:30",
+        "endTime": "14:55",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "60625",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "FG",
+        "startTime": "13:30",
+        "endTime": "14:55",
+        "day": "WR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "65146",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "65147",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "65394",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      },
+      {
+        "crn": "70486",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "L",
+        "startTime": "17:30",
+        "endTime": "19:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/793"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 794",
+    "title": "Adv Topics in Business Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "47601",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "50145",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "E",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "50596",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EG",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "52183",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "15:30",
+        "endTime": "17:20",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "52792",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IG",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "54628",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "L",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "56760",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LG",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "54932",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "10:20",
+        "endTime": "11:59",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      },
+      {
+        "crn": "60626",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "NG",
+        "startTime": "10:20",
+        "endTime": "11:59",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/794"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 795",
+    "title": "Adv Topics in Criminal Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "47603",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/795"
+      },
+      {
+        "crn": "68953",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BG",
+        "startTime": "13:30",
+        "endTime": "15:20",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/795"
+      },
+      {
+        "crn": "48151",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/795"
+      },
+      {
+        "crn": "76059",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CG",
+        "startTime": "13:30",
+        "endTime": "14:45",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/795"
+      },
+      {
+        "crn": "50146",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/795"
+      },
+      {
+        "crn": "50597",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DG",
+        "startTime": "09:00",
+        "endTime": "10:15",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/795"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 796",
+    "title": "Comparative Law Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "50558",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "17:30",
+        "endTime": "19:20",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/796"
+      },
+      {
+        "crn": "76060",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DG",
+        "startTime": "17:30",
+        "endTime": "19:20",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/796"
+      },
+      {
+        "crn": "54650",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/796"
+      },
+      {
+        "crn": "55097",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "FG",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/796"
+      },
+      {
+        "crn": "59941",
+        "status": "restricted",
+        "type": "Online",
+        "section": "K",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/796"
+      },
+      {
+        "crn": "60627",
+        "status": "restricted",
+        "type": "Online",
+        "section": "KG",
+        "startTime": "09:00",
+        "endTime": "11:59",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/796"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 797",
+    "title": "Intellectual Property Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "47604",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:30",
+        "endTime": "18:10",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "48684",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG",
+        "startTime": "16:30",
+        "endTime": "18:10",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "50553",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "17:30",
+        "endTime": "20:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "55326",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "BG",
+        "startTime": "17:30",
+        "endTime": "20:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "52744",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "18:30",
+        "endTime": "19:20",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "52768",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DG",
+        "startTime": "18:30",
+        "endTime": "19:20",
+        "day": "MT",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "52770",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "10:30",
+        "endTime": "11:59",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "72142",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FG",
+        "startTime": "10:30",
+        "endTime": "11:59",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "58398",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      },
+      {
+        "crn": "60912",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IG",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/797"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAW 798",
+    "title": "Seminars",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAW",
+    "sections": [
+      {
+        "crn": "47606",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "59197",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BG",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "50148",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "50601",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KG",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "50150",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "50604",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MG",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "54631",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "55153",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SG",
+        "startTime": "16:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      },
+      {
+        "crn": "65623",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TT",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAW/798"
+      }
+    ]
+  }
+]

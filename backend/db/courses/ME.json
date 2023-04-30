@@ -1,0 +1,2698 @@
+[
+  {
+    "courseCode": "ME 170",
+    "title": "Computer-Aided Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "36697",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "1009 Mechanical Engineering Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "36704",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "1009 Mechanical Engineering Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "36705",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "1009 Mechanical Engineering Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "36710",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "1009 Mechanical Engineering Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "36712",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "1009 Mechanical Engineering Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "36714",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "1009 Mechanical Engineering Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "48353",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1009 Mechanical Engineering Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "36693",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      },
+      {
+        "crn": "73452",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALP",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/170"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "10540",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/199"
+      },
+      {
+        "crn": "54463",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ADV",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/199"
+      },
+      {
+        "crn": "56507",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DES",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/199"
+      },
+      {
+        "crn": "40457",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "SAE",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 200",
+    "title": "Thermodynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "69990",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/200"
+      },
+      {
+        "crn": "69991",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 270",
+    "title": "Design for Manufacturability",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "64686",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64687",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64688",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64689",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64690",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64863",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64864",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64865",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64866",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64867",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64868",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64869",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64870",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "65214",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "65215",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABF",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "65216",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABG",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "0023B Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      },
+      {
+        "crn": "64669",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 290",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "69988",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "H",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 297",
+    "title": "Introductory Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "67616",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/297"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 310",
+    "title": "Fundamentals of Fluid Dynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "75488",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1ZJ",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33318",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "3ZJ",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33324",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33338",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33343",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33346",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33349",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33356",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33367",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33369",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33371",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33372",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33395",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33396",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33400",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "45608",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABF",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "45632",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABG",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "60738",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABH",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "67242",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABJ",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "67243",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABK",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "126 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33398",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABL",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "78571",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABM",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "67211",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      },
+      {
+        "crn": "33317",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 320",
+    "title": "Heat Transfer",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "33405",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "33406",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "33407",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "33409",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "33411",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "36483",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "36488",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "36492",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "39317",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "41619",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "41620",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "41679",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "41680",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "69170",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "69171",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABF",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "0053 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "33401",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      },
+      {
+        "crn": "33403",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 330",
+    "title": "Engineering Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "36528",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "M",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36540",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36570",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36582",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "63416",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36594",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36600",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36607",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "50299",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "62123",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36559",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36512",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      },
+      {
+        "crn": "36518",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 340",
+    "title": "Dynamics of Mechanical Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "36624",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36657",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "45631",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36627",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36631",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "63823",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36637",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "77603",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36645",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "77604",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36653",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36655",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36661",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "63824",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36640",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABF",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "78569",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABG",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36615",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "67210",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "36620",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ZJ1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      },
+      {
+        "crn": "75522",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ZJ3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 360",
+    "title": "Signal Processing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "38737",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "38738",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "38739",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "38740",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "45564",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "45609",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "63468",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "63469",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "63596",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "66353",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "66354",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "3073 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "36667",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      },
+      {
+        "crn": "36673",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 370",
+    "title": "Mechanical Design I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "67924",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "R",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "67927",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB2",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "67928",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB3",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "R",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "69339",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB4",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "F",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "69337",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB5",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "75525",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB6",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "32243",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "32242",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BZ1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "67926",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CB1",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "70138",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CB2",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "70139",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CB3",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "70140",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CB4",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "75526",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CB5",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "F",
+        "instructor": "0100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "78550",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CB6",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "70136",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      },
+      {
+        "crn": "75527",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CZ1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/370"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 371",
+    "title": "Mechanical Design II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "32244",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/371"
+      },
+      {
+        "crn": "32245",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/371"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 403",
+    "title": "Internal Combustion Engines",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "56136",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/403"
+      },
+      {
+        "crn": "56137",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/403"
+      },
+      {
+        "crn": "56139",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/403"
+      },
+      {
+        "crn": "56134",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AE3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/403"
+      },
+      {
+        "crn": "56133",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AE4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/403"
+      },
+      {
+        "crn": "76274",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ZJU",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 410",
+    "title": "Intermediate Gas Dynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "68180",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2055 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/410"
+      },
+      {
+        "crn": "70687",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2055 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 411",
+    "title": "Viscous Flow & Heat Transfer",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "36858",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "410C1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/411"
+      },
+      {
+        "crn": "62173",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/411"
+      },
+      {
+        "crn": "76356",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ZJU",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 420",
+    "title": "Intermediate Heat Transfer",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "58135",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/420"
+      },
+      {
+        "crn": "70586",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 430",
+    "title": "Failure of Engrg Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "64011",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/430"
+      },
+      {
+        "crn": "30307",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 432",
+    "title": "Fundamentals of Photovoltaics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "70089",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/432"
+      },
+      {
+        "crn": "70088",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/432"
+      },
+      {
+        "crn": "76336",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ZJ3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 445",
+    "title": "Introduction to Robotics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "36926",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "3071 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      },
+      {
+        "crn": "36954",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "3071 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      },
+      {
+        "crn": "41576",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "3071 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      },
+      {
+        "crn": "59291",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "3071 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      },
+      {
+        "crn": "63485",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "3071 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      },
+      {
+        "crn": "69205",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "3071 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      },
+      {
+        "crn": "70612",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "3071 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      },
+      {
+        "crn": "36961",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1015 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 447",
+    "title": "Computational Design and Dynamics of Soft Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "75886",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR4",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "218 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/447"
+      },
+      {
+        "crn": "76279",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/447"
+      },
+      {
+        "crn": "75885",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG4",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "218 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 453",
+    "title": "Data Science in Manufacturing Quality Control",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "73109",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DSG",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/453"
+      },
+      {
+        "crn": "73108",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DSU",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 458",
+    "title": "Additive Manufacturing and Product Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "73103",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AMG",
+        "startTime": "13:00",
+        "endTime": "14:40",
+        "day": "MW",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/458"
+      },
+      {
+        "crn": "73102",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AMU",
+        "startTime": "13:00",
+        "endTime": "14:40",
+        "day": "MW",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/458"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 461",
+    "title": "Computer Cntrl of Mech Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "30305",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/461"
+      },
+      {
+        "crn": "60190",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/461"
+      },
+      {
+        "crn": "75761",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ALA",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "302 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/461"
+      },
+      {
+        "crn": "75762",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ALB",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "302 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/461"
+      },
+      {
+        "crn": "75763",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ALC",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "302 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 462",
+    "title": "Advanced Computer Control",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "74507",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/462"
+      },
+      {
+        "crn": "77447",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/462"
+      },
+      {
+        "crn": "74506",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 470",
+    "title": "Senior Design Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "36716",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/470"
+      },
+      {
+        "crn": "36723",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AY1",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/470"
+      },
+      {
+        "crn": "36731",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AY2",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/470"
+      },
+      {
+        "crn": "36740",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AY3",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/470"
+      },
+      {
+        "crn": "36746",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AY4",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "4100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 471",
+    "title": "Finite Element Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "36848",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/471"
+      },
+      {
+        "crn": "62977",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/471"
+      },
+      {
+        "crn": "41754",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 482",
+    "title": "Musculoskel Tissue Mechanics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "60166",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1227 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/482"
+      },
+      {
+        "crn": "60167",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1227 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/482"
+      },
+      {
+        "crn": "69036",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "1227 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/482"
+      },
+      {
+        "crn": "54416",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/482"
+      },
+      {
+        "crn": "60170",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 487",
+    "title": "MEMS-NEMS Theory & Fabrication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "55927",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2208 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/487"
+      },
+      {
+        "crn": "55926",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "2208 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/487"
+      },
+      {
+        "crn": "55928",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "2208 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/487"
+      },
+      {
+        "crn": "67800",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALG",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/487"
+      },
+      {
+        "crn": "55925",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALU",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/487"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 496",
+    "title": "Honors Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "10541",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 497",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "10543",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 498",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "55932",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LC3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/498"
+      },
+      {
+        "crn": "55933",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LC4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/498"
+      },
+      {
+        "crn": "71645",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "NGG",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "2045 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/498"
+      },
+      {
+        "crn": "71644",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "NGU",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "2045 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 512",
+    "title": "Physicochemical Hydrodynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "73137",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PH",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "143 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 540",
+    "title": "Control System Theory & Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "53744",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "N",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3017 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 543",
+    "title": "Applied Control System Design & Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "75916",
+        "status": "restricted",
+        "type": "Online",
+        "section": "KOC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/543"
+      },
+      {
+        "crn": "75915",
+        "status": "restricted",
+        "type": "Online",
+        "section": "KOL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/543"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 562",
+    "title": "Robust Adaptive Control",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "63967",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "139 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 586",
+    "title": "Mechanics of MEMS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "66183",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/586"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 590",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "32259",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DMS",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "208 Seitz Materials Research Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/590"
+      },
+      {
+        "crn": "32257",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 597",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "10547",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/597"
+      },
+      {
+        "crn": "23198",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JO",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "40066",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EC1",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/598"
+      },
+      {
+        "crn": "77751",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ECC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/598"
+      },
+      {
+        "crn": "32264",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ECO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/598"
+      },
+      {
+        "crn": "68952",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ST",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "ME 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ME",
+    "sections": [
+      {
+        "crn": "10549",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ME/599"
+      }
+    ]
+  }
+]

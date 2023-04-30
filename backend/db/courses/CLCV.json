@@ -1,0 +1,659 @@
+[
+  {
+    "courseCode": "CLCV 100",
+    "title": "Vocabulary Building from Greek and Latin Roots",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "60478",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 102",
+    "title": "Medical Terms-GRK & LAT Roots",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "71429",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/102"
+      },
+      {
+        "crn": "71430",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 111",
+    "title": "Mythology of Greece and Rome",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "30033",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/111"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 114",
+    "title": "Introduction to Ancient Greek Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "30039",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/114"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 115",
+    "title": "Mythology of Greece and Rome",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "33538",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33767",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33773",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33775",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33777",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33786",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33741",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33745",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "170 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "40204",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "40205",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "40206",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "38978",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "5 Weston Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "38911",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      },
+      {
+        "crn": "33806",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 120",
+    "title": "The Classical Tradition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "71925",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "4036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 131",
+    "title": "Classical Archaeology, Greece",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "30042",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/131"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 133",
+    "title": "Archaeology of Israel",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "74899",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/133"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 160",
+    "title": "Ancient Greek & Roman Religion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "63183",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/160"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "10535",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 203",
+    "title": "Ancient Philosophy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "61804",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 220",
+    "title": "Exploring the Greek and Roman World",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "63188",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/220"
+      },
+      {
+        "crn": "40209",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/220"
+      },
+      {
+        "crn": "71101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WW",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "1038 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 221",
+    "title": "Odysseus and Other Heroes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "33455",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/221"
+      },
+      {
+        "crn": "33762",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 224",
+    "title": "American Race and Ethnicity in the Classical Tradition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "71436",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "71440",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "329 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "71441",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "71442",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "71443",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "71444",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "72934",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "72937",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "72938",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "143 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "72939",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      },
+      {
+        "crn": "70306",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/224"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 231",
+    "title": "Development of Ancient Cities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "72043",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/231"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 240",
+    "title": "Gender & Sexuality in Greco-Roman Antiquity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "33544",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 250",
+    "title": "Sports and Society in Greece and Rome",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "77093",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 443",
+    "title": "The Archaeology of Greece",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "33460",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/443"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 492",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "10542",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLCV 493",
+    "title": "Independent Reading",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV",
+    "sections": [
+      {
+        "crn": "64691",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLCV/493"
+      }
+    ]
+  }
+]

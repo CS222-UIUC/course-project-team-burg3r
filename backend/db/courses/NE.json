@@ -1,0 +1,49 @@
+[
+  {
+    "courseCode": "NE 100",
+    "title": "Introduction to Neural Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NE",
+    "sections": [
+      {
+        "crn": "77097",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NE1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NE/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "NE 410",
+    "title": "Neural Circuits and Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NE",
+    "sections": [
+      {
+        "crn": "77874",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "NS4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "2017 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NE/410"
+      },
+      {
+        "crn": "77873",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "NS",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "2017 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NE/410"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "courseCode": "EURO 385",
+    "title": "Politics of the European Union",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EURO",
+    "sections": [
+      {
+        "crn": "68432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EURO/385"
+      }
+    ]
+  },
+  {
+    "courseCode": "EURO 500",
+    "title": "Dialogue on Europe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EURO",
+    "sections": [
+      {
+        "crn": "62400",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EURO/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "EURO 501",
+    "title": "EU Institutions and Governance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EURO",
+    "sections": [
+      {
+        "crn": "54439",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EURO/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "EURO 590",
+    "title": "Directed Ind Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EURO",
+    "sections": [
+      {
+        "crn": "56543",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EURO/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "EURO 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EURO",
+    "sections": [
+      {
+        "crn": "58716",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EURO/599"
+      }
+    ]
+  }
+]

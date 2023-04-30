@@ -1,0 +1,307 @@
+[
+  {
+    "courseCode": "ENVS 210",
+    "title": "Environmental Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "61570",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/210"
+      },
+      {
+        "crn": "61577",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/210"
+      },
+      {
+        "crn": "61582",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/210"
+      },
+      {
+        "crn": "61587",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/210"
+      },
+      {
+        "crn": "61592",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/210"
+      },
+      {
+        "crn": "61597",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/210"
+      },
+      {
+        "crn": "61565",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 220",
+    "title": "Communicating Agriculture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "39322",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 299",
+    "title": "Ind Studies of Env. Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "10084",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 310",
+    "title": "Natural Resource Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "73098",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "428 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/310"
+      },
+      {
+        "crn": "73099",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/310"
+      },
+      {
+        "crn": "36782",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 330",
+    "title": "Environmental Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "40476",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "282 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 469",
+    "title": "Environmental Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "78278",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/469"
+      },
+      {
+        "crn": "78304",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/469"
+      },
+      {
+        "crn": "78305",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/469"
+      },
+      {
+        "crn": "78276",
+        "status": "restricted",
+        "type": "Online",
+        "section": "U1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/469"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 491",
+    "title": "Sustainability Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "65566",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "CSI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/491"
+      },
+      {
+        "crn": "65565",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "SWA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 492",
+    "title": "Sustainability, Energy and Environment Capstone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "67954",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "337 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/492"
+      },
+      {
+        "crn": "73714",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "337 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENVS 596",
+    "title": "Interdisciplinary Tox Sem",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS",
+    "sections": [
+      {
+        "crn": "33203",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3526 Vet Med Basic Sciences Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENVS/596"
+      }
+    ]
+  }
+]

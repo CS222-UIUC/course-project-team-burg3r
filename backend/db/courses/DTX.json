@@ -1,0 +1,92 @@
+[
+  {
+    "courseCode": "DTX 180",
+    "title": "Exercising Empathy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DTX",
+    "sections": [
+      {
+        "crn": "78357",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DTX/180"
+      }
+    ]
+  },
+  {
+    "courseCode": "DTX 210",
+    "title": "Introduction to Social Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DTX",
+    "sections": [
+      {
+        "crn": "77367",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DTX/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "DTX 251",
+    "title": "Introduction to Design Thinking",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DTX",
+    "sections": [
+      {
+        "crn": "75903",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1000 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DTX/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "DTX 495",
+    "title": "Special Topics in Design Thinking",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DTX",
+    "sections": [
+      {
+        "crn": "77374",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "1002 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DTX/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "DTX 499",
+    "title": "Multidisciplinary Innovation Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DTX",
+    "sections": [
+      {
+        "crn": "78358",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "1002 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DTX/499"
+      }
+    ]
+  }
+]

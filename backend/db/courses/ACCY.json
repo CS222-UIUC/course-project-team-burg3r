@@ -1,0 +1,2315 @@
+[
+  {
+    "courseCode": "ACCY 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "10033",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/199"
+      },
+      {
+        "crn": "71857",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CPA",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 200",
+    "title": "Fundamentals of Accounting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "39539",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/200"
+      },
+      {
+        "crn": "29670",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 201",
+    "title": "Accounting and Accountancy I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "36478",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36480",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36484",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36486",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36487",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36494",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36496",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36502",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36506",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36509",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36513",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36522",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36526",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36530",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36536",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADL",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36543",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36474",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "36477",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      },
+      {
+        "crn": "71428",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 202",
+    "title": "Accounting and Accountancy II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "36556",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "36560",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "36565",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "36568",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "71329",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "71330",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "71331",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "71332",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "36549",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      },
+      {
+        "crn": "71328",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 290",
+    "title": "Prof Internship in Accountancy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "45794",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "O",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 301",
+    "title": "Atg Measurement & Disclosure",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "36577",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      },
+      {
+        "crn": "36581",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      },
+      {
+        "crn": "36584",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      },
+      {
+        "crn": "36587",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      },
+      {
+        "crn": "36590",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      },
+      {
+        "crn": "36592",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE6",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      },
+      {
+        "crn": "36598",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE8",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      },
+      {
+        "crn": "49255",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AEB",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 302",
+    "title": "Decision Making for Atg",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "36614",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/302"
+      },
+      {
+        "crn": "36618",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/302"
+      },
+      {
+        "crn": "36677",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/302"
+      },
+      {
+        "crn": "36680",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/302"
+      },
+      {
+        "crn": "36688",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE8",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/302"
+      },
+      {
+        "crn": "49258",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AEA",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/302"
+      },
+      {
+        "crn": "36690",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AY1",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "1001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/302"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 303",
+    "title": "Accounting Institutions and Regulation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "36700",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/303"
+      },
+      {
+        "crn": "36701",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/303"
+      },
+      {
+        "crn": "36713",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/303"
+      },
+      {
+        "crn": "49259",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/303"
+      },
+      {
+        "crn": "36703",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE6",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/303"
+      },
+      {
+        "crn": "67818",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE7",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 304",
+    "title": "Accounting Control Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "31317",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/304"
+      },
+      {
+        "crn": "31318",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/304"
+      },
+      {
+        "crn": "31319",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/304"
+      },
+      {
+        "crn": "31320",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/304"
+      },
+      {
+        "crn": "49280",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/304"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 312",
+    "title": "Principles of Taxation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "31321",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/312"
+      },
+      {
+        "crn": "31324",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/312"
+      },
+      {
+        "crn": "31330",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/312"
+      },
+      {
+        "crn": "31332",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/312"
+      },
+      {
+        "crn": "31333",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/312"
+      },
+      {
+        "crn": "45719",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/312"
+      },
+      {
+        "crn": "45934",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/312"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 321",
+    "title": "Principles of Public Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "60065",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WA",
+        "startTime": "17:30",
+        "endTime": "19:30",
+        "day": "W",
+        "instructor": "ARR Washington DC",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 398",
+    "title": "Practical Problems in Atg",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "61229",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/398"
+      },
+      {
+        "crn": "64742",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/398"
+      },
+      {
+        "crn": "64739",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/398"
+      },
+      {
+        "crn": "64732",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/398"
+      },
+      {
+        "crn": "61230",
+        "status": "restricted",
+        "type": "Online",
+        "section": "Z",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 405",
+    "title": "Assurance and Attestation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "36754",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/405"
+      },
+      {
+        "crn": "36758",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/405"
+      },
+      {
+        "crn": "36764",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/405"
+      },
+      {
+        "crn": "36768",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/405"
+      },
+      {
+        "crn": "36771",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/405"
+      },
+      {
+        "crn": "54162",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE7",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/405"
+      },
+      {
+        "crn": "36779",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AY1",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "R",
+        "instructor": "1001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 410",
+    "title": "Advanced Financial Reporting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "29671",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "64651",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "61231",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "64652",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "62729",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "64654",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "62730",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "64656",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "62731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      },
+      {
+        "crn": "64657",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 451",
+    "title": "Advanced Income Tax Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "49130",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "63159",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "54569",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "63160",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "62733",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "63161",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "63119",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "63163",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "70659",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      },
+      {
+        "crn": "70660",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 499",
+    "title": "Senior Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "10038",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 500",
+    "title": "Accounting Measurement, Reporting, and Control",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "62025",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/500"
+      },
+      {
+        "crn": "67282",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/500"
+      },
+      {
+        "crn": "67281",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/500"
+      },
+      {
+        "crn": "56063",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 501",
+    "title": "Accounting Analysis I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "29678",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/501"
+      },
+      {
+        "crn": "69435",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/501"
+      },
+      {
+        "crn": "70308",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MSF",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/501"
+      },
+      {
+        "crn": "69437",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/501"
+      },
+      {
+        "crn": "69438",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 502",
+    "title": "Accounting Analysis II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "29680",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/502"
+      },
+      {
+        "crn": "31334",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/502"
+      },
+      {
+        "crn": "71904",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/502"
+      },
+      {
+        "crn": "71905",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/502"
+      },
+      {
+        "crn": "76239",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/502"
+      },
+      {
+        "crn": "71906",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/502"
+      },
+      {
+        "crn": "71907",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 503",
+    "title": "Managerial Accounting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "31335",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/503"
+      },
+      {
+        "crn": "77353",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/503"
+      },
+      {
+        "crn": "66973",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/503"
+      },
+      {
+        "crn": "66974",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 504",
+    "title": "Auditing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "59162",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/504"
+      },
+      {
+        "crn": "64875",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/504"
+      },
+      {
+        "crn": "70165",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/504"
+      },
+      {
+        "crn": "70166",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/504"
+      },
+      {
+        "crn": "76238",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/504"
+      },
+      {
+        "crn": "70167",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/504"
+      },
+      {
+        "crn": "70168",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 505",
+    "title": "Federal Taxation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "31339",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "31341",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "54993",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "57605",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "69441",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "69442",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "70661",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "69443",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      },
+      {
+        "crn": "69444",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 506",
+    "title": "Advanced Topics in Accounting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "71549",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/506"
+      },
+      {
+        "crn": "71551",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/506"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 510",
+    "title": "Financial Reporting Standards",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "49275",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/510"
+      },
+      {
+        "crn": "61974",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/510"
+      },
+      {
+        "crn": "62037",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 512",
+    "title": "Data Analytics for Management Accounting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "51813",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/512"
+      },
+      {
+        "crn": "51814",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/512"
+      },
+      {
+        "crn": "51816",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 515",
+    "title": "Auditing & Assurance Standards",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "46977",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/515"
+      },
+      {
+        "crn": "46978",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/515"
+      },
+      {
+        "crn": "54477",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 517",
+    "title": "Financial Statement Analysis and Valuation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "31373",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/517"
+      },
+      {
+        "crn": "31377",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/517"
+      },
+      {
+        "crn": "39543",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/517"
+      },
+      {
+        "crn": "31379",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 518",
+    "title": "Financial Statement Fraud",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "66681",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/518"
+      },
+      {
+        "crn": "66682",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/518"
+      },
+      {
+        "crn": "66683",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/518"
+      },
+      {
+        "crn": "70667",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/518"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 531",
+    "title": "Financial Statement Analysis for MBAs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "76802",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/531"
+      },
+      {
+        "crn": "76803",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/531"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 532",
+    "title": "Accounting for Mergers & Acquisitions and Other Complex Transactions",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "76804",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/532"
+      },
+      {
+        "crn": "76805",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/532"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 551",
+    "title": "Corporate Income Taxation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "31382",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/551"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 552",
+    "title": "Partnership Income Taxation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "74619",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/552"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 556",
+    "title": "Tax Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "54570",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/556"
+      },
+      {
+        "crn": "31384",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/556"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 569",
+    "title": "Data Driven Decisions in Accounting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "71963",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/569"
+      },
+      {
+        "crn": "71964",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NA1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/569"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 570",
+    "title": "Data Analytics Foundations for Accountancy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "68784"
+      },
+      {
+        "need attention": "yes",
+        "crn": "68785"
+      },
+      {
+        "need attention": "yes",
+        "crn": "68786"
+      },
+      {
+        "need attention": "yes",
+        "crn": "68787"
+      },
+      {
+        "need attention": "yes",
+        "crn": "70665"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76784"
+      },
+      {
+        "need attention": "yes",
+        "crn": "71909"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 574",
+    "title": "Risk Management and Innovation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "78085",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/574"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 575",
+    "title": "Data Analytics Applications in Accountancy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "74620",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 578",
+    "title": "Accounting Analytics Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "73609",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AAA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/578"
+      },
+      {
+        "crn": "73610",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AAB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/578"
+      },
+      {
+        "crn": "73611",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NAA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/578"
+      },
+      {
+        "crn": "73613",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NAB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/578"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 590",
+    "title": "Adv Prof Internship in ACCY",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "76138",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "MSA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 592",
+    "title": "Introduction to Accounting Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "29682",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 593",
+    "title": "Special Research Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "10041",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/593"
+      },
+      {
+        "crn": "36850",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/593"
+      },
+      {
+        "crn": "76757",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FPS",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/593"
+      },
+      {
+        "crn": "42664",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "SP1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/593"
+      },
+      {
+        "crn": "36846",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "SP2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACCY 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY",
+    "sections": [
+      {
+        "crn": "29686",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "08:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/599"
+      },
+      {
+        "crn": "72693",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACCY/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3789 @@
+[
+  {
+    "courseCode": "MUS 090",
+    "title": "Seminar in Music Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30557",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/090"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 100",
+    "title": "First-year Seminar for Music Majors",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "75805",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 101",
+    "title": "Music Theory and Practice I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "37441",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/101"
+      },
+      {
+        "crn": "37445",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/101"
+      },
+      {
+        "crn": "44646",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/101"
+      },
+      {
+        "crn": "48326",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0325 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/101"
+      },
+      {
+        "crn": "39962",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0303 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/101"
+      },
+      {
+        "crn": "51510",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "0323 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/101"
+      },
+      {
+        "crn": "37438",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 106",
+    "title": "Beginning Composition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30552"
+      },
+      {
+        "crn": "72242",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "0303 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/106"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 107",
+    "title": "Musicianship I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "37678",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/107"
+      },
+      {
+        "crn": "37681",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/107"
+      },
+      {
+        "crn": "37684",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/107"
+      },
+      {
+        "crn": "52827",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0325 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/107"
+      },
+      {
+        "crn": "48096",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0303 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/107"
+      },
+      {
+        "crn": "37688",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0323 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/107"
+      },
+      {
+        "crn": "37676",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/107"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 108",
+    "title": "Musicianship II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "60847",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "GR",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/108"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 121",
+    "title": "Italian Diction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30569",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:25",
+        "day": "W",
+        "instructor": "220 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/121"
+      },
+      {
+        "crn": "76476",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "day": "M",
+        "instructor": "0323 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/121"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 123",
+    "title": "French Diction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30574",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "220 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/123"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 132",
+    "title": "Popular Music Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "73460",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73461",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73462",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73463",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73464",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73465",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73466",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73467",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73468",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73469",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73470",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73471",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75493",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75494",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADN",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75495",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75496",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75497",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADQ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75498",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75499",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75502",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADT",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "0303 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75513",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADU",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75514",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADV",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75515",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADW",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "75516",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADX",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      },
+      {
+        "crn": "73319",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "114 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/132"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 133",
+    "title": "Introduction to World Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "37729",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37732",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37733",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37735",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37737",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37738",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37739",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37740",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37741",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37742",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADJ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37743",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37744",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "75811",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "75812",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADN",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "75813",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37750",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37755",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADQ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37760",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37762",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37816",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37817",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37820",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADV",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37821",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADW",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37823",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADX",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      },
+      {
+        "crn": "37728",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "114 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/133"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 140",
+    "title": "String Instrument Class",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32629",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 144",
+    "title": "Supp WW Inst: Clarinet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "38163",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/144"
+      },
+      {
+        "crn": "50439",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/144"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 146",
+    "title": "Supp WW Inst: Flute",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "38169",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/146"
+      },
+      {
+        "crn": "50440",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/146"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 147",
+    "title": "Supp WW Inst: Oboe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "38172",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/147"
+      },
+      {
+        "crn": "50441",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/147"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 148",
+    "title": "Supp WW Inst: Saxophone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "38170",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/148"
+      },
+      {
+        "crn": "50442",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/148"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 149",
+    "title": "Supp WW Inst: Bassoon",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "38174",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/149"
+      },
+      {
+        "crn": "50443",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/149"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 151",
+    "title": "Supp Brass Inst: Trumpet",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "50444",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/151"
+      },
+      {
+        "crn": "39612",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/151"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 153",
+    "title": "Supp Brass Inst: Horn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "50445",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/153"
+      },
+      {
+        "crn": "39625",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/153"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 154",
+    "title": "Supp Brass Inst: Trombone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "39632",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/154"
+      },
+      {
+        "crn": "50446",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/154"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 155",
+    "title": "Supp Brass Inst: Euph/Tuba",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32636",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/155"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 158",
+    "title": "Supp Percussion Instruments",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32637",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "6 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/158"
+      },
+      {
+        "crn": "32638",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "6 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/158"
+      },
+      {
+        "crn": "59765",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "6 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/158"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 163",
+    "title": "Jazz Keyboard Studies I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "47883",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/163"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 166",
+    "title": "Class Jazz Improvisation I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "47690",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/166"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 169",
+    "title": "Unit One Sem Instruct in Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "37510",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37511",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "C",
+        "startTime": "18:00",
+        "endTime": "18:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37512",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37513",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37514",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37515",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37516",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37517",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L5",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37518",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37519",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L7",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37520",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L8",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37521",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L9",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37522",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L10",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "37523",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L11",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "39658",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L12",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "39659",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "L13",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      },
+      {
+        "crn": "42697",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LH6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/169"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 173",
+    "title": "Grp Instr Pno for Mus Maj II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30565",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      },
+      {
+        "crn": "41703",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      },
+      {
+        "crn": "45568",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "C",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      },
+      {
+        "crn": "46055",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      },
+      {
+        "crn": "50436",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "E",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      },
+      {
+        "crn": "78454",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "F",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      },
+      {
+        "crn": "78455",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "G",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      },
+      {
+        "crn": "78456",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "H",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/173"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 174",
+    "title": "Grp Instr Pno for Mus Maj III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32623",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "0302 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/174"
+      },
+      {
+        "crn": "32626",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/174"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10009",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/199"
+      },
+      {
+        "crn": "24158",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "GT1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "0300 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/199"
+      },
+      {
+        "crn": "72196",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "H1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/199"
+      },
+      {
+        "crn": "24061",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "MET",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 201",
+    "title": "Music Theory and Practice III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "39965",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "0300 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/201"
+      },
+      {
+        "crn": "39966",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "0354 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/201"
+      },
+      {
+        "crn": "39967",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/201"
+      },
+      {
+        "crn": "39968",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/201"
+      },
+      {
+        "crn": "53912",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/201"
+      },
+      {
+        "crn": "39963",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 205",
+    "title": "Computation and Music II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "69401",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "4033 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 206",
+    "title": "Intermediate Composition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30584"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 207",
+    "title": "Musicianship III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "48347",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0300 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/207"
+      },
+      {
+        "crn": "37705",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0354 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/207"
+      },
+      {
+        "crn": "37702",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/207"
+      },
+      {
+        "crn": "37700",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/207"
+      },
+      {
+        "crn": "37694",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/207"
+      },
+      {
+        "crn": "53913",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/207"
+      },
+      {
+        "crn": "37698",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CAL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "4033 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/207"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 222",
+    "title": "Singing in Musical Theatre",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "70719",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 240",
+    "title": "Orientation to Music Teaching and Learning K-HS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30559",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 242",
+    "title": "Elements of Conducting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32613",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/242"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 243",
+    "title": "Introductory Music Ed Tech",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32475",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/243"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 299",
+    "title": "Thesis/Adv UG Honors in Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10011",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 313",
+    "title": "The History of Music I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "38190"
+      },
+      {
+        "need attention": "yes",
+        "crn": "38193"
+      },
+      {
+        "need attention": "yes",
+        "crn": "38196"
+      },
+      {
+        "need attention": "yes",
+        "crn": "38205"
+      },
+      {
+        "need attention": "yes",
+        "crn": "38208"
+      },
+      {
+        "need attention": "yes",
+        "crn": "75750"
+      },
+      {
+        "crn": "38184",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/313"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 317",
+    "title": "Intro to Piano Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "56341",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:30",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/317"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 330",
+    "title": "Advanced Choral Conducting I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30591",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "0061A Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 332",
+    "title": "Advanced Wind Band Conducting and Rehearsal Strategies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30592",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/332"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 333",
+    "title": "Cond/Teach Strings-Grp Setting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30595",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/333"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 343",
+    "title": "Music in Adolescence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "65132",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/343"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 345",
+    "title": "Mus Methods in Early Childhood",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30603",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:10",
+        "endTime": "18:00",
+        "day": "T",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/345"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 348",
+    "title": "Choral Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30605",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2317 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/348"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 350",
+    "title": "Music Teaching in Ensemble Settings",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "70388",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2310 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 360",
+    "title": "Jazz Improv:Theory and Prac I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "43772",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 362",
+    "title": "Jazz Arranging I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "43770",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/362"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 364",
+    "title": "Jazz Composition I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "48112",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/364"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 368",
+    "title": "Jazz Improvisation Styles I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "48111",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "106 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/368"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 404",
+    "title": "Contemp Compos Techniques",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "39969",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 406",
+    "title": "Advanced Composition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "38240"
+      },
+      {
+        "need attention": "yes",
+        "crn": "39970"
+      },
+      {
+        "need attention": "yes",
+        "crn": "70310"
+      },
+      {
+        "need attention": "yes",
+        "crn": "38241"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 407",
+    "title": "Elect Music Techniques I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30640",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 408",
+    "title": "Analysis of Musical Form",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "39973",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0325 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/408"
+      },
+      {
+        "crn": "41534",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/408"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 416",
+    "title": "Anthropology of Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "39682",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/416"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 418",
+    "title": "Regional Studies in Musicology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "42745",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 421",
+    "title": "The Music of America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "43783",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "0359 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 422",
+    "title": "Musical Theatre Repertoire",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "70403",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 426",
+    "title": "Orchestration",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "48116",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/426"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 430",
+    "title": "Applied Music Pedagogy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "38278",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "FL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      },
+      {
+        "crn": "38251",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "HN",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      },
+      {
+        "crn": "38271",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "HRP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3060 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      },
+      {
+        "crn": "38281",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "OB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      },
+      {
+        "crn": "39687",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "PER",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      },
+      {
+        "crn": "38283",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "SAX",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      },
+      {
+        "crn": "38250",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "TPT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      },
+      {
+        "crn": "38273",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "VC1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "0303 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 433",
+    "title": "Music Interdisciplinary Curriculum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "65164",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "0324 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 435",
+    "title": "Jazz Aural Skills I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "50641",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 439",
+    "title": "Differentiating Music Instruction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "53906",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/439"
+      },
+      {
+        "crn": "78418",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0300 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/439"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 446",
+    "title": "Songwriting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "65310",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/446"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 447",
+    "title": "Advanced Music Ed Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30657",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "0324 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 449",
+    "title": "Teaching Young Singers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "39686",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "0324 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/449"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 451",
+    "title": "Basso Continuo",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30653",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "105 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 453",
+    "title": "Special Topics in Organ",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "47160",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 454",
+    "title": "Advanced Keyboard Skills I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30662",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "106 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/454"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 459",
+    "title": "Professional Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "62828",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/459"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 464",
+    "title": "Jazz History I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "58635",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/464"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 471",
+    "title": "Composer-Chor Workshop",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "63272",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "109 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 472",
+    "title": "Senior Project Showcase",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "75644",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "F",
+        "instructor": "1030 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/472"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 474",
+    "title": "Vocal Repertoire I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30676",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "4501C Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/474"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 499",
+    "title": "Proseminar in Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10014",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "71004",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AT2",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "4033 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "42413",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "BT1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "4033 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "38243",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "C",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "4033 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "72180",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CPS",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "0325 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "42410",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "CSM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "42414",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "F",
+        "instructor": "220 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "42679",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "GT1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "0300 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "72195",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "H1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "23791",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "IHM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "38619",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JA1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "25 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "38247",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "JI1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "0354 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "23777",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JK1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "103 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "38620",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "JS1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "106 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "42412",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "KJF",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "141 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "50296",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LAW",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "0358 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      },
+      {
+        "crn": "38249",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "OAP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "3000 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 500",
+    "title": "Artist Diploma Recital",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "72657",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "AY",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "69804",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "BS1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "62524",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "BS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "72662",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "CD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "57945",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "CMM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "72661",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "DM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "72660",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "DR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "72658",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "EF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "67522",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "GSP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "78542",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "JD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "69754",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "JK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "72659",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "MF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "67275",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "NL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "69693",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "SJK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      },
+      {
+        "crn": "62412",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "TE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 502",
+    "title": "Graduate Theory Review",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "62409",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/502"
+      },
+      {
+        "crn": "62410",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "0356 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 504",
+    "title": "Grad. Jazz Improv. I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "64411",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "106 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 505",
+    "title": "Individ Topics in Music Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10017",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 506",
+    "title": "Graduate Level Composition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "61352"
+      },
+      {
+        "need attention": "yes",
+        "crn": "38312"
+      },
+      {
+        "need attention": "yes",
+        "crn": "41990"
+      },
+      {
+        "need attention": "yes",
+        "crn": "39974"
+      },
+      {
+        "need attention": "yes",
+        "crn": "39975"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 509",
+    "title": "Graduate Seminar in Band Conducting, History, and Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "69202",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "167 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/509"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 511",
+    "title": "Foundations and Methods of Musicology I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30716",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "MW",
+        "instructor": "0325 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 517",
+    "title": "Topics in Instrumental Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "74056",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2334 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 518",
+    "title": "Regional Studies in Musicology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "74049",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0357 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/518"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 522",
+    "title": "Special Topics Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "70495",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "2334 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/522"
+      },
+      {
+        "crn": "78480",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "2334 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/522"
+      },
+      {
+        "crn": "78498",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "C",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "2334 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 523",
+    "title": "Seminar in Musicology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32824",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "2334 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/523"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 525",
+    "title": "Rdgs in Musicol and Mus Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10026",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/525"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 528",
+    "title": "Res & Bibliography in Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30734",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/528"
+      },
+      {
+        "crn": "59798",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/528"
+      },
+      {
+        "crn": "45134",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2334 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/528"
+      },
+      {
+        "crn": "76015",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2334 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/528"
+      },
+      {
+        "crn": "77847",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A5",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/528"
+      },
+      {
+        "crn": "58089",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/528"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 530",
+    "title": "Critical Readings in Mus Ed",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10022",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/530"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 532",
+    "title": "Curricular Perspectives on Music Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "64959",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/532"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 540",
+    "title": "Graduate Wind Band Conducting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30766",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "167 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 543",
+    "title": "Music Teacher Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "77621",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "0320 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/543"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 544",
+    "title": "Doctoral Seminar in Music Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30798",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "0360 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/544"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 546",
+    "title": "Orchestral Literature I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30720",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "4409 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 548",
+    "title": "Advanced Jazz Harmony I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "48117",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "106 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/548"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 553",
+    "title": "Graduate Orchestral Conducting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32827",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:45",
+        "day": "TR",
+        "instructor": "2310 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/553"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 557",
+    "title": "Piano Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30740",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "105 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/557"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 558",
+    "title": "Vocal Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30741"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 559",
+    "title": "Organ Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30743",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 560",
+    "title": "String Instrument Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "32830",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "0304 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/560"
+      },
+      {
+        "crn": "75914",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/560"
+      },
+      {
+        "crn": "76660",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/560"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 561",
+    "title": "Wind Instrument Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "38317",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "CL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/561"
+      },
+      {
+        "crn": "38316",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "FL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/561"
+      },
+      {
+        "crn": "38323",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "HN",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/561"
+      },
+      {
+        "crn": "38318",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "OB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/561"
+      },
+      {
+        "crn": "38320",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "SAX",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/561"
+      },
+      {
+        "crn": "38325",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "T/E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "null Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/561"
+      },
+      {
+        "crn": "38321",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "TPT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/561"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 563",
+    "title": "Topics in Choral Repertoire",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30774",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "0325 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/563"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 564",
+    "title": "Choral Conducting Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30782",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/564"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 565",
+    "title": "Doctoral Choral Conducting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "30784",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2317 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/565"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 570",
+    "title": "Prac Pno Tchg Child and Teens",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30792"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 572",
+    "title": "Doctoral Orchestral Conducting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "61876",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:45",
+        "day": "TR",
+        "instructor": "2310 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 573",
+    "title": "Doctoral Wind Band Conducting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "58298",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "167 Harding Band Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/573"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 574",
+    "title": "Jazz Arranging III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "50640",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "0323 Music Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/574"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 576",
+    "title": "Doctoral Projects",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10028",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/576"
+      }
+    ]
+  },
+  {
+    "courseCode": "MUS 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MUS",
+    "sections": [
+      {
+        "crn": "10030",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MUS/599"
+      }
+    ]
+  }
+]

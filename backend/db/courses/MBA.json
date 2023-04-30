@@ -1,0 +1,281 @@
+[
+  {
+    "courseCode": "MBA 530",
+    "title": "Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "10572",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/530"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 531",
+    "title": "Special Projects",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "10574",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/531"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 543",
+    "title": "Digital Media & Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "71979",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/543"
+      },
+      {
+        "crn": "71981",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/543"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 549",
+    "title": "Multiculturalism in Management and the Marketplace",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "78426",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/549"
+      },
+      {
+        "crn": "78427",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/549"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 553",
+    "title": "Entrepreneurship: From Startup to Growth",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "71992",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/553"
+      },
+      {
+        "crn": "71993",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/553"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 561",
+    "title": "Introduction to Business Analytics with R",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "77336",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/561"
+      },
+      {
+        "crn": "77337",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/561"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 562",
+    "title": "Introduction to Business Analytics: Communicating with Data",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "77338",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/562"
+      },
+      {
+        "crn": "77339",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 563",
+    "title": "Data Toolkit: Business Data Modeling & Predictive Analytics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "77340",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/563"
+      },
+      {
+        "crn": "77341",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/563"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 590",
+    "title": "Specialization Capstone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "71986",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IM1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/590"
+      },
+      {
+        "crn": "71987",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IM2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/590"
+      },
+      {
+        "crn": "72491",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IM3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/590"
+      },
+      {
+        "crn": "71988",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IM4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "MBA 598",
+    "title": "Program Capstone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MBA",
+    "sections": [
+      {
+        "crn": "78465",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MBA/598"
+      }
+    ]
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "courseCode": "ARTH 110",
+    "title": "Introduction to the History of Art and Visual Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "70000",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "70001",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "70002",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "70003",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "T",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "70004",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "70005",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "74523",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "day": "R",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "74524",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      },
+      {
+        "crn": "69999",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "134 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 212",
+    "title": "East Asian Art History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "77524",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NG",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/212"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 217",
+    "title": "Development of Ancient Cities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "72053",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/217"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 230",
+    "title": "Italian Renaissance Art",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "40019",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 257",
+    "title": "History of Photography",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "40022",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "331 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/257"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 345",
+    "title": "Realism to Postimpressionism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "73001",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/345"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 391",
+    "title": "Individual Art History Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "10382",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 402",
+    "title": "Ways of Seeing in Edo Japan",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "43952",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/402"
+      },
+      {
+        "crn": "43878",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 404",
+    "title": "China through Film",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "73021"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 415",
+    "title": "The Archaeology of Greece",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "33462",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 489",
+    "title": "Senior Art-History Honors-BA",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "10379",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 490",
+    "title": "Senior Art-History Honors-BFA",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "10381",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 491",
+    "title": "Topics in Art History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "10383",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 535",
+    "title": "Seminar in Baroque Art",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "55603",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "LR",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "340 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/535"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 591",
+    "title": "Individual Readings",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "10384",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 593",
+    "title": "Theory and Methodology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "30121",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "R",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTH 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH",
+    "sections": [
+      {
+        "crn": "10385",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTH/599"
+      }
+    ]
+  }
+]

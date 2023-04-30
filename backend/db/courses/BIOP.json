@@ -1,0 +1,197 @@
+[
+  {
+    "courseCode": "BIOP 401",
+    "title": "Introduction to Biophysics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "75225",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/401"
+      },
+      {
+        "crn": "75226",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/401"
+      },
+      {
+        "crn": "70908",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 432",
+    "title": "Photosynthesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "49924",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "ARR Institute for Genomic Biology",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 581",
+    "title": "Lab Rotation I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "48389",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 582",
+    "title": "Lab Rotation II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "48467",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 583",
+    "title": "Lab Rotation III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "48468",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/583"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 586",
+    "title": "Special Topics in Biophysics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "10416",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/586"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 590",
+    "title": "Individual Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "47358",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 595",
+    "title": "Biophysics Seminars",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "31464",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/595"
+      },
+      {
+        "crn": "31466",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOP 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP",
+    "sections": [
+      {
+        "crn": "10418",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOP/599"
+      }
+    ]
+  }
+]

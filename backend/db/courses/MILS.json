@@ -1,0 +1,286 @@
+[
+  {
+    "courseCode": "MILS 101",
+    "title": "Introduction to the Army",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "crn": "32542",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "133 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/101"
+      },
+      {
+        "crn": "32546",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "133 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/101"
+      },
+      {
+        "crn": "41854",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "133 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/101"
+      },
+      {
+        "crn": "41855",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 112",
+    "title": "Leadership Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30525"
+      },
+      {
+        "crn": "64672",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/112"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 120",
+    "title": "Intro to US Armed Forces",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "crn": "64675",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 201",
+    "title": "Leadership and Ethics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "crn": "32558",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "133 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/201"
+      },
+      {
+        "crn": "32560",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "133 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/201"
+      },
+      {
+        "crn": "32564",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 212",
+    "title": "Leadership Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30532"
+      },
+      {
+        "crn": "64673",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/212"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 301",
+    "title": "Training Management and the Warfighting Functions",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "crn": "32566",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "TR",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/301"
+      },
+      {
+        "crn": "32567",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/301"
+      },
+      {
+        "crn": "32569",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 312",
+    "title": "Leadership Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30540"
+      },
+      {
+        "crn": "64674",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/312"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 322",
+    "title": "Leadership Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "32575"
+      },
+      {
+        "crn": "32584",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/322"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 325",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "crn": "30549",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/325"
+      }
+    ]
+  },
+  {
+    "courseCode": "MILS 341",
+    "title": "Leadership and Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MILS",
+    "sections": [
+      {
+        "crn": "32570",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/341"
+      },
+      {
+        "crn": "32573",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MILS/341"
+      }
+    ]
+  }
+]

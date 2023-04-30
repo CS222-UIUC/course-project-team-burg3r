@@ -1,0 +1,1619 @@
+[
+  {
+    "courseCode": "ACE 100",
+    "title": "Introduction to Applied Microeconomics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "36724",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "138 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/100"
+      },
+      {
+        "crn": "36726",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/100"
+      },
+      {
+        "crn": "36732",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/100"
+      },
+      {
+        "crn": "36734",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/100"
+      },
+      {
+        "crn": "36735",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/100"
+      },
+      {
+        "crn": "56843",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/100"
+      },
+      {
+        "crn": "36722",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 161",
+    "title": "Microcomputer Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "39708",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "29/30 ACES Lib, Info & Alum Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/161"
+      },
+      {
+        "crn": "36751",
+        "status": "restricted",
+        "type": "Online",
+        "section": "L2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/161"
+      },
+      {
+        "crn": "36742",
+        "status": "restricted",
+        "type": "Online",
+        "section": "R",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/161"
+      },
+      {
+        "crn": "36744",
+        "status": "restricted",
+        "type": "Online",
+        "section": "T",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/161"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78477",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AS1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "22 ACES Lib, Info & Alum Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/199"
+      },
+      {
+        "crn": "78478",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AS2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "22 ACES Lib, Info & Alum Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/199"
+      },
+      {
+        "crn": "78479",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AS3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "22 ACES Lib, Info & Alum Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/199"
+      },
+      {
+        "crn": "61499",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DMS",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/199"
+      },
+      {
+        "crn": "29690",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EA",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/199"
+      },
+      {
+        "crn": "58282",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NPS",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "M",
+        "instructor": "213 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 203",
+    "title": "Introduction to Public Policy and Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "73756",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FAP",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 210",
+    "title": "Environmental Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "61568",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/210"
+      },
+      {
+        "crn": "61575",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/210"
+      },
+      {
+        "crn": "61580",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/210"
+      },
+      {
+        "crn": "61585",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/210"
+      },
+      {
+        "crn": "61590",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/210"
+      },
+      {
+        "crn": "61595",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/210"
+      },
+      {
+        "crn": "61563",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 220",
+    "title": "Introduction to Sales: Principles and Strategies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78326",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SPS",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 222",
+    "title": "Agricultural Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "29698",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 240",
+    "title": "Personal Financial Planning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "69393",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DS",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/240"
+      },
+      {
+        "crn": "74876",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 251",
+    "title": "The World Food Economy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "73062",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "40968",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "49099",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "49100",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "58922",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "65292",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD6",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "75099",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "75100",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      },
+      {
+        "crn": "49101",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 255",
+    "title": "Economics of Food and Environmental Justice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78320",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/255"
+      },
+      {
+        "crn": "78321",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/255"
+      },
+      {
+        "crn": "78322",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/255"
+      },
+      {
+        "crn": "78323",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/255"
+      },
+      {
+        "crn": "78324",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/255"
+      },
+      {
+        "crn": "49417",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/255"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 262",
+    "title": "Applied Statistical Methods and Data Analytics I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "72898",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AS1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/262"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 264",
+    "title": "Applied Statistical Methods & Data Analytics 2",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "72900",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AS2",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/264"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 270",
+    "title": "Consumer Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "77284",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 293",
+    "title": "Off-Campus Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "10044",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/293"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 294",
+    "title": "On-Campus Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "10057",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/294"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 295",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "41379",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/295"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 300",
+    "title": "Intermediate Applied Microeconomics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "72902",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/300"
+      },
+      {
+        "crn": "72903",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/300"
+      },
+      {
+        "crn": "73014",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/300"
+      },
+      {
+        "crn": "73015",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/300"
+      },
+      {
+        "crn": "72901",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 310",
+    "title": "Natural Resource Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "73096",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "428 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/310"
+      },
+      {
+        "crn": "73097",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/310"
+      },
+      {
+        "crn": "36772",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 321",
+    "title": "Principles of Public Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "65658",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WA",
+        "startTime": "17:30",
+        "endTime": "19:30",
+        "day": "W",
+        "instructor": "ARR Washington DC",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 335",
+    "title": "Food Marketing and Behavior",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "70565",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FMB",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "31 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/335"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 341",
+    "title": "Issues&Careers in Applied Econ",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "65063",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AMM",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/341"
+      },
+      {
+        "crn": "65167",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CEF",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/341"
+      },
+      {
+        "crn": "65064",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CFP",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/341"
+      },
+      {
+        "crn": "78155",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CP",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/341"
+      },
+      {
+        "crn": "44207",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FAA",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/341"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 345",
+    "title": "Finan Decision Indiv Sm Bus",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "53592",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/345"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 346",
+    "title": "Tax Policy and Finan Planning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "60156",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "112 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/346"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 349",
+    "title": "Risk Management and Financial Planning Across the Life Cycle",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78156",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RM",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/349"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 360",
+    "title": "Spreadsheet Models and Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "75104",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "FA1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/360"
+      },
+      {
+        "crn": "75106",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "FB1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 396",
+    "title": "Honors Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "10068",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 398",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "73653",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE",
+        "startTime": "17:30",
+        "endTime": "18:20",
+        "day": "R",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/398"
+      },
+      {
+        "crn": "57768",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "VB",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/398"
+      },
+      {
+        "crn": "73629",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "XL",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 406",
+    "title": "Environmental Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "48924",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/406"
+      },
+      {
+        "crn": "48925",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 411",
+    "title": "Environment and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78135",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/411"
+      },
+      {
+        "crn": "62829",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 427",
+    "title": "Commodity Price Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "64899",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "166 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/427"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 428",
+    "title": "Commodity Futures and Options",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "43123",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/428"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 431",
+    "title": "Agri-food Strategic Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78578",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/431"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 435",
+    "title": "Global Agribusiness Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "29710",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "112 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 444",
+    "title": "Financial Services & Investing Planning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "51728",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "112 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/444"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 445",
+    "title": "Intermediate Financial and Estate Planning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "47126",
+        "status": "restricted",
+        "type": "Online",
+        "section": "S",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 455",
+    "title": "International Trade in Food and Agriculture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "56174",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 471",
+    "title": "Consumer Economic Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "61497",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "22 ACES Lib, Info & Alum Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 474",
+    "title": "Economics of Consumption",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "73650",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/474"
+      },
+      {
+        "crn": "73276",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/474"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 476",
+    "title": "Behavioral Economics and Financial Decision Making",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "36269",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/476"
+      },
+      {
+        "crn": "36268",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 499",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "61056",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "SL",
+        "startTime": "16:00",
+        "endTime": "17:30",
+        "day": "MW",
+        "instructor": "305 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 500",
+    "title": "Applied Economic Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "29725",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 501",
+    "title": "Risk and Info: Theory and App",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "29727",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "316N Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 516",
+    "title": "Environmental Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "56350",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PHD",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/516"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 527",
+    "title": "Advanced Price Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "43287",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 528",
+    "title": "Research in Futures Markets",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78133",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RFM",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "451 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/528"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 532",
+    "title": "Spatial Econometrics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "78425",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "SE",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "22 ACES Lib, Info & Alum Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/532"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 557",
+    "title": "Food, Poverty and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "77574",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HM",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/557"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 559",
+    "title": "Food, Trade and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "77573",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SJ",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 562",
+    "title": "Applied Regression Models I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "29715",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 564",
+    "title": "Applied Regression Models II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "48582",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/564"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 569",
+    "title": "Career Development for PhDs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "62510",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/569"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 591",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "10085",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 592",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "60887",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ES",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "316N Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/592"
+      },
+      {
+        "crn": "59238",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "GIE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/592"
+      },
+      {
+        "crn": "65581",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LR",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "day": "R",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/592"
+      },
+      {
+        "crn": "46046",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "316S Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 594",
+    "title": "Seminars and Workshops",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "41807",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "CAS",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "W",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/594"
+      },
+      {
+        "crn": "59421",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "INT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/594"
+      },
+      {
+        "crn": "50314",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "P",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/594"
+      },
+      {
+        "crn": "31428",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "R",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "M",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACE",
+    "sections": [
+      {
+        "crn": "10089",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACE/599"
+      }
+    ]
+  }
+]

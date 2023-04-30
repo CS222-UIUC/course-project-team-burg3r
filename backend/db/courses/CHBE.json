@@ -1,0 +1,839 @@
+[
+  {
+    "courseCode": "CHBE 101",
+    "title": "Hidden World of Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "50101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WSH",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "10480",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 202",
+    "title": "Cooperative Education Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "36312",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 210",
+    "title": "CHBE Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "29898",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 221",
+    "title": "Principles of CHE",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "31555",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/221"
+      },
+      {
+        "crn": "64581",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BE1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 297",
+    "title": "Individual Study Sophomores",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "50951",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/297"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 321",
+    "title": "Thermodynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "62802",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/321"
+      },
+      {
+        "crn": "62803",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/321"
+      },
+      {
+        "crn": "62804",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "329 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/321"
+      },
+      {
+        "crn": "62801",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 397",
+    "title": "Individual Study for Juniors",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "39580",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 411",
+    "title": "Probability and Statistics for ChBE",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "78162",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 412",
+    "title": "Computational Tools in Chemical Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "78121",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 421",
+    "title": "Momentum and Heat Transfer",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "31561",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/421"
+      },
+      {
+        "crn": "31564",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/421"
+      },
+      {
+        "crn": "31566",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/421"
+      },
+      {
+        "crn": "31568",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/421"
+      },
+      {
+        "crn": "31577",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 422",
+    "title": "Mass Transfer Operations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "64589",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/422"
+      },
+      {
+        "crn": "64590",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/422"
+      },
+      {
+        "crn": "66217",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "G18 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/422"
+      },
+      {
+        "crn": "64588",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 424",
+    "title": "Chemical Reaction Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "62800",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/424"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 430",
+    "title": "Unit Operations Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "31584",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "8 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/430"
+      },
+      {
+        "crn": "31592",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "8 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/430"
+      },
+      {
+        "crn": "31595",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "8 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/430"
+      },
+      {
+        "crn": "31600",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "13:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "8 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/430"
+      },
+      {
+        "crn": "31604",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "2055 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 431",
+    "title": "Process Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "65168",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/431"
+      },
+      {
+        "crn": "65169",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/431"
+      },
+      {
+        "crn": "65170",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/431"
+      },
+      {
+        "crn": "29900",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "217 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/431"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 440",
+    "title": "Process Control and Dynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "36100",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 455",
+    "title": "Polymers Synthesis and Industrial Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "69429",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 475",
+    "title": "Tissue Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "64591",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BAH",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 476",
+    "title": "Biotransport",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "61156",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HJK",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 494",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "77151",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DS",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 497",
+    "title": "Individual Study for Seniors",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "39629",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 499",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "10482",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 510",
+    "title": "Graduate CHBE Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "70362",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 521",
+    "title": "Applied Mathematics in CHBE",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "29905",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/521"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78229"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 525",
+    "title": "Statistical Thermodynamics for Chemical Engineers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "69430",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/525"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 551",
+    "title": "Chemical Kinetics & Catalysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "61162",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1028 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/551"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 565",
+    "title": "CHBE Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "76262",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CHE",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/565"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 593",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "10484",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 594",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "31572",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ASK",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/594"
+      },
+      {
+        "crn": "40683",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BAH",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/594"
+      },
+      {
+        "crn": "78577",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DL2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "163 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/594"
+      },
+      {
+        "crn": "77152",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DS",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "165 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/594"
+      },
+      {
+        "crn": "71538",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HJK",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1024 Chemistry Annex",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/594"
+      },
+      {
+        "need attention": "yes",
+        "crn": "31571"
+      },
+      {
+        "crn": "31609",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RGM",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 597",
+    "title": "Special Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "10498",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 598",
+    "title": "Research Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "10501",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHBE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE",
+    "sections": [
+      {
+        "crn": "10503",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHBE/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1891 @@
+[
+  {
+    "courseCode": "FIN 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "10109",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/199"
+      },
+      {
+        "crn": "70582",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "GFS",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/199"
+      },
+      {
+        "crn": "39678",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HON",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1029C Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 221",
+    "title": "Corporate Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "50743",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37383",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37386",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37404",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37405",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37411",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37389",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37399",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37408",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "71880",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      },
+      {
+        "crn": "37403",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 230",
+    "title": "Introduction to Insurance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "30211",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/230"
+      },
+      {
+        "crn": "71758",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 241",
+    "title": "Fundamentals of Real Estate",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "71759",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/241"
+      },
+      {
+        "crn": "47724",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/241"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 300",
+    "title": "Financial Markets",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "37416",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/300"
+      },
+      {
+        "crn": "58161",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/300"
+      },
+      {
+        "crn": "37422",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/300"
+      },
+      {
+        "crn": "37427",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/300"
+      },
+      {
+        "crn": "37425",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 321",
+    "title": "Advanced Corporate Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "32400",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/321"
+      },
+      {
+        "crn": "41268",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/321"
+      },
+      {
+        "crn": "41662",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/321"
+      },
+      {
+        "crn": "41256",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 390",
+    "title": "Finance Academy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "58355",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FA",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "1029C Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 391",
+    "title": "Investment Banking Academy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "63342",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IBA",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 392",
+    "title": "Investment Management Academy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "66844",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1029C Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/392"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 393",
+    "title": "Risk Management Academy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "74443",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RMA",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 394",
+    "title": "Women in Finance Academy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76744",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WFA",
+        "startTime": "17:30",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/394"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 411",
+    "title": "Investment & Portfolio Mngt",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "58358",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "143 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/411"
+      },
+      {
+        "crn": "58364",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/411"
+      },
+      {
+        "crn": "58363",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/411"
+      },
+      {
+        "crn": "63276",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/411"
+      },
+      {
+        "crn": "58359",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 412",
+    "title": "Options and Futures Markets",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "72415",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/412"
+      },
+      {
+        "crn": "43322",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 418",
+    "title": "Financial Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "56146",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/418"
+      },
+      {
+        "crn": "75919",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 419",
+    "title": "Real Client Managed Portfolios",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "32429",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/419"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 423",
+    "title": "Entrepreneurial Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "44166",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/423"
+      },
+      {
+        "crn": "41186",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/423"
+      },
+      {
+        "crn": "39671",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G2",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/423"
+      },
+      {
+        "crn": "45378",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GNF",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/423"
+      },
+      {
+        "crn": "32405",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NF",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/423"
+      },
+      {
+        "crn": "32408",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/423"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 424",
+    "title": "Mergers and Acquisition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "63229",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/424"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 425",
+    "title": "Private Equity/Venture Capital",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "63273",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 432",
+    "title": "Managing Market Risks for Financial Institutions",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "30219",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1029C Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 433",
+    "title": "Corporate Risk Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76470",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/433"
+      },
+      {
+        "crn": "72034",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 434",
+    "title": "Employee Benefit Plans",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "54441",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/434"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 435",
+    "title": "Personal Wealth Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76747",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/435"
+      },
+      {
+        "crn": "58354",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/435"
+      },
+      {
+        "crn": "74537",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "W1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/435"
+      },
+      {
+        "crn": "67158",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "W2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/435"
+      },
+      {
+        "crn": "66395",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "W3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 445",
+    "title": "Real Estate Investment",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "64964",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 463",
+    "title": "Investment Banking",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "63320",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P2",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/463"
+      },
+      {
+        "crn": "63319",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/463"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 464",
+    "title": "Applied Financial Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76751",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/464"
+      },
+      {
+        "crn": "76236",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/464"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 494",
+    "title": "Senior Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "10111",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 495",
+    "title": "Senior Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "10115",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 500",
+    "title": "Introduction to Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "56595",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FE",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/500"
+      },
+      {
+        "crn": "74023",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/500"
+      },
+      {
+        "crn": "74024",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/500"
+      },
+      {
+        "crn": "74531",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SM1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/500"
+      },
+      {
+        "crn": "74532",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SM2",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 501",
+    "title": "Financial Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "56198",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/501"
+      },
+      {
+        "crn": "56196",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/501"
+      },
+      {
+        "crn": "56197",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Z",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 502",
+    "title": "Quantitative Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "73104",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "QM",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 503",
+    "title": "Quantitative Finance II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "72860",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q2M",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 504",
+    "title": "Accounting for Financial Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "74444",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FA1",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 511",
+    "title": "Investments",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "68444",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/511"
+      },
+      {
+        "crn": "65654",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/511"
+      },
+      {
+        "crn": "60177",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/511"
+      },
+      {
+        "crn": "60178",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/511"
+      },
+      {
+        "crn": "60176",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 512",
+    "title": "Financial Derivatives",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "41693",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 514",
+    "title": "Valuation of Complex Derivative Securities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "66394",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/514"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 516",
+    "title": "Term Structure Models",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "72876",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TS",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/516"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 518",
+    "title": "Financial Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "75918",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/518"
+      },
+      {
+        "crn": "66735",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/518"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 521",
+    "title": "Advanced Corporate Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "60181",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/521"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 522",
+    "title": "Cases in Financial Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "68319",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/522"
+      },
+      {
+        "crn": "70877",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 526",
+    "title": "Investment Banking",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76743",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/526"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 528",
+    "title": "Cases in Financial Derivatives",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "73209",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/528"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 529",
+    "title": "Applied Financial Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76752",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/529"
+      },
+      {
+        "crn": "76746",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "V1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/529"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 530",
+    "title": "Foundations in Risk Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "67104",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RM",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/530"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 532",
+    "title": "Managing Market Risks for Financial Institutions",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76914",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1029C Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/532"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 535",
+    "title": "Wealth Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "72912",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/535"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 545",
+    "title": "Real Estate Investment",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "67123",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/545"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 550",
+    "title": "Big Data Analytics in Finance for Predictive and Causal Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76742",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BD1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/550"
+      },
+      {
+        "crn": "76741",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BD2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/550"
+      },
+      {
+        "crn": "76755",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BD3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 552",
+    "title": "Applied Financial Econometrics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "72857",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JC1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/552"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 553",
+    "title": "Machine Learning in Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "72854",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "V1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/553"
+      },
+      {
+        "crn": "75849",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "V3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/553"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 554",
+    "title": "Algorithmic Trading Systems Design and Testing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "78225",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/554"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 556",
+    "title": "Algorithmic Market Microstructure",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76745",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:30",
+        "endTime": "20:20",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/556"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 558",
+    "title": "Data Science and Python for Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "78061",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/558"
+      },
+      {
+        "crn": "78062",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P2",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "F",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/558"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 559",
+    "title": "Advanced Data Science and Python for Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "78060",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AP1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 572",
+    "title": "The Finance of Mergers and Acquisitions",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "77086",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/572"
+      },
+      {
+        "crn": "77087",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 574",
+    "title": "Microeconomics for Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "78384",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/574"
+      },
+      {
+        "crn": "78385",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/574"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 580",
+    "title": "Special Topics in Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "50882",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CB",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/580"
+      },
+      {
+        "crn": "66670",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CF",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/580"
+      },
+      {
+        "need attention": "yes",
+        "crn": "58447"
+      },
+      {
+        "crn": "66383",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "INT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/580"
+      },
+      {
+        "crn": "65522",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OPT",
+        "startTime": "16:00",
+        "endTime": "18:20",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/580"
+      },
+      {
+        "crn": "52597",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PHD",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/580"
+      },
+      {
+        "crn": "50376",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TZ",
+        "startTime": "14:00",
+        "endTime": "17:00",
+        "day": "F",
+        "instructor": "1029C Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/580"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 581",
+    "title": "Professional Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "75360",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SF",
+        "startTime": "18:00",
+        "endTime": "19:20",
+        "day": "MW",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 582",
+    "title": "Project Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "73443",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PR1",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/582"
+      },
+      {
+        "crn": "73444",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PR2",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 583",
+    "title": "Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "74545",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/583"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 589",
+    "title": "Applied Portfolio Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "76740",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/589"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 590",
+    "title": "Individual Study and Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "10127",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/590"
+      },
+      {
+        "crn": "40325",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SEM",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 591",
+    "title": "Theory of Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "30231",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 592",
+    "title": "Empirical Analysis in Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "58360",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EA1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 594",
+    "title": "Seminar in Corporate Finance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "39676",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B2",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "FIN 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FIN",
+    "sections": [
+      {
+        "crn": "10129",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FIN/599"
+      }
+    ]
+  }
+]

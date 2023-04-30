@@ -1,0 +1,38 @@
+[
+  {
+    "courseCode": "GC 498",
+    "title": "Graduate Domestic Study Away",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GC",
+    "sections": [
+      {
+        "crn": "60827",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GC/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "GC 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GC",
+    "sections": [
+      {
+        "crn": "30281",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GC/599"
+      }
+    ]
+  }
+]

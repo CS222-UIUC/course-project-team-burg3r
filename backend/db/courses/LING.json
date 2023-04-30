@@ -1,0 +1,1147 @@
+[
+  {
+    "courseCode": "LING 100",
+    "title": "Intro to Language Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "32001",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "108 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/100"
+      },
+      {
+        "crn": "32004",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/100"
+      },
+      {
+        "crn": "32009",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/100"
+      },
+      {
+        "crn": "32007",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 104",
+    "title": "Talking Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "37055",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "209A Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/104"
+      },
+      {
+        "crn": "37056",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "209A Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/104"
+      },
+      {
+        "crn": "37057",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "209A Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/104"
+      },
+      {
+        "crn": "37054",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 115",
+    "title": "Language and Culture in India",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "64859",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MM",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 191",
+    "title": "Freshman Honors Tutorial",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "10520",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/191"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "10522",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 210",
+    "title": "Language History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "32019",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 221",
+    "title": "American Sign Language II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "56814",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "08:30",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "110 Speech & Hearing Science Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/221"
+      },
+      {
+        "crn": "58381",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/221"
+      },
+      {
+        "crn": "60325",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 222",
+    "title": "Language in Globalization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "73223",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/222"
+      },
+      {
+        "crn": "73225",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/222"
+      },
+      {
+        "crn": "73222",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 225",
+    "title": "Language, Mind, and Brain",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "32020",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/225"
+      },
+      {
+        "crn": "32023",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 250",
+    "title": "American Voices: Linguistic Diversity in the US",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "32039",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/250"
+      },
+      {
+        "crn": "32046",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "115 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/250"
+      },
+      {
+        "crn": "40577",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "393 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/250"
+      },
+      {
+        "crn": "32049",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "319 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 270",
+    "title": "Language, Technology & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "59649",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 290",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "10524",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 291",
+    "title": "Linguistics Laboratory Research Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "69232",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/291"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 300",
+    "title": "Anat & Physiol Spch Mechanism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "33353",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "110 Speech & Hearing Science Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/300"
+      },
+      {
+        "crn": "33373",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "110 Speech & Hearing Science Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/300"
+      },
+      {
+        "crn": "48083",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "110 Speech & Hearing Science Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/300"
+      },
+      {
+        "crn": "35055",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AE1",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 301",
+    "title": "Elements of Syntax",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "78473",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/301"
+      },
+      {
+        "crn": "78474",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/301"
+      },
+      {
+        "crn": "50500",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 307",
+    "title": "Elmnts Semantics & Pragmatics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "70706",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/307"
+      },
+      {
+        "crn": "70707",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/307"
+      },
+      {
+        "crn": "30893",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AS1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/307"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 321",
+    "title": "American Sign Language III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "55038",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/321"
+      },
+      {
+        "crn": "61935",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/321"
+      },
+      {
+        "crn": "63312",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 391",
+    "title": "Honors Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "61859",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 400",
+    "title": "Intro to Linguistic Structure",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "33271",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/400"
+      },
+      {
+        "crn": "45628",
+        "status": "restricted",
+        "type": "Online",
+        "section": "U3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 401",
+    "title": "Intro to General Phonetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "30894",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/401"
+      },
+      {
+        "crn": "47932",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 402",
+    "title": "Tools & Tech Spch & Lang Proc",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "69247",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/402"
+      },
+      {
+        "crn": "43108",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 404",
+    "title": "Tutorials in Non-Western Lang",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "42638",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SWA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 406",
+    "title": "Introduction to Computational Linguistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "78421",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/406"
+      },
+      {
+        "crn": "30895",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 425",
+    "title": "Intro to Psycholinguistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "33273",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/425"
+      },
+      {
+        "crn": "40505",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 430",
+    "title": "Intro to East Asian Ling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "45223",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1032 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/430"
+      },
+      {
+        "crn": "45220",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1032 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 450",
+    "title": "Sociolinguistics I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "75620",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/450"
+      },
+      {
+        "crn": "75619",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 489",
+    "title": "Theoretical Foundations of SLA",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "63262",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/489"
+      },
+      {
+        "crn": "63261",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 490",
+    "title": "Special Topics in Linguistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "68133",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/490"
+      },
+      {
+        "crn": "63731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/490"
+      },
+      {
+        "crn": "73057",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GJM",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1024 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/490"
+      },
+      {
+        "crn": "56284",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1038 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/490"
+      },
+      {
+        "crn": "72926",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UJM",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1024 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 501",
+    "title": "Syntax I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "30896",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "L",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 504",
+    "title": "Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "41713",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 506",
+    "title": "Topics in Computational Ling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "70099",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1038 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/506"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 507",
+    "title": "Formal Semantics I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "60086",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/507"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 512",
+    "title": "Language and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "43547",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "209A Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 524",
+    "title": "Dev Psycholinguistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "38065",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "508 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/524"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 550",
+    "title": "Sociolinguistics II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "75279",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RB",
+        "startTime": "15:00",
+        "endTime": "17:20",
+        "day": "T",
+        "instructor": "1126 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 559",
+    "title": "Sem Romance Ling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "43846",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 570",
+    "title": "Seminar in Cognitive Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "48228",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/570"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 588",
+    "title": "Sem Second Lang Learn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "40994",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/588"
+      },
+      {
+        "crn": "35551",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/588"
+      },
+      {
+        "crn": "59518",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SM",
+        "startTime": "13:20",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 590",
+    "title": "Special Topics in Linguistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "10528",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 591",
+    "title": "Seminar in Linguistic Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "72177",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "LING 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LING",
+    "sections": [
+      {
+        "crn": "22348",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LING/599"
+      }
+    ]
+  }
+]

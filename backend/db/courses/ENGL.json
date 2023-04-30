@@ -1,0 +1,1606 @@
+[
+  {
+    "courseCode": "ENGL 102",
+    "title": "Intro to Drama",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32287",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 104",
+    "title": "Introduction to Film",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "33780",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/104"
+      },
+      {
+        "crn": "33797",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/104"
+      },
+      {
+        "crn": "43290",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/104"
+      },
+      {
+        "crn": "54913",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/104"
+      },
+      {
+        "crn": "33810",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/104"
+      },
+      {
+        "crn": "45618",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE6",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 109",
+    "title": "Intro to Fiction-ACP",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "33857",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "131 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/109"
+      },
+      {
+        "crn": "33850",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "131 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/109"
+      },
+      {
+        "crn": "39520",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "15:30",
+        "endTime": "16:45",
+        "day": "TR",
+        "instructor": "131 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/109"
+      },
+      {
+        "crn": "45502",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "131 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/109"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 115",
+    "title": "Intro to British Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32291",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 116",
+    "title": "Introduction to American Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32294",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/116"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 119",
+    "title": "Literature of Fantasy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "65040",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/119"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 122",
+    "title": "The Middle Ages in Popular Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "71512",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/122"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 150",
+    "title": "Black Literature in America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "61379",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/150"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "10065",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/199"
+      },
+      {
+        "crn": "78139",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JH",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "212 1205 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/199"
+      },
+      {
+        "crn": "51336",
+        "status": "restricted",
+        "type": "Online",
+        "section": "P",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 200",
+    "title": "Introduction to the Study of Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32277",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/200"
+      },
+      {
+        "crn": "32268",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/200"
+      },
+      {
+        "crn": "41879",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/200"
+      },
+      {
+        "crn": "45880",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 202",
+    "title": "Medieval Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "33890",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 206",
+    "title": "Enlightenment Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "39502",
+        "status": "restricted",
+        "type": "Online",
+        "section": "X",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/206"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 208",
+    "title": "Victorian Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "42903",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/208"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 209",
+    "title": "Early British Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "33907",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/209"
+      },
+      {
+        "crn": "33909",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/209"
+      },
+      {
+        "crn": "41808",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/209"
+      },
+      {
+        "crn": "41809",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "113 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/209"
+      },
+      {
+        "crn": "33895",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/209"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 213",
+    "title": "Modernist Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "46720",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/213"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 218",
+    "title": "Introduction to Shakespeare",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32300",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/218"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 220",
+    "title": "Literature and Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "78138",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 224",
+    "title": "Latina/o Popular Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "61638",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/224"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 242",
+    "title": "Contemporary Poetry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40992",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/242"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 250",
+    "title": "Nineteenth-Century American Fiction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "30158",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 253",
+    "title": "Topics in Literature and New Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "65156",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/253"
+      },
+      {
+        "crn": "78424",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/253"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 255",
+    "title": "Early American Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "33958",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/255"
+      },
+      {
+        "crn": "33959",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "125 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/255"
+      },
+      {
+        "crn": "33973",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/255"
+      },
+      {
+        "crn": "33976",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/255"
+      },
+      {
+        "crn": "33954",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "138 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/255"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 259",
+    "title": "Early African American Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "55608",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/259"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 260",
+    "title": "Modern African American Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "46724",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/260"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 266",
+    "title": "Grimm's Fairy Tales in Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "61903",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/266"
+      },
+      {
+        "crn": "61904",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/266"
+      },
+      {
+        "crn": "61905",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/266"
+      },
+      {
+        "crn": "61869",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/266"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 270",
+    "title": "American Film Genres",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "70157",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "17:20",
+        "day": "MW",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 273",
+    "title": "American Cinema, 1950-2000",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32191",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/273"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 280",
+    "title": "Women Writers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "39491",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 285",
+    "title": "Postcolonial Literature in English",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32221",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/285"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 286",
+    "title": "Asian American Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "41927",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/286"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 290",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "10067",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 301",
+    "title": "Introduction to Critical Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "50625",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/301"
+      },
+      {
+        "crn": "54605",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "143 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/301"
+      },
+      {
+        "crn": "50626",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "143 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 322",
+    "title": "Dostoevsky",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "70077",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "U3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/322"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 333",
+    "title": "Memoir & Autobiography",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "69987",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TB",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/333"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 350",
+    "title": "Writing about Literature, Text, and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "71519",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/350"
+      },
+      {
+        "crn": "71515",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/350"
+      },
+      {
+        "crn": "71517",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "139 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 360",
+    "title": "Environmental Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "68560",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "205 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 380",
+    "title": "Topics in Writing Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "64345",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "149 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 390",
+    "title": "Advanced Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "55761",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 391",
+    "title": "Honors Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "10069",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 396",
+    "title": "English Honors Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32226",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/396"
+      },
+      {
+        "crn": "40420",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 402",
+    "title": "Descriptive English Grammar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "34483",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/402"
+      },
+      {
+        "crn": "34481",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 404",
+    "title": "Engl Grammar for ESL Teachers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "62761",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "11:30",
+        "endTime": "12:20",
+        "day": "MWF",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/404"
+      },
+      {
+        "crn": "62138",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/404"
+      },
+      {
+        "crn": "65299",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/404"
+      },
+      {
+        "crn": "62760",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "11:30",
+        "endTime": "12:20",
+        "day": "MWF",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 418",
+    "title": "Shakespeare",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40436",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/418"
+      },
+      {
+        "crn": "32335",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 421",
+    "title": "Renaissance Poetry and Prose",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40364",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/421"
+      },
+      {
+        "crn": "39494",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 435",
+    "title": "Nineteenth-Century British Fiction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40394",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/435"
+      },
+      {
+        "crn": "30174",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 450",
+    "title": "Becoming Modern: American Literature, 1865-1914",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40395",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/450"
+      },
+      {
+        "crn": "39493",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 455",
+    "title": "Major Authors",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40444",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "09:30",
+        "endTime": "11:30",
+        "day": "TR",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/455"
+      },
+      {
+        "crn": "39507",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "09:30",
+        "endTime": "11:30",
+        "day": "TR",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 461",
+    "title": "Advanced Topics in Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "51247",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/461"
+      },
+      {
+        "crn": "51246",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/461"
+      },
+      {
+        "crn": "40447",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "2G",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/461"
+      },
+      {
+        "crn": "32350",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "2U",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 476",
+    "title": "Topics in Literature and the Environment",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "56412",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G24 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/476"
+      },
+      {
+        "crn": "56411",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G24 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 477",
+    "title": "Advanced Environmental Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "69327",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/477"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 481",
+    "title": "Composition Theory and Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40460",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1G",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/481"
+      },
+      {
+        "crn": "47718",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1U",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 482",
+    "title": "Writing Technologies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "40463",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "152 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/482"
+      },
+      {
+        "crn": "47720",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "152 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 500",
+    "title": "Intro to Criticism & Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "30190",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:30",
+        "endTime": "15:00",
+        "day": "W",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 503",
+    "title": "Historiography of Cinema",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "43343",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 527",
+    "title": "Seminar in 18th C Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "46745",
+        "status": "restricted",
+        "type": "Online",
+        "section": "R",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 553",
+    "title": "Seminar Later American Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32356",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:30",
+        "endTime": "17:00",
+        "day": "R",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/553"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 564",
+    "title": "Seminar Lit Modes and Genres",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "43016",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "1140 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/564"
+      },
+      {
+        "crn": "43015",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "125 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/564"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 583",
+    "title": "Topics Writ Pedagogy & Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "39503",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/583"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 591",
+    "title": "Research in Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "10073",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 593",
+    "title": "Professional Seminar in College Teaching",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "32361",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "61 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENGL 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL",
+    "sections": [
+      {
+        "crn": "10079",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENGL/599"
+      }
+    ]
+  }
+]

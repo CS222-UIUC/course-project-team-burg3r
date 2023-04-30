@@ -1,0 +1,1234 @@
+[
+  {
+    "courseCode": "HDFS 101",
+    "title": "Opportunities, Careers in HDFS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "76872",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "F",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/101"
+      },
+      {
+        "crn": "67230",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "108 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/101"
+      },
+      {
+        "crn": "70810",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 105",
+    "title": "Intro to Human Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "37602",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37608",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37610",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37613",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37614",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37615",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37616",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37617",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "37618",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "74866",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      },
+      {
+        "crn": "58270",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/105"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 108",
+    "title": "Grief and Loss Across the Lifespan",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "73329",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "156 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/108"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 120",
+    "title": "Intro to Family Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "69912",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/120"
+      },
+      {
+        "crn": "69913",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/120"
+      },
+      {
+        "crn": "69914",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/120"
+      },
+      {
+        "crn": "73055",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/120"
+      },
+      {
+        "crn": "69915",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AE1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 140",
+    "title": "Intro Gender & Women's Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "55712",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/140"
+      },
+      {
+        "crn": "55716",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/140"
+      },
+      {
+        "crn": "55718",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/140"
+      },
+      {
+        "crn": "55720",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/140"
+      },
+      {
+        "crn": "55714",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "160 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 143",
+    "title": "Biology of Human Behavior",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "63938",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/143"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "30319",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "206 Expanded Child Dev Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/199"
+      },
+      {
+        "need attention": "yes",
+        "crn": "77105"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 206",
+    "title": "Early Childhood Curriculum Dev",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "37623",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "109B Child Development Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/206"
+      },
+      {
+        "crn": "37624",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "109B Child Development Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/206"
+      },
+      {
+        "crn": "37625",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "109B Child Development Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/206"
+      },
+      {
+        "crn": "37626",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "109B Child Development Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/206"
+      },
+      {
+        "crn": "37631",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "08:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "109B Child Development Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/206"
+      },
+      {
+        "crn": "37632",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/206"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 208",
+    "title": "Child and Family Inclusion: Disability, Health, and Diversity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "38775",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/208"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 220",
+    "title": "Families in Global Perspective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "53614",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 221",
+    "title": "Asian Families in America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "64422",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/221"
+      },
+      {
+        "crn": "77103",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "18:15",
+        "day": "MW",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 225",
+    "title": "Close Relationships",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "38776",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 259",
+    "title": "Motor Development and Control",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "67717",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "356 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/259"
+      },
+      {
+        "crn": "67719",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "255 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/259"
+      },
+      {
+        "crn": "67721",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "130 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/259"
+      },
+      {
+        "crn": "67723",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "130 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/259"
+      },
+      {
+        "crn": "67715",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/259"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 262",
+    "title": "Motor Develop, Growth & Form",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "35144",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/262"
+      },
+      {
+        "crn": "35142",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/262"
+      },
+      {
+        "crn": "35129",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB3",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/262"
+      },
+      {
+        "crn": "35114",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/262"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 263",
+    "title": "Diversity in Recreation, Sport, and Tourism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "65402",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/263"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 290",
+    "title": "Intro to Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "46524",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 294",
+    "title": "Research Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "10333",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/294"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 295",
+    "title": "Independent Study or Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "10336",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/295"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 301",
+    "title": "Infancy & Early Childhood",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "49014",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 310",
+    "title": "Adult Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "73741",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 320",
+    "title": "Families and the Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "76903",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "108 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 330",
+    "title": "Statistical Reasoning for Everyday Life",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "76902",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 340",
+    "title": "Gender, Relationshps & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "38496",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "108 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 379",
+    "title": "HDFS Study Abroad Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "64368",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SA2",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/379"
+      },
+      {
+        "crn": "58076",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SA",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/379"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 398",
+    "title": "Undergraduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "73457",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RBT",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 401",
+    "title": "Socialization and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "32407",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 404",
+    "title": "Gerontology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "58806",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/404"
+      },
+      {
+        "crn": "58805",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AU3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 405",
+    "title": "Adolescent Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "66263",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "140 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 408",
+    "title": "Hospitalized Children",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "30326",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/408"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 424",
+    "title": "Racial and Ethnic Families",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "54750",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/424"
+      },
+      {
+        "crn": "64992",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/424"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 425",
+    "title": "Family Stress and Change",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "32422",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "140 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 450",
+    "title": "Practicum in HDFS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "10342",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/450"
+      },
+      {
+        "crn": "61067",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 494",
+    "title": "Applied Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "57755",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "EA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/494"
+      },
+      {
+        "crn": "57754",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JLK",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 499",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "55411",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SA",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 500",
+    "title": "Professional Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "49706",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "P",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 501",
+    "title": "Human Development Theories",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "30329",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "206 Expanded Child Dev Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 526",
+    "title": "Intimate Partner Violence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "51196",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "144 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/526"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 534",
+    "title": "Neighborhoods and Human Dev",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "73683",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "206 Expanded Child Dev Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/534"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 550",
+    "title": "Advanced Practicum in HDFS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "69297",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 590",
+    "title": "Advanced Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "66252",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "137 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 595",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "66257",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "O",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 596",
+    "title": "Advanced Studies in HDFS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "10345",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 597",
+    "title": "Advanced Statistical Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "71375",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "22 ACES Lib, Info & Alum Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 598",
+    "title": "Special Problems in HDFS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "66258",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "HDFS 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS",
+    "sections": [
+      {
+        "crn": "66259",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HDFS/599"
+      }
+    ]
+  }
+]

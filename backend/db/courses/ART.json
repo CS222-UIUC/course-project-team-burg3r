@@ -1,0 +1,245 @@
+[
+  {
+    "courseCode": "ART 102",
+    "title": "Drawing for Non-Majors",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "62794",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "209 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "ART 140",
+    "title": "Introduction to Art",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "36933",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "36938",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "36945",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB4",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "36941",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB5",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "54144",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB6",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "54145",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB7",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "54147",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB8",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "54148",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB9",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "309 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      },
+      {
+        "crn": "36924",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "62 Krannert Art Museum",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "ART 150",
+    "title": "Introduction to Drawing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "65459",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "5 Weston Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/150"
+      },
+      {
+        "crn": "71916",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/150"
+      }
+    ]
+  },
+  {
+    "courseCode": "ART 156",
+    "title": "Ceramics: Wheel Throwing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "76766",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/156"
+      }
+    ]
+  },
+  {
+    "courseCode": "ART 191",
+    "title": "Unit One Studio/Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "72005",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CW",
+        "startTime": "13:00",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/191"
+      }
+    ]
+  },
+  {
+    "courseCode": "ART 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "10355",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ART 201",
+    "title": "Art in Early Childhood",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "31170",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "T1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "329 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "ART 594",
+    "title": "Art & Design Graduate Teaching Assistant Pedagogy Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ART",
+    "sections": [
+      {
+        "crn": "78482",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "316 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ART/594"
+      }
+    ]
+  }
+]

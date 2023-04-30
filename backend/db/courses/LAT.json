@@ -1,0 +1,233 @@
+[
+  {
+    "courseCode": "LAT 101",
+    "title": "Elementary Latin I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "42529",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1040 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/101"
+      },
+      {
+        "crn": "31929",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1040 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 102",
+    "title": "Elementary Latin II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "39442",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "10504",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 201",
+    "title": "Intermediate Latin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "66193",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTRF",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 202",
+    "title": "Intro to Latin Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "66194",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTRF",
+        "instructor": "138 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 401",
+    "title": "Survey of Latin Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "76571",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/401"
+      },
+      {
+        "crn": "67950",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 491",
+    "title": "Readings in Latin Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "50832",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/491"
+      },
+      {
+        "crn": "30786",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 492",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "10506",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 493",
+    "title": "Independent Reading",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "10509",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/493"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 595",
+    "title": "Intro to Classical Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "42974",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "LAT 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LAT",
+    "sections": [
+      {
+        "crn": "10510",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LAT/599"
+      }
+    ]
+  }
+]

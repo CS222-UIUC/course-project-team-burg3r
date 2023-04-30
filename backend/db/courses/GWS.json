@@ -1,0 +1,721 @@
+[
+  {
+    "courseCode": "GWS 100",
+    "title": "Intro Gender & Women's Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "55561",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/100"
+      },
+      {
+        "crn": "55562",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/100"
+      },
+      {
+        "crn": "55564",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/100"
+      },
+      {
+        "crn": "55565",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/100"
+      },
+      {
+        "crn": "55560",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "160 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 201",
+    "title": "Race, Gender & Power",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "57507",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DV",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 215",
+    "title": "US Citizenship Comparatively",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "55768",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/215"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 218",
+    "title": "Intro to Social Issues Theatre",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "52166",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "40 Allen Residence Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/218"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 235",
+    "title": "Race and the Politics of Reproduction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "72007",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/235"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 240",
+    "title": "Gender & Sexuality in Greco-Roman Antiquity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "33551",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 262",
+    "title": "Women's Lives",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "64769",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/262"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 270",
+    "title": "Sexuality and Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "55949",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DIS",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 272",
+    "title": "Women and Politics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "43101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/272"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 280",
+    "title": "Women Writers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "39526",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 333",
+    "title": "Memoir & Autobiography",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "69986",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TB",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/333"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 340",
+    "title": "Gender, Relationshps & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "38499",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "108 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 355",
+    "title": "Beauty and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "59574",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ZI",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/355"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 356",
+    "title": "Sex & Gender in Popular Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "47811",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/356"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 366",
+    "title": "Feminist Disability Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "66123",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TB",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/366"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 370",
+    "title": "Queer Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "42909",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/370"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 390",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "10359",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 393",
+    "title": "Policing Latinx Immigrant Communities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "78158",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DV",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "MW",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 395",
+    "title": "Intermediate Topics GWS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "77409",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JD",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/395"
+      },
+      {
+        "crn": "67214",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MK",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 409",
+    "title": "Women's Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "35435",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "112 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 417",
+    "title": "Leading Post-Perform Dialog",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "47939",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LTD",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/417"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 418",
+    "title": "Devising Social Issues Theatre",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "35470",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A3",
+        "startTime": "13:30",
+        "endTime": "16:30",
+        "day": "W",
+        "instructor": "160 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/418"
+      },
+      {
+        "crn": "35720",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A4",
+        "startTime": "13:30",
+        "endTime": "16:30",
+        "day": "W",
+        "instructor": "160 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 424",
+    "title": "Gender & Race in Contemp Arch",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "41035",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/424"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 432",
+    "title": "Gender Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "41095",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/432"
+      },
+      {
+        "crn": "41096",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 442",
+    "title": "Body, Culture & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "73679",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/442"
+      },
+      {
+        "crn": "73656",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/442"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 459",
+    "title": "Gender, Sex, & Postcoloniality",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "55882",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CNG",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/459"
+      },
+      {
+        "crn": "55854",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CNU",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/459"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 470",
+    "title": "Transgender Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "51269",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "102 1205 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/470"
+      },
+      {
+        "crn": "51268",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "102 1205 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 475",
+    "title": "Queering Legal Cultures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "76918",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CNG",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/475"
+      },
+      {
+        "crn": "76919",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CNU",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 490",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "10361",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 498",
+    "title": "Senior Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "54012",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TB",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "102 1205 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 550",
+    "title": "Feminist Theories & Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "30426",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "102 1205 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "GWS 590",
+    "title": "Topics in GWS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GWS",
+    "sections": [
+      {
+        "crn": "56347",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/590"
+      },
+      {
+        "crn": "48610",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "F",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/590"
+      },
+      {
+        "crn": "69085",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GM",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GWS/590"
+      }
+    ]
+  }
+]

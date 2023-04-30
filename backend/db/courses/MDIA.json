@@ -1,0 +1,172 @@
+[
+  {
+    "courseCode": "MDIA 100",
+    "title": "College of Media Orientation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA",
+    "sections": [
+      {
+        "crn": "66241",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/100"
+      },
+      {
+        "crn": "66242",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/100"
+      },
+      {
+        "crn": "66243",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "205 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/100"
+      },
+      {
+        "crn": "52464",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/100"
+      },
+      {
+        "crn": "66238",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDIA 199",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA",
+    "sections": [
+      {
+        "crn": "63297",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NV",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDIA 299",
+    "title": "Media Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA",
+    "sections": [
+      {
+        "crn": "56129",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDIA 524",
+    "title": "Dev Psycholinguistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA",
+    "sections": [
+      {
+        "crn": "60577",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "508 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/524"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDIA 571",
+    "title": "Proseminar I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA",
+    "sections": [
+      {
+        "crn": "53207",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDIA 590",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA",
+    "sections": [
+      {
+        "crn": "53208",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDIA 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA",
+    "sections": [
+      {
+        "crn": "53209",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDIA/599"
+      }
+    ]
+  }
+]

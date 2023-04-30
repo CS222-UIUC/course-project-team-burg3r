@@ -1,0 +1,73 @@
+[
+  {
+    "courseCode": "ARAB 150",
+    "title": "Lang&Culture of Arab World",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARAB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "54547"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARAB 201",
+    "title": "Elementary Standard Arabic I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARAB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "31363"
+      },
+      {
+        "need attention": "yes",
+        "crn": "31367"
+      },
+      {
+        "need attention": "yes",
+        "crn": "41998"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARAB 403",
+    "title": "Intermediate Stand Arabic I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARAB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "43936"
+      },
+      {
+        "need attention": "yes",
+        "crn": "42607"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARAB 405",
+    "title": "Advanced Standard Arabic I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARAB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "29938"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARAB 412",
+    "title": "Business Arabic",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARAB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "69456"
+      },
+      {
+        "need attention": "yes",
+        "crn": "67803"
+      }
+    ]
+  }
+]

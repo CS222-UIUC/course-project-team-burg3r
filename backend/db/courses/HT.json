@@ -1,0 +1,74 @@
+[
+  {
+    "courseCode": "HT 501",
+    "title": "Understanding Users of Health Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HT",
+    "sections": [
+      {
+        "crn": "73045",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HT/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "HT 502",
+    "title": "Human Factors Methods for Health Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HT",
+    "sections": [
+      {
+        "crn": "73046",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HT/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "HT 503",
+    "title": "Hardware Engineering for Health Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HT",
+    "sections": [
+      {
+        "crn": "73047",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HT/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "HT 510",
+    "title": "Health Technology Capstone Orientation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HT",
+    "sections": [
+      {
+        "crn": "73048",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HT/510"
+      }
+    ]
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+    "courseCode": "ACES 101",
+    "title": "Contemporary Issues in ACES",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "51579",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51580",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51582",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51584",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "248 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51585",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51586",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51587",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51588",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51589",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51590",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51591",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "W121 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51592",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51593",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADO",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51596",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADR",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51599",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADU",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "426 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51600",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADV",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "51601",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADW",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "68954",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "68955",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "68956",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      },
+      {
+        "crn": "72120",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 179",
+    "title": "History of Ag in IL Since 1860",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "61977",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/179"
+      },
+      {
+        "crn": "61978",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/179"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "10094",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/199"
+      },
+      {
+        "crn": "11659",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ALB",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/199"
+      },
+      {
+        "crn": "77534",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JD",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 200",
+    "title": "ACES Transfer Orientation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "40639",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 293",
+    "title": "International Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "10098",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/293"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 295",
+    "title": "Undergrad Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "11769",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/295"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 298",
+    "title": "International Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "10104",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/298"
+      },
+      {
+        "crn": "29753",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AF",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/298"
+      },
+      {
+        "crn": "70879",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GO",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/298"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 299",
+    "title": "ACES Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "29741",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "ACES 396",
+    "title": "Honors Study Abroad Retrospect",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ACES",
+    "sections": [
+      {
+        "crn": "72766",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "AJF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ACES/396"
+      }
+    ]
+  }
+]

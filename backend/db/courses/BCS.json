@@ -1,0 +1,56 @@
+[
+  {
+    "courseCode": "BCS 101",
+    "title": "First Year Bosnian-Croatian-Serbian I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BCS",
+    "sections": [
+      {
+        "crn": "62967",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "1020 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BCS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "BCS 115",
+    "title": "South Slavic Cultures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BCS",
+    "sections": [
+      {
+        "crn": "62966",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BCS/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "BCS 201",
+    "title": "Second Year Bosnian-Croatian-Serbian I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BCS",
+    "sections": [
+      {
+        "crn": "73227",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BCS/201"
+      }
+    ]
+  }
+]

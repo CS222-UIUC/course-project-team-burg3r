@@ -1,0 +1,110 @@
+[
+  {
+    "courseCode": "ALEC 110",
+    "title": "Introduction to Agricultural Leadership, Education and Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC",
+    "sections": [
+      {
+        "crn": "73087",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 393",
+    "title": "Internship in Agricultural Leadership, Education and Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC",
+    "sections": [
+      {
+        "crn": "73479",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 400",
+    "title": "Foundations of Agricultural Leadership, Education and Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC",
+    "sections": [
+      {
+        "crn": "75544",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GR",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 410",
+    "title": "Program Planning, Implementation and Evaluation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC",
+    "sections": [
+      {
+        "crn": "78567",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 451",
+    "title": "Professional Development in ALEC",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC",
+    "sections": [
+      {
+        "crn": "73521",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "ALEC 545",
+    "title": "Research Methods and Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC",
+    "sections": [
+      {
+        "crn": "75556",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GR",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ALEC/545"
+      }
+    ]
+  }
+]

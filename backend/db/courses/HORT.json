@@ -1,0 +1,217 @@
+[
+  {
+    "courseCode": "HORT 105",
+    "title": "Vegetable Gardening",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "crn": "34268",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "1125 Plant Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/105"
+      },
+      {
+        "crn": "34270",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "1125 Plant Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/105"
+      },
+      {
+        "crn": "34273",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "1125 Plant Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/105"
+      },
+      {
+        "crn": "34275",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "1125 Plant Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/105"
+      },
+      {
+        "crn": "34277",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1125 Plant Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/105"
+      },
+      {
+        "crn": "34279",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/105"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 106",
+    "title": "The Sustainable Home Garden",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30924"
+      },
+      {
+        "crn": "71446",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/106"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 205",
+    "title": "Local Food Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "74533"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 344",
+    "title": "Planting for Biodiversity and Aesthetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "69932"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74617"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 360",
+    "title": "Vegetable Crop Production",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "65306"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 393",
+    "title": "Horticulture Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "crn": "72364",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 395",
+    "title": "Undergrad Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "crn": "72538",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 396",
+    "title": "Ug Honors Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "crn": "40112",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "HORT 435",
+    "title": "Urban Food Production",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HORT",
+    "sections": [
+      {
+        "crn": "70016",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/435"
+      },
+      {
+        "crn": "63675",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HORT/435"
+      }
+    ]
+  }
+]

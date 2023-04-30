@@ -1,0 +1,532 @@
+[
+  {
+    "courseCode": "INFO 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "77172",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 202",
+    "title": "Social Aspects Info Tech",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "53923",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "53924",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "53922",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "53925",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "53926",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "78408",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "78409",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "78410",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "78411",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      },
+      {
+        "crn": "53921",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 303",
+    "title": "Writing Across Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "54368",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/303"
+      },
+      {
+        "crn": "54367",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/303"
+      },
+      {
+        "crn": "56170",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "428 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/303"
+      },
+      {
+        "crn": "66554",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/303"
+      },
+      {
+        "crn": "54369",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 310",
+    "title": "Computing in the Humanities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "73401"
+      },
+      {
+        "crn": "78293",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 326",
+    "title": "New Media, Culture & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "57671",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/326"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 333",
+    "title": "User Experience Design In Action",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "78233",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/333"
+      },
+      {
+        "crn": "78234",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/333"
+      },
+      {
+        "crn": "78235",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB3",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/333"
+      },
+      {
+        "crn": "78236",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB4",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/333"
+      },
+      {
+        "crn": "78232",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/333"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 390",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "61757",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JB",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "428 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 399",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "52906",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 407",
+    "title": "Introduction to Programming Python for Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "77116",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 415",
+    "title": "Makerspace: Open Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "77167",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ALG",
+        "startTime": "11:00",
+        "endTime": "12:30",
+        "day": "TR",
+        "instructor": "FAB LAB Art-East Annex, Studio 2",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/415"
+      },
+      {
+        "crn": "77166",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "ALU",
+        "startTime": "11:00",
+        "endTime": "12:30",
+        "day": "TR",
+        "instructor": "FAB LAB Art-East Annex, Studio 2",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 418",
+    "title": "Makerspace: Escape Rooms",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "77123",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "FAB LAB Art-East Annex, Studio 2",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/418"
+      },
+      {
+        "crn": "77124",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AG",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "FAB LAB Art-East Annex, Studio 2",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 448",
+    "title": "Computer Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "78216",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "ARR Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/448"
+      },
+      {
+        "crn": "78217",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AG",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "ARR Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/448"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 500",
+    "title": "Orientation Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "59152",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 510",
+    "title": "Research Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "62421",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 555",
+    "title": "Advanced Educational Technologies for Engagement and Interactive Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "70822",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/555"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 597",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "62391",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "INFO 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/INFO",
+    "sections": [
+      {
+        "crn": "52905",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/INFO/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "courseCode": "FAA 101",
+    "title": "Arts at Illinois",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "58686",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58692",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58694",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "61620",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58696",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58699",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58701",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58702",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58703",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58704",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58705",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "W",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58698",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "1002 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58695",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "44 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58697",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADO",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58706",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADP",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58700",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADQ",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "61621",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADR",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1002 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "69419",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADS",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "316S Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "69420",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADT",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      },
+      {
+        "crn": "58685",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "114 Smith Memorial Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "FAA 110",
+    "title": "Exploring Arts and Creativity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "63086",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "W",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/110"
+      },
+      {
+        "crn": "66964",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "FAA 201",
+    "title": "Black Arts Today",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "77410",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "FAA 230",
+    "title": "Sustainable Design of the Built Environment",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "74445",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DS",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1000 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "FAA 299",
+    "title": "FAA Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "30185",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "FAA 398",
+    "title": "Sustainable Design Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "75986",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "SD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "FAA 430",
+    "title": "Capstone Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "74765",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "1000 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "FAA 499",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FAA",
+    "sections": [
+      {
+        "crn": "71184",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IL",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "17 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/499"
+      },
+      {
+        "crn": "62022",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MR",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "F",
+        "instructor": "4506 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FAA/499"
+      }
+    ]
+  }
+]

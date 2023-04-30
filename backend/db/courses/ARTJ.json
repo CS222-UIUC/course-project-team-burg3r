@@ -1,0 +1,125 @@
+[
+  {
+    "courseCode": "ARTJ 101",
+    "title": "Introduction to Japanese Aesthetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ",
+    "sections": [
+      {
+        "crn": "78298",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "F",
+        "instructor": "ARR Japan House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 209",
+    "title": "Chado (The Way of Tea)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ",
+    "sections": [
+      {
+        "crn": "74959",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "W",
+        "instructor": "ARR Japan House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/209"
+      },
+      {
+        "crn": "75168",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/209"
+      },
+      {
+        "crn": "78299",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "W",
+        "instructor": "ARR Japan House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/209"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 299",
+    "title": "Seminar in Japanese Aesthetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ",
+    "sections": [
+      {
+        "crn": "75220",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/299"
+      },
+      {
+        "crn": "78300",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "2",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 301",
+    "title": "Manga: The Art of Image and Word",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ",
+    "sections": [
+      {
+        "crn": "75169",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "1",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTJ 399",
+    "title": "Japan House Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ",
+    "sections": [
+      {
+        "crn": "75222",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTJ/399"
+      }
+    ]
+  }
+]

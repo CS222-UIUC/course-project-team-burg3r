@@ -1,0 +1,346 @@
+[
+  {
+    "courseCode": "GS 101",
+    "title": "Exploring General Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GS",
+    "sections": [
+      {
+        "crn": "52372",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "0WE",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52360",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "001",
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "day": "T",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52396",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "002",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52381",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "003",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "T",
+        "instructor": "158 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52365",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "004",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52393",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "005",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52375",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "006",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52373",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "007",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52390",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "008",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52369",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "009",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52361",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "010",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52362",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "011",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52368",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "012",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52385",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "013",
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "day": "R",
+        "instructor": "144 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52394",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "014",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52367",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "015",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52363",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "016",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52386",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "017",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "R",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52359",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "018",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52382",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "019",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52404",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "020",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52398",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE1",
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "day": "T",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52400",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1028 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52401",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE3",
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "day": "R",
+        "instructor": "143 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52402",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52793",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JS1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52391",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JS2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "156 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "52388",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      },
+      {
+        "crn": "63651",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TR1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "157 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "GS 299",
+    "title": "DGS Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GS",
+    "sections": [
+      {
+        "crn": "55433",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GS/299"
+      }
+    ]
+  }
+]

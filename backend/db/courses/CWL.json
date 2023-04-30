@@ -1,0 +1,1179 @@
+[
+  {
+    "courseCode": "CWL 114",
+    "title": "Global Consciousness and Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "66287",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/114"
+      },
+      {
+        "crn": "66288",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/114"
+      },
+      {
+        "crn": "66290",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/114"
+      },
+      {
+        "crn": "66291",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/114"
+      },
+      {
+        "crn": "66292",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/114"
+      },
+      {
+        "crn": "66293",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/114"
+      },
+      {
+        "crn": "66286",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/114"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 119",
+    "title": "Literature of Fantasy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "65041",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/119"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 151",
+    "title": "Cross-Cultural Thematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "57569",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RM",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/151"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 189",
+    "title": "Literatures of the Islamic World",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "35845",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/189"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 191",
+    "title": "Freshman Honors Tutorial",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "10453",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/191"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "10454",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 201",
+    "title": "Comparative Lit Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "30154",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1068 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 202",
+    "title": "Literature and Ideas",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "78219",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HM",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 211",
+    "title": "The Arab-Israeli Conflict",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "63455",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 215",
+    "title": "Madness, Myth, and Murder",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "65870",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/215"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 220",
+    "title": "Exploring the Greek and Roman World",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "63197",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 226",
+    "title": "Humanist Persp of Afro-Am Exp",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "41141",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/226"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 227",
+    "title": "Golden Age of Russian Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "41089",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/227"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 230",
+    "title": "Popular Cultures of Contemporary East Asia",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "76388",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/230"
+      },
+      {
+        "crn": "76389",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/230"
+      },
+      {
+        "crn": "76390",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/230"
+      },
+      {
+        "crn": "76403",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/230"
+      },
+      {
+        "crn": "76404",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/230"
+      },
+      {
+        "crn": "76405",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/230"
+      },
+      {
+        "crn": "74003",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MSS",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 240",
+    "title": "Italy Middle Ages & Renaiss",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "53945",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 241",
+    "title": "Early Masterpieces of Western Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "40493",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/241"
+      },
+      {
+        "crn": "40495",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/241"
+      },
+      {
+        "crn": "40496",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/241"
+      },
+      {
+        "crn": "40497",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "336 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/241"
+      },
+      {
+        "crn": "40498",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/241"
+      },
+      {
+        "crn": "40502",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "316N Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/241"
+      },
+      {
+        "crn": "30159",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/241"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 251",
+    "title": "Viking Mythology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "63054",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/251"
+      },
+      {
+        "crn": "63059",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/251"
+      },
+      {
+        "crn": "63063",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/251"
+      },
+      {
+        "crn": "71786",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/251"
+      },
+      {
+        "crn": "71788",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/251"
+      },
+      {
+        "crn": "71789",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/251"
+      },
+      {
+        "crn": "58534",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "TR",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 253",
+    "title": "Medieval Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "33891",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/253"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 254",
+    "title": "Grimm's Fairy Tales in Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "61893",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/254"
+      },
+      {
+        "crn": "61894",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/254"
+      },
+      {
+        "crn": "61895",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/254"
+      },
+      {
+        "crn": "61868",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/254"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 257",
+    "title": "Enlightenment Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "39525",
+        "status": "restricted",
+        "type": "Online",
+        "section": "X",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/257"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 259",
+    "title": "Early African American Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "55610",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/259"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 260",
+    "title": "Modern African American Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "46870",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/260"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 262",
+    "title": "Gender & Sexuality in Greco-Roman Antiquity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "33549",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/262"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 263",
+    "title": "Odysseus and Other Heroes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "33458",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/263"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 272",
+    "title": "Sexuality and Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "55948",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DIS",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/272"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 275",
+    "title": "Masterpieces of East Asian Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "47202",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/275"
+      },
+      {
+        "crn": "47206",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/275"
+      },
+      {
+        "crn": "47208",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/275"
+      },
+      {
+        "crn": "47210",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/275"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 324",
+    "title": "Dostoevsky",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "49175",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "U3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/324"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 350",
+    "title": "South Asian Goddesses",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "78256",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AT",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 387",
+    "title": "Media and Cinema in French",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "66165",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "393 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/387"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 400",
+    "title": "African Diasporic Thought in the Caribbean",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "49000",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/400"
+      },
+      {
+        "crn": "48998",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 420",
+    "title": "Masterpieces Renaiss Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "39455",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1020 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 451",
+    "title": "International Film Genres and Auteurs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "68349",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RM3",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/451"
+      },
+      {
+        "crn": "69396",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RM4",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 467",
+    "title": "Japanese Cinema",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "76039",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/467"
+      },
+      {
+        "crn": "76038",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/467"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 481",
+    "title": "Topics in Arabic Literature & Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "78218",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "WH3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/481"
+      },
+      {
+        "crn": "78268",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "WH4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 493",
+    "title": "Senior Thesis and Honors",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "30163",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/493"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 496",
+    "title": "Special Topics in Comp Lit II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "10458",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 501",
+    "title": "Theory of Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "40466",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LK",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "day": "W",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 503",
+    "title": "Historiography of Cinema",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "43344",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 511",
+    "title": "Applied Literary Translation I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "72613",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "3072E Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/511"
+      },
+      {
+        "crn": "73863",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 562",
+    "title": "Sem Spanish-American Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "49581",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "G18 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 571",
+    "title": "Seminar in Literary Relations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "66300",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EC",
+        "startTime": "13:00",
+        "endTime": "15:00",
+        "day": "T",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 581",
+    "title": "Seminar Lit Themes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "49410",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BK",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "day": "M",
+        "instructor": "1118 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 593",
+    "title": "Special Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "10460",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "CWL 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CWL",
+    "sections": [
+      {
+        "crn": "10462",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CWL/599"
+      }
+    ]
+  }
+]

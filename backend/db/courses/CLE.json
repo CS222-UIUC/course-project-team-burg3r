@@ -1,0 +1,2764 @@
+[
+  {
+    "courseCode": "CLE 610",
+    "title": "Faith, Medicine, and End-of-Life Care",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77139",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/610"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 613",
+    "title": "Introduction to Clinical Practice (Longitudinal)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78447",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/613"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 631",
+    "title": "Clinical Elective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77140",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/631"
+      },
+      {
+        "crn": "78246",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/631"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 640",
+    "title": "Family Medicine Clerkship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78446",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/640"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 645",
+    "title": "Internal Medicine Clerkship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73870",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/645"
+      },
+      {
+        "crn": "73871",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/645"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 650",
+    "title": "Neurology Clerkship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73872",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/650"
+      },
+      {
+        "crn": "73873",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/650"
+      },
+      {
+        "crn": "73874",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/650"
+      },
+      {
+        "crn": "73875",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/650"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 655",
+    "title": "Psychiatry Clerkship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73880",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/655"
+      },
+      {
+        "crn": "73881",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/655"
+      },
+      {
+        "crn": "73883",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/655"
+      },
+      {
+        "crn": "73884",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/655"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 660",
+    "title": "Obstetrics & Gynecology Clerkship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73887",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/660"
+      },
+      {
+        "crn": "73888",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/660"
+      },
+      {
+        "crn": "73889",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/660"
+      },
+      {
+        "crn": "73890",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/660"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 665",
+    "title": "Pediatrics Clerkship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73892",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/665"
+      },
+      {
+        "crn": "73893",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/665"
+      },
+      {
+        "crn": "73894",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/665"
+      },
+      {
+        "crn": "73895",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/665"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 670",
+    "title": "Surgery Clerkship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73898",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/670"
+      },
+      {
+        "crn": "73899",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/670"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 675",
+    "title": "Adult Reconstruction - Hip and Knee",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74776",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/675"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 680",
+    "title": "Family Medicine Continuity Clinic",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78445",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/680"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 681",
+    "title": "General Surgery Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77298",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/681"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 683",
+    "title": "Pediatrics Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77299",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/683"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 684",
+    "title": "Internal Medicine Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77300",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/684"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 685",
+    "title": "Anesthesiology Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76105",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/685"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 686",
+    "title": "Neurology Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77181",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/686"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 687",
+    "title": "Obstetrics and Gynecology Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77186",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/687"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 688",
+    "title": "Urology Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77385",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/688"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 689",
+    "title": "Family Medicine Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78247",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/689"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 690",
+    "title": "Clinical Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74780",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/690"
+      },
+      {
+        "crn": "77190",
+        "status": "restricted",
+        "type": "Research",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/690"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 691",
+    "title": "Translational Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74781",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/691"
+      },
+      {
+        "crn": "78248",
+        "status": "restricted",
+        "type": "Research",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/691"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 692",
+    "title": "Advanced Clinical and Professional Identity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74782",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/692"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 693",
+    "title": "Self-designed Clinical Elective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76648",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/693"
+      },
+      {
+        "crn": "78249",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/693"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 695",
+    "title": "Inpatient Psychiatry Sub-Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78030",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/695"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 702",
+    "title": "Anesthesiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73727",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/702"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 704",
+    "title": "Dermatology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73728",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/704"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 706",
+    "title": "Emergency Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73729",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/706"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 707",
+    "title": "Emergency Medical Services",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77754",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/707"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 708",
+    "title": "Advanced Cardiovascular Life Support Simulation and Clinical Immersion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78573",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/708"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 713",
+    "title": "Palliative Care \u2013 Introduction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73730",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/713"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 714",
+    "title": "Ambulatory Cardiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73731",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/714"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 715",
+    "title": "Adult Intensive Care",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73732",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/715"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 716",
+    "title": "Hematology/Oncology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74783",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/716"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 717",
+    "title": "Infectious Disease",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76700",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/717"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 718",
+    "title": "Introduction to the HIV Epidemic: A Clinical and Social Medicine Elective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77141",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/718"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 719",
+    "title": "Inpatient Cardiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77755",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/719"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 720",
+    "title": "Gastroenterology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78044",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/720"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 721",
+    "title": "Introduction to Ambulatory Cardiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78250",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/721"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 730",
+    "title": "Clinical Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76702",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/730"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 731",
+    "title": "Health Systems Leadership",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78251",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/731"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 732",
+    "title": "Neurosurgery I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74083",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/732"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 733",
+    "title": "Neurosurgery II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74084",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/733"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 736",
+    "title": "Urogynecology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77301",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/736"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 737",
+    "title": "Gynecologic Oncology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76106",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/737"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 738",
+    "title": "Reproductive Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76000",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/738"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 739",
+    "title": "Advanced Obstetrics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76001",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/739"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 740",
+    "title": "Introduction to Ophthalmology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74784",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/740"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 741",
+    "title": "Advanced Ophthalmology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74785",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/741"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 742",
+    "title": "Plastic and Reconstructive Surgery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73733",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/742"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 743",
+    "title": "Orthopedic Trauma",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "76107",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/743"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 744",
+    "title": "Oral & Maxillofacial Surgery I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74081",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/744"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 745",
+    "title": "Oral & Maxillofacial Surgery II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74082",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/745"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 746",
+    "title": "Otolaryngology - ENT",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73734",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/746"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 748",
+    "title": "Surgical Pathophysiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73735",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/748"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 750",
+    "title": "Developmental Pediatrics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73736",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/750"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 751",
+    "title": "Neonatal Intensive Care",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74786",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/751"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 752",
+    "title": "Pediatric Pulmonology & Sleep Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74787",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/752"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 753",
+    "title": "Pediatric Hematology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77143",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/753"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 764",
+    "title": "Physical Medicine and Rehabilitation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73737",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/764"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 765",
+    "title": "Orthopedic Sports Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77386",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/765"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 771",
+    "title": "Addiction Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73738",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/771"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 772",
+    "title": "Outpatient Psychiatry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78045",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/772"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 773",
+    "title": "Radiation Oncology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74788",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/773"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 774",
+    "title": "Simulated Clinical Ultrasound",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73739",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/774"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 775",
+    "title": "Point of Care Ultrasound",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73742",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/775"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 776",
+    "title": "Diagnostic Radiology and Non-Cardiac Nuclear Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73743",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/776"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 777",
+    "title": "Vascular and Interventional Radiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73744",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/777"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 778",
+    "title": "Imaging in Critical Care",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73745",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/778"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 779",
+    "title": "Bariatric Surgery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73746",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/779"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 780",
+    "title": "Hand Surgery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73748",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/780"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 781",
+    "title": "Vascular Surgery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73749",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/781"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 782",
+    "title": "Rural Surgery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73750",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/782"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 783",
+    "title": "Colon and Rectal Surgery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73751",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/783"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 784",
+    "title": "Pediatric Surgery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73752",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/784"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 786",
+    "title": "Introduction to Urology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73753",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/786"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 788",
+    "title": "Introduction to Anatomic Pathology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77144",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/788"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 789",
+    "title": "Introduction to Clinical Pathology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77145",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/789"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 790",
+    "title": "Advanced Focus in Clinical Pathology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "77146",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/790"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 793",
+    "title": "Quality Improvement & Patient Safety",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "73754",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/793"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 794",
+    "title": "Values in the Physician-Patient Relationship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74789",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/794"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 795",
+    "title": "Consultation-Liaison Psychiatry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78034",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/795"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 796",
+    "title": "Consultation-Liaison with Outpatient Psychiatry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78043",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/796"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 797",
+    "title": "Inpatient Psychiatry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "78318",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "ARR OSF Heart of Mary",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/797"
+      }
+    ]
+  },
+  {
+    "courseCode": "CLE 799",
+    "title": "Advanced Clinical Electives",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CLE",
+    "sections": [
+      {
+        "crn": "74900",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74901",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74902",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74903",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74905",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D5",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74906",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "77871",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D6A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74907",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D7",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74908",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D8",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74909",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D9",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74910",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D10",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74911",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D11",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74912",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D12",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74913",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D13",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74914",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D14",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74915",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D15",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74916",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D16",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74917",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D17",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74918",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D18",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74919",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D19",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74920",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D20",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74921",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D21",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74922",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D22",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74923",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D23",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74924",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D24",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74925",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D25",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74926",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D26",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74927",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D27",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74928",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D28",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74929",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D29",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74930",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D30",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74940",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D31",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74943",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D32",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74945",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D33",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74946",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D34",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74947",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D35",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "77634",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D36",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "77927",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D56",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "78572",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "D59",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74948",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74949",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74950",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74951",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74952",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I5",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74953",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74954",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I7",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74955",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I8",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74956",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I9",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74995",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I10",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74996",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I11",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74997",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I12",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74998",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I13",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "74999",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I14",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75000",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I15",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75001",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I16",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75002",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I17",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75003",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I18",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75004",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I19",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75005",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I20",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75006",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I21",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75007",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I22",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75008",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I23",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75009",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I24",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75010",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I25",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75011",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I26",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75012",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I27",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75013",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I28",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75014",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I29",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75016",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I30",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75017",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I31",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75018",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I32",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75019",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I33",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75020",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I34",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "75021",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I35",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "77635",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "I36",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76110",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76111",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76112",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76113",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76114",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S5",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76115",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76116",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S7",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76117",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S8",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76118",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S9",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76119",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S10",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76120",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S11",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76121",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S12",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76122",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S13",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76123",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S14",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76124",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S15",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76131",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S16",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "77637",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S17",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "77636",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S18",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "76693",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S41",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      },
+      {
+        "crn": "77966",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "S46",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CLE/799"
+      }
+    ]
+  }
+]

@@ -1,0 +1,856 @@
+[
+  {
+    "courseCode": "GGIS 100",
+    "title": "Introduction to Meteorology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77208",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77212",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77215",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77216",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77217",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77221",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77222",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77223",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      },
+      {
+        "crn": "77224",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 101",
+    "title": "Global Development & Environment",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76830",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 103",
+    "title": "Earth's Physical Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76832",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "137C Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/103"
+      },
+      {
+        "crn": "76833",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "137C Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/103"
+      },
+      {
+        "crn": "76831",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AE1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "2020B Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 104",
+    "title": "Social and Cultural Geography",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76836",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/104"
+      },
+      {
+        "crn": "76837",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/104"
+      },
+      {
+        "crn": "76838",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/104"
+      },
+      {
+        "crn": "76835",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 204",
+    "title": "Cities of the World",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76844",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "4025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/204"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 210",
+    "title": "Social & Environmental Issues",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76846",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 221",
+    "title": "Geographies of Global Conflict",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "78314",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/221"
+      },
+      {
+        "crn": "78315",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/221"
+      },
+      {
+        "crn": "78317",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/221"
+      },
+      {
+        "crn": "78311",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "319 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 224",
+    "title": "Environmental Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76848",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "338 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/224"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 280",
+    "title": "Intro to Social Statistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77622",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AE1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/280"
+      },
+      {
+        "crn": "77357",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AQ1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/280"
+      },
+      {
+        "crn": "77358",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AQ2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/280"
+      },
+      {
+        "crn": "77356",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "IR",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 370",
+    "title": "Water Planet, Water Crisis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77313",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/370"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 371",
+    "title": "Spatial Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76849",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/371"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 379",
+    "title": "Introduction to Geographic Information Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76851",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "M",
+        "instructor": "338 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/379"
+      },
+      {
+        "crn": "76852",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "M",
+        "instructor": "338 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/379"
+      },
+      {
+        "crn": "76853",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "338 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/379"
+      },
+      {
+        "crn": "76850",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/379"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 380",
+    "title": "Geographic Information Systems II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77391",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 390",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76873",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 391",
+    "title": "Honors Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76874",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 392",
+    "title": "Geography & GIS Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77142",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/392"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 401",
+    "title": "Watershed Hydrology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": []
+  },
+  {
+    "courseCode": "GGIS 403",
+    "title": "Geographic Information Science and Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77078",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/403"
+      },
+      {
+        "crn": "76855",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 407",
+    "title": "Foundations of CyberGIS & Geospatial Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77081",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/407"
+      },
+      {
+        "crn": "76857",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 410",
+    "title": "Green Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77071",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "336 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 412",
+    "title": "Geospatial Technology & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76858",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 473",
+    "title": "Digital Cartography & Map Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76860",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/473"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 477",
+    "title": "Introduction to Remote Sensing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76861",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/477"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 480",
+    "title": "Principles of Geographic Information Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77389",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/480"
+      },
+      {
+        "crn": "77080",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 507",
+    "title": "High-Performance Geospatial Computing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77082",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/507"
+      },
+      {
+        "crn": "78168",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/507"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 527",
+    "title": "Geospatial Artificial Intelligence & Machine Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "77085",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/527"
+      },
+      {
+        "crn": "76864",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 560",
+    "title": "Spatial Epidemiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77205"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 590",
+    "title": "Graduate Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76945",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 593",
+    "title": "Geography & GIS Colloquium",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76946",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 594",
+    "title": "Seminar in Social Geography",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "78294",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AB",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "137C Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 598",
+    "title": "Graduate Capstone Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76900",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "GGIS 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS",
+    "sections": [
+      {
+        "crn": "76899",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GGIS/599"
+      }
+    ]
+  }
+]

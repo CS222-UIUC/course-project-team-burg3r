@@ -1,0 +1,187 @@
+[
+  {
+    "courseCode": "ERAM 515",
+    "title": "Social Theories and Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "crn": "78131",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/515"
+      },
+      {
+        "crn": "78132",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "ERAM 520",
+    "title": "Researching Race in Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "crn": "77370",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "316N Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/520"
+      }
+    ]
+  },
+  {
+    "courseCode": "ERAM 550",
+    "title": "Methods of Educational Inquiry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "crn": "77050",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/550"
+      },
+      {
+        "crn": "77048",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "19:00",
+        "endTime": "21:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "ERAM 556",
+    "title": "Program Evaluation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "crn": "77053",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/556"
+      },
+      {
+        "need attention": "yes",
+        "crn": "77774"
+      },
+      {
+        "crn": "77055",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/556"
+      }
+    ]
+  },
+  {
+    "courseCode": "ERAM 560",
+    "title": "Quantitative Policy Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "crn": "77686",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "21:20",
+        "day": "M",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/560"
+      }
+    ]
+  },
+  {
+    "courseCode": "ERAM 574",
+    "title": "Education Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77056"
+      }
+    ]
+  },
+  {
+    "courseCode": "ERAM 576",
+    "title": "Discourse Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "crn": "77060",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/576"
+      }
+    ]
+  },
+  {
+    "courseCode": "ERAM 583",
+    "title": "Evaluation with Applied Survey Design III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM",
+    "sections": [
+      {
+        "crn": "78134",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/583"
+      },
+      {
+        "crn": "78136",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ERAM/583"
+      }
+    ]
+  }
+]

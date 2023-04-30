@@ -1,0 +1,560 @@
+[
+  {
+    "courseCode": "ASTR 100",
+    "title": "Introduction to Astronomy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "31278",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/100"
+      },
+      {
+        "crn": "58800",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 121",
+    "title": "Solar System and Worlds Beyond",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "37115",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      },
+      {
+        "crn": "37117",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      },
+      {
+        "crn": "37118",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      },
+      {
+        "crn": "37120",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      },
+      {
+        "crn": "37122",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      },
+      {
+        "crn": "37124",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      },
+      {
+        "crn": "36991",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD7",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      },
+      {
+        "crn": "37107",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/121"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 122",
+    "title": "Stars and Galaxies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "39753",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      },
+      {
+        "crn": "39754",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      },
+      {
+        "crn": "39755",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "428 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      },
+      {
+        "crn": "39756",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      },
+      {
+        "crn": "39748",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      },
+      {
+        "crn": "39749",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "143 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      },
+      {
+        "crn": "39757",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      },
+      {
+        "crn": "39752",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "101 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/122"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 150",
+    "title": "Killer Skies: Astro-Disasters",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "53598",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "KS",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "101 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/150"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "10395",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/199"
+      },
+      {
+        "crn": "31281",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "CIA",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "144 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 210",
+    "title": "Introduction to Astrophysics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "30268",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/210"
+      },
+      {
+        "crn": "46446",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 310",
+    "title": "Computing in Astronomy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "75444",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "134 Astronomy Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 350",
+    "title": "The Big Bang, Black Holes, and the End of the Universe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "77318",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 390",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "10396",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 401",
+    "title": "Scientific Writing for Astronomy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "30271",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "134 Astronomy Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 404",
+    "title": "Stellar Astrophysics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "39758",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "144 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 406",
+    "title": "Galaxies and the Universe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "43268",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "100",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "158 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 490",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "65690",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 496",
+    "title": "Seminar in Astronomy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "49361",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "134 Astronomy Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 502",
+    "title": "Astrophysical Dynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "39759",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "134 Astronomy Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 515",
+    "title": "General Relativity I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "34932",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "222 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 590",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "10399",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 593",
+    "title": "Astronomy Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "73680",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "DGS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 596",
+    "title": "Seminar in Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "49155",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AI",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "134 Astronomy Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/596"
+      },
+      {
+        "crn": "46684",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "CT",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "134 Astronomy Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASTR 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR",
+    "sections": [
+      {
+        "crn": "10387",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASTR/599"
+      }
+    ]
+  }
+]

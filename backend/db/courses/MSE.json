@@ -1,0 +1,1006 @@
+[
+  {
+    "courseCode": "MSE 101",
+    "title": "Materials in Today's World",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "39568",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/101"
+      },
+      {
+        "crn": "39569",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/101"
+      },
+      {
+        "crn": "30427",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 182",
+    "title": "Introduction to MatSE",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30429",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/182"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "10557",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 201",
+    "title": "Phases and Phase Relations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30431",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "112 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 280",
+    "title": "Engineering Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 307",
+    "title": "Materials Laboratory I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "32973",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "105 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/307"
+      },
+      {
+        "crn": "32332",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "105 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/307"
+      },
+      {
+        "crn": "32401",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "105 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/307"
+      },
+      {
+        "crn": "51976",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "105 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/307"
+      },
+      {
+        "crn": "58741",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "105 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/307"
+      },
+      {
+        "need attention": "yes",
+        "crn": "32409"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 396",
+    "title": "Introduction to Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "63621",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "2",
+        "startTime": "17:00",
+        "endTime": "18:30",
+        "day": "W",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/396"
+      },
+      {
+        "crn": "64410",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "3",
+        "startTime": "17:00",
+        "endTime": "18:30",
+        "day": "W",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 397",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "10559",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 401",
+    "title": "Thermodynamics of Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "38343",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 403",
+    "title": "Synthesis of Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30434",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 404",
+    "title": "Laboratory Studies in Materials Science and Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "66885",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CP",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "216 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66897",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "MAC",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "L440 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66895",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "MIC",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "L440 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66886",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PC1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "124 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66889",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PC2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "124 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66890",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PC3",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "124 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66898",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PS1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "124 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66899",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PS2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "124 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66900",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PS3",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "124 Ceramics Kiln House",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66901",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "TE1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "113 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66902",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "TE2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "113 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66891",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "TM1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      },
+      {
+        "crn": "66892",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "TM2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "113 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 406",
+    "title": "Thermal-Mech Behavior of Matls",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "42990",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/406"
+      },
+      {
+        "crn": "63203",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/406"
+      },
+      {
+        "crn": "63204",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/406"
+      },
+      {
+        "crn": "63205",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 421",
+    "title": "Ceramic Processing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30436",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/421"
+      },
+      {
+        "crn": "46510",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 440",
+    "title": "Mechanical Behavior of Metals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30439",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 443",
+    "title": "Design of Engineering Alloys",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "45664",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/443"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 457",
+    "title": "Polymer Chemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "38339",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/457"
+      },
+      {
+        "crn": "61140",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/457"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 461",
+    "title": "Electronic Materials II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30449",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 464",
+    "title": "Magnetic Materials and their Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "77808",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/464"
+      },
+      {
+        "crn": "77809",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/464"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 470",
+    "title": "Design and Use of Biomaterials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30451",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 480",
+    "title": "Surfaces and Colloids",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30457",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "119 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/480"
+      },
+      {
+        "crn": "46512",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "119 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 485",
+    "title": "Atomic Scale Simulations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "64701",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/485"
+      },
+      {
+        "crn": "64704",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 488",
+    "title": "Optical Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "73210",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/488"
+      },
+      {
+        "crn": "73213",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/488"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 489",
+    "title": "Matl Select for Sustainability",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "57708",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/489"
+      },
+      {
+        "crn": "57711",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 492",
+    "title": "Lab Safety Fundamentals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "71919",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "MW",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 494",
+    "title": "Materials Design Thinking",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "78450",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 497",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "10601",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 499",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "10561",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 500",
+    "title": "Statistical Thermodyn of Matls",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30462",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MWF",
+        "instructor": "218 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 522",
+    "title": "Solid State Ionics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "78077",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 529",
+    "title": "Hard Materials Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30465",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/529"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 559",
+    "title": "Soft Materials Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30482",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "T",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 590",
+    "title": "Research Seminars",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "10568",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/590"
+      },
+      {
+        "crn": "23706",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "2058 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/590"
+      },
+      {
+        "crn": "78583",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "17:30",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/590"
+      },
+      {
+        "crn": "23745",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DMS",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "day": "F",
+        "instructor": "208 Seitz Materials Research Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 595",
+    "title": "Materials Colloquium",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "30489",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "M",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 597",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "10566",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "43023",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "MSE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MSE",
+    "sections": [
+      {
+        "crn": "10570",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MSE/599"
+      }
+    ]
+  }
+]

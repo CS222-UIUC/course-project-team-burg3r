@@ -1,0 +1,56 @@
+[
+  {
+    "courseCode": "MIP 590",
+    "title": "Individual Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MIP",
+    "sections": [
+      {
+        "crn": "10166",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MIP/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "MIP 595",
+    "title": "Seminars in Physiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MIP",
+    "sections": [
+      {
+        "crn": "32811",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MIP/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "MIP 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MIP",
+    "sections": [
+      {
+        "crn": "10168",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MIP/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "courseCode": "GRKM 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRKM",
+    "sections": [
+      {
+        "crn": "61152",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRKM/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRKM 201",
+    "title": "Elementary Modern Greek I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRKM",
+    "sections": [
+      {
+        "crn": "70931",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1068 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRKM/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRKM 403",
+    "title": "Intermediate Modern Greek I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRKM",
+    "sections": [
+      {
+        "crn": "70930",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1068 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRKM/403"
+      }
+    ]
+  }
+]

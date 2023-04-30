@@ -1,0 +1,908 @@
+[
+  {
+    "courseCode": "JOUR 101",
+    "title": "Interactive Media & You",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "75301",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 102",
+    "title": "Surviving Social Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "78255",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 161",
+    "title": "Introduction to Sports Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "77046",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "138 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/161"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 200",
+    "title": "Introduction to Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "35316",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 205",
+    "title": "History of American Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "62988",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "223 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 210",
+    "title": "Newsgathering Across Platforms",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "62999",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "3 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/210"
+      },
+      {
+        "crn": "63004",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB4",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "3 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 215",
+    "title": "Multimedia Reporting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "63024",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "13 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/215"
+      },
+      {
+        "crn": "63022",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "1068 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/215"
+      },
+      {
+        "crn": "75307",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB2",
+        "startTime": "10:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "13 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/215"
+      },
+      {
+        "crn": "63826",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/215"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 217",
+    "title": "Content Producing for UI7",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "77192",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/217"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 220",
+    "title": "News Editing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "70191",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/220"
+      },
+      {
+        "crn": "70192",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "0036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/220"
+      },
+      {
+        "crn": "70190",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 240",
+    "title": "Introduction to Documentary Storytelling & Production",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "75311",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "TR",
+        "instructor": "13 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 250",
+    "title": "Journalism Ethics & Diversity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "51738",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "140 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 280",
+    "title": "Specialized Skills and Practices",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "72962",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "IPM",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "R",
+        "instructor": "109 Campbell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 311",
+    "title": "Media Law",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "62989",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "119 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/311"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 315",
+    "title": "Adv Public Affairs Reporting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "63012",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "13 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/315"
+      },
+      {
+        "crn": "63010",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "13 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/315"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 317",
+    "title": "On-Camera Performance for UI7",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "73182",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB1",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/317"
+      },
+      {
+        "crn": "77196",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB2",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/317"
+      },
+      {
+        "crn": "77195",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/317"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 335",
+    "title": "Audio Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "62994"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 340",
+    "title": "Video Reporting & Storytelling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "62996",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "103 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/340"
+      },
+      {
+        "crn": "62995",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "13:30",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "103 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 400",
+    "title": "Newsroom Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "75472",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "IPM",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "M",
+        "instructor": "109 Campbell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 410",
+    "title": "Data Storytelling for Journalists",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "77364",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "13 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 417",
+    "title": "Producing for UI7 Programming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "73394",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB1",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/417"
+      },
+      {
+        "crn": "77198",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB2",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/417"
+      },
+      {
+        "crn": "77197",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/417"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 427",
+    "title": "Broadcast Meteorology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "77346",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/427"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 445",
+    "title": "Video Storytelling 2-Producing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "31814",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/445"
+      },
+      {
+        "crn": "31899",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "109 Richmond Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 451",
+    "title": "Research Methods in Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "48314",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 460",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "10470",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "59956",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BDJ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "71731",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CSC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "68674",
+        "status": "restricted",
+        "type": "Online",
+        "section": "HSV",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "59972",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "68960",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ING",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "33173",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MLG",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "33178",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MLU",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "49842",
+        "status": "restricted",
+        "type": "Online",
+        "section": "POD",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "33165",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "REG",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      },
+      {
+        "crn": "70479",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SAR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 471",
+    "title": "Science Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "75324",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/471"
+      },
+      {
+        "crn": "78380",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 480",
+    "title": "Advanced Reporting Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "10471",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 482",
+    "title": "Immersion Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "63822",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 483",
+    "title": "Investigative Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "63623",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 494",
+    "title": "Navigating the Job Market",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "75325",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 495",
+    "title": "Internship Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "30466",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/495"
+      },
+      {
+        "crn": "50822",
+        "status": "restricted",
+        "type": "Online",
+        "section": "2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/495"
+      },
+      {
+        "crn": "63489",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "EF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 501",
+    "title": "Multimedia Storytelling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "63622"
+      },
+      {
+        "crn": "78377",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 505",
+    "title": "Journalism Proseminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "39937",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/505"
+      },
+      {
+        "crn": "78378",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 515",
+    "title": "Master's Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "10472",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "JOUR 590",
+    "title": "Advanced Topics in Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR",
+    "sections": [
+      {
+        "crn": "58770",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JOUR/590"
+      }
+    ]
+  }
+]

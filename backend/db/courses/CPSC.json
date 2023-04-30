@@ -1,0 +1,822 @@
+[
+  {
+    "courseCode": "CPSC 102",
+    "title": "Foundational Skills in Crop Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "70585",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 112",
+    "title": "Introduction to Crop Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "31643",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/112"
+      },
+      {
+        "crn": "31644",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/112"
+      },
+      {
+        "crn": "58247",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/112"
+      },
+      {
+        "crn": "63201",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/112"
+      },
+      {
+        "crn": "31645",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/112"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 131",
+    "title": "Agriculture in Mythology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "75998",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/131"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 180",
+    "title": "Medicinal Plants and Herbology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "42384",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/180"
+      },
+      {
+        "crn": "77613",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/180"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 270",
+    "title": "Applied Entomology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "33486",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/270"
+      },
+      {
+        "crn": "45228",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/270"
+      },
+      {
+        "crn": "33476",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 352",
+    "title": "Plant Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "33507"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 382",
+    "title": "Organic Chem of Biol Processes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "57822",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/382"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 393",
+    "title": "Crop Sciences Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "72363",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/393"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 395",
+    "title": "Undergrad Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "72537",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 396",
+    "title": "Undergrad Honors Res or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "10562",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 407",
+    "title": "Diseases of Field Crops",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "43811",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "M5 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 412",
+    "title": "Principles of Crop Production",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "58531",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 414",
+    "title": "Forage Crops & Pasture Ecology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "57596"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 415",
+    "title": "Bioenergy Crops",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "67302",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/415"
+      },
+      {
+        "crn": "55735",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 416",
+    "title": "Native Plants, Pollinators, & Food Ecosystems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "73590",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/416"
+      },
+      {
+        "crn": "73591",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UGC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/416"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 419",
+    "title": "Midwest Agricultural Practices",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "58725",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/419"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 426",
+    "title": "Weed Mgt in Agronomic Crops",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30084"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 428",
+    "title": "Weed Science Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "76917",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/428"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 439",
+    "title": "Env and Sustainable Dev",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "62156",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MSU",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/439"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 440",
+    "title": "Applied Statistical Methods I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "33573",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/440"
+      },
+      {
+        "crn": "34027",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/440"
+      },
+      {
+        "crn": "34045",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/440"
+      },
+      {
+        "crn": "34058",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/440"
+      },
+      {
+        "crn": "55891",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/440"
+      },
+      {
+        "crn": "50432",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 444",
+    "title": "Introduction to Spatial Analytics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "71380"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 452",
+    "title": "Advanced Plant Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "30076",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/452"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 466",
+    "title": "Genomics for Plant Improvement",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "46800",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/466"
+      },
+      {
+        "crn": "77232",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 479",
+    "title": "Insect Pest Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "35516"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 480",
+    "title": "Cannabis Classification and Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "76102",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/480"
+      },
+      {
+        "crn": "76103",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 486",
+    "title": "Plant Growth and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "72907"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74593"
+      },
+      {
+        "need attention": "yes",
+        "crn": "77233"
+      },
+      {
+        "crn": "77150",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/486"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 489",
+    "title": "Photosynthesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "49925",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "ARR Institute for Genomic Biology",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 498",
+    "title": "Crop Sci Professional Develpmt",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "49502",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 499",
+    "title": "Advanced Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "10564",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/499"
+      },
+      {
+        "crn": "66770",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/499"
+      },
+      {
+        "crn": "69380",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "21:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 555",
+    "title": "Crop Germplasm Resources",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "66629",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "OLP",
+        "startTime": "18:30",
+        "endTime": "20:00",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/555"
+      },
+      {
+        "crn": "65647",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "20:00",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/555"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 593",
+    "title": "Adv Studies in Crop Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "72101",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "18:00",
+        "endTime": "19:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/593"
+      },
+      {
+        "crn": "60431",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "19:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 594",
+    "title": "Professional Orientation CPSC",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "62144",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/594"
+      },
+      {
+        "crn": "63696",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 598",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "33589",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "GE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "CPSC 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC",
+    "sections": [
+      {
+        "crn": "10569",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CPSC/599"
+      }
+    ]
+  }
+]

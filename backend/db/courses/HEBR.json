@@ -1,0 +1,67 @@
+[
+  {
+    "courseCode": "HEBR 201",
+    "title": "Elementary Modern Hebrew I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HEBR",
+    "sections": [
+      {
+        "crn": "32431",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "1140 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HEBR/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "HEBR 403",
+    "title": "Intermediate Modern Hebrew I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HEBR",
+    "sections": [
+      {
+        "crn": "39803",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "109A English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HEBR/403"
+      },
+      {
+        "crn": "30333",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "109A English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HEBR/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "HEBR 405",
+    "title": "Advanced Modern Hebrew I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HEBR",
+    "sections": [
+      {
+        "crn": "39804",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MW",
+        "instructor": "109A English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HEBR/405"
+      }
+    ]
+  }
+]

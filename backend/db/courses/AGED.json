@@ -1,0 +1,128 @@
+[
+  {
+    "courseCode": "AGED 220",
+    "title": "Prog Del in Ag & Leadership Ed",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGED",
+    "sections": [
+      {
+        "crn": "29823",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGED/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 350",
+    "title": "Early Field Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGED",
+    "sections": [
+      {
+        "crn": "29825",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGED/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 421",
+    "title": "Teaching Strategies in AGED",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGED",
+    "sections": [
+      {
+        "crn": "58126",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "122 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGED/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 496",
+    "title": "Beginning Agriculture Teachers Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGED",
+    "sections": [
+      {
+        "crn": "74017",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGED/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 500",
+    "title": "Special Topics in Ag Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGED",
+    "sections": [
+      {
+        "crn": "45906",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGED/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 510",
+    "title": "Education Program Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGED",
+    "sections": [
+      {
+        "crn": "40243",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGED/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGED 511",
+    "title": "Grad Professional Dev in Ag Ed",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGED",
+    "sections": [
+      {
+        "crn": "56891",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGED/511"
+      }
+    ]
+  }
+]

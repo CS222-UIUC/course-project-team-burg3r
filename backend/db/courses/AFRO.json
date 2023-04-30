@@ -1,0 +1,746 @@
+[
+  {
+    "courseCode": "AFRO 100",
+    "title": "Intro to African American St",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "49318",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/100"
+      },
+      {
+        "crn": "49320",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/100"
+      },
+      {
+        "crn": "49322",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/100"
+      },
+      {
+        "crn": "49323",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/100"
+      },
+      {
+        "crn": "29810",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 101",
+    "title": "Black America, 1619-Present",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "47705",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/101"
+      },
+      {
+        "crn": "47707",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/101"
+      },
+      {
+        "crn": "36652",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 105",
+    "title": "Black Literature in America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "61378",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/105"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 106",
+    "title": "Hist Arch Americas",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "57511",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/106"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 132",
+    "title": "African American Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "75548",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/132"
+      },
+      {
+        "crn": "75549",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/132"
+      },
+      {
+        "crn": "75550",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/132"
+      },
+      {
+        "crn": "75551",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/132"
+      },
+      {
+        "crn": "67122",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JM1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/132"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 134",
+    "title": "Religion, Race, and Resistance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "76920",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/134"
+      },
+      {
+        "crn": "76921",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/134"
+      },
+      {
+        "crn": "76922",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/134"
+      },
+      {
+        "crn": "76923",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "144 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/134"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 201",
+    "title": "US Racial & Ethnic Politics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "71041",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/201"
+      },
+      {
+        "crn": "71044",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/201"
+      },
+      {
+        "crn": "74249",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 215",
+    "title": "US Citizenship Comparatively",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "55766",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/215"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 224",
+    "title": "Humanist Persp of Afro-Am Exp",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "39602",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/224"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 228",
+    "title": "Hip Hop Music: History and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "70353",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/228"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 243",
+    "title": "Pan Africanism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "38492",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "115 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/243"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 259",
+    "title": "Early African American Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "55609",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/259"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 260",
+    "title": "Modern African American Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "46869",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/260"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 275",
+    "title": "Afro-American History to 1877",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "34289",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/275"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 281",
+    "title": "Constructing Race in America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "71410",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "71414",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "71418",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "75270",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "75273",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "75276",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "78175",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "78179",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "78183",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      },
+      {
+        "crn": "70107",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/281"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 310",
+    "title": "Race and Cultural Diversity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "65001",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/310"
+      },
+      {
+        "crn": "33765",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/310"
+      },
+      {
+        "crn": "77818",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "D3",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/310"
+      },
+      {
+        "crn": "33771",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 340",
+    "title": "Dancing Black Popular Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "59964",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 341",
+    "title": "Gov & Pol in Africa",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "78468",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/341"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 400",
+    "title": "African Diasporic Thought in the Caribbean",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "48999",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/400"
+      },
+      {
+        "crn": "48980",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 421",
+    "title": "Racial and Ethnic Families",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "54751",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/421"
+      },
+      {
+        "crn": "64991",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 482",
+    "title": "Immersion Journalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "64928",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AG",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 490",
+    "title": "Theory in African American St",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "57821",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/490"
+      },
+      {
+        "crn": "57820",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U1",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "AFRO 500",
+    "title": "Core Probs African-Am Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO",
+    "sections": [
+      {
+        "crn": "46585",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AFRO/500"
+      }
+    ]
+  }
+]

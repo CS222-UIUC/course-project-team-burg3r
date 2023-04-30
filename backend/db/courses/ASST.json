@@ -1,0 +1,122 @@
+[
+  {
+    "courseCode": "ASST 104",
+    "title": "Asian Mythology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASST",
+    "sections": [
+      {
+        "crn": "38467",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1120 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/104"
+      },
+      {
+        "crn": "38481",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/104"
+      },
+      {
+        "crn": "38505",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/104"
+      },
+      {
+        "crn": "38427",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/104"
+      },
+      {
+        "crn": "38435",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/104"
+      },
+      {
+        "crn": "38438",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/104"
+      },
+      {
+        "crn": "38455",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASST 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASST",
+    "sections": [
+      {
+        "crn": "10388",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ASST 390",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ASST",
+    "sections": [
+      {
+        "crn": "10390",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ASST/390"
+      }
+    ]
+  }
+]

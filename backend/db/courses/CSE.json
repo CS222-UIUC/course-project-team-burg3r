@@ -1,0 +1,582 @@
+[
+  {
+    "courseCode": "CSE 401",
+    "title": "Numerical Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "36034",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BL1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/401"
+      },
+      {
+        "crn": "36032",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BL2",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 408",
+    "title": "Applied Parallel Programming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "64288",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/408"
+      },
+      {
+        "crn": "76325",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/408"
+      },
+      {
+        "crn": "67071",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/408"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 414",
+    "title": "Algorithms",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "70170",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S4",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/414"
+      },
+      {
+        "crn": "72228",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S4G",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/414"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 422",
+    "title": "Computer System Organization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "36083",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T3",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/422"
+      },
+      {
+        "crn": "43364",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T4",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 423",
+    "title": "Operating Systems Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "59051",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SG",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/423"
+      },
+      {
+        "crn": "59050",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SU",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/423"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 426",
+    "title": "Software Engineering I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "36110",
+        "status": "restricted",
+        "type": "Online",
+        "section": "S3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/426"
+      },
+      {
+        "crn": "36112",
+        "status": "restricted",
+        "type": "Online",
+        "section": "S4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/426"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 427",
+    "title": "Interactive Computer Graphics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "36122",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/427"
+      },
+      {
+        "crn": "36124",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/427"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 428",
+    "title": "Statistical Computing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "66539",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/428"
+      },
+      {
+        "crn": "66541",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/428"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 440",
+    "title": "Statistical Data Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "65101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/440"
+      },
+      {
+        "crn": "65102",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/440"
+      },
+      {
+        "crn": "65103",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2GR",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/440"
+      },
+      {
+        "crn": "65104",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2UG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 441",
+    "title": "Introduction to Optimization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "70865",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "P3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3081 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/441"
+      },
+      {
+        "crn": "70866",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "P4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3081 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/441"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 448",
+    "title": "Advanced Data Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "66556",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/448"
+      },
+      {
+        "crn": "70264",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/448"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 450",
+    "title": "Computational Mechanics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "35031",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/450"
+      },
+      {
+        "crn": "41371",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 451",
+    "title": "Finite Element Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "36852",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/451"
+      },
+      {
+        "crn": "62979",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/451"
+      },
+      {
+        "crn": "59127",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 485",
+    "title": "Atomic Scale Simulations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "64703",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/485"
+      },
+      {
+        "crn": "64706",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 505",
+    "title": "Computational Bioengineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "73975",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 512",
+    "title": "Parallel Numerical Algorithms",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "57702",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "WF",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 525",
+    "title": "Computational Statistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "77404",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "106B8 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/525"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 542",
+    "title": "Statistical Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "65112",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/542"
+      },
+      {
+        "crn": "70266",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 552",
+    "title": "Nonlinear Finite Elements",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "56788",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/552"
+      },
+      {
+        "crn": "73833",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/552"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE 560",
+    "title": "Computational Fluid Mechanics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CSE",
+    "sections": [
+      {
+        "crn": "72240",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CSE/560"
+      }
+    ]
+  }
+]

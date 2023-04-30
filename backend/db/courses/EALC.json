@@ -1,0 +1,915 @@
+[
+  {
+    "courseCode": "EALC 120",
+    "title": "East Asian Civilizations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "34320",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/120"
+      },
+      {
+        "crn": "34321",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/120"
+      },
+      {
+        "crn": "34322",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/120"
+      },
+      {
+        "crn": "34323",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/120"
+      },
+      {
+        "crn": "34324",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "G24 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/120"
+      },
+      {
+        "crn": "34325",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/120"
+      },
+      {
+        "crn": "34326",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 122",
+    "title": "History East Asian Religions",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "38401",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/122"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 130",
+    "title": "The Chinese Language",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "40948",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/130"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 132",
+    "title": "Zen",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "41086",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/132"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "10596",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 212",
+    "title": "East Asian Art History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "77314",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NG",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/212"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 220",
+    "title": "Traditional China",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "49158",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "156 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 221",
+    "title": "Modern China",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "49261",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 225",
+    "title": "Japanese Religions: Thought and Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "78360",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CC",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 230",
+    "title": "Popular Cultures of Contemporary East Asia",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "74002",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AD1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/230"
+      },
+      {
+        "crn": "76384",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/230"
+      },
+      {
+        "crn": "76386",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/230"
+      },
+      {
+        "crn": "76387",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/230"
+      },
+      {
+        "crn": "76399",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/230"
+      },
+      {
+        "crn": "76400",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/230"
+      },
+      {
+        "crn": "76402",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 250",
+    "title": "Intro to Japanese Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "47186",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/250"
+      },
+      {
+        "crn": "47187",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/250"
+      },
+      {
+        "crn": "47188",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/250"
+      },
+      {
+        "crn": "47190",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/250"
+      },
+      {
+        "crn": "47191",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "143 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/250"
+      },
+      {
+        "crn": "47193",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "336 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/250"
+      },
+      {
+        "crn": "29830",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 275",
+    "title": "Masterpieces of East Asian Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "47201",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "147 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/275"
+      },
+      {
+        "crn": "47205",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/275"
+      },
+      {
+        "crn": "47207",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/275"
+      },
+      {
+        "crn": "47209",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/275"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 327",
+    "title": "Tokyo: Then and Now",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "78359",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RW",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/327"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 343",
+    "title": "Gov & Pol of China",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "72442",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/343"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 344",
+    "title": "Government and Politics of Japan",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "72444",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/344"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 359",
+    "title": "Government and Politics of East Asia",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "77174",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/359"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 360",
+    "title": "Seminar in Korean Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "78362",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BTA",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 369",
+    "title": "Hanguk Hip Hop",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "78364",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MSS",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "MW",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/369"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 390",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "10597",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 398",
+    "title": "Colloquium in EALC",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "73298",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NG",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 402",
+    "title": "Ways of Seeing in Edo Japan",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "43955",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/402"
+      },
+      {
+        "crn": "43954",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "312 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 404",
+    "title": "China through Film",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "73840"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 412",
+    "title": "Mod Chinese Lit in Translation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "33595",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "U3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 430",
+    "title": "Intro to East Asian Ling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "45217",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1032 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/430"
+      },
+      {
+        "crn": "42889",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1032 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 466",
+    "title": "Japanese Cinema",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "61806",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/466"
+      },
+      {
+        "crn": "61803",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 485",
+    "title": "Karma of Words: Buddhism, Language and the Literary Arts of Japan",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "78363",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CC",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 490",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "10599",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 500",
+    "title": "Proseminar in EALC",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "29833",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "G",
+        "startTime": "16:00",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "316S Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 511",
+    "title": "Applied Literary Translation I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "72614",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "3072E Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/511"
+      },
+      {
+        "crn": "73864",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 550",
+    "title": "Seminar in EALC",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "78376",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JC2",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "1018 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/550"
+      },
+      {
+        "crn": "78374",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NG",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 560",
+    "title": "East Asian Language Pedagogy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "29834",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EG",
+        "startTime": "13:00",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "156 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/560"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 588",
+    "title": "Sem Second Lang Learn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "61200",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/588"
+      },
+      {
+        "crn": "35544",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/588"
+      },
+      {
+        "crn": "59514",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SM",
+        "startTime": "13:20",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 590",
+    "title": "Individual Study and Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "10003",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "EALC 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EALC",
+    "sections": [
+      {
+        "crn": "10007",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EALC/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1849 @@
+[
+  {
+    "courseCode": "IB 100",
+    "title": "Biology in Today's World",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "66846",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "EN1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/100"
+      },
+      {
+        "crn": "66848",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "EN2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/100"
+      },
+      {
+        "crn": "66849",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "EN3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/100"
+      },
+      {
+        "crn": "66850",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "EN4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/100"
+      },
+      {
+        "crn": "66845",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LN2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 104",
+    "title": "Animal Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "35515",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2082 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/104"
+      },
+      {
+        "crn": "35525",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "2082 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/104"
+      },
+      {
+        "crn": "35542",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABH",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "2082 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/104"
+      },
+      {
+        "crn": "35543",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABJ",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "2082 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/104"
+      },
+      {
+        "crn": "35559",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABL",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "2082 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/104"
+      },
+      {
+        "crn": "35561",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABM",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "2082 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/104"
+      },
+      {
+        "crn": "35456",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 108",
+    "title": "The Biology of Dinosaurs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "69966",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/108"
+      },
+      {
+        "crn": "74538",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "BE1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/108"
+      },
+      {
+        "crn": "74540",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "BE3",
+        "startTime": "18:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/108"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 110",
+    "title": "Race and Environmental Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "73110",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73111",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73112",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73113",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABD",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73114",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73115",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABF",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73116",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73117",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABH",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "77109",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABI",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "77110",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ABJ",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      },
+      {
+        "crn": "73004",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 150",
+    "title": "Organismal & Evolutionary Biol",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "35423",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AA1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35565",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AA2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35621",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AA3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "70912",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AA4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35760",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "41567",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "41966",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "41564",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "41566",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "39042",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35642",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35755",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "57628",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "2083 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35770",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35763",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "59029",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "59030",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "57816",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35766",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35580",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35572",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35595",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35600",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3098 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35615",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AF2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "63902",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AF3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "67318",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AF4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "67316",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AF5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "67317",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AF6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35460",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35392",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AM1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35405",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AM2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "35610",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AM3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      },
+      {
+        "crn": "39044",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AM4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/150"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 151",
+    "title": "Organismal & Evol Biol Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "35645",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AA",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "58733",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BB",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "35649",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "35659",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "DD",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "35661",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "EE",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "35664",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "FF",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "35673",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "GG",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "76227",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "HH",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      },
+      {
+        "crn": "76229",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "II",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "3100 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/151"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "51330"
+      },
+      {
+        "need attention": "yes",
+        "crn": "56401"
+      },
+      {
+        "crn": "77844",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BI2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/199"
+      },
+      {
+        "crn": "63274",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BIO",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2084 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/199"
+      },
+      {
+        "crn": "41563",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "MRA",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2020B Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/199"
+      },
+      {
+        "crn": "49662",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "MRB",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "2020B Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 203",
+    "title": "Ecology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "35750",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35438",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35488",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35519",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "47551",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35526",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35534",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB8",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35539",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB9",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35752",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "56453",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "56550",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "3004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      },
+      {
+        "crn": "35464",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 204",
+    "title": "Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "49806",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "49807",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "49808",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "49809",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABE",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "49810",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABF",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "49812",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABG",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "56526",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABH",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "56549",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABI",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "74568",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABJ",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "3011 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "74764",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABK",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "3011 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "76599",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AKL",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "3002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "49804",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      },
+      {
+        "crn": "66384",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/204"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 220",
+    "title": "Applied Entomology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "33491",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/220"
+      },
+      {
+        "crn": "45230",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "W9 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/220"
+      },
+      {
+        "crn": "33487",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 230",
+    "title": "Pandemics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "74458",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/230"
+      },
+      {
+        "crn": "75913",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "EN2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/230"
+      },
+      {
+        "crn": "74547",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "EN3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/230"
+      },
+      {
+        "crn": "74549",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "EN4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 270",
+    "title": "Evolution of Molecules & Cells",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "46682"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 290",
+    "title": "Introduction to Undergraduate Research in Integrative Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "72021",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "2083 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 299",
+    "title": "Undergraduate Special Course",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "57592",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "2090 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/299"
+      },
+      {
+        "crn": "57593",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 303",
+    "title": "Anatomy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "68279",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "4002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/303"
+      },
+      {
+        "crn": "68280",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "4002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/303"
+      },
+      {
+        "crn": "68281",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "4002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/303"
+      },
+      {
+        "crn": "68282",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "4002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/303"
+      },
+      {
+        "crn": "68396",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "4002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/303"
+      },
+      {
+        "crn": "68397",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "4002 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/303"
+      },
+      {
+        "crn": "68278",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "217 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 348",
+    "title": "Fish and Wildlife Ecology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "34571",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/348"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 360",
+    "title": "Evolution and Human Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "59719",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "2020B Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/360"
+      },
+      {
+        "crn": "73477",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2020B Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/360"
+      },
+      {
+        "crn": "58032",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 362",
+    "title": "Marine Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "70371",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/362"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 372",
+    "title": "Ecology and Evolution",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "49618"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 390",
+    "title": "Undergraduate Research Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "43891",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 401",
+    "title": "Introduction to Entomology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "49900"
+      },
+      {
+        "need attention": "yes",
+        "crn": "49901"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 411",
+    "title": "Bioinspiration",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "73274",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/411"
+      },
+      {
+        "crn": "75250",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/411"
+      },
+      {
+        "crn": "62360",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 421",
+    "title": "Photosynthesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "49926",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "ARR Institute for Genomic Biology",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 430",
+    "title": "Animal Behavior Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64029"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 436",
+    "title": "Evolutionary Neuroscience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "71427",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/436"
+      },
+      {
+        "crn": "71426",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/436"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 462",
+    "title": "Mammalogy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "54272",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2083 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/462"
+      },
+      {
+        "crn": "74569",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "EN1",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "3011 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/462"
+      },
+      {
+        "crn": "74571",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "EN2",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "3011 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 468",
+    "title": "Insect Classification and Evol",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "35484"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 478",
+    "title": "Advanced Plant Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "59815",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/478"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 479",
+    "title": "Plant Growth and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "72908"
+      },
+      {
+        "need attention": "yes",
+        "crn": "74594"
+      },
+      {
+        "need attention": "yes",
+        "crn": "77625"
+      },
+      {
+        "crn": "77153",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/479"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 482",
+    "title": "Insect Pest Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "35509"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 484",
+    "title": "Paleoclimatology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "66824",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/484"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 490",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "43892",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 513",
+    "title": "Disc in Plant Physiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "35424",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "GE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/513"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 517",
+    "title": "Analysis of Biological Data in R",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "78352",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 526",
+    "title": "Seminar in Entomology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "35538",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "B102 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/526"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 546",
+    "title": "Topics in Ecology & Evolution",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "31832",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "B102 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/546"
+      },
+      {
+        "crn": "31834",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "2083 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/546"
+      },
+      {
+        "crn": "65446",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "INH",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "IB 592",
+    "title": "Career and Skill Development in Integrative Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IB",
+    "sections": [
+      {
+        "crn": "77111",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD",
+        "startTime": "12:30",
+        "endTime": "14:10",
+        "day": "T",
+        "instructor": "4004 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IB/592"
+      }
+    ]
+  }
+]

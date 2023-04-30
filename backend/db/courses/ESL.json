@@ -1,0 +1,1027 @@
+[
+  {
+    "courseCode": "ESL 110",
+    "title": "English Pronunciation & Oral Fluency",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "31699",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/110"
+      },
+      {
+        "crn": "31700",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/110"
+      },
+      {
+        "crn": "31703",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1024 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/110"
+      },
+      {
+        "crn": "31705",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/110"
+      },
+      {
+        "crn": "48670",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 111",
+    "title": "Intro to Academic Writing I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "62264",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62265",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62266",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62267",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62268",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62269",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62270",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62271",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62273",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62274",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62275",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62276",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "O",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62277",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G7 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62278",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "G8A Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62279",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62550",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "G23 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "62280",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "71049",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "G7 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      },
+      {
+        "crn": "71050",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "V",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/111"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 112",
+    "title": "Intro to Academic Writing II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "63556",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/112"
+      },
+      {
+        "crn": "63558",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/112"
+      },
+      {
+        "crn": "63557",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/112"
+      },
+      {
+        "crn": "63840",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/112"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 115",
+    "title": "Principles of Academic Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "60558",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      },
+      {
+        "crn": "60864",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      },
+      {
+        "crn": "60559",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      },
+      {
+        "crn": "60560",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "G7 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      },
+      {
+        "crn": "52673",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "G8A Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      },
+      {
+        "crn": "52674",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "G23 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      },
+      {
+        "crn": "52676",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      },
+      {
+        "crn": "52677",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "G23 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 504",
+    "title": "English Pronunciation for ITAs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "31731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "307 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/504"
+      },
+      {
+        "crn": "50276",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "18:30",
+        "endTime": "19:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 506",
+    "title": "Oral Communication for ITAs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "50728",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/506"
+      },
+      {
+        "crn": "31747",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/506"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 508",
+    "title": "Seminar for Intl TAs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "56758",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "17:20",
+        "day": "M",
+        "instructor": "G18 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/508"
+      },
+      {
+        "crn": "59165",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/508"
+      },
+      {
+        "crn": "64113",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "1046 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/508"
+      },
+      {
+        "crn": "62319",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "1046 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/508"
+      },
+      {
+        "crn": "65750",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/508"
+      },
+      {
+        "crn": "77203",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/508"
+      },
+      {
+        "crn": "77931",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/508"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 510",
+    "title": "English Pronunciation & Oral Fluency",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "31750",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/510"
+      },
+      {
+        "crn": "31754",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/510"
+      },
+      {
+        "crn": "31756",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1024 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/510"
+      },
+      {
+        "crn": "31758",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/510"
+      },
+      {
+        "crn": "48671",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 511",
+    "title": "Written and Oral Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "69261",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69265",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69264",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69266",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69274",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69276",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69275",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69278",
+        "status": "restricted",
+        "type": "Online",
+        "section": "J1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      },
+      {
+        "crn": "69279",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "W",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "day": "TR",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 512",
+    "title": "Introduction to Academic Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "69329",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/512"
+      },
+      {
+        "crn": "69333",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 515",
+    "title": "Introduction to Academic Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "69286",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/515"
+      },
+      {
+        "crn": "69287",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/515"
+      },
+      {
+        "crn": "69290",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/515"
+      },
+      {
+        "crn": "69295",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 521",
+    "title": "Written and Oral Business Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "69373",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/521"
+      },
+      {
+        "crn": "69775",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/521"
+      },
+      {
+        "crn": "71098",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/521"
+      },
+      {
+        "crn": "71099",
+        "status": "restricted",
+        "type": "Online",
+        "section": "F",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/521"
+      },
+      {
+        "crn": "72689",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/521"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 522",
+    "title": "Introduction to Business Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "69323",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "G13 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/522"
+      },
+      {
+        "crn": "69324",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "L",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "day": "TR",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/522"
+      },
+      {
+        "crn": "72641",
+        "status": "restricted",
+        "type": "Online",
+        "section": "P",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 525",
+    "title": "Elements of Business Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "75399",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/525"
+      },
+      {
+        "crn": "75400",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/525"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 592",
+    "title": "Advanced Academic Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "69310",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/592"
+      },
+      {
+        "crn": "69312",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/592"
+      },
+      {
+        "crn": "69311",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/592"
+      },
+      {
+        "crn": "69313",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESL 593",
+    "title": "Academic Presentation Skills",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESL",
+    "sections": [
+      {
+        "crn": "69318",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G8B Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/593"
+      },
+      {
+        "crn": "69317",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G52 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESL/593"
+      }
+    ]
+  }
+]

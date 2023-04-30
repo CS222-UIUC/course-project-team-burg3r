@@ -1,0 +1,422 @@
+[
+  {
+    "courseCode": "ITAL 101",
+    "title": "Elementary Italian I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "45680",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "1048 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/101"
+      },
+      {
+        "crn": "35261",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "1048 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/101"
+      },
+      {
+        "crn": "35035",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "1048 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/101"
+      },
+      {
+        "crn": "35297",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "1048 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/101"
+      },
+      {
+        "crn": "35341",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G1",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 102",
+    "title": "Elementary Italian II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "59487",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "1110 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/102"
+      },
+      {
+        "crn": "59488",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "1134 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 103",
+    "title": "Intermediate Italian I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "31847",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "1118 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/103"
+      },
+      {
+        "crn": "31853",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "1110 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/103"
+      },
+      {
+        "crn": "31851",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "1118 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 104",
+    "title": "Intermediate Italian II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "31865",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "1118 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 156",
+    "title": "Exploring Rome: History and Culture of the Eternal City",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "70468",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/156"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "10459",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 210",
+    "title": "Practical Review Italian",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30448"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 240",
+    "title": "Italy Middle Ages & Renaiss",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "53944",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 390",
+    "title": "Spec Topics Italian Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "10461",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 420",
+    "title": "Masterpieces Renaiss Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "39454",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1020 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 460",
+    "title": "Principles of Language Testing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "33697",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/460"
+      },
+      {
+        "crn": "33437",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 489",
+    "title": "Theoretical Foundations of SLA",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "33658",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/489"
+      },
+      {
+        "crn": "33459",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 505",
+    "title": "Teaching College and Secondary Foreign Language",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "67395",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "1112 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 559",
+    "title": "Sem Romance Ling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "43845",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 588",
+    "title": "Sem Second Lang Learn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "61212",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/588"
+      },
+      {
+        "crn": "35549",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/588"
+      },
+      {
+        "crn": "59517",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SM",
+        "startTime": "13:20",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 595",
+    "title": "Spec Topics in Italian",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "10463",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "ITAL 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL",
+    "sections": [
+      {
+        "crn": "10466",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ITAL/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "courseCode": "ESE 103",
+    "title": "Earth's Physical Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "76876",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "137C Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/103"
+      },
+      {
+        "crn": "76877",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AB2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "137C Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/103"
+      },
+      {
+        "crn": "76875",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AE1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "2020B Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 104",
+    "title": "Geology of the National Parks",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "78068",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 118",
+    "title": "Natural Disasters",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "58689",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/118"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 120",
+    "title": "Severe and Hazardous Weather",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "57776",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/120"
+      },
+      {
+        "crn": "57778",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HB",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 140",
+    "title": "Climate and Global Change",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "57760",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 143",
+    "title": "History of Life",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "60038",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "121 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/143"
+      },
+      {
+        "crn": "60042",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB7",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "121 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/143"
+      },
+      {
+        "crn": "60043",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "121 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/143"
+      },
+      {
+        "crn": "59142",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/143"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 200",
+    "title": "Earth Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "58311",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/200"
+      },
+      {
+        "crn": "60219",
+        "status": "restricted",
+        "type": "Online",
+        "section": "TJ",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 208",
+    "title": "History of the Earth System",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "61112",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "1022 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/208"
+      },
+      {
+        "crn": "61113",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/208"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 210",
+    "title": "Social & Environmental Issues",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "67830",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 289",
+    "title": "Environment & Sustainability Field Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "64426",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "R",
+        "instructor": "2020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/289"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 320",
+    "title": "Water Planet, Water Crisis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "64423",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 360",
+    "title": "Environmental Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "61958",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "205 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 379",
+    "title": "Introduction to Geographic Information Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "57419",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "M",
+        "instructor": "338 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/379"
+      },
+      {
+        "crn": "57420",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "M",
+        "instructor": "338 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/379"
+      },
+      {
+        "crn": "61269",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "338 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/379"
+      },
+      {
+        "crn": "57418",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/379"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 380",
+    "title": "Geographic Information Systems II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "73078",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 401",
+    "title": "ESE Capstone",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "58562",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 410",
+    "title": "Green Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "75258",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "336 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 411",
+    "title": "Geomorphology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "58047",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/411"
+      },
+      {
+        "crn": "58045",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 467",
+    "title": "Multimedia Environmental Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "77388",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/467"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 470",
+    "title": "Introduction to Hydrogeology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "58301",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1047 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "ESE 477",
+    "title": "Advanced Environmental Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ESE",
+    "sections": [
+      {
+        "crn": "69328",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ESE/477"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1671 @@
+[
+  {
+    "courseCode": "CI 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "10437",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 210",
+    "title": "Introduction to Digital Learning Environments",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "71957",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/210"
+      },
+      {
+        "crn": "71959",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/210"
+      },
+      {
+        "crn": "66096",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 395",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "10440",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 402",
+    "title": "Teaching Diverse Middle Grade Students",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "47383",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/402"
+      },
+      {
+        "crn": "47385",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/402"
+      },
+      {
+        "crn": "47386",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/402"
+      },
+      {
+        "crn": "45188",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 403",
+    "title": "Teaching a Diverse High School Student Population",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "35708",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/403"
+      },
+      {
+        "crn": "35724",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/403"
+      },
+      {
+        "crn": "38747",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/403"
+      },
+      {
+        "crn": "36449",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "08:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 405",
+    "title": "Introduction to Teaching Elementary Age Children",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "31475",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/405"
+      },
+      {
+        "crn": "70294",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/405"
+      },
+      {
+        "crn": "31474",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/405"
+      },
+      {
+        "crn": "64402",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 406",
+    "title": "Theory Practice in Elementary School Teaching I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "31478",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/406"
+      },
+      {
+        "crn": "31481",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/406"
+      },
+      {
+        "crn": "31482",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/406"
+      },
+      {
+        "crn": "31484",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/406"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 410",
+    "title": "Middle School Instruction, Philosophy and Structures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "66095",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/410"
+      },
+      {
+        "crn": "77985",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 415",
+    "title": "Language Varieties, Cultures and Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "61063",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/415"
+      },
+      {
+        "crn": "51148",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/415"
+      },
+      {
+        "crn": "51151",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C3",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/415"
+      },
+      {
+        "crn": "61064",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/415"
+      },
+      {
+        "crn": "51092",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 421",
+    "title": "Principles and Practices in Early Childhood Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "29862"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 422",
+    "title": "Families, Communities, Schools",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "41202",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/422"
+      },
+      {
+        "crn": "77753",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 425",
+    "title": "Early Childhood Education Instructional Planning, Assessment & Learning Environments",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "77752",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C3",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 430",
+    "title": "Teaching Children Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "51091",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/430"
+      },
+      {
+        "crn": "51241",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/430"
+      },
+      {
+        "crn": "51242",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/430"
+      },
+      {
+        "crn": "64403",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 433",
+    "title": "Foundations of Bilingual Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "64952",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/433"
+      },
+      {
+        "crn": "64954",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GO",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/433"
+      },
+      {
+        "crn": "66943",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 441",
+    "title": "Math Content for Early Childhood Education (PK-2)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "78310",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/441"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 443",
+    "title": "Mathematics in Early Childhood Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "78309",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C1",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/443"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 444",
+    "title": "ECE Social Studies Content and Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "78316",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/444"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 446",
+    "title": "Culture in the Classroom",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "52613",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/446"
+      },
+      {
+        "crn": "52614",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/446"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 449",
+    "title": "Issues in Latina/o Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "63269",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/449"
+      },
+      {
+        "crn": "63263",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/449"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 450",
+    "title": "Teaching Elementary Science I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "31458",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/450"
+      },
+      {
+        "crn": "31459",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/450"
+      },
+      {
+        "crn": "31460",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/450"
+      },
+      {
+        "crn": "64404",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 452",
+    "title": "Social Studies as Action and Inquiry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "67691",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/452"
+      },
+      {
+        "crn": "67692",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/452"
+      },
+      {
+        "crn": "67693",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/452"
+      },
+      {
+        "crn": "67694",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/452"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 465",
+    "title": "Language Literacy in Early Childhood Education I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "69957",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/465"
+      },
+      {
+        "crn": "78312",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C2",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/465"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 466",
+    "title": "Language Literacy in Early Childhood Education II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "78313",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C2",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 467",
+    "title": "Principles in Teaching Literature to Children and Youth",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "31470",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/467"
+      },
+      {
+        "crn": "74735",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/467"
+      },
+      {
+        "crn": "31477",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/467"
+      },
+      {
+        "crn": "55488",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/467"
+      },
+      {
+        "crn": "31473",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MG",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/467"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 471",
+    "title": "Principles and Practices to Foster Independence in Reading",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "43075",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/471"
+      },
+      {
+        "crn": "68456",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 476",
+    "title": "Teaching Elementary and Middle Grade Language Arts",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "66084",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/476"
+      },
+      {
+        "crn": "66085",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/476"
+      },
+      {
+        "crn": "66086",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/476"
+      },
+      {
+        "crn": "66087",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "170 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/476"
+      },
+      {
+        "crn": "67695",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MG1",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/476"
+      },
+      {
+        "crn": "78075",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MG2",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 480",
+    "title": "Introduction to Computer Science for CS Teachers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "72992",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 482",
+    "title": "Social Learning and Multimedia",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "73563",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/482"
+      },
+      {
+        "crn": "73564",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/482"
+      },
+      {
+        "crn": "73565",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 483",
+    "title": "Computer Systems for CS Teachers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "78081",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 485",
+    "title": "Assessing Student Performance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "66119",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/485"
+      },
+      {
+        "crn": "66120",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/485"
+      },
+      {
+        "crn": "67449",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/485"
+      },
+      {
+        "crn": "67689",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/485"
+      },
+      {
+        "crn": "65577",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALU",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 487",
+    "title": "Data Structures for Computer Science Teachers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "77032",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/487"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 492",
+    "title": "Discrete Mathematics for CS Teachers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "78080",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 499",
+    "title": "Issues and Development in Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "71723",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/499"
+      },
+      {
+        "crn": "53980",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/499"
+      },
+      {
+        "crn": "42033",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HET",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/499"
+      },
+      {
+        "crn": "71724",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/499"
+      },
+      {
+        "crn": "56886",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UG",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 501",
+    "title": "Curriculum Development for the 21st Century",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "29879",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/501"
+      },
+      {
+        "crn": "71646",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 507",
+    "title": "Problems & Trends in Special Fields",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "49011",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/507"
+      },
+      {
+        "crn": "66944",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/507"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 508",
+    "title": "Urban Schools and Schooling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "67703",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/508"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 512",
+    "title": "Multicultural Education and Global Perspectives",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "77033",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/512"
+      },
+      {
+        "crn": "77034",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 522",
+    "title": "Arts in Early Childhood and Elementary: Curriculum in Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "43182",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 532",
+    "title": "Professional Development in Mathematics Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "64405",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/532"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 536",
+    "title": "Curriculum and Instruction Proseminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "75447",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/536"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 539",
+    "title": "Introduction to Educational Data Mining",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "74810",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/539"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 541",
+    "title": "Learning in Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "59374",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/541"
+      },
+      {
+        "crn": "78422",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/541"
+      },
+      {
+        "crn": "65794",
+        "status": "restricted",
+        "type": "Online",
+        "section": "TB1",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/541"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 546",
+    "title": "MST Proseminar II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "66090",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MSE",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 548",
+    "title": "Capstone Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "59427",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CP1",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/548"
+      },
+      {
+        "crn": "63828",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CP2",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/548"
+      },
+      {
+        "crn": "64224",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/548"
+      },
+      {
+        "crn": "64225",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL2",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/548"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 550",
+    "title": "Methods of Educational Inquiry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "35738",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 555",
+    "title": "Advanced Educational Technologies for Engagement and Interactive Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "70821",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/555"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 562",
+    "title": "Linguistics and the School Curriculum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "59553",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LSC",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 566",
+    "title": "Topics Writ Pedagogy & Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "39527",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/566"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 568",
+    "title": "Contemporary Children's Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "77864",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/568"
+      },
+      {
+        "crn": "31162",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/568"
+      },
+      {
+        "crn": "77497",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MG",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/568"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 587",
+    "title": "Multicultural Literature K-12",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "66092",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "MCL",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/587"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 590",
+    "title": "Seminar for Advanced Study of Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "66093",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 591",
+    "title": "Field Study & Thesis Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "10450",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 595",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "10443",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "CI 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CI",
+    "sections": [
+      {
+        "crn": "10452",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CI/599"
+      }
+    ]
+  }
+]

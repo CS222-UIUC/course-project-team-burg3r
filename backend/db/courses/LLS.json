@@ -1,0 +1,727 @@
+[
+  {
+    "courseCode": "LLS 100",
+    "title": "Intro Latina/Latino Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "32234",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/100"
+      },
+      {
+        "crn": "32235",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/100"
+      },
+      {
+        "crn": "32236",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/100"
+      },
+      {
+        "crn": "39710",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/100"
+      },
+      {
+        "crn": "32237",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 200",
+    "title": "U.S. Race and Empire",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "67475",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/200"
+      },
+      {
+        "crn": "78373",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 201",
+    "title": "US Racial & Ethnic Politics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "71042",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/201"
+      },
+      {
+        "crn": "71045",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/201"
+      },
+      {
+        "crn": "74250",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 215",
+    "title": "US Citizenship Comparatively",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "55769",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/215"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 220",
+    "title": "Latina/o Migration",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "48137",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 235",
+    "title": "Race and the Politics of Reproduction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "72006",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/235"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 238",
+    "title": "Latina/o Social Movements",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "59987",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/238"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 240",
+    "title": "Latina/o Popular Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "58201",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 246",
+    "title": "Gender & Sexuality in Latina/o Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "63695",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/246"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 281",
+    "title": "Constructing Race in America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "71411",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "71415",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "71419",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "75271",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "75274",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "75277",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "78176",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "78180",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "78184",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      },
+      {
+        "crn": "70108",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/281"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 296",
+    "title": "Topics Latina/o Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "45709",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MV",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/296"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 308",
+    "title": "Spanish in the United States",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "69392",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/308"
+      },
+      {
+        "crn": "60346",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "221 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/308"
+      },
+      {
+        "crn": "64939",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1038 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/308"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 310",
+    "title": "Race and Cultural Diversity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "65002",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/310"
+      },
+      {
+        "crn": "33772",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/310"
+      },
+      {
+        "crn": "77819",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "D3",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/310"
+      },
+      {
+        "crn": "33766",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 316",
+    "title": "Latina/Latino Politics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "38407",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:30",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "205 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/316"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 355",
+    "title": "Race and Mixed Race",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "61319",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/355"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 375",
+    "title": "Latina/o Media in the US",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "40252",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/375"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 385",
+    "title": "Theory and Methods in LLS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "60011",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "133 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/385"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 387",
+    "title": "Race, Gender and the Body",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "58198",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/387"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 390",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "10539",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 433",
+    "title": "Foundations of Bilingual Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "64953",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/433"
+      },
+      {
+        "crn": "64955",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GO",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 449",
+    "title": "Issues in Latina/o Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "63270",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/449"
+      },
+      {
+        "crn": "63266",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/449"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 479",
+    "title": "Race, Medicine, and Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "55871",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "16:00",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/479"
+      },
+      {
+        "crn": "55870",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "16:00",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/479"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 495",
+    "title": "Senior Honors Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "56505",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 590",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "48135",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "LLS 596",
+    "title": "Graduate Seminar in LLS",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LLS",
+    "sections": [
+      {
+        "crn": "62040",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AV",
+        "startTime": "17:30",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "154 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/596"
+      },
+      {
+        "crn": "49640",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LLS/596"
+      }
+    ]
+  }
+]

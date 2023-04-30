@@ -1,0 +1,667 @@
+[
+  {
+    "courseCode": "FR 101",
+    "title": "Elementary French I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "37429",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MTWR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/101"
+      },
+      {
+        "crn": "39691",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "1032 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/101"
+      },
+      {
+        "crn": "37434",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "1110 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/101"
+      },
+      {
+        "crn": "37431",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "1120 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/101"
+      },
+      {
+        "crn": "37432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "1126 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/101"
+      },
+      {
+        "crn": "37433",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 102",
+    "title": "Elementary French II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "66331",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/102"
+      },
+      {
+        "crn": "32512",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/102"
+      },
+      {
+        "crn": "32510",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/102"
+      },
+      {
+        "crn": "32511",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 103",
+    "title": "Intermediate French I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "37436",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/103"
+      },
+      {
+        "crn": "65718",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/103"
+      },
+      {
+        "crn": "37443",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/103"
+      },
+      {
+        "crn": "37440",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/103"
+      },
+      {
+        "crn": "37442",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 104",
+    "title": "Intermediate French II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "32513",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "1120 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/104"
+      },
+      {
+        "crn": "32514",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "1120 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/104"
+      },
+      {
+        "crn": "32520",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "1120 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 156",
+    "title": "Exploring Paris",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "49499",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/156"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "10135",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 205",
+    "title": "French in Conversation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "32547",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "G18 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/205"
+      },
+      {
+        "crn": "32551",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 207",
+    "title": "Writing and Grammar Workshop",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "32552",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/207"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 211",
+    "title": "Introduction to Literary Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "67090",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 212",
+    "title": "Introduction to Cultural Analysis: French Identities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": []
+  },
+  {
+    "courseCode": "FR 314",
+    "title": "Advanced Grammar and Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "67935",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 336",
+    "title": "French Cultural History 1789-1968",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "71750",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "303 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/336"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 385",
+    "title": "Politics of the European Union",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "44148",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/385"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 387",
+    "title": "Media and Cinema in French",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "66163",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "393 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/387"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 390",
+    "title": "Indiv Study Major Tutorial",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "49803",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 460",
+    "title": "Principles of Language Testing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "33695",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/460"
+      },
+      {
+        "crn": "33433",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 481",
+    "title": "Theoretical Foundations of SLA",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "33655",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/481"
+      },
+      {
+        "crn": "33454",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 492",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "10138",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 501",
+    "title": "Reading French Grads",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "29910",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "1040 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 505",
+    "title": "Teaching College and Secondary Foreign Language",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "29911",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "1112 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 543",
+    "title": "French Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "56140",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "316S Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/543"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 559",
+    "title": "Sem Romance Ling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "43844",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 576",
+    "title": "Seminar in Francophonie",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "69520",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/576"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 588",
+    "title": "Sem Second Lang Learn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "61202",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/588"
+      },
+      {
+        "crn": "35545",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/588"
+      },
+      {
+        "crn": "59515",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SM",
+        "startTime": "13:20",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 591",
+    "title": "Individual Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "10142",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "FR 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/FR",
+    "sections": [
+      {
+        "crn": "10149",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/FR/599"
+      }
+    ]
+  }
+]

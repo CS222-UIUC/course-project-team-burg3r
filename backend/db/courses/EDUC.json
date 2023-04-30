@@ -1,0 +1,455 @@
+[
+  {
+    "courseCode": "EDUC 101",
+    "title": "Education Orientation Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC",
+    "sections": [
+      {
+        "crn": "65549",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "65550",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "65551",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "78105",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "45811",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AE1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "65552",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "65553",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "65554",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      },
+      {
+        "crn": "45812",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BE1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDUC 102",
+    "title": "Freshman Honors Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC",
+    "sections": [
+      {
+        "crn": "54753",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "108 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDUC 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC",
+    "sections": [
+      {
+        "crn": "75365",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LF",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "M",
+        "instructor": "64 Allen Residence Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/199"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78260"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78261"
+      },
+      {
+        "crn": "76398",
+        "status": "restricted",
+        "type": "Online",
+        "section": "VSI",
+        "startTime": "17:30",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDUC 201",
+    "title": "Identity and Difference in Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC",
+    "sections": [
+      {
+        "crn": "64441",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "64442",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "64443",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "64444",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "64445",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "64446",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "64447",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "64440",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LE1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "73455",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LE2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      },
+      {
+        "crn": "73456",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LE3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDUC 202",
+    "title": "Social Justice, School and Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC",
+    "sections": [
+      {
+        "crn": "68060",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "68061",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "68062",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "4F Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "68063",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "71371",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "78106",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "68059",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "73473",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LE2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      },
+      {
+        "crn": "73474",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LE3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDUC 299",
+    "title": "Education Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC",
+    "sections": [
+      {
+        "crn": "77612",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "STA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "EDUC 499",
+    "title": "Education Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC",
+    "sections": [
+      {
+        "crn": "71149",
+        "status": "restricted",
+        "type": "Online",
+        "section": "NSA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/499"
+      },
+      {
+        "crn": "71264",
+        "status": "restricted",
+        "type": "Online",
+        "section": "RA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/499"
+      },
+      {
+        "crn": "76401",
+        "status": "restricted",
+        "type": "Online",
+        "section": "VSI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/499"
+      },
+      {
+        "crn": "71150",
+        "status": "restricted",
+        "type": "Online",
+        "section": "WBU",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EDUC/499"
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "courseCode": "CHIN 201",
+    "title": "Elementary Chinese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "54732"
+      },
+      {
+        "need attention": "yes",
+        "crn": "42602"
+      },
+      {
+        "need attention": "yes",
+        "crn": "45861"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHIN 202",
+    "title": "Elementary Chinese II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "50541"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHIN 203",
+    "title": "Intermediate Chinese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "50724"
+      },
+      {
+        "need attention": "yes",
+        "crn": "31586"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHIN 204",
+    "title": "Intermediate Chinese II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "57342"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHIN 241",
+    "title": "Chinese Reading and Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "crn": "31589",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN/241"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHIN 305",
+    "title": "Advanced Chinese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "48010"
+      },
+      {
+        "need attention": "yes",
+        "crn": "29973"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHIN 440",
+    "title": "Fourth-Year Chinese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "crn": "29979",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN/440"
+      },
+      {
+        "crn": "42884",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "CHIN 490",
+    "title": "Readings in Chinese Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN",
+    "sections": [
+      {
+        "crn": "10517",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHIN/490"
+      }
+    ]
+  }
+]

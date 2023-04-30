@@ -1,0 +1,561 @@
+[
+  {
+    "courseCode": "LA 100",
+    "title": "Landscape Architecture at Illinois",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "78553",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 101",
+    "title": "Introduction to Landscape Arch",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30742",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "134 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 199",
+    "title": "First-Year Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "10486",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 233",
+    "title": "Foundation Design Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30746",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "200 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/233"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 241",
+    "title": "Landform Design & Construction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "73336",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "110 Speech & Hearing Science Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/241"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 242",
+    "title": "Nature and American Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "63136",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/242"
+      },
+      {
+        "crn": "63139",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/242"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 280",
+    "title": "Design Communications I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30753",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "200 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 335",
+    "title": "Community & Open Space Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30754",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "219 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/335"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 342",
+    "title": "Site Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30756",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "327 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/342"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 345",
+    "title": "Professional Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30757",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/345"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 346",
+    "title": "Professional Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30759",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "325 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/346"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 352",
+    "title": "Woody Landscape Plants",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "78539"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 387",
+    "title": "Undergraduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "78582",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/387"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 390",
+    "title": "Independent Study I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "10488",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 433",
+    "title": "Graduate Foundation Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "78462",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "327 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 437",
+    "title": "Regional Design Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30763",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "319 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/437"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 452",
+    "title": "Planting Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "52420",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AGR",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "325 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/452"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 454",
+    "title": "Landscape Archaeology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "49067",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1G",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/454"
+      },
+      {
+        "crn": "49066",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1U",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/454"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 482",
+    "title": "Advanced Communication in Landscape Architecture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "73377",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "CO",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "325 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 501",
+    "title": "Landscape Arch Theory & Prac",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "30771",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "325 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 533",
+    "title": "Planning & Design Studio I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "77565",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "327 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/533"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 537",
+    "title": "Planning & Design Studio II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "67397",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "CO",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "219 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/537"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 545",
+    "title": "Graduate Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "78230",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/545"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 563",
+    "title": "Human-centric Research for Designed Environments",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "36898",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "18:30",
+        "endTime": "20:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/563"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 587",
+    "title": "Graduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "78581",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/587"
+      },
+      {
+        "crn": "31908",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "LC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "104 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/587"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 589",
+    "title": "Sustainable Urban Design Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "73376",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "JH",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "325 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/589"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 590",
+    "title": "Directed Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "10489",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/590"
+      },
+      {
+        "crn": "56379",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "134 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 598",
+    "title": "Master's Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "10490",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "LA 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/LA",
+    "sections": [
+      {
+        "crn": "10491",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/LA/599"
+      }
+    ]
+  }
+]

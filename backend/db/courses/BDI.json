@@ -1,0 +1,136 @@
+[
+  {
+    "courseCode": "BDI 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BDI",
+    "sections": [
+      {
+        "crn": "77960",
+        "status": "restricted",
+        "type": "Online",
+        "section": "JL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "BDI 475",
+    "title": "Introduction to Data Analytics Applications in Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BDI",
+    "sections": [
+      {
+        "crn": "74663",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/475"
+      },
+      {
+        "crn": "78552",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "BDI 477",
+    "title": "Emerging Technology and Disruption: Learning to Navigate an Uncertain Future",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BDI",
+    "sections": [
+      {
+        "crn": "76791",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/477"
+      },
+      {
+        "crn": "76793",
+        "status": "restricted",
+        "type": "Online Lecture Discussion",
+        "section": "A4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/477"
+      }
+    ]
+  },
+  {
+    "courseCode": "BDI 513",
+    "title": "Data Storytelling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BDI",
+    "sections": [
+      {
+        "crn": "78084",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/513"
+      },
+      {
+        "crn": "76568",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/513"
+      },
+      {
+        "crn": "75358",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MSB",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/513"
+      }
+    ]
+  },
+  {
+    "courseCode": "BDI 593",
+    "title": "Special Research Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BDI",
+    "sections": [
+      {
+        "crn": "77961",
+        "status": "restricted",
+        "type": "Online",
+        "section": "JL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BDI/593"
+      }
+    ]
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "courseCode": "ATMS 100",
+    "title": "Introduction to Meteorology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "37010",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "37013",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "37086",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "49382",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "49383",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "37090",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "37092",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "37095",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "G27 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      },
+      {
+        "crn": "37004",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 120",
+    "title": "Severe and Hazardous Weather",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "31291",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/120"
+      },
+      {
+        "crn": "52474",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HB",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 140",
+    "title": "Climate and Global Change",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "55849",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 201",
+    "title": "General Physical Meteorology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "54034",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 301",
+    "title": "Atmospheric Thermodynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "49526",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 302",
+    "title": "Atmospheric Dynamics I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "49527",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/302"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 303",
+    "title": "Synoptic-Dynamic Wea Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "57789",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/303"
+      },
+      {
+        "crn": "49528",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 305",
+    "title": "Computing and Data Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "67804",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AN",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/305"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 391",
+    "title": "Topics in Atmospheric Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "75253",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "FTO",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/391"
+      },
+      {
+        "crn": "75248",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 410",
+    "title": "Radar Remote Sensing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "39848",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 447",
+    "title": "Climate Change Assessment",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "49491",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 490",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "10391",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 491",
+    "title": "Adv Topics in Atmospheric Sci",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "61123",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2020A Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/491"
+      },
+      {
+        "crn": "73018",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DH",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 492",
+    "title": "Capstone Undergraduate Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "50871",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 500",
+    "title": "Dynamic Meteorology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "40175",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 511",
+    "title": "Atmospheric Radiation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "43237",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 517",
+    "title": "Data Science for the Geosciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "75879",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/517"
+      },
+      {
+        "crn": "77274",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AB2",
+        "startTime": "19:30",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/517"
+      },
+      {
+        "crn": "73022",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/517"
+      },
+      {
+        "crn": "77276",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "BB1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/517"
+      },
+      {
+        "crn": "77281",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "BB2",
+        "startTime": "19:30",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/517"
+      },
+      {
+        "crn": "77275",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "BL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 520",
+    "title": "Weather and Climate Phenomena and Hazards",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77106"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 535",
+    "title": "Aerosol Sampling and Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "36028",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "TW",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/535"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 571",
+    "title": "Professional Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "30247",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "W",
+        "instructor": "1071 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 590",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "10393",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 591",
+    "title": "Atmospheric Sciences Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "30252",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "160 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 596",
+    "title": "Non-Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "71021",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "RJT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 597",
+    "title": "Special Topics in Atmospheric Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "78154",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "FD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1020 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "ATMS 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS",
+    "sections": [
+      {
+        "crn": "10394",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ATMS/599"
+      }
+    ]
+  }
+]

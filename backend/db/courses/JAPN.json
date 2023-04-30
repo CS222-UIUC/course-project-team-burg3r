@@ -1,0 +1,169 @@
+[
+  {
+    "courseCode": "JAPN 201",
+    "title": "Elementary Japanese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN",
+    "sections": [
+      {
+        "crn": "45827",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MTWRF",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/201"
+      },
+      {
+        "crn": "31767",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWRF",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/201"
+      },
+      {
+        "crn": "31763",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWRF",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/201"
+      },
+      {
+        "crn": "31766",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "X",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWRF",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "JAPN 203",
+    "title": "Intermediate Japanese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN",
+    "sections": [
+      {
+        "crn": "49687",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWRF",
+        "instructor": "1110 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/203"
+      },
+      {
+        "crn": "31753",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWRF",
+        "instructor": "303 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/203"
+      },
+      {
+        "crn": "31757",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "X",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MTWRF",
+        "instructor": "1110 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "JAPN 305",
+    "title": "Advanced Japanese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN",
+    "sections": [
+      {
+        "crn": "30458",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "X",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWRF",
+        "instructor": "1134 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/305"
+      }
+    ]
+  },
+  {
+    "courseCode": "JAPN 407",
+    "title": "Introduction to Classical Japanese",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN",
+    "sections": [
+      {
+        "crn": "57141",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "G4",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/407"
+      },
+      {
+        "crn": "52837",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "U3",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "JAPN 440",
+    "title": "Fourth Year Japanese I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN",
+    "sections": [
+      {
+        "crn": "30461",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "N",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/440"
+      },
+      {
+        "crn": "42882",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "NG",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JAPN/440"
+      }
+    ]
+  }
+]

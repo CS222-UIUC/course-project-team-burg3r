@@ -1,0 +1,1782 @@
+[
+  {
+    "courseCode": "HIST 100",
+    "title": "Global History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "55493",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55494",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55495",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55496",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55498",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55499",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55500",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55501",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "55502",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "115 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "67151",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "67152",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "71407",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      },
+      {
+        "crn": "30338",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 103",
+    "title": "A History of Everything: The Big Bang to Big Data",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "71560",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "71561",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "71562",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "73080",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "73081",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "73082",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "76795",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "205 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "76796",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "76797",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      },
+      {
+        "crn": "71559",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 104",
+    "title": "Black Music",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "72870",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "72871",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "72872",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "73083",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "73084",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "73085",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "73999",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "74000",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "74001",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "78194",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "78195",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "78196",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      },
+      {
+        "crn": "72869",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 120",
+    "title": "East Asian Civilizations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "34313",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/120"
+      },
+      {
+        "crn": "34314",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/120"
+      },
+      {
+        "crn": "34315",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/120"
+      },
+      {
+        "crn": "34316",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/120"
+      },
+      {
+        "crn": "34317",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "G24 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/120"
+      },
+      {
+        "crn": "34318",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/120"
+      },
+      {
+        "crn": "34319",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "66 Library",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 140",
+    "title": "Western Worlds: Ancient and Medieval Societies from the Mediterranean to N. Europe (ACP)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "32457",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "215 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/140"
+      },
+      {
+        "crn": "32460",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "215 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/140"
+      },
+      {
+        "crn": "32464",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 141",
+    "title": "Western Worlds: Ancient and Medieval Societies from the Mediterranean to Northern Europe",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "39268",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/141"
+      },
+      {
+        "crn": "39269",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "221 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/141"
+      },
+      {
+        "crn": "39270",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/141"
+      },
+      {
+        "crn": "34044",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/141"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 170",
+    "title": "US History to 1877-ACP",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "32479",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/170"
+      },
+      {
+        "crn": "32481",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/170"
+      },
+      {
+        "crn": "45776",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/170"
+      },
+      {
+        "crn": "45777",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/170"
+      },
+      {
+        "crn": "32483",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/170"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 171",
+    "title": "US History to 1877",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "34103",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/171"
+      },
+      {
+        "crn": "34111",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/171"
+      },
+      {
+        "crn": "34115",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/171"
+      },
+      {
+        "crn": "34118",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/171"
+      },
+      {
+        "crn": "34122",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/171"
+      },
+      {
+        "crn": "34126",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/171"
+      },
+      {
+        "crn": "34181",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/171"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 174",
+    "title": "Black America, 1619-Present",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "47706",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/174"
+      },
+      {
+        "crn": "47708",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/174"
+      },
+      {
+        "crn": "36654",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/174"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "10358",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/199"
+      },
+      {
+        "crn": "32489",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U1",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 200",
+    "title": "Intro Hist Interpretation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "32494",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/200"
+      },
+      {
+        "crn": "32497",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "131 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/200"
+      },
+      {
+        "crn": "32500",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "TR",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/200"
+      },
+      {
+        "crn": "39271",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "1068 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 203",
+    "title": "Reacting to the Past",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "69038",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 207",
+    "title": "Digital Documentary Publishing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "74769",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/207"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 220",
+    "title": "Traditional China",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "49157",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "156 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 221",
+    "title": "Modern China",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "49260",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 258",
+    "title": "20thC World to Midcentury",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "30349",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/258"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 262",
+    "title": "Zionism: A Global History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "71640",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/262"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 275",
+    "title": "Afro-American History to 1877",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "34288",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/275"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 277",
+    "title": "Encounters in Native America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "30361",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/277"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 281",
+    "title": "Constructing Race in America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "71408",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "71412",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "71416",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "75265",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "75267",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "75268",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "78173",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "78177",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "78181",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      },
+      {
+        "crn": "70105",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/281"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 290",
+    "title": "Religion, Violence & America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "72596",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 292",
+    "title": "Latina/o Social Movements",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "60261",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "103 1207 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/292"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 300",
+    "title": "Topics in Film and History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "34346",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 307",
+    "title": "History of Mexico from 1519",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "70886",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "112 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/307"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 311",
+    "title": "Global History of Intelligence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "71397",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/311"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 347",
+    "title": "Protestant & Catholic Refs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "46027",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/347"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 349",
+    "title": "Age of Revolution, 1775-1815",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "57626",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/349"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 353",
+    "title": "European History 1918 to 1939",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "47547",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/353"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 356",
+    "title": "The Modern Balkans through Literature and Film",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "78185",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/356"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 365",
+    "title": "Fict & Historical Imagination",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "63605",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/365"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 394",
+    "title": "Hidden Political Figures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "70141",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/394"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 398",
+    "title": "Internship in Public History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "58594",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 399",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "50993",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 400",
+    "title": "War, Soc, Politics, & Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "76822",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/400"
+      },
+      {
+        "crn": "76821",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 410",
+    "title": "Decolonization in Africa",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "57615",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/410"
+      },
+      {
+        "crn": "57614",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 459",
+    "title": "Postcolonial/Queer",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "61948",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CNG",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/459"
+      },
+      {
+        "crn": "61947",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CNU",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/459"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 462",
+    "title": "Soviet Union Since 1917",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "51141",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G2",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/462"
+      },
+      {
+        "crn": "51144",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/462"
+      },
+      {
+        "crn": "51145",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 490",
+    "title": "Honors Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "10419",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 493",
+    "title": "Honors Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "10420",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/493"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 498",
+    "title": "Research and Writing Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "34332",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "115 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/498"
+      },
+      {
+        "crn": "34333",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "C",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/498"
+      },
+      {
+        "crn": "34334",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/498"
+      },
+      {
+        "crn": "43205",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "1046 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/498"
+      },
+      {
+        "crn": "34335",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "1134 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 499",
+    "title": "Thesis Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "56173",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 502",
+    "title": "Prob in Comparative History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "41021",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "307 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 507",
+    "title": "Prob in Latin American Hist",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "30389",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "MH",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/507"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 570",
+    "title": "Prob in American Hist to 1830",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "45296",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "215 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/570"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 572",
+    "title": "Prob in US Hist Since 1815",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "47097",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 593",
+    "title": "Approaches to History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "53136",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "307 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 596",
+    "title": "Individual Research Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "10421",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 597",
+    "title": "Reading Course",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "10422",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/597"
+      },
+      {
+        "crn": "32534",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/597"
+      },
+      {
+        "crn": "32537",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "P",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 598",
+    "title": "Teaching of College History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "10423",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "HIST 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/HIST",
+    "sections": [
+      {
+        "crn": "10424",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/HIST/599"
+      }
+    ]
+  }
+]

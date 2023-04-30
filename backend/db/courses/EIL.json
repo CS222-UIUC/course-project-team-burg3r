@@ -1,0 +1,259 @@
+[
+  {
+    "courseCode": "EIL 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "10587",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 214",
+    "title": "TESL in the Elementary School",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "30100",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/214"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 215",
+    "title": "TESL in the Secondary School",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "30103",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/215"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 411",
+    "title": "Intro to TESL Methodology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "30104",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/411"
+      },
+      {
+        "crn": "40300",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 422",
+    "title": "Engl Grammar for ESL Teachers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "62713",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "11:30",
+        "endTime": "12:20",
+        "day": "MWF",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/422"
+      },
+      {
+        "crn": "62136",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/422"
+      },
+      {
+        "crn": "65298",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/422"
+      },
+      {
+        "crn": "62712",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "11:30",
+        "endTime": "12:20",
+        "day": "MWF",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 456",
+    "title": "Lang and Social Interaction I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "40312",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/456"
+      },
+      {
+        "crn": "30108",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/456"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 460",
+    "title": "Principles of Language Testing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "33692",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/460"
+      },
+      {
+        "crn": "40333",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 587",
+    "title": "Seminar in Second Lang Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "40334",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/587"
+      },
+      {
+        "crn": "42504",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/587"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 591",
+    "title": "Research in Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "10588",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "EIL 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EIL",
+    "sections": [
+      {
+        "crn": "16444",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EIL/599"
+      }
+    ]
+  }
+]

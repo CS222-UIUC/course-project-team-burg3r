@@ -1,0 +1,194 @@
+[
+  {
+    "courseCode": "AHS 125",
+    "title": "Freshmen Scholars Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AHS",
+    "sections": [
+      {
+        "crn": "56348",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JS1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "2001 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/125"
+      }
+    ]
+  },
+  {
+    "courseCode": "AHS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AHS",
+    "sections": [
+      {
+        "crn": "56125",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ADS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/199"
+      },
+      {
+        "crn": "52423",
+        "status": "restricted",
+        "type": "Online",
+        "section": "JSM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/199"
+      },
+      {
+        "crn": "52015",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MLJ",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "AHS 292",
+    "title": "AHS Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AHS",
+    "sections": [
+      {
+        "crn": "48644",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/292"
+      }
+    ]
+  },
+  {
+    "courseCode": "AHS 365",
+    "title": "Civic Engagement in Wellness",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AHS",
+    "sections": [
+      {
+        "crn": "56130",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "224 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/365"
+      }
+    ]
+  },
+  {
+    "courseCode": "AHS 375",
+    "title": "Comm Partners & Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AHS",
+    "sections": [
+      {
+        "crn": "61715",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "1002 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/375"
+      }
+    ]
+  },
+  {
+    "courseCode": "AHS 399",
+    "title": "Advanced Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AHS",
+    "sections": [
+      {
+        "crn": "70895",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/399"
+      },
+      {
+        "crn": "59275",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CHA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/399"
+      },
+      {
+        "crn": "62975",
+        "status": "restricted",
+        "type": "Online",
+        "section": "JS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "AHS 494",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AHS",
+    "sections": [
+      {
+        "crn": "67435",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AD1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/494"
+      },
+      {
+        "crn": "66765",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ENT",
+        "startTime": "17:30",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/494"
+      },
+      {
+        "crn": "73821",
+        "status": "restricted",
+        "type": "Online",
+        "section": "RMH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AHS/494"
+      }
+    ]
+  }
+]

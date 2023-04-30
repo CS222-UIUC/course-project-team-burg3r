@@ -1,0 +1,747 @@
+[
+  {
+    "courseCode": "ARTD 101",
+    "title": "Introduction to Industrial Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "69922",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "9 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/101"
+      },
+      {
+        "crn": "69923",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "9 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 151",
+    "title": "Introduction to Graphic Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "69920",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "208 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/151"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 201",
+    "title": "Industrial Design I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "52069"
+      },
+      {
+        "need attention": "yes",
+        "crn": "65296"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 222",
+    "title": "Typographic Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "66147",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "319 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/222"
+      },
+      {
+        "crn": "68333",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "C",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "208 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/222"
+      },
+      {
+        "crn": "68480",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "229 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 225",
+    "title": "Design Drawing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "65297",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB1",
+        "startTime": "16:00",
+        "endTime": "18:40",
+        "day": "MW",
+        "instructor": "25West Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/225"
+      },
+      {
+        "crn": "66160",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB2",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "25West Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/225"
+      },
+      {
+        "crn": "66559",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "AB3",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "25West Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 230",
+    "title": "Design Thinking/Need-Finding",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "62368",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CLD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1002 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 251",
+    "title": "Graphic Design Toolbox",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "68924",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "410 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/251"
+      },
+      {
+        "crn": "68926",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "319 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/251"
+      },
+      {
+        "crn": "75045",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "319 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 270",
+    "title": "Design Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "66148",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "216 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/270"
+      },
+      {
+        "crn": "70043",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/270"
+      },
+      {
+        "crn": "71656",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "16:00",
+        "endTime": "18:40",
+        "day": "MW",
+        "instructor": "216 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 301",
+    "title": "Industrial Design III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "54167"
+      },
+      {
+        "need attention": "yes",
+        "crn": "54168"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 318",
+    "title": "Interaction Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "73023",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "216 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/318"
+      },
+      {
+        "crn": "73024",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/318"
+      },
+      {
+        "crn": "73025",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "3",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "208 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/318"
+      },
+      {
+        "crn": "75893",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "4",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "TR",
+        "instructor": "316 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/318"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 326",
+    "title": "Sustainability & Manufacturing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "77424",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "107 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/326"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 328",
+    "title": "Human-Centered Product Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "51747",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "316 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/328"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 351",
+    "title": "Graphic Design Inquiry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "66149",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "410 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      },
+      {
+        "crn": "66151",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "404 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      },
+      {
+        "crn": "66152",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "C",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "319 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      },
+      {
+        "crn": "66154",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "216 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      },
+      {
+        "crn": "66155",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "F",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "404 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      },
+      {
+        "crn": "68452",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "G",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      },
+      {
+        "crn": "75894",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "H",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "316 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      },
+      {
+        "crn": "75895",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "I",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "319 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/351"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 371",
+    "title": "Graphic Design Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "66156",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "216 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/371"
+      },
+      {
+        "crn": "66157",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "306 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/371"
+      },
+      {
+        "crn": "73030",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "C",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/371"
+      },
+      {
+        "crn": "75047",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "MW",
+        "instructor": "306 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/371"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 391",
+    "title": "Special Problems in Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "10375",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 399",
+    "title": "Internship in Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "62546",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 401",
+    "title": "Industrial Design V",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "54169",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "15:40",
+        "day": "MW",
+        "instructor": "25East Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/401"
+      },
+      {
+        "crn": "67833",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "3",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "107 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 426",
+    "title": "Product Innovation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "63745",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SS",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1000 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/426"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 448",
+    "title": "Professional Design Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "73035",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "MW",
+        "instructor": "107 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/448"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 451",
+    "title": "Ethics of a Designer in a Global Economy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "71654",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "208 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/451"
+      },
+      {
+        "crn": "71655",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "16:00",
+        "endTime": "18:40",
+        "day": "MW",
+        "instructor": "306 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/451"
+      },
+      {
+        "crn": "75896",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "E",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/451"
+      },
+      {
+        "crn": "71782",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "EGR",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/451"
+      },
+      {
+        "crn": "77343",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "F",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "404 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 501",
+    "title": "Industrial Design I: From Inquiry to Ideation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "54172"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 502",
+    "title": "Industrial Design II: From Ideation to Implementation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "75112"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 570",
+    "title": "Design for Responsible Innovation Research Methodology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "72480",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "1",
+        "startTime": "17:00",
+        "endTime": "18:40",
+        "day": "MW",
+        "instructor": "319 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/570"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 591",
+    "title": "Special Problems in Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "10376",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 595",
+    "title": "MFA Design for Responsible Innovation Studio",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "39853",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "216 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTD 599",
+    "title": "Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD",
+    "sections": [
+      {
+        "crn": "10386",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTD/599"
+      }
+    ]
+  }
+]

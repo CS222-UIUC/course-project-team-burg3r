@@ -1,0 +1,2258 @@
+[
+  {
+    "courseCode": "CMN 101",
+    "title": "Public Speaking",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53341",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A2",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53308",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1062 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53309",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53310",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "59502",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53348",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BLC",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "2050 Student Dining & Res Program",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53314",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53316",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53317",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "137 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "59503",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1062 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53346",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C5",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53323",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1062 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53325",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53326",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53320",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53339",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53343",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53342",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "137 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53344",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53347",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53328",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "137 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53305",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "59582",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53312",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "59510",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "L4",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53351",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53352",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "59509",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "137 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53353",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "205 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53354",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M5",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "329 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53329",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NN1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "63895",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NN3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1062 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "60331",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NN4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1062 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53356",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53357",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "137 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53360",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53365",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53367",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53368",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53369",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "137 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53371",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "59511",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53373",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R5",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "430 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53349",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S2",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53374",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53376",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Z1",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "M",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      },
+      {
+        "crn": "53375",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Z2",
+        "startTime": "18:00",
+        "endTime": "20:50",
+        "day": "T",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 102",
+    "title": "Introduction to Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53390",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "55675",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AQ",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "53393",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BQ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "53394",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CQ",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "53391",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EQ",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "53400",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "FQ",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "53401",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "GQ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "53402",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "HQ",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      },
+      {
+        "crn": "53392",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "IQ",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "G24 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 111",
+    "title": "Oral & Written Comm I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53407",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53409",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1026 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53410",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53412",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53413",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1026 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53414",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53417",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53418",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1026 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53419",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53420",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53422",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1026 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53423",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53427",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1026 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53428",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53430",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1026 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53431",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1026 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      },
+      {
+        "crn": "53434",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/111"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53583",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 204",
+    "title": "Internship in Teaching Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53445",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/204"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 211",
+    "title": "Business and Professional Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53450",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/211"
+      },
+      {
+        "crn": "53451",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/211"
+      },
+      {
+        "crn": "53452",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/211"
+      },
+      {
+        "crn": "78509",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/211"
+      },
+      {
+        "crn": "61258",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "5",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 212",
+    "title": "Intro to Organizational Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53454",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/212"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 213",
+    "title": "Small Group Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "67873",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/213"
+      },
+      {
+        "crn": "67874",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/213"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 214",
+    "title": "Organizational Communication & Diversity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "74485",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/214"
+      },
+      {
+        "crn": "74486",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/214"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 215",
+    "title": "Interviewing: The Art and Science of Effective Questioning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "70044"
+      },
+      {
+        "need attention": "yes",
+        "crn": "72052"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 220",
+    "title": "Communicating Public Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53458",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/220"
+      },
+      {
+        "crn": "53459",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 230",
+    "title": "Intro to Interpersonal Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53467",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "213 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/230"
+      },
+      {
+        "crn": "53470",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/230"
+      },
+      {
+        "crn": "53471",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/230"
+      },
+      {
+        "crn": "53472",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/230"
+      },
+      {
+        "crn": "53474",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "313 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 232",
+    "title": "Intro to Intercultural Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53464",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/232"
+      },
+      {
+        "crn": "61114",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/232"
+      },
+      {
+        "crn": "70057",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/232"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 250",
+    "title": "Social Movement Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "71911",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/250"
+      },
+      {
+        "crn": "70359",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/250"
+      },
+      {
+        "crn": "71913",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/250"
+      },
+      {
+        "crn": "74522",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 260",
+    "title": "Intro to Health Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "61727",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/260"
+      },
+      {
+        "crn": "53992",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/260"
+      },
+      {
+        "crn": "77720",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "G24 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/260"
+      },
+      {
+        "crn": "77721",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/260"
+      },
+      {
+        "crn": "64495",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "5",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/260"
+      },
+      {
+        "crn": "53993",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "6",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/260"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 277",
+    "title": "Introduction to Mediated Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53476",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "213 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/277"
+      },
+      {
+        "crn": "53477",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/277"
+      },
+      {
+        "crn": "53478",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/277"
+      },
+      {
+        "crn": "53479",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/277"
+      },
+      {
+        "crn": "53484",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D8",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/277"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 280",
+    "title": "Comm Technology & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53983",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "106 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/280"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 304",
+    "title": "Communication Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "56614",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/304"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 314",
+    "title": "Organizational Communication and Community Impact",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "78066",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 321",
+    "title": "Strategies of Persuasion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53485",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 323",
+    "title": "Argumentation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53494",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/323"
+      },
+      {
+        "crn": "53495",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/323"
+      },
+      {
+        "crn": "53493",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/323"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 325",
+    "title": "Politics and the Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53589",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SA",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "101 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/325"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 326",
+    "title": "Mass Media and the Audience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "57534",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/326"
+      },
+      {
+        "crn": "58687",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/326"
+      },
+      {
+        "crn": "77722",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/326"
+      },
+      {
+        "crn": "77723",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/326"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 328",
+    "title": "Social Media and Politics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "78308",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1028 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/328"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 336",
+    "title": "Family Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "65091",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "5",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "221 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/336"
+      },
+      {
+        "crn": "65092",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "221 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/336"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 340",
+    "title": "Visual Politics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "54054",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 368",
+    "title": "Sexual Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "56053",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/368"
+      },
+      {
+        "crn": "59845",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/368"
+      },
+      {
+        "crn": "61808",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/368"
+      },
+      {
+        "crn": "59842",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D6",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/368"
+      },
+      {
+        "crn": "59839",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/368"
+      },
+      {
+        "crn": "59841",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D9",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "336 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/368"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 375",
+    "title": "Popular Media and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "54055",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GG",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/375"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 390",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53584",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 396",
+    "title": "Special Topics in Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53997",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/396"
+      },
+      {
+        "crn": "65151",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/396"
+      },
+      {
+        "crn": "53998",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/396"
+      },
+      {
+        "need attention": "yes",
+        "crn": "53504"
+      },
+      {
+        "need attention": "yes",
+        "crn": "53503"
+      },
+      {
+        "crn": "66367",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "6",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 423",
+    "title": "Rhetorical Criticism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53526",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1G",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1028 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/423"
+      },
+      {
+        "crn": "53525",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1U",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1028 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/423"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 432",
+    "title": "Gender Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53529",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/432"
+      },
+      {
+        "crn": "72976",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/432"
+      },
+      {
+        "crn": "78466",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "336 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 462",
+    "title": "Interpersonal Health Comm",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "54004",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/462"
+      },
+      {
+        "crn": "54003",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/462"
+      },
+      {
+        "crn": "78057",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2GR",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/462"
+      },
+      {
+        "crn": "78058",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2UG",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 464",
+    "title": "Health Communication Campaigns",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "55638",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CBG",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/464"
+      },
+      {
+        "crn": "55637",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CBU",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/464"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 465",
+    "title": "Social Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "55668",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BQG",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/465"
+      },
+      {
+        "crn": "55639",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BQU",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/465"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 491",
+    "title": "Honors Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53585",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 493",
+    "title": "Honors Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53586",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/493"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 496",
+    "title": "Adv Topics in Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53554",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MKG",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/496"
+      },
+      {
+        "crn": "53548",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MKU",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/496"
+      },
+      {
+        "crn": "53567",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SCG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/496"
+      },
+      {
+        "crn": "53565",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SCU",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/496"
+      },
+      {
+        "crn": "53564",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "YG",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/496"
+      },
+      {
+        "crn": "53562",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "YU",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 501",
+    "title": "Intro to Health Communication",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "68223",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LW1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 507",
+    "title": "Hlth Comm Orgs Profs & Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "68215",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/507"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 529",
+    "title": "Seminar Communication Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53578",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "4103 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/529"
+      },
+      {
+        "crn": "53576",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "4007 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/529"
+      },
+      {
+        "crn": "53577",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "4007 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/529"
+      },
+      {
+        "crn": "53579",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "4007 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/529"
+      },
+      {
+        "crn": "53580",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "5",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "4007 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/529"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 574",
+    "title": "Communication Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "54291",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "4007 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/574"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 575",
+    "title": "Capstone Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "68214",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LW",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 595",
+    "title": "Special Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53587",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/595"
+      },
+      {
+        "crn": "58884",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CB1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/595"
+      },
+      {
+        "crn": "64310",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GR",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "day": "F",
+        "instructor": "4007 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/595"
+      },
+      {
+        "crn": "60574",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LG1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/595"
+      },
+      {
+        "crn": "62135",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "CMN 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CMN",
+    "sections": [
+      {
+        "crn": "53588",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CMN/599"
+      }
+    ]
+  }
+]

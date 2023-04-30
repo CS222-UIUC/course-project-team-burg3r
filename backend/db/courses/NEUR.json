@@ -1,0 +1,445 @@
+[
+  {
+    "courseCode": "NEUR 313",
+    "title": "Drugs, Brain and Behavior",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "76283",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/313"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 314",
+    "title": "Introduction to Neurobiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "55476",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "180 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 403",
+    "title": "Memory and Amnesia",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "45299",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR",
+        "startTime": "15:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/403"
+      },
+      {
+        "crn": "45298",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "15:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 417",
+    "title": "Neuroscience of Eating & Drinking",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "69624",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/417"
+      },
+      {
+        "crn": "69623",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/417"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 433",
+    "title": "Evolutionary Neuroscience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "51757",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/433"
+      },
+      {
+        "crn": "51756",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "120 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 453",
+    "title": "Cog Neuroscience of Vision",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "53264",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "F",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/453"
+      },
+      {
+        "crn": "53265",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "F",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 461",
+    "title": "Cell & Molecular Neuroscience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "59997",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 500",
+    "title": "Topics in Neuroscience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "48606",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FIN",
+        "startTime": "14:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 520",
+    "title": "Advanced Topics in Neuroscience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "42436",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MBM",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "day": "W",
+        "instructor": "2269 Beckman Institute",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/520"
+      },
+      {
+        "crn": "30492",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SEM",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/520"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 542",
+    "title": "Interdisciplinary Approaches to Neuroscience I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "70844",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IAN",
+        "startTime": "16:00",
+        "endTime": "17:15",
+        "day": "MW",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 590",
+    "title": "Indiv Topics Neuroscience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "10053",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 598",
+    "title": "Proseminar in Psychology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "57476",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A&P",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "819 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57462",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BN",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "R",
+        "instructor": "819 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57464",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CC",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "819 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57460",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CN",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "M",
+        "instructor": "819 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57466",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "COG",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "F",
+        "instructor": "819 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57468",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DEV",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "819 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "70055",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DPC",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "76714",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "IN2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "67320",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IN3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "63791",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "INT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57470",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IO",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "508 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "60030",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "LC",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "W",
+        "instructor": "815 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "59678",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PJC",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "508 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57472",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "QUA",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "819 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      },
+      {
+        "crn": "57474",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SPO",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "M",
+        "instructor": "815 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "NEUR 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR",
+    "sections": [
+      {
+        "crn": "10055",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NEUR/599"
+      }
+    ]
+  }
+]

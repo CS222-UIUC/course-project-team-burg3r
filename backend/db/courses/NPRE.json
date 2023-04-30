@@ -1,0 +1,785 @@
+[
+  {
+    "courseCode": "NPRE 100",
+    "title": "Orientation to NPRE",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "32850",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 200",
+    "title": "Mathematics for Nuclear, Plasma, and Radiological Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "77291",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 201",
+    "title": "Energy Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "48084",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I3",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MTWR",
+        "instructor": "3217 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/201"
+      },
+      {
+        "need attention": "yes",
+        "crn": "49708"
+      },
+      {
+        "crn": "30493",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 247",
+    "title": "Modeling Nuclear Energy System",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "54919",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/247"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 321",
+    "title": "Introduction to Plasmas and Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "77292",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/321"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 330",
+    "title": "Materials in Nuclear Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "77138",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 397",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "10071",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 402",
+    "title": "Nuclear Power Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "34302",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/402"
+      },
+      {
+        "crn": "43004",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/402"
+      },
+      {
+        "crn": "75756",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 413",
+    "title": "Nuclear Separations and Fuel Reprocessing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "75571",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A2",
+        "startTime": "15:30",
+        "endTime": "17:20",
+        "day": "R",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/413"
+      },
+      {
+        "crn": "75866",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "15:30",
+        "endTime": "17:20",
+        "day": "R",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/413"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 423",
+    "title": "Plasma Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "32852",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "16:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "114 Nuclear Radiations Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/423"
+      },
+      {
+        "crn": "43007",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABA",
+        "startTime": "16:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "114 Nuclear Radiations Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/423"
+      },
+      {
+        "crn": "43008",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABB",
+        "startTime": "12:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "114 Nuclear Radiations Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/423"
+      },
+      {
+        "crn": "43009",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABC",
+        "startTime": "16:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "114 Nuclear Radiations Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/423"
+      },
+      {
+        "crn": "60915",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "ABD",
+        "startTime": "16:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "114 Nuclear Radiations Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/423"
+      },
+      {
+        "crn": "43006",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AEA",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/423"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 432",
+    "title": "Nuclear Engrg Materials Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "30504",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/432"
+      },
+      {
+        "crn": "56075",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "201 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/432"
+      },
+      {
+        "crn": "30507",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 435",
+    "title": "Radiological Imaging",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "30510",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 445",
+    "title": "Interaction of Radiation with Matter",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "77319",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 448",
+    "title": "Nuclear Syst Engrg & Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "30517",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/448"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 449",
+    "title": "Nuclear Systems Engineering and Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "78222",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/449"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 451",
+    "title": "NPRE Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "60318",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "17:00",
+        "endTime": "20:50",
+        "day": "W",
+        "instructor": "101B Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/451"
+      },
+      {
+        "crn": "60316",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 452",
+    "title": "Advanced Radiological Science Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "77269",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/452"
+      },
+      {
+        "need attention": "yes",
+        "crn": "77267"
+      },
+      {
+        "need attention": "yes",
+        "crn": "77264"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 457",
+    "title": "Safety Anlys Nucl Reactor Syst",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "43010",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/457"
+      },
+      {
+        "crn": "34526",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/457"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 461",
+    "title": "Probabilistic Risk Assessment",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "75769",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/461"
+      },
+      {
+        "crn": "69626",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PR1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "403B2 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/461"
+      },
+      {
+        "crn": "69627",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PR4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "403B2 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 481",
+    "title": "Writing on Technol & Security",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "69299",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/481"
+      },
+      {
+        "crn": "40865",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 498",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "75448",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/498"
+      },
+      {
+        "crn": "56078",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ESG",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/498"
+      },
+      {
+        "crn": "56076",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ESU",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/498"
+      },
+      {
+        "crn": "63370",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "114 Nuclear Radiations Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/498"
+      },
+      {
+        "crn": "63371",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "114 Nuclear Radiations Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 501",
+    "title": "Fundamentals of Nuclear Engrg",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "39440",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 523",
+    "title": "Plasma Waves",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "72100",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/523"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 527",
+    "title": "Plasma Technology of Gaseous Electronics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "74038",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "1304 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/527"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 554",
+    "title": "Independent Lab Investigations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "10072",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/554"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 555",
+    "title": "Reactor Theory I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "34544",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "1047 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/555"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 595",
+    "title": "Student Research Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "68351",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 596",
+    "title": "Seminar in Nuclear Sci & Engrg",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "75538",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/596"
+      },
+      {
+        "crn": "30530",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 597",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "10076",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "NPRE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE",
+    "sections": [
+      {
+        "crn": "10080",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/NPRE/599"
+      }
+    ]
+  }
+]

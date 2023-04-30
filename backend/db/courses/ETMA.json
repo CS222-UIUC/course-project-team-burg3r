@@ -1,0 +1,600 @@
+[
+  {
+    "courseCode": "ETMA 100",
+    "title": "Technical Systems in Agr",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77202",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 103",
+    "title": "Agricultural Machinery and Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77199",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BMK",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 130",
+    "title": "Basics of CAD",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77244",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CMT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/130"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77302",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/199"
+      },
+      {
+        "crn": "77268",
+        "status": "restricted",
+        "type": "Online",
+        "section": "RC1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 232",
+    "title": "Materials and Construction Sys",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77257",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "119 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/232"
+      },
+      {
+        "crn": "77259",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "119 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/232"
+      },
+      {
+        "crn": "77260",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/232"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 233",
+    "title": "Metallurgy & Welding Processes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77245",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "119 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/233"
+      },
+      {
+        "crn": "77247",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "119 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/233"
+      },
+      {
+        "crn": "77250",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "119 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/233"
+      },
+      {
+        "crn": "77252",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "119 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/233"
+      },
+      {
+        "crn": "77255",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/233"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 293",
+    "title": "Off-Campus Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77303",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/293"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 295",
+    "title": "Undergrad Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77304",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/295"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 311",
+    "title": "Humanity in the Food Web",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77178",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/311"
+      },
+      {
+        "crn": "77179",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD2",
+        "startTime": "18:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/311"
+      },
+      {
+        "crn": "77176",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/311"
+      },
+      {
+        "crn": "77175",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/311"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 352",
+    "title": "Land and Water Mgt Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77184",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MLC",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/352"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 371",
+    "title": "Residential Housing Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "78460"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 372",
+    "title": "Environ Control & HVAC Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77239"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 396",
+    "title": "UG Honors Research or Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77305",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/396"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 422",
+    "title": "Industrial and Agricultural Occupational Illness Prevention",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77263",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB1",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 430",
+    "title": "Project Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "76956",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LC1",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 435",
+    "title": "Elec Computer Ctrl Sys",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "76947",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LB1",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "220 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/435"
+      },
+      {
+        "crn": "76948",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LB2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "220 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/435"
+      },
+      {
+        "crn": "76949",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LC1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/435"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 438",
+    "title": "Renewable Energy Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77242"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 464",
+    "title": "Heavy Equipment Powertrains",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "78074"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 486",
+    "title": "Grain Bioprocessing Coproducts",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "78087",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KDR",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "248 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/486"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 496",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77306",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 499",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77307",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/499"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78544"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78543"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 501",
+    "title": "Graduate Research I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77240",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "272 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 586",
+    "title": "Advanced Bioprocess Coproducts",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "78089",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KDR",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "248 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/586"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 594",
+    "title": "Graduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77266",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "208 Agricultural Engr Sciences Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 596",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77308",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77309",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "ETMA 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA",
+    "sections": [
+      {
+        "crn": "77310",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ETMA/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2520 @@
+[
+  {
+    "courseCode": "ECON 102",
+    "title": "Microeconomic Principles",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "49867",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD0",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36224",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36227",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36231",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36233",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36235",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36379",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "61250",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "61251",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "61252",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "F",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36243",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36381",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36249",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "38928",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "38931",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "38995",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "38996",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "46774",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36253",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "71971",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD!",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "71973",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD#",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "7 Weston Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36417",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36421",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36423",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36427",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36430",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36432",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36435",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36438",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "66329",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36387",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDJ",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "F",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36389",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDK",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36392",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "36395",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDM",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "46775",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDN",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "46772",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDO",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "46773",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDP",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "37726",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDQ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "46770",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      },
+      {
+        "crn": "63021",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CHP",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 103",
+    "title": "Macroeconomic Principles",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "49945",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD0",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37775",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37779",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37783",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37785",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37838",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37792",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37795",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37799",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37801",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "F",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37804",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37807",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37809",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37811",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37812",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37814",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37837",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37818",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37813",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37819",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "F",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37822",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "49939",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "307 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37772",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      },
+      {
+        "crn": "37825",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 198",
+    "title": "Economics at Illinois",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "61214",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/198"
+      },
+      {
+        "crn": "61215",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/198"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "16402",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "ETS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/199"
+      },
+      {
+        "crn": "69201",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LS",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "316S Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/199"
+      },
+      {
+        "crn": "59436",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LSO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 202",
+    "title": "Economic Statistics I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "37840",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "37841",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "37842",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "37843",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "37844",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "37845",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "62208",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA7",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "62209",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA8",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "75883",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "LA9",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      },
+      {
+        "crn": "37849",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LE1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 203",
+    "title": "Economic Statistics II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "37876",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/203"
+      },
+      {
+        "crn": "37877",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/203"
+      },
+      {
+        "crn": "37880",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/203"
+      },
+      {
+        "crn": "37881",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/203"
+      },
+      {
+        "crn": "37882",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/203"
+      },
+      {
+        "crn": "37883",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/203"
+      },
+      {
+        "crn": "64678",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 210",
+    "title": "Environmental Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "61569",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/210"
+      },
+      {
+        "crn": "61576",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/210"
+      },
+      {
+        "crn": "61581",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "320 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/210"
+      },
+      {
+        "crn": "61586",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/210"
+      },
+      {
+        "crn": "61591",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/210"
+      },
+      {
+        "crn": "61596",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/210"
+      },
+      {
+        "crn": "61564",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 298",
+    "title": "Professional Economics Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "77911",
+        "status": "restricted",
+        "type": "Online",
+        "section": "I0",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/298"
+      },
+      {
+        "crn": "77912",
+        "status": "restricted",
+        "type": "Online",
+        "section": "I3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/298"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 302",
+    "title": "Inter Microeconomic Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "59660",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD0",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "60699",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "61393",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "59675",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "37923",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "37929",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "59934",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "70133",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "57866",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "57867",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "F",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "59661",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "59667",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "59668",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "59669",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "59670",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "37904",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "37927",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "37932",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "37913",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD8",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      },
+      {
+        "crn": "57863",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "112 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/302"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 303",
+    "title": "Inter Macroeconomic Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "31781",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64685",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64679",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64680",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64681",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64682",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64683",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64684",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      },
+      {
+        "crn": "64271",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 399",
+    "title": "Advanced Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "10031",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 402",
+    "title": "American Economic History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70477",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 415",
+    "title": "Environmental Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70758",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/415"
+      },
+      {
+        "crn": "70759",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 422",
+    "title": "International Macroeconomics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "77282",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/422"
+      },
+      {
+        "crn": "77283",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 425",
+    "title": "Macroeconomic Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70552",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 426",
+    "title": "Monetary Economics and Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70775",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/426"
+      },
+      {
+        "crn": "70776",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/426"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 437",
+    "title": "Game Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70772",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/437"
+      },
+      {
+        "crn": "76230",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/437"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 442",
+    "title": "Women in the Economy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70549",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/442"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 447",
+    "title": "Economics of the Workplace",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70768",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/447"
+      },
+      {
+        "crn": "70769",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 448",
+    "title": "Employee Compensation and Incentives",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70770",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/448"
+      },
+      {
+        "crn": "70771",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/448"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 450",
+    "title": "Development Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "61807",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/450"
+      },
+      {
+        "crn": "66753",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 456",
+    "title": "Economic Development and Migration",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "77550",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/456"
+      },
+      {
+        "crn": "77552",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/456"
+      },
+      {
+        "crn": "77554",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/456"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 460",
+    "title": "Financial Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70812",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 471",
+    "title": "Intro to Applied Econometrics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "50082",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/471"
+      },
+      {
+        "crn": "50083",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 472",
+    "title": "Financial Econometrics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70813",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/472"
+      },
+      {
+        "crn": "70814",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/472"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 483",
+    "title": "Econ of Innovation and Tech",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "45915",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/483"
+      },
+      {
+        "crn": "45914",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "123 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 484",
+    "title": "Law and Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "66593",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/484"
+      },
+      {
+        "crn": "66860",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/484"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 490",
+    "title": "Topics in Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "56978",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "56094",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "56976",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "66595",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "317 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "58260",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "58262",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "66869",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "66871",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      },
+      {
+        "crn": "58146",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 491",
+    "title": "Topics in Econometrics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "78399",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "78400",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "78395",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "78396",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "78397",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "78398",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "78463",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CC3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "78464",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CC4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "77798",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "77799",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "77796",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E3",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      },
+      {
+        "crn": "77797",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E4",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 500",
+    "title": "Microeconomics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "31792"
+      },
+      {
+        "need attention": "yes",
+        "crn": "42432"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 501",
+    "title": "Macroeconomics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64707"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 502",
+    "title": "Economic Statistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64708"
+      },
+      {
+        "need attention": "yes",
+        "crn": "64709"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 504",
+    "title": "Time Series Analysis in Econ",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "70095",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 505",
+    "title": "Introduction to Game Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "30054",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 510",
+    "title": "Economics of Taxation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "64713",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "317 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 513",
+    "title": "International Trade",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "64714",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/513"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 516",
+    "title": "Monetary Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "56349",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/516"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 519",
+    "title": "Development and Growth Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "67918",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/519"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 530",
+    "title": "Microeconomic Theory I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64717"
+      },
+      {
+        "need attention": "yes",
+        "crn": "64718"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 531",
+    "title": "Macroeconomic Theory I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64719"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 532",
+    "title": "Econometric Analysis I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "64721"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 542",
+    "title": "Collective Bargaining",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "33164",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "35/43 Inst Labor &  Industrial Rel",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 549",
+    "title": "Environmental Economics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "68939",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PHD",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/549"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 590",
+    "title": "Individual Study and Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "66599",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3Y1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "106 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "69032",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "70972",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "P1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "31799",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "215B David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "66638",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "31800",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "60122",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P5",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "72127",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "RW1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "317 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "31801",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "RW2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      },
+      {
+        "crn": "70942",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "RW3",
+        "startTime": "15:30",
+        "endTime": "17:20",
+        "day": "MWF",
+        "instructor": "317 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ECON 598",
+    "title": "Workshop and Research Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ECON",
+    "sections": [
+      {
+        "crn": "37934",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "01",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "317 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/598"
+      },
+      {
+        "crn": "37936",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "02",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/598"
+      },
+      {
+        "crn": "37938",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "03",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/598"
+      },
+      {
+        "crn": "37939",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "04",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "F",
+        "instructor": "317 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ECON/598"
+      }
+    ]
+  }
+]

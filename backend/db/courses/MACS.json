@@ -1,0 +1,1215 @@
+[
+  {
+    "courseCode": "MACS 100",
+    "title": "Intro to Popular TV & Movies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "66221",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66222",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66224",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66225",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66226",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD8",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66227",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66230",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66231",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADD",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66232",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66233",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "66234",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "67437",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADH",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "67438",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "69386",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "69388",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      },
+      {
+        "crn": "57705",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 101",
+    "title": "Introduction to the Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "69867",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A2",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "57643",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "57644",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "57645",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "57648",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "57649",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "57650",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "65588",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "65590",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      },
+      {
+        "crn": "65591",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "317 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 104",
+    "title": "Introduction to Film",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57952",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/104"
+      },
+      {
+        "crn": "57956",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/104"
+      },
+      {
+        "crn": "57951",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/104"
+      },
+      {
+        "crn": "57957",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/104"
+      },
+      {
+        "crn": "57953",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/104"
+      },
+      {
+        "crn": "57958",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE6",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "148 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 140",
+    "title": "Smartphone Cinema",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "71648",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SP1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "122 1203 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/140"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 150",
+    "title": "Introduction to Digital Media Production",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "72893",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "11:30",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "1 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/150"
+      },
+      {
+        "crn": "72894",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "11:30",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "3 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/150"
+      },
+      {
+        "crn": "72895",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "1 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/150"
+      },
+      {
+        "crn": "77501",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "3 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/150"
+      },
+      {
+        "crn": "77502",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "14:30",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "1 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/150"
+      },
+      {
+        "crn": "77503",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB6",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "1 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/150"
+      },
+      {
+        "crn": "71556",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1310 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/150"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 166",
+    "title": "Contemporary Media Literacy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57655",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/166"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "69730",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 202",
+    "title": "Social Aspects Info Tech",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "64795",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "64797",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "64794",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "64798",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "64799",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "78412",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "78413",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "78414",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "78415",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      },
+      {
+        "crn": "64793",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 203",
+    "title": "Contemporary Movies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "65073",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "115 Spurlock Museum",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 205",
+    "title": "Introduction to Documentary",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "66939",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1000 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 224",
+    "title": "Sportsmedia Technology & Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "76941",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "0060 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/224"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 261",
+    "title": "Survey of World Cinema I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "57706"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 264",
+    "title": "Creative and Information Economies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57656",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/264"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 265",
+    "title": "Innovation Illinois: From Accessible Design to Supercomputing Cultures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "72044",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "TR",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/265"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 273",
+    "title": "American Cinema, 1950-2000",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57981",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/273"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 300",
+    "title": "Topics in Film and History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "59530",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 317",
+    "title": "Media History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57657",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/317"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 320",
+    "title": "Popular Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "66207",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "215 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 322",
+    "title": "Politics and the Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "58054",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SA",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "101 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/322"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 326",
+    "title": "New Media, Culture & Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57666",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/326"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 346",
+    "title": "Case Study: Endless Summer",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "78287",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:20",
+        "day": "M",
+        "instructor": "224 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/346"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 351",
+    "title": "Social Aspects of Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57678",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "138 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/351"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 356",
+    "title": "Sex & Gender in Popular Media",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57684",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/356"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 364",
+    "title": "Topics in Media Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "78152",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HSS",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "115 Spurlock Museum",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/364"
+      },
+      {
+        "crn": "58840",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PR",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "MW",
+        "instructor": "319 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/364"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 370",
+    "title": "Cinematography and Sound Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "72899",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "122 1203 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/370"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 375",
+    "title": "Latina/o Media in the US",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57692",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/375"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 382",
+    "title": "Media and Cinema in French",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "66166",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "393 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/382"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 391",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "63220",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/391"
+      },
+      {
+        "crn": "77525",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SP",
+        "startTime": "13:30",
+        "endTime": "14:20",
+        "day": "W",
+        "instructor": "123 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 395",
+    "title": "Special Media/Cinema Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "59863",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RGS",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "0060 Siebel Center for Design",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 425",
+    "title": "Intro to Psycholinguistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "60447",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/425"
+      },
+      {
+        "crn": "60448",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 466",
+    "title": "Japanese Cinema",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "61805",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A3",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/466"
+      },
+      {
+        "crn": "61802",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "215 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 485",
+    "title": "Making Video Essays",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "77159",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:30",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "3 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 495",
+    "title": "Internship Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57690",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/495"
+      },
+      {
+        "crn": "57691",
+        "status": "restricted",
+        "type": "Online",
+        "section": "2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/495"
+      },
+      {
+        "crn": "63517",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "EF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/495"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 496",
+    "title": "Advanced Media/Cinema Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57694",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MLG",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/496"
+      },
+      {
+        "crn": "68428",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MLU",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/496"
+      },
+      {
+        "crn": "69732",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 503",
+    "title": "Historiography of Cinema",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "57697",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "MACS 590",
+    "title": "Seminar Media Themes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MACS",
+    "sections": [
+      {
+        "crn": "78238",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RK",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "336 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MACS/590"
+      }
+    ]
+  }
+]

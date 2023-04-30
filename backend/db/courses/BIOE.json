@@ -1,0 +1,1049 @@
+[
+  {
+    "courseCode": "BIOE 100",
+    "title": "Bioengineering Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "70346",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 120",
+    "title": "Introduction to Bioengineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "45137",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "100",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "4031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/120"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "63911",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "FCR",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 201",
+    "title": "Conservation Principles Bioeng",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "48270",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 202",
+    "title": "Cell & Tissue Engineering Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "49685",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "11:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "3109 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/202"
+      },
+      {
+        "crn": "58291",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "15:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "3109 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/202"
+      },
+      {
+        "crn": "58312",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "14:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "3109 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/202"
+      },
+      {
+        "crn": "49686",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 206",
+    "title": "Cellular Bioengineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "58750",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALR",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/206"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 297",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "47929",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/297"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 298",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "65183",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HIT",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/298"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 302",
+    "title": "Modeling Human Physiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "66323",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/302"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 303",
+    "title": "Quantitative Physiology Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "66325",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "0215 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/303"
+      },
+      {
+        "crn": "66326",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "0215 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/303"
+      },
+      {
+        "crn": "66324",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "0215 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/303"
+      },
+      {
+        "crn": "66919",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 306",
+    "title": "Biofabrication Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "65175"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 380",
+    "title": "Biomedical Imaging",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "64641",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3013 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 397",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "10412",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/397"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 400",
+    "title": "Bioengineering Senior Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "78442"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 414",
+    "title": "Biomedical Instrumentation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "40017",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/414"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 415",
+    "title": "Biomedical Instrumentation Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "43867",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "0201 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/415"
+      },
+      {
+        "crn": "43868",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "0201 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/415"
+      },
+      {
+        "crn": "43869",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "0201 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/415"
+      },
+      {
+        "crn": "43870",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 420",
+    "title": "Intro Bio Control Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "62799",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 430",
+    "title": "Intro Synthetic Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "66328",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ISB",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 476",
+    "title": "Tissue Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "69353",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/476"
+      },
+      {
+        "crn": "61460",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TE",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 480",
+    "title": "Magnetic Resonance Imaging",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "45267",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "G",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2015 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/480"
+      },
+      {
+        "crn": "70236",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2015 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 482",
+    "title": "Musculoskel Tissue Mechanics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "60168",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "1227 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/482"
+      },
+      {
+        "crn": "60169",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1227 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/482"
+      },
+      {
+        "crn": "69037",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "1227 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/482"
+      },
+      {
+        "crn": "54424",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/482"
+      },
+      {
+        "crn": "60171",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 483",
+    "title": "Biomedical Computed Imaging Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "76080",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "IP2",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/483"
+      },
+      {
+        "crn": "74517",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "IPS",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 485",
+    "title": "Computational Mathematics for Machine Learning and Imaging",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "74518",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CM",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 488",
+    "title": "Applied High-Performance Computing for Imaging Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "77416",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ACI",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/488"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 497",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "47930",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 498",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "70240",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ST1",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/498"
+      },
+      {
+        "crn": "56513",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "TC1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/498"
+      },
+      {
+        "crn": "63184",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "WD",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 499",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "62533",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 500",
+    "title": "Graduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "47917",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 501",
+    "title": "Seminar Discussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "47919",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 502",
+    "title": "Bioengineering Professionalism",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "67463",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "3217 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 504",
+    "title": "Analytical Methods in Bioeng",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "51466",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AMB",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3217 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 505",
+    "title": "Computational Bioengineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "54270",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CB",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 570",
+    "title": "Seminar Series",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "64761",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/570"
+      },
+      {
+        "crn": "69356",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/570"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 571",
+    "title": "Biological Measurement I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "64757",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BM1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/571"
+      },
+      {
+        "crn": "67339",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 573",
+    "title": "Managing Business Operations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "64758",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MB",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/573"
+      },
+      {
+        "crn": "69352",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/573"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 575",
+    "title": "Capstone Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "71511",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "LEC",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/575"
+      },
+      {
+        "crn": "74022",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 589",
+    "title": "Biomedical Image Computing Capstone Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "78141",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BIC",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/589"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 597",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "10413",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "65285",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "60215",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ISB",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "70417",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PBO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "47185",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "RXB",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "70280",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ST1",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "56892",
+        "status": "restricted",
+        "type": "Online",
+        "section": "STO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "47184",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "TBS",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "2101 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "65893",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "TC1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2310 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "63185",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "WD",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      },
+      {
+        "crn": "50566",
+        "status": "restricted",
+        "type": "Online",
+        "section": "WDO",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/598"
+      }
+    ]
+  },
+  {
+    "courseCode": "BIOE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE",
+    "sections": [
+      {
+        "crn": "69523",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BIOE/599"
+      }
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "courseCode": "BSE 601",
+    "title": "Anatomy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "77136",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/601"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 602",
+    "title": "Public Health Clinical Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "78244",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/602"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 631",
+    "title": "Cardiovascular",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "71761"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 632",
+    "title": "Respiratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "71762"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 633",
+    "title": "Renal",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "71763"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 638",
+    "title": "Endocrine, Genitourinary, & Women's Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "75968"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 642",
+    "title": "Hematology, Oncology, Infection, and Immunity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "71766"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 655",
+    "title": "Research Elective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74717",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/655"
+      },
+      {
+        "crn": "74718",
+        "status": "restricted",
+        "type": "Research",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/655"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 660",
+    "title": "Self-Designed Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74719",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/660"
+      },
+      {
+        "crn": "74720",
+        "status": "restricted",
+        "type": "Research",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/660"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 665",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74750",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/665"
+      },
+      {
+        "crn": "74751",
+        "status": "restricted",
+        "type": "Research",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/665"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 666",
+    "title": "Academic Progress I (Longitudinal)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74752",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/666"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 680",
+    "title": "Innovation, Design, Engineering and Analysis Projects (Longitudinal)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "78241",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "F",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/680"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 685",
+    "title": "Medicine - Capstone Project (Longitudinal)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "78242",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/685"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 686",
+    "title": "Medicine - Data Science Project (Longitudinal)",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "78243",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Carle Foundation Hospital",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/686"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 700",
+    "title": "Innovations in Problem Based Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74756",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/700"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 701",
+    "title": "Introduction to Telemedicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74757",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/701"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 702",
+    "title": "Medical Spanish",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74758",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/702"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 703",
+    "title": "Medical Informatics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74085",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/703"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 704",
+    "title": "Medicine in Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74759",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/704"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 705",
+    "title": "Race in Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "77137",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/705"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 706",
+    "title": "Literature Review in Pathology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "76724",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/706"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 707",
+    "title": "Interreligious Perspectives on Health and Medicine",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "77373",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/707"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 708",
+    "title": "Social Medicine and the Normative Body",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "77947",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/708"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 710",
+    "title": "Computational Genomics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74760",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/710"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 711",
+    "title": "Climate Change, Planetary Health and Sustainability",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74761",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/711"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 720",
+    "title": "Advanced Anatomy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "74086",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "ARR Medical Sciences Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/720"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 721",
+    "title": "Neurocardiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "77382",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/721"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 730",
+    "title": "Introduction to Deep Learning on Healthcare Data",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "76101",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/730"
+      }
+    ]
+  },
+  {
+    "courseCode": "BSE 732",
+    "title": "Healthcare Process Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BSE",
+    "sections": [
+      {
+        "crn": "78245",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "MTWRF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BSE/732"
+      }
+    ]
+  }
+]

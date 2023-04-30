@@ -1,0 +1,226 @@
+[
+  {
+    "courseCode": "IHLT 101",
+    "title": "Introduction to i-Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "59858",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 102",
+    "title": "Survey of Interdisc Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "69368",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 230",
+    "title": "Leadership in Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "65122",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/230"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 232",
+    "title": "Health Equity in the United States",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "76887",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/232"
+      },
+      {
+        "crn": "78288",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/232"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 240",
+    "title": "Aging and Health Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "69236",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "112 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 375",
+    "title": "Interdis Collab in Health Serv",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "62943",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/375"
+      },
+      {
+        "crn": "71381",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/375"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 385",
+    "title": "Experience in Interdisciplinary Health Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "73088",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/385"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 391",
+    "title": "Special Project-Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "73089",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 474",
+    "title": "Pre-Field Experience in Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "62235",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/474"
+      },
+      {
+        "crn": "71382",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/474"
+      }
+    ]
+  },
+  {
+    "courseCode": "IHLT 475",
+    "title": "Field Experience in i-Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT",
+    "sections": [
+      {
+        "crn": "61502",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/475"
+      },
+      {
+        "crn": "71383",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "450 Freer Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IHLT/475"
+      }
+    ]
+  }
+]

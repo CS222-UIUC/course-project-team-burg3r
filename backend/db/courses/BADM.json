@@ -1,0 +1,2634 @@
+[
+  {
+    "courseCode": "BADM 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "10398",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/199"
+      },
+      {
+        "crn": "53818",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CHP",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "212 1205 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/199"
+      },
+      {
+        "crn": "29648",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EJ2",
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "ARR Danville IL",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 210",
+    "title": "Business Analytics I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "69973",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72977",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72978",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72979",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72980",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72981",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "69974",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "1001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72982",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "F",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72983",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72984",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72985",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72986",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "72987",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      },
+      {
+        "crn": "71353",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL",
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "1001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 211",
+    "title": "Business Analytics II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "71365",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "72844",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "72845",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "72846",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "72864",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "72865",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "74729",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "74730",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "74731",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      },
+      {
+        "crn": "74732",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 261",
+    "title": "Technology & Mgmt Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "59910",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TM",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/261"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 275",
+    "title": "Fundamentals of Operations Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "71363",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "71364",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "72836",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "72838",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "72840",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "72841",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "72843",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "72848",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      },
+      {
+        "crn": "78104",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/275"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 300",
+    "title": "The Legal Environment of Bus",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "62982",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/300"
+      },
+      {
+        "crn": "62983",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "101 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/300"
+      },
+      {
+        "crn": "62984",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HON",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/300"
+      },
+      {
+        "crn": "62985",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 303",
+    "title": "Principles of Public Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "60066",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "WA",
+        "startTime": "17:30",
+        "endTime": "19:30",
+        "day": "W",
+        "instructor": "ARR Washington DC",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 310",
+    "title": "Mgmt and Organizational Beh",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "29649",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/310"
+      },
+      {
+        "crn": "58599",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 311",
+    "title": "Leading Individuals and Teams",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "31430",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/311"
+      },
+      {
+        "crn": "31431",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/311"
+      },
+      {
+        "crn": "31432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/311"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 312",
+    "title": "Designing and Managing Orgs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "44050",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/312"
+      },
+      {
+        "crn": "31435",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/312"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 313",
+    "title": "Strategic Human Resource Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "29659",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/313"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 314",
+    "title": "Leading Negotiations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "66083",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/314"
+      },
+      {
+        "crn": "68229",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 320",
+    "title": "Principles of Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "31412",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/320"
+      },
+      {
+        "crn": "31415",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "2",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/320"
+      },
+      {
+        "crn": "58600",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 322",
+    "title": "Marketing Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "31426",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/322"
+      },
+      {
+        "crn": "31427",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/322"
+      },
+      {
+        "crn": "31429",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/322"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 323",
+    "title": "Marketing Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "31436",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/323"
+      },
+      {
+        "crn": "31437",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/323"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 324",
+    "title": "Purchasing and Supply Mgmnt",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "39273",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/324"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 325",
+    "title": "Consumer Behavior",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "31439",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/325"
+      },
+      {
+        "crn": "31440",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/325"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 326",
+    "title": "Pricing Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "69918",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/326"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 329",
+    "title": "New Product Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "58589",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/329"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 335",
+    "title": "Supply Chain Management Basics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "58279",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/335"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 336",
+    "title": "Modeling the Supply Chain",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "50435",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/336"
+      },
+      {
+        "crn": "71358",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/336"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 338",
+    "title": "Global Supply Chain Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "71367",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/338"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 340",
+    "title": "Ethical Dilemmas of Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "65067",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/340"
+      },
+      {
+        "crn": "73133",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 346",
+    "title": "Introduction to Entrepreneurship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "76828",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/346"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 350",
+    "title": "IT for Networked Organizations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "51272",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/350"
+      },
+      {
+        "crn": "52248",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/350"
+      },
+      {
+        "crn": "65592",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/350"
+      },
+      {
+        "crn": "69984",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 351",
+    "title": "Social Media Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "54412",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/351"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 352",
+    "title": "Database Design and Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "37946",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/352"
+      },
+      {
+        "crn": "68118",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/352"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 353",
+    "title": "Info Sys Analysis and Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "37933",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/353"
+      },
+      {
+        "crn": "37935",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/353"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 356",
+    "title": "Data Science and Analytics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "70115",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/356"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 360",
+    "title": "Digital Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "74670",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/360"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 365",
+    "title": "New Product Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "37808",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/365"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 367",
+    "title": "Mgmt of Innov and Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "72866",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SB",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/367"
+      },
+      {
+        "crn": "37805",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TM",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/367"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 372",
+    "title": "Information Systems & Operations Management Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "78146",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/372"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 374",
+    "title": "Management Decision Models",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "37790",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/374"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 375",
+    "title": "Operations Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "29656",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/375"
+      },
+      {
+        "crn": "51273",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/375"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 377",
+    "title": "Project Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "56087",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/377"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 378",
+    "title": "Logistics Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "59775",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/378"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 380",
+    "title": "International Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "64456",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/380"
+      },
+      {
+        "crn": "66141",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "166 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 381",
+    "title": "Multinational Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "46659",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/381"
+      },
+      {
+        "crn": "58486",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/381"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 382",
+    "title": "International Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "29661",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/382"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 383",
+    "title": "Topics in International Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "74706",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "130 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/383"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 394",
+    "title": "Senior Research I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "10400",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/394"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 395",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "10401",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/395"
+      },
+      {
+        "crn": "52885",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EA",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 420",
+    "title": "Advanced Marketing Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "50020",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 446",
+    "title": "Entrepreneurship: New Venture Creation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "59860",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/446"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 449",
+    "title": "Business Policy and Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "37793",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37796",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37797",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37800",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37884",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37885",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37887",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "O",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37888",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37889",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "37890",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      },
+      {
+        "crn": "39274",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/449"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 453",
+    "title": "Business Intelligence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "40400",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 458",
+    "title": "IT Governance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "52124",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "3009 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/458"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 460",
+    "title": "Business Process Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "37802",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 463",
+    "title": "iVenture Accelerator Seminar I: Topics in Entrepreneurship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "74738",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/463"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 502",
+    "title": "Communicating with Data and Decision Making",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "69935",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/502"
+      },
+      {
+        "crn": "74707",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM2",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 503",
+    "title": "Classics in Business Administration",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "29816",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/503"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 504",
+    "title": "Phil of Science and Bus Admin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "50075",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 508",
+    "title": "Leadership and Teams",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "50077",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/508"
+      },
+      {
+        "crn": "71740",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/508"
+      },
+      {
+        "crn": "74709",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/508"
+      },
+      {
+        "crn": "74710",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/508"
+      },
+      {
+        "crn": "71741",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/508"
+      },
+      {
+        "crn": "57913",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/508"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 509",
+    "title": "Managing Organizations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "71742",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/509"
+      },
+      {
+        "crn": "71743",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/509"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 512",
+    "title": "HR Management and Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "33198",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "35/43 Inst Labor &  Industrial Rel",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/512"
+      },
+      {
+        "crn": "67205",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 513",
+    "title": "Communication Strategy in Bus",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "76429",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/513"
+      },
+      {
+        "crn": "69936",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/513"
+      },
+      {
+        "crn": "74708",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/513"
+      },
+      {
+        "crn": "78301",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/513"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 514",
+    "title": "Managing Innovation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "76431",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/514"
+      },
+      {
+        "crn": "57918",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/514"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 519",
+    "title": "Seminar in Organizational Behavior and Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "56085",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/519"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 520",
+    "title": "Marketing Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "31447",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/520"
+      },
+      {
+        "crn": "70299",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/520"
+      },
+      {
+        "crn": "31448",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/520"
+      },
+      {
+        "crn": "49046",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/520"
+      },
+      {
+        "crn": "70300",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/520"
+      },
+      {
+        "crn": "57919",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/520"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 538",
+    "title": "Res Sem in Consumer Behavior",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "40413",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/538"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 539",
+    "title": "Math Models in Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "74713",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/539"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 550",
+    "title": "Business Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "76558",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AN1",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/550"
+      },
+      {
+        "crn": "74716",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AN2",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/550"
+      },
+      {
+        "crn": "74711",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/550"
+      },
+      {
+        "crn": "74712",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM2",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 554",
+    "title": "Enterprise Database Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "68315",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3039 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/554"
+      },
+      {
+        "crn": "76559",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/554"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 557",
+    "title": "Business Intelligence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "40401",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "240 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/557"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 562",
+    "title": "Social Media Strategy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "67696",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "241 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 566",
+    "title": "Supply Chain Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "45322",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/566"
+      },
+      {
+        "crn": "62289",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/566"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 567",
+    "title": "Operations Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "61656",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/567"
+      },
+      {
+        "crn": "57921",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/567"
+      },
+      {
+        "crn": "54601",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/567"
+      },
+      {
+        "crn": "62148",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/567"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 569",
+    "title": "Res Topics in Operations Mgt",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "71379",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/569"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 572",
+    "title": "Stat for Mgt Decision Making",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "71744",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/572"
+      },
+      {
+        "crn": "71745",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 582",
+    "title": "Multinational Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "29718",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "3041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 588",
+    "title": "Business Practice Immersion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "70374",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 589",
+    "title": "Project Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "74895",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IMB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/589"
+      },
+      {
+        "crn": "74897",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/589"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 590",
+    "title": "Seminar in Business Admin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "10402",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "39761",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GRD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "50228",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "HPM",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "37921",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IB2",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "37917",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IS1",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "37914",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "O",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "W",
+        "instructor": "ARR Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "38751",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "OMI",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "37919",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PM1",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "223 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "41817",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PM2",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "F",
+        "instructor": "223 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "41176",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PRO",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "59070",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PW",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      },
+      {
+        "crn": "54729",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SIB",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "ARR Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 591",
+    "title": "Proseminar in Business Admin",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "57861",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IOM",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "F",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/591"
+      },
+      {
+        "crn": "57857",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MKT",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/591"
+      },
+      {
+        "crn": "57858",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "OB",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/591"
+      },
+      {
+        "crn": "57862",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SIB",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "F",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/591"
+      },
+      {
+        "crn": "13010",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TES",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "F",
+        "instructor": "2041 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 593",
+    "title": "Research in Special Fields",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "10404",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 594",
+    "title": "Independent Study and Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "10405",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 595",
+    "title": "Business Fundamentals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "56572",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PSM",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "TR",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "BADM 599",
+    "title": "Dissertation Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BADM",
+    "sections": [
+      {
+        "crn": "10406",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BADM/599"
+      }
+    ]
+  }
+]

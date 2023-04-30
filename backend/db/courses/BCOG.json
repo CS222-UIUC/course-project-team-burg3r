@@ -1,0 +1,60 @@
+[
+  {
+    "courseCode": "BCOG 100",
+    "title": "Introduction to the Brain and Cognitive Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BCOG",
+    "sections": [
+      {
+        "crn": "71422",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "815 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BCOG/100"
+      },
+      {
+        "crn": "76146",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "815 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BCOG/100"
+      },
+      {
+        "crn": "76147",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "815 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BCOG/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "BCOG 458",
+    "title": "Advances in Brain and Cognitive Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BCOG",
+    "sections": [
+      {
+        "crn": "72234",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UG",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BCOG/458"
+      }
+    ]
+  }
+]

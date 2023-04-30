@@ -1,0 +1,74 @@
+[
+  {
+    "courseCode": "AGCM 220",
+    "title": "Communicating Agriculture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM",
+    "sections": [
+      {
+        "crn": "38779",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGCM 315",
+    "title": "Social Media Management in Agricultural Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM",
+    "sections": [
+      {
+        "crn": "61613",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM/315"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGCM 330",
+    "title": "Environmental Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM",
+    "sections": [
+      {
+        "crn": "38783",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "282 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "AGCM 375",
+    "title": "International Agricultural Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM",
+    "sections": [
+      {
+        "crn": "77417",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "OR",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "242 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AGCM/375"
+      }
+    ]
+  }
+]

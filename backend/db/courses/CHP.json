@@ -1,0 +1,42 @@
+[
+  {
+    "courseCode": "CHP 395",
+    "title": "Interdisciplinary Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CHP",
+    "sections": [
+      {
+        "crn": "31622",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHP/395"
+      },
+      {
+        "crn": "31625",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHP/395"
+      },
+      {
+        "crn": "55838",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CHP/395"
+      }
+    ]
+  }
+]

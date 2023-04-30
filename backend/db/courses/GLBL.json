@@ -1,0 +1,514 @@
+[
+  {
+    "courseCode": "GLBL 100",
+    "title": "Intro to Global Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "54575",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "329 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/100"
+      },
+      {
+        "crn": "54577",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "1028 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/100"
+      },
+      {
+        "crn": "54856",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "MW",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/100"
+      },
+      {
+        "crn": "60712",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "14:30",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/100"
+      },
+      {
+        "crn": "61401",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "111A Pennsylvania Lounge Bld - PAR",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/100"
+      },
+      {
+        "crn": "54580",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "329 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 118",
+    "title": "Natural Disasters",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "41060",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/118"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 130",
+    "title": "Resistance Movements",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "77498",
+        "status": "restricted",
+        "type": "Online",
+        "section": "",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/130"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "65741",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:30",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/199"
+      },
+      {
+        "crn": "63674",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GSL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 201",
+    "title": "Energy Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "48085",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I3",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MTWR",
+        "instructor": "3217 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/201"
+      },
+      {
+        "need attention": "yes",
+        "crn": "49710"
+      },
+      {
+        "crn": "41080",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 220",
+    "title": "Governance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "60293",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:30",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 221",
+    "title": "Geographies of Global Conflict",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "66496",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/221"
+      },
+      {
+        "crn": "66497",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/221"
+      },
+      {
+        "crn": "66498",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "137D Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/221"
+      },
+      {
+        "crn": "66495",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "319 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 225",
+    "title": "Career Development:Internships",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "63888",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "T",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 240",
+    "title": "Global Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "63656",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 272",
+    "title": "Language and Culture in Turkey",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "71546"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 296",
+    "title": "Global St Foundation Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "78529",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AK",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/296"
+      },
+      {
+        "crn": "54536",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DD",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/296"
+      },
+      {
+        "crn": "78521",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MM",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1126 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/296"
+      },
+      {
+        "crn": "70608",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SH",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/296"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 298",
+    "title": "Global Studies Seminar Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "54878",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MT",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/298"
+      },
+      {
+        "crn": "78502",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NA",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "2049 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/298"
+      },
+      {
+        "crn": "54875",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RA",
+        "startTime": "19:00",
+        "endTime": "22:00",
+        "day": "W",
+        "instructor": "1068 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/298"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 350",
+    "title": "Poverty in a Global Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "65017",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:30",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 440",
+    "title": "Global Health: Interventions & Evaluations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "66131",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 481",
+    "title": "Writing on Technol & Security",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "69300",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A4",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/481"
+      },
+      {
+        "crn": "40866",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 499",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "70675",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "21 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/499"
+      },
+      {
+        "crn": "72150",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "DS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/499"
+      },
+      {
+        "crn": "68067",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "21 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/499"
+      },
+      {
+        "crn": "66701",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PD",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "GLBL 500",
+    "title": "Global Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL",
+    "sections": [
+      {
+        "crn": "69246",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DT",
+        "startTime": "12:30",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GLBL/500"
+      }
+    ]
+  }
+]

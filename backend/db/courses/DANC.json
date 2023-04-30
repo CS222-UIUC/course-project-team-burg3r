@@ -1,0 +1,1458 @@
+[
+  {
+    "courseCode": "DANC 100",
+    "title": "Intro to Contemporary Dance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "33749"
+      },
+      {
+        "need attention": "yes",
+        "crn": "33875"
+      },
+      {
+        "need attention": "yes",
+        "crn": "46037"
+      },
+      {
+        "crn": "64564",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/100"
+      },
+      {
+        "crn": "68289",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/100"
+      },
+      {
+        "crn": "59052",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/100"
+      },
+      {
+        "crn": "33859",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/100"
+      },
+      {
+        "crn": "33873",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL5",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/100"
+      },
+      {
+        "crn": "78508",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "OL6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 104",
+    "title": "Making Dances",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "62777",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 116",
+    "title": "Dance I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76964",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "76967",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "76992",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "G",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "76951",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "I",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "77001",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "J",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "77004",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "K",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "77718",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "M",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "78505",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "N",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "78506",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "O",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      },
+      {
+        "crn": "78507",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "P",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/116"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 131",
+    "title": "Production Practicum I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "31697",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "DP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/131"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 150",
+    "title": "The Green Room",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "29774"
+      },
+      {
+        "need attention": "yes",
+        "crn": "78334"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 160",
+    "title": "Dancing Techniques I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "29776",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MTWR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/160"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 200",
+    "title": "Explore Music through Dance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "68132",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/200"
+      },
+      {
+        "crn": "78160",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/200"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 201",
+    "title": "Yoga Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "70399",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/201"
+      },
+      {
+        "crn": "75040",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 209",
+    "title": "Lyric Theatre Dance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "67820",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2127 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/209"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 216",
+    "title": "Dance II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76957",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/216"
+      },
+      {
+        "crn": "76969",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/216"
+      },
+      {
+        "crn": "76989",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "F",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/216"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 220",
+    "title": "Undergraduate Performance Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "77781",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/220"
+      },
+      {
+        "crn": "77787",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/220"
+      },
+      {
+        "crn": "77788",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CO",
+        "startTime": "18:30",
+        "endTime": "20:15",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/220"
+      },
+      {
+        "crn": "77789",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "EE",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/220"
+      },
+      {
+        "crn": "67601",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "MG",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/220"
+      },
+      {
+        "crn": "77791",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "SEL",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 231",
+    "title": "Production Practicum II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "39477",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "DP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/231"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 232",
+    "title": "Repertory Company",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "29781",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/232"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 240",
+    "title": "Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "57762",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "MW",
+        "instructor": "109 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 256",
+    "title": "Choreographic Laboratory I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76732",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/256"
+      },
+      {
+        "crn": "76931",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "TR",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/256"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 259",
+    "title": "Dance Improvisation I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "57759",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/259"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 260",
+    "title": "Dancing Techniques II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76458",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/260"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 262",
+    "title": "Choreographic Process I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "29783",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/262"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 270",
+    "title": "Dancing in Community I & II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76935",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "day": "F",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 290",
+    "title": "Undergraduate Process Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "77768",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/290"
+      },
+      {
+        "crn": "77778",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "BA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/290"
+      },
+      {
+        "crn": "77777",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "GG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/290"
+      },
+      {
+        "crn": "77776",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "JB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 301",
+    "title": "Yoga Fundamentals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "58098",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/301"
+      },
+      {
+        "crn": "71467",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 316",
+    "title": "Dancing Techniques Elective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76962",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "76965",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "76972",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "76987",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "76990",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "F",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "76993",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "G",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "76999",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "I",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "77002",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "J",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      },
+      {
+        "crn": "77005",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "K",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/316"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 330",
+    "title": "Dance Documentation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "62968",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "14:30",
+        "endTime": "16:30",
+        "day": "F",
+        "instructor": "110 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/330"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 331",
+    "title": "Production Practicum III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "31670",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "DP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/331"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 340",
+    "title": "Dancing Black Popular Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "59812",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 360",
+    "title": "Dancing Techniques III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "72996"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 362",
+    "title": "Choreographic Process II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "29795",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/362"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 401",
+    "title": "Alexander Tech for Dancers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "29799",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "day": "F",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 420",
+    "title": "Graduate Performance Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "77784",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/420"
+      },
+      {
+        "crn": "77801",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/420"
+      },
+      {
+        "crn": "77841",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "CO",
+        "startTime": "18:30",
+        "endTime": "20:15",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/420"
+      },
+      {
+        "crn": "77800",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "EE",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/420"
+      },
+      {
+        "crn": "77802",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "MG",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/420"
+      },
+      {
+        "crn": "77783",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "SEL",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MTWR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 425",
+    "title": "Dance Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "64270",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "INT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/425"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 426",
+    "title": "Special Topics in Dance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "78161",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/426"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 431",
+    "title": "Production Practicum IV",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "39480",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "DP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/431"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 451",
+    "title": "Individual Study/Creative Investigations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "10585",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "A",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "T",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/451"
+      },
+      {
+        "crn": "41088",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/451"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 456",
+    "title": "Choreographic Laboratory II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76733",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/456"
+      },
+      {
+        "crn": "76933",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "TR",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/456"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 460",
+    "title": "Dancing Techniques IV",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "72997",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MTWR",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 462",
+    "title": "Composition Workshop",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "29814",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "110 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/462"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 464",
+    "title": "Composer-Chor Workshop",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "63247",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "109 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/464"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 470",
+    "title": "Dancing in Community III & IV",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76938",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "day": "F",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 475",
+    "title": "Dance Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76940",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "W",
+        "instructor": "110 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 490",
+    "title": "Graduate Process Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "77779",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 495",
+    "title": "Senior Career Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "29815"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 496",
+    "title": "BA Senior Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76155",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "W",
+        "instructor": "110 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 498",
+    "title": "BFA Thesis Production",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "65088",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "MW",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 499",
+    "title": "BFA Thesis Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "29824",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 510",
+    "title": "Graduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "44202",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CO",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "109 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 516",
+    "title": "Dancing Techniques Graduate Elective",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "76963",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "76966",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "76975",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "D",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "76988",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "76991",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "F",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "2500 Krannert Center for Perf Arts",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "76994",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "G",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "77000",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "I",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "77003",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "J",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "103 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      },
+      {
+        "crn": "77006",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "K",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "TR",
+        "instructor": "111 Dance Studio",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/516"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 531",
+    "title": "MFA Prof Practice Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "62525",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/531"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 560",
+    "title": "Advanced Physical Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "62531",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "110 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/560"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 562",
+    "title": "Graduate Composition II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "40472",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "110 907 1/2 W Nevada",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "DANC 598",
+    "title": "Creative Thesis Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/DANC",
+    "sections": [
+      {
+        "crn": "50808",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/DANC/598"
+      }
+    ]
+  }
+]

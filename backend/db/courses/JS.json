@@ -1,0 +1,92 @@
+[
+  {
+    "courseCode": "JS 108",
+    "title": "Religion & Society in West I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JS",
+    "sections": [
+      {
+        "crn": "70854",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "32 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JS/108"
+      }
+    ]
+  },
+  {
+    "courseCode": "JS 211",
+    "title": "The Arab-Israeli Conflict",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JS",
+    "sections": [
+      {
+        "crn": "63458",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "1064 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JS/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "JS 231",
+    "title": "Development of Ancient Cities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JS",
+    "sections": [
+      {
+        "crn": "72488",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JS/231"
+      }
+    ]
+  },
+  {
+    "courseCode": "JS 262",
+    "title": "Zionism: A Global History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JS",
+    "sections": [
+      {
+        "crn": "72455",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JS/262"
+      }
+    ]
+  },
+  {
+    "courseCode": "JS 495",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/JS",
+    "sections": [
+      {
+        "crn": "72610",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/JS/495"
+      }
+    ]
+  }
+]

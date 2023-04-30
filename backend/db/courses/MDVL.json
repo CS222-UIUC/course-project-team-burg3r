@@ -1,0 +1,194 @@
+[
+  {
+    "courseCode": "MDVL 122",
+    "title": "The Middle Ages in Popular Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL",
+    "sections": [
+      {
+        "crn": "72287",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "TR",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/122"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDVL 201",
+    "title": "Medieval Literature and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL",
+    "sections": [
+      {
+        "crn": "33892",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDVL 240",
+    "title": "Italy Middle Ages & Renaiss",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL",
+    "sections": [
+      {
+        "crn": "53946",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/240"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDVL 251",
+    "title": "Viking Mythology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL",
+    "sections": [
+      {
+        "crn": "63055",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/251"
+      },
+      {
+        "crn": "63060",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/251"
+      },
+      {
+        "crn": "63064",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/251"
+      },
+      {
+        "crn": "71790",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/251"
+      },
+      {
+        "crn": "71791",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/251"
+      },
+      {
+        "crn": "71792",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/251"
+      },
+      {
+        "crn": "58535",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:20",
+        "day": "TR",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDVL 412",
+    "title": "Medieval Architecture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL",
+    "sections": [
+      {
+        "crn": "54430",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "M",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "302 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDVL 420",
+    "title": "Masterpieces Renaiss Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL",
+    "sections": [
+      {
+        "crn": "39456",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1020 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "MDVL 504",
+    "title": "Genesis in History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL",
+    "sections": [
+      {
+        "crn": "73008",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "17:30",
+        "day": "T",
+        "instructor": "135 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MDVL/504"
+      }
+    ]
+  }
+]

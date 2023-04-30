@@ -1,0 +1,31 @@
+[
+  {
+    "courseCode": "BASQ 401",
+    "title": "Beginners' Basque",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BASQ",
+    "sections": [
+      {
+        "crn": "44030",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BT",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "3072E Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BASQ/401"
+      },
+      {
+        "crn": "77434",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BTH",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BASQ/401"
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "courseCode": "GRK 101",
+    "title": "Elementary Greek I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "37594"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "10302",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 201",
+    "title": "Classical & Koine Greek I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "58967",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 401",
+    "title": "Survey of Greek Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "75015",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/401"
+      },
+      {
+        "crn": "30476",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "321 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 411",
+    "title": "Greek Prose Composition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "30479",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "307 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/411"
+      },
+      {
+        "crn": "72925",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "307 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 492",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "10306",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 493",
+    "title": "Independent Reading",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "10313",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/493"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 511",
+    "title": "Advanced Composition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "59495",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 595",
+    "title": "Intro to Classical Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "42973",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "GRK 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GRK",
+    "sections": [
+      {
+        "crn": "10316",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GRK/599"
+      }
+    ]
+  }
+]

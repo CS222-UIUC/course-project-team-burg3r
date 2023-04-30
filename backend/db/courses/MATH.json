@@ -1,0 +1,5414 @@
+[
+  {
+    "courseCode": "MATH 101",
+    "title": "Thinking Mathematically",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "69376",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/101"
+      },
+      {
+        "crn": "69378",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/101"
+      },
+      {
+        "crn": "69473",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/101"
+      },
+      {
+        "crn": "70226",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/101"
+      },
+      {
+        "crn": "69377",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/101"
+      },
+      {
+        "crn": "69244",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "116 Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 103",
+    "title": "Theory of Arithmetic",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32048",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/103"
+      },
+      {
+        "crn": "32065",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/103"
+      },
+      {
+        "crn": "32051",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/103"
+      },
+      {
+        "crn": "43834",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/103"
+      },
+      {
+        "crn": "32067",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 112",
+    "title": "Algebra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "65466",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65472",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65473",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65474",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65475",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDE",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65476",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDF",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65477",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDG",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65478",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDH",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65597",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDI",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65624",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDK",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "115 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65802",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDL",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "67300",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDO",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "71633",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDQ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "71634",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDR",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "72102",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDZ",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "64759",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MW",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      },
+      {
+        "crn": "65465",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EL2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/112"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 115",
+    "title": "Preparation for Calculus",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "49217",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68446",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68447",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "G24 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68448",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68449",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68464",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68465",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68466",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68467",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68469",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68642",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68643",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68644",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADO",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68645",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADP",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "68650",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADQ",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "301 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "49795",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADR",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "1128 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "72532",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADU",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "49797",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADV",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "49216",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADW",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "G46 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "49212",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "58801",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "103 Mumford Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      },
+      {
+        "crn": "49213",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "100 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 119",
+    "title": "Ideas in Geometry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "47768",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/119"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 124",
+    "title": "Finite Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32038",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/124"
+      },
+      {
+        "crn": "32040",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/124"
+      },
+      {
+        "crn": "32036",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "R1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/124"
+      },
+      {
+        "crn": "58743",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/124"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "10551",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/199"
+      },
+      {
+        "crn": "54467",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DE1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/199"
+      },
+      {
+        "crn": "22099",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "PC1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/199"
+      },
+      {
+        "crn": "39026",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "PC2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "2090 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/199"
+      },
+      {
+        "crn": "51989",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "PC3",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/199"
+      },
+      {
+        "crn": "65503",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "PC4",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "2051 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/199"
+      },
+      {
+        "crn": "72045",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "PC5",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "1043 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 213",
+    "title": "Basic Discrete Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32072",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/213"
+      },
+      {
+        "crn": "32076",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "106B1 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/213"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 220",
+    "title": "Calculus",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "34509",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "35101",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2090 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59544",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59545",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59546",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59547",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59548",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59549",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59550",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59551",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59552",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59562",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADR",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59564",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADS",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "40135",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADX",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "34494",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "35108",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "33443",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "40141",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD2",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "34440",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD@",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "40 Allen Residence Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59560",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59554",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59555",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59556",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59557",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59558",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59559",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59561",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "67362",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59565",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDP",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "59566",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDQ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "33431",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      },
+      {
+        "crn": "35170",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 221",
+    "title": "Calculus I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "70571",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "70572",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "46995",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "WF",
+        "instructor": "69 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "46996",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "429 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "46997",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "46998",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47000",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47001",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "170 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47008",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "WF",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47004",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "69 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47005",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47028",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47007",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "64938",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "170 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47011",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "WF",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47012",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADW",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "329 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47002",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "46992",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "48293",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "48296",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD2",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47020",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "WF",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47015",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "1136 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47016",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47017",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47019",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "131 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47022",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "1120 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47029",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47014",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "WF",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47026",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDI",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "WF",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47031",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDJ",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "WF",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47030",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDK",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "WF",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "56975",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDL",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "WF",
+        "instructor": "138 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "50737",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "WF",
+        "instructor": "138 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "46999",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDN",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "WF",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "48292",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDQ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "WF",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47023",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      },
+      {
+        "crn": "47013",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 225",
+    "title": "Introductory Matrix Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "55844",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/225"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 231",
+    "title": "Calculus II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "49232",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2090 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46907",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "49238",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "0036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46844",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46849",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46851",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46858",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "58983",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46853",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46856",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "1051 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "58982",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "58984",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "58985",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46899",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46905",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "58986",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADP",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "56755",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADT",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "56986",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADU",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46860",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "180 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46908",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "180 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "56751",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "180 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46881",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "TR",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46861",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46862",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "50605",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "49233",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46868",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46877",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "G32 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46882",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDJ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46864",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDK",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "50606",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDL",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "144 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46888",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46883",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDN",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46896",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDO",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46889",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDP",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "59727",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDT",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "49991",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "EDW",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46880",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      },
+      {
+        "crn": "46897",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EL2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/231"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 241",
+    "title": "Calculus III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "47037",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47038",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "52590",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "56592",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47040",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "56594",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47057",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47041",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47056",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "104 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51398",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47045",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "56590",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "49246",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59744",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "49249",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADO",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "62214",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADP",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51400",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADQ",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59328",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "MWF",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47036",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "50384",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "0036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47042",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51991",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD3",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "0036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47039",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "49247",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51402",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59729",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDD",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59728",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59730",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59731",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59732",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "50549",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51403",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59733",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDM",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59736",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDN",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59737",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BDO",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "49251",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47058",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "52589",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CD@",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "151 Allen Residence Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47052",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDA",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "69 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47055",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59739",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "315 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59741",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDE",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "49248",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDF",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47048",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDG",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47672",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDH",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "49250",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDI",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "56593",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDJ",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51401",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDK",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51399",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59740",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDM",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "59735",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDO",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47046",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDP",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "62213",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "CDQ",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47043",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "51397",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CL2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "141 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "64920",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DDB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "50756",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DDC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "64921",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DDE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "217 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "68121",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DDF",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "331 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "47044",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "DL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1404 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "68120",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "HD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "68122",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "HD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "68123",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "HD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      },
+      {
+        "crn": "50501",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "HL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "119 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/241"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 257",
+    "title": "Linear Algebra with Computational Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "74605",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74606",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74607",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74651",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "T",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74643",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74644",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "77914",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74647",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "76217",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "76219",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1G",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74650",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1H",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74646",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1N",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74642",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2A",
+        "startTime": "08:00",
+        "endTime": "08:50",
+        "day": "R",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74652",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2B",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "139 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74654",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "76216",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "76218",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "76220",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2G",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "75434",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2N",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74645",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74614",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74648",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74649",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3G",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "75433",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3N",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74653",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "77915",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74656",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74657",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4F",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74658",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4G",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74659",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4H",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "206 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74655",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4N",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74609",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "LB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74613",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "LC",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74611",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "LE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      },
+      {
+        "crn": "74612",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "LF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/257"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 285",
+    "title": "Intro Differential Equations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "51206",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/285"
+      },
+      {
+        "crn": "51208",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "0027/1025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/285"
+      },
+      {
+        "crn": "51209",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "100 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/285"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 299",
+    "title": "Topics in Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "50014",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/299"
+      },
+      {
+        "crn": "50015",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EL2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 347",
+    "title": "Fundamental Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "34498",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      },
+      {
+        "crn": "34448",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "139 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      },
+      {
+        "need attention": "yes",
+        "crn": "66654"
+      },
+      {
+        "crn": "65074",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      },
+      {
+        "crn": "34450",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      },
+      {
+        "crn": "34383",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "329 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      },
+      {
+        "crn": "34395",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "329 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      },
+      {
+        "crn": "68430",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1H",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      },
+      {
+        "crn": "34444",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "3217 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/347"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 357",
+    "title": "Numerical Methods I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "63537",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "M",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/357"
+      },
+      {
+        "crn": "53281",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "12:30",
+        "endTime": "13:45",
+        "day": "TR",
+        "instructor": "3031 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/357"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 362",
+    "title": "Probability with Engrg Applic",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "54661",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "3013 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/362"
+      },
+      {
+        "crn": "64889",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "3017 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/362"
+      },
+      {
+        "crn": "54663",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3017 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/362"
+      },
+      {
+        "crn": "54664",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "3017 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/362"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 390",
+    "title": "Individual Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "10553",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 399",
+    "title": "Math/Actuarial Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "59202",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "M",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 402",
+    "title": "Non Euclidean Geometry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32099",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q13",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/402"
+      },
+      {
+        "crn": "39112",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q14",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 403",
+    "title": "Euclidean Geometry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30344",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E13",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/403"
+      },
+      {
+        "crn": "39114",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E14",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "132 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 405",
+    "title": "Teacher's Course",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "54459",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B13",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/405"
+      },
+      {
+        "crn": "54460",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B14",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "111 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 412",
+    "title": "Graph Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30348",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C13",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "156 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/412"
+      },
+      {
+        "crn": "39116",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C14",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "156 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/412"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 413",
+    "title": "Intro to Combinatorics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "33533",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D13",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/413"
+      },
+      {
+        "crn": "39117",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D14",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/413"
+      },
+      {
+        "crn": "62937",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X13",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/413"
+      },
+      {
+        "crn": "62938",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X14",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "3101 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/413"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 415",
+    "title": "Applied Linear Algebra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "63037",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "141 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/415"
+      },
+      {
+        "crn": "34447",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N13",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "G36 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/415"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 416",
+    "title": "Abstract Linear Algebra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "54464",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B13",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "54465",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B14",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "51390",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3H",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "57836",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C13",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "57837",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C14",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "223 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "55159",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E13",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "69245",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E14",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "67250",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F13",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "67251",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F14",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "55582",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M13",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      },
+      {
+        "crn": "55583",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M14",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/416"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 417",
+    "title": "Intro to Abstract Algebra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32108",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C13",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      },
+      {
+        "crn": "32110",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C14",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "149 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      },
+      {
+        "crn": "32112",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D13",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      },
+      {
+        "crn": "32114",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D14",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      },
+      {
+        "crn": "72897",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E13",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      },
+      {
+        "crn": "65076",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E14",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      },
+      {
+        "crn": "32103",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M13",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      },
+      {
+        "crn": "32106",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M14",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "150 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/417"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 423",
+    "title": "Differential Geometry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30352",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D13",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/423"
+      },
+      {
+        "crn": "39127",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D14",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/423"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 424",
+    "title": "Honors Real Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "47761",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1030 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/424"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 427",
+    "title": "Honors Abstract Algebra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "49850",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/427"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 428",
+    "title": "Honors Topics in Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "47762",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/428"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 441",
+    "title": "Differential Equations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32116",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B13",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      },
+      {
+        "crn": "32118",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B14",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      },
+      {
+        "crn": "32120",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C13",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      },
+      {
+        "crn": "32123",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C14",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "1065 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      },
+      {
+        "crn": "57793",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E13",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      },
+      {
+        "crn": "57794",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E14",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      },
+      {
+        "crn": "62941",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F13",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      },
+      {
+        "crn": "62942",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F14",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/441"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 442",
+    "title": "Intro Partial Diff Equations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "59619",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F13",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/442"
+      },
+      {
+        "crn": "59620",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F14",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/442"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 444",
+    "title": "Elementary Real Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "66403",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B13",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      },
+      {
+        "crn": "66404",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B14",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      },
+      {
+        "crn": "32125",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C13",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      },
+      {
+        "crn": "32127",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C14",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      },
+      {
+        "crn": "32132",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M13",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      },
+      {
+        "crn": "32134",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M14",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1066 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      },
+      {
+        "crn": "32129",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X13",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      },
+      {
+        "crn": "32130",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X14",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1060 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/444"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 446",
+    "title": "Applied Complex Variables",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "59648",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C13",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/446"
+      },
+      {
+        "crn": "59650",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C14",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/446"
+      },
+      {
+        "crn": "30355",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F13",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/446"
+      },
+      {
+        "crn": "39130",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F14",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "3025 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/446"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 447",
+    "title": "Real Variables",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32136",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D13",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "163 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/447"
+      },
+      {
+        "crn": "32137",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D14",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "163 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/447"
+      },
+      {
+        "crn": "32138",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F13",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/447"
+      },
+      {
+        "crn": "32139",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F14",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "322 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/447"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 448",
+    "title": "Complex Variables",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30356",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M13",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/448"
+      },
+      {
+        "crn": "39131",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M14",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2078 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/448"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 450",
+    "title": "Numerical Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "36039",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BL1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/450"
+      },
+      {
+        "crn": "36042",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BL2",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "TR",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 453",
+    "title": "Number Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "32140",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D13",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/453"
+      },
+      {
+        "crn": "32144",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D14",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/453"
+      },
+      {
+        "crn": "32147",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M13",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/453"
+      },
+      {
+        "crn": "32150",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M14",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 461",
+    "title": "Probability Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "39200",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P13",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/461"
+      },
+      {
+        "crn": "39201",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P14",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "311 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 463",
+    "title": "Statistics and Probability I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "35018",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD1",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "W",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "63083",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD2",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "49237",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD3",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "W",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "49242",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD4",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "65037",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD5",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "W",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "65039",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD6",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "77398",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD7",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "W",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "77400",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "UD8",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "46965",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "49235",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UL2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "33413",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "W",
+        "instructor": "386 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "49240",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD2",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "W",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "33376",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD3",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "W",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "33474",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD4",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "W",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "35036",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD5",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "W",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "35029",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD6",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "35042",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD7",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "W",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "35014",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "YD8",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "38763",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "YL1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      },
+      {
+        "crn": "38765",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "YL2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "100 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/463"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 464",
+    "title": "Statistics and Probability II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "65079",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1GR",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      },
+      {
+        "crn": "65081",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1UG",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      },
+      {
+        "crn": "58797",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2GR",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      },
+      {
+        "crn": "58799",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "2UG",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      },
+      {
+        "crn": "65612",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3GR",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      },
+      {
+        "crn": "65614",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "3UG",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      },
+      {
+        "crn": "35497",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4GR",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "160 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      },
+      {
+        "crn": "35710",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "4UG",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "160 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/464"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 466",
+    "title": "Applied Random Processes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "76790",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D13",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/466"
+      },
+      {
+        "crn": "76794",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D14",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 473",
+    "title": "Algorithms",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "70172",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S4",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/473"
+      },
+      {
+        "crn": "72229",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S4G",
+        "startTime": "14:00",
+        "endTime": "15:15",
+        "day": "TR",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/473"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 475",
+    "title": "Formal Models of Computation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "35897",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C3",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/475"
+      },
+      {
+        "crn": "35903",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C4",
+        "startTime": "09:30",
+        "endTime": "10:45",
+        "day": "MW",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 481",
+    "title": "Vector and Tensor Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "72294",
+        "status": "restricted",
+        "type": "Online",
+        "section": "XGR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 482",
+    "title": "Linear Programming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30808",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C13",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/482"
+      },
+      {
+        "crn": "39139",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C14",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/482"
+      },
+      {
+        "crn": "66990",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E13",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/482"
+      },
+      {
+        "crn": "66991",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E14",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "140 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/482"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 484",
+    "title": "Nonlinear Programming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30809",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F13",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/484"
+      },
+      {
+        "crn": "39140",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F14",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/484"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 487",
+    "title": "Advanced Engineering Math",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "67685",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B13",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/487"
+      },
+      {
+        "crn": "69829",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B14",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/487"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 489",
+    "title": "Dynamics & Differential Eqns",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30810",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P13",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/489"
+      },
+      {
+        "crn": "39141",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P14",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 490",
+    "title": "Advanced Topics in Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "61255",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "QIT",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/490"
+      },
+      {
+        "crn": "54837",
+        "status": "restricted",
+        "type": "Online",
+        "section": "XGR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 492",
+    "title": "Undergraduate Research in Math",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "64803",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 499",
+    "title": "Introduction Graduate Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "64054",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 500",
+    "title": "Abstract Algebra I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30815",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "115 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 502",
+    "title": "Commutative Algebra",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30817",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 510",
+    "title": "Riemann Surf & Algebraic Curv",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "39228",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "Q1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "162 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 512",
+    "title": "Modern Algebraic Geometry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "65388",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/512"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 518",
+    "title": "Differentiable Manifolds I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "52652",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/518"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 520",
+    "title": "Symplectic Geometry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "71342",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/520"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 526",
+    "title": "Algebraic Topology II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "59521",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "108 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/526"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 531",
+    "title": "Analytic Theory of Numbers I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30823",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/531"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 535",
+    "title": "General Topology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "59520",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/535"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 540",
+    "title": "Real Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30824",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "1022 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 542",
+    "title": "Complex Variables I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30825",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "134 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 546",
+    "title": "Hilbert Spaces",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "39221",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "312 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 547",
+    "title": "Banach Spaces",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "67682",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "1038 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/547"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 550",
+    "title": "Dynamical Systems I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30826",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 554",
+    "title": "Linear Analysis and Partial Differential Equations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "30828",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "S1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G18 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/554"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 562",
+    "title": "Theory of Probability II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "33567",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "G30 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 563",
+    "title": "Risk Modeling and Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "67684",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "P1",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "1040 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/563"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 564",
+    "title": "Applied Stochastic Processes",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "33547",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "307 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/564"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 581",
+    "title": "Extremal Graph Theory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "64461",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 593",
+    "title": "Mathematical Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "65166",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "RPM",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/593"
+      },
+      {
+        "crn": "65165",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "YB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 595",
+    "title": "Advanced Topics in Mathematics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "46710",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GTT",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "325 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/595"
+      },
+      {
+        "crn": "51374",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RZF",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "214 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/595"
+      },
+      {
+        "crn": "63378",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SD",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "310 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 597",
+    "title": "Reading Course",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "10556",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "MATH 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MATH",
+    "sections": [
+      {
+        "crn": "10600",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MATH/599"
+      }
+    ]
+  }
+]

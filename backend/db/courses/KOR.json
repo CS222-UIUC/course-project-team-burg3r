@@ -1,0 +1,132 @@
+[
+  {
+    "courseCode": "KOR 201",
+    "title": "Elementary Korean I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/KOR",
+    "sections": [
+      {
+        "crn": "30541",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWRF",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/201"
+      },
+      {
+        "crn": "42447",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWRF",
+        "instructor": "242 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "KOR 203",
+    "title": "Intermediate Korean I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/KOR",
+    "sections": [
+      {
+        "crn": "30543",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWRF",
+        "instructor": "138 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/203"
+      },
+      {
+        "crn": "67139",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "E",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWRF",
+        "instructor": "138 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "KOR 221",
+    "title": "Korean Reading and Writing I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/KOR",
+    "sections": [
+      {
+        "crn": "30546",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "X",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "170 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "KOR 241",
+    "title": "Korean Reading and Writing III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/KOR",
+    "sections": [
+      {
+        "crn": "30547",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "1118 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/241"
+      }
+    ]
+  },
+  {
+    "courseCode": "KOR 305",
+    "title": "Advanced Korean I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/KOR",
+    "sections": [
+      {
+        "crn": "30548",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWRF",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/305"
+      }
+    ]
+  },
+  {
+    "courseCode": "KOR 440",
+    "title": "Fourth Year Korean I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/KOR",
+    "sections": [
+      {
+        "crn": "43687",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "E",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1046 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/KOR/440"
+      }
+    ]
+  }
+]

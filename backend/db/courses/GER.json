@@ -1,0 +1,686 @@
+[
+  {
+    "courseCode": "GER 101",
+    "title": "Beginning German I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "37582",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/101"
+      },
+      {
+        "crn": "37579",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/101"
+      },
+      {
+        "crn": "37584",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/101"
+      },
+      {
+        "crn": "37587",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/101"
+      },
+      {
+        "crn": "37583",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 102",
+    "title": "Beginning German II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "32327",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/102"
+      },
+      {
+        "crn": "49444",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/102"
+      },
+      {
+        "crn": "49443",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 103",
+    "title": "Intermediate German I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "32349",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MTWR",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/103"
+      },
+      {
+        "crn": "32330",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MTWR",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/103"
+      },
+      {
+        "crn": "46029",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/103"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 104",
+    "title": "Intermediate German II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "32359",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MTWR",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/104"
+      },
+      {
+        "crn": "51113",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MTWR",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/104"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 191",
+    "title": "Freshman Honors Tutorial",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "10276",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/191"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "10279",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/199"
+      },
+      {
+        "crn": "64578",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LJ1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "212 1205 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 211",
+    "title": "Conversation and Writing I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "47970",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "214 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 212",
+    "title": "Conversation and Writing II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "46780",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "X",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "136 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/212"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 251",
+    "title": "Grimm's Fairy Tales in Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "61886",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/251"
+      },
+      {
+        "crn": "61887",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "212 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/251"
+      },
+      {
+        "crn": "61888",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "222 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/251"
+      },
+      {
+        "crn": "61867",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "1092 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 270",
+    "title": "Sexuality and Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "55781",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DIS",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "207 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/270"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 299",
+    "title": "Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "50899",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 320",
+    "title": "German for Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "46782",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "TR",
+        "instructor": "1046 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 385",
+    "title": "Politics of the European Union",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "44149",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/385"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 403",
+    "title": "German-English Translation: Theory & Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "30444",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1040 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 460",
+    "title": "Principles of Language Testing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "33696",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/460"
+      },
+      {
+        "crn": "33435",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 473",
+    "title": "1920s to Today",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "49441",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "301 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/473"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 489",
+    "title": "Theoretical Foundations of SLA",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "33656",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/489"
+      },
+      {
+        "crn": "33457",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "219 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/489"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 491",
+    "title": "Honors Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "10289",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 494",
+    "title": "German Cinema II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "78147",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "G20 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 496",
+    "title": "Special Topics German Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "10291",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/496"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 510",
+    "title": "Introduction to Graduate Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "30463",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "day": "W",
+        "instructor": "1120 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 511",
+    "title": "Applied Literary Translation I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "72615",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "3072E Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/511"
+      },
+      {
+        "crn": "73865",
+        "status": "restricted",
+        "type": "Online",
+        "section": "E",
+        "startTime": "15:30",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 575",
+    "title": "20thC German Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "30467",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "108 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 582",
+    "title": "German Language Teaching",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "30472",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "G48 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 588",
+    "title": "Sem Second Lang Learn",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "61203",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/588"
+      },
+      {
+        "crn": "35547",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "MW",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/588"
+      },
+      {
+        "crn": "59516",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SM",
+        "startTime": "13:20",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 593",
+    "title": "Research in Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "10295",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "GER 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/GER",
+    "sections": [
+      {
+        "crn": "10297",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/GER/599"
+      }
+    ]
+  }
+]

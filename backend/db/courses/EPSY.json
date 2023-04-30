@@ -1,0 +1,1338 @@
+[
+  {
+    "courseCode": "EPSY 201",
+    "title": "Educational Psychology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "33963",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33965",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33966",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33967",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33968",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33969",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33970",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33972",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33974",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD9",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "62839",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      },
+      {
+        "crn": "33961",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "114 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 202",
+    "title": "Exploring Cultural Diversity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "32135",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/202"
+      },
+      {
+        "crn": "32157",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/202"
+      },
+      {
+        "crn": "32170",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/202"
+      },
+      {
+        "crn": "32174",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/202"
+      },
+      {
+        "crn": "41836",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "215 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/202"
+      },
+      {
+        "crn": "41837",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/202"
+      },
+      {
+        "crn": "32176",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AE1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 220",
+    "title": "Career Theory and Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "33986",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/220"
+      },
+      {
+        "crn": "33998",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/220"
+      },
+      {
+        "crn": "33996",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/220"
+      },
+      {
+        "crn": "56893",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/220"
+      },
+      {
+        "crn": "33991",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "T",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/220"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 222",
+    "title": "Language & Culture of Deaf Communities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "63288",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C01",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 395",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "10045",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/395"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 400",
+    "title": "Psychology of Learning in Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "44201",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G2",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/400"
+      },
+      {
+        "crn": "44203",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/400"
+      },
+      {
+        "crn": "44204",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 401",
+    "title": "Child Language and Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "44173",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G2",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/401"
+      },
+      {
+        "crn": "44177",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/401"
+      },
+      {
+        "crn": "44179",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 405",
+    "title": "Personality and Soc Dev",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "41267",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GR",
+        "startTime": "15:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/405"
+      },
+      {
+        "crn": "37974",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "UG",
+        "startTime": "15:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 408",
+    "title": "Learning and Human Development with Educational Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "73605",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/408"
+      },
+      {
+        "crn": "46887",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/408"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 419",
+    "title": "Counseling Psychology Pre-Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "74824",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/419"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 420",
+    "title": "Theories of Psychotherapy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "34001",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "1302 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 430",
+    "title": "Early Adolescent Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "66101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/430"
+      },
+      {
+        "crn": "67048",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 456",
+    "title": "Human Performance and Cognition in Context",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "63804",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AG4",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/456"
+      },
+      {
+        "crn": "63803",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AU3",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "37 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/456"
+      },
+      {
+        "crn": "75062",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GO",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/456"
+      },
+      {
+        "crn": "75061",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UGO",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/456"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 466",
+    "title": "Anthropology of Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "47818",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/466"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 480",
+    "title": "Educational Statistics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "58875",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 485",
+    "title": "Assessing Student Performance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "66121",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/485"
+      },
+      {
+        "crn": "66122",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/485"
+      },
+      {
+        "crn": "67450",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "17 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/485"
+      },
+      {
+        "crn": "67690",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALG",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/485"
+      },
+      {
+        "crn": "34011",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "ALU",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 487",
+    "title": "Principles of Language Testing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "33694",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G4",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/487"
+      },
+      {
+        "crn": "33432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "1022 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/487"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 491",
+    "title": "Educational Psychology Field Instruction",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "10047",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 492",
+    "title": "History and Systems of Psychology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "66289",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NH",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 508",
+    "title": "Display/Interpretation of Data",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "71376",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/508"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 510",
+    "title": "Counseling Psych/Ethics ProSem",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "30285",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 520",
+    "title": "Counseling Psychology Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "38854",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "210A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/520"
+      },
+      {
+        "crn": "32258",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "210A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/520"
+      },
+      {
+        "crn": "77029",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "1112 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/520"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 521",
+    "title": "Group Counseling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "61091",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "210A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/521"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 546",
+    "title": "Human Factors in Health Care Engineering Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "77312",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "136 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 550",
+    "title": "Methods of Educational Inquiry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "72567",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "M",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/550"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 551",
+    "title": "Seminar in Cognitive Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "48227",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1002 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/551"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 553",
+    "title": "Global Issues in Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "75154",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/553"
+      },
+      {
+        "crn": "75155",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/553"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 555",
+    "title": "Advanced Educational Technologies for Engagement and Interactive Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "70820",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/555"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 559",
+    "title": "Advanced Learning Technologies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "73606",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/559"
+      },
+      {
+        "crn": "73604",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/559"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 560",
+    "title": "Technology and Educational Change",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "78129",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/560"
+      },
+      {
+        "crn": "78130",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/560"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 575",
+    "title": "Mixed Method Inquiry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "51233",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/575"
+      },
+      {
+        "crn": "73554",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 578",
+    "title": "Qualitative Inquiry Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "75067",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "17:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/578"
+      },
+      {
+        "crn": "75423",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/578"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 580",
+    "title": "Statistical Inference in Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "30296",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "428 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/580"
+      },
+      {
+        "crn": "69382",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/580"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 582",
+    "title": "Advanced Statistical Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "52010",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 584",
+    "title": "Multivar Anlys in Psych and Ed",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "38134",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:30",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "1027 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/584"
+      },
+      {
+        "crn": "42006",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/584"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 585",
+    "title": "Theories of Measurement I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "34110",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/585"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 590",
+    "title": "Advanced Seminar in Educational Psychology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "52729",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "210A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "34086",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AO",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "43279",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AP",
+        "startTime": "10:20",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "188S Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "34092",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BH",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "210A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "34095",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BM",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "34104",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "59005",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IAA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "61424",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ITE",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "34107",
+        "status": "restricted",
+        "type": "Online",
+        "section": "JJ",
+        "startTime": "10:00",
+        "endTime": "13:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "60849",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ML",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "41251",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SBD",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "53677",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SEM",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      },
+      {
+        "crn": "71944",
+        "status": "restricted",
+        "type": "Online",
+        "section": "TA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 591",
+    "title": "Field Study and Thesis Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "10380",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 595",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "10050",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPSY 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY",
+    "sections": [
+      {
+        "crn": "10058",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPSY/599"
+      }
+    ]
+  }
+]

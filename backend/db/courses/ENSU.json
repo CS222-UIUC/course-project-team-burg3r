@@ -1,0 +1,38 @@
+[
+  {
+    "courseCode": "ENSU 303",
+    "title": "Sustainable Business I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENSU",
+    "sections": [
+      {
+        "crn": "60220",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:00",
+        "day": "S",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENSU/303"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENSU 310",
+    "title": "Renewable & Alternative Energy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENSU",
+    "sections": [
+      {
+        "crn": "66365",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENSU/310"
+      }
+    ]
+  }
+]

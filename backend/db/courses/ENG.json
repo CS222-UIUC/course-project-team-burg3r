@@ -1,0 +1,2513 @@
+[
+  {
+    "courseCode": "ENG 100",
+    "title": "Grainger Engineering Orientation Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "34132",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AB1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34117",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34119",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34121",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34124",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE4",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34127",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "60379",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE6",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "75326",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "325 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61442",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AE8",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "169 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "40911",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BI1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "309 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "48163",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BI2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57828",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BI3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "66922",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BI4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "3013 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34218",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BI5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34136",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BI6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34137",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "3017 Civil & Envir Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34141",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34143",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "2015 Civil & Envir Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34147",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "1311 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34149",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "2310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34153",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE6",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34227",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE7",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "147 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34180",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CE8",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61443",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CE9",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "49978",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "327 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "49982",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "49984",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "49985",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH4",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "49986",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH5",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "214 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "50801",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH6",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "56778",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH8",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34155",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34158",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34164",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34169",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "2013 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34175",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34212",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS7",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "56704",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CS8",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "56705",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CS9",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57833",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CSA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57834",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CSB",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57835",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CSC",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "76253",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CSD",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "76285",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CSE",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "76371",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CSF",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34183",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34185",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34188",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34190",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34192",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE5",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34194",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE6",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "2013 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34196",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE7",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34199",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE8",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34201",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EE9",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34203",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEA",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34207",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEB",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34172",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEC",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3310 Newmark Civil Engineering Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "48168",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEF",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34177",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEG",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57841",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEH",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57842",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEI",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57846",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEL",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57848",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEM",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "60784",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEN",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34219",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EEP",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34221",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EEQ",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "143 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34223",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EER",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "57845",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EES",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1302 Siebel Center for Comp Sci",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34224",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EP1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "45822",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EP2",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "59053",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EP3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61445",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EP4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "77288",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EP5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "59223",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EP6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34241",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IS1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34239",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IS2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "312 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "56582",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IS3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "56583",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IS4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "56584",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IS5",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "56585",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IS6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34242",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34244",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34245",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME3",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "119 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34247",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME4",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "TR",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34248",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34250",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME6",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "40069",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME7",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34254",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME8",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "40068",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ME9",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "45823",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MEA",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "147 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "48146",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MEB",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "G18 Literatures, Cultures, & Ling",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "48147",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MEC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34256",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "40070",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS3",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "204 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "40071",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS4",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "123 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "70907",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MS5",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34259",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NU1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "34215",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "NU2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61446",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61447",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61448",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61449",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "137 Henry Administration Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "61450",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD5",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "69405",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD7",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "69408",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD8",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      },
+      {
+        "crn": "69409",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UD9",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "127 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 101",
+    "title": "Engineering at Illinois",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "72410",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "164 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72411",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "3017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72412",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72413",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "3081 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72414",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "56407",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72417",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "200 Talbot Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72418",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72419",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "3017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "74763",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD4",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "139 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "72421",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BD5",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "301 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "68381",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "BL1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "76311",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "SD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "3017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "76312",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "SD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "76313",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "SD3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "3017 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "76314",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "SD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "203 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "76316",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "SD6",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      },
+      {
+        "crn": "76309",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "SL1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "3039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 110",
+    "title": "Communicating and Presenting in Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "72083",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EB",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 111",
+    "title": "MEP Mentoring",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "76934",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M1",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "T",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/111"
+      },
+      {
+        "crn": "76936",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M2",
+        "startTime": "16:00",
+        "endTime": "17:15",
+        "day": "T",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/111"
+      },
+      {
+        "crn": "76939",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "M3",
+        "startTime": "11:00",
+        "endTime": "12:15",
+        "day": "W",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/111"
+      },
+      {
+        "crn": "76925",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M4",
+        "startTime": "16:00",
+        "endTime": "17:15",
+        "day": "W",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/111"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 177",
+    "title": "Engineering First-Year Experience Seminars",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "71608",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GCH",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "207 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71588",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GH",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71578",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GSL",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71602",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "LD",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71584",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SC1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "TR",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71616",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SD1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "301 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71612",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SI1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "2320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71579",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SI",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71595",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "2039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71610",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SPV",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "103 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71613",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SR1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "71614",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SS1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "106B6 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      },
+      {
+        "crn": "72711",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TDO",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/177"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 198",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "75218",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CYB",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "106B3 Engineering Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/198"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "48926",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DSP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/199"
+      },
+      {
+        "crn": "71998",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ISR",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/199"
+      },
+      {
+        "crn": "72197",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "PB1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "F",
+        "instructor": "2320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/199"
+      },
+      {
+        "crn": "69478",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PB2",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/199"
+      },
+      {
+        "crn": "69585",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PLT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/199"
+      },
+      {
+        "crn": "66913",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PUR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/199"
+      },
+      {
+        "crn": "50330",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "UGR",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "2036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 211",
+    "title": "Empowering Academic Success",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "77672",
+        "status": "restricted",
+        "type": "Online",
+        "section": "EAS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/211"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 261",
+    "title": "Technology & Mgmt Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "59962",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TM",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/261"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 298",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "73119",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CSP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/298"
+      },
+      {
+        "crn": "78483",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "STE",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "R",
+        "instructor": "2320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/298"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 299",
+    "title": "Engineering Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "30129",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 300",
+    "title": "Engineering Transfer Orientation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "30131",
+        "status": "restricted",
+        "type": "Online",
+        "section": "T",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/300"
+      },
+      {
+        "crn": "72290",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TR2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/300"
+      },
+      {
+        "crn": "72291",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TR3",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "147 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/300"
+      },
+      {
+        "crn": "72292",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TR4",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/300"
+      },
+      {
+        "crn": "72295",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TR5",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "2015 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/300"
+      },
+      {
+        "crn": "72296",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TR6",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "2015 Civil Eng Hydrosystems Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/300"
+      },
+      {
+        "crn": "72297",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TR7",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "137 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 310",
+    "title": "Engineering Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "70847",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/310"
+      },
+      {
+        "crn": "30134",
+        "status": "restricted",
+        "type": "Online",
+        "section": "FT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/310"
+      },
+      {
+        "crn": "68231",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 398",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "62338",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "206 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "63944",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "305 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "65954",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "313 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "66606",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE4",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "76343",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE5",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "76383",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE6",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "212 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "54765",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE7",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "113 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "52314",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE8",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "67274",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GE9",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "36 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "77204",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GEA",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "214 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "77207",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GEB",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "113 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "77211",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GED",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "77214",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GEE",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "214 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "77218",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GEF",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "77227",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GEH",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "313 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      },
+      {
+        "crn": "77228",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GEI",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "214 Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 411",
+    "title": "Engineering Ambassadors Leadership Training",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "77160",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EA",
+        "startTime": "20:00",
+        "endTime": "20:50",
+        "day": "W",
+        "instructor": "4039 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/411"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 471",
+    "title": "Seminar Energy & Sustain Engrg",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "61836",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "114 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/471"
+      },
+      {
+        "crn": "62948",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/471"
+      },
+      {
+        "crn": "58954",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 491",
+    "title": "Interdisciplinary Design Proj",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "41009",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "CU1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/491"
+      },
+      {
+        "crn": "51964",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "SAE",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "2035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 498",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "65346",
+        "status": "restricted",
+        "type": "Online",
+        "section": "FSN",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/498"
+      },
+      {
+        "crn": "59220",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "GCM",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 510",
+    "title": "Engineering Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "30141",
+        "status": "restricted",
+        "type": "Practice",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 571",
+    "title": "Theory Energy & Sustain Engrg",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "71641",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/571"
+      },
+      {
+        "crn": "68227",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 572",
+    "title": "Professional Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "77872",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/572"
+      },
+      {
+        "crn": "75245",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ASE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/572"
+      },
+      {
+        "crn": "71896",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ECE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/572"
+      },
+      {
+        "crn": "64171",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ES",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/572"
+      },
+      {
+        "crn": "72149",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ME",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/572"
+      },
+      {
+        "crn": "73323",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "PE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/572"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 573",
+    "title": "Capstone Project",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "72390",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ALC",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      },
+      {
+        "crn": "75240",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      },
+      {
+        "crn": "75239",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ASE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      },
+      {
+        "crn": "71961",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ECE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      },
+      {
+        "crn": "64174",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ES",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      },
+      {
+        "crn": "72466",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ESN",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      },
+      {
+        "crn": "72146",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ME",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "0036 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      },
+      {
+        "crn": "73326",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "PE",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/573"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 591",
+    "title": "Engineering Advanced Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "71730",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "W",
+        "instructor": "2058 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/591"
+      },
+      {
+        "crn": "77342",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DEI",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/591"
+      },
+      {
+        "crn": "68241",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MF3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1306 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/591"
+      },
+      {
+        "crn": "78379",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PR1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/591"
+      },
+      {
+        "crn": "71692",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PRO",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ENG 598",
+    "title": "Special Topics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ENG",
+    "sections": [
+      {
+        "crn": "69679",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TL2",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/598"
+      },
+      {
+        "crn": "68907",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TL",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "1002 Electrical & Computer Eng Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ENG/598"
+      }
+    ]
+  }
+]

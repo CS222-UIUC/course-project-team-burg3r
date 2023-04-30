@@ -1,0 +1,226 @@
+[
+  {
+    "courseCode": "ARTE 202",
+    "title": "Facilitating the Art Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "47898",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ED",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "320 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 203",
+    "title": "Everyday Arts Lab",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "30093"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 204",
+    "title": "Practicum Teaching Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "65152",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "TD2",
+        "startTime": "14:00",
+        "endTime": "17:30",
+        "day": "MW",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/204"
+      },
+      {
+        "crn": "47897",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "TD",
+        "startTime": "14:00",
+        "endTime": "17:30",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/204"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 302",
+    "title": "Art-Centered Learning at the Secondary Level",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "30101",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "F4",
+        "startTime": "09:30",
+        "endTime": "11:20",
+        "day": "TR",
+        "instructor": "320 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/302"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 391",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "10367",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/391"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 401",
+    "title": "Teaching Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "30111",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 475",
+    "title": "Art Exhibition Practices",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "61370",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KHG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/475"
+      },
+      {
+        "crn": "61368",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "KHU",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "129 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/475"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 502",
+    "title": "Curriculum Development in Art",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "51767",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "ST",
+        "startTime": "09:00",
+        "endTime": "11:40",
+        "day": "W",
+        "instructor": "131 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 591",
+    "title": "Independent Graduate Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "10370",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/591"
+      },
+      {
+        "crn": "36972",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "F",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "410 Flagg Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 593",
+    "title": "Survey: Qualitative Methodologies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "70480",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTE 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE",
+    "sections": [
+      {
+        "crn": "10372",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTE/599"
+      }
+    ]
+  }
+]

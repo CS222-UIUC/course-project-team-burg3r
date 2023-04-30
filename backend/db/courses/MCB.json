@@ -1,0 +1,2574 @@
+[
+  {
+    "courseCode": "MCB 100",
+    "title": "Introductory Microbiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "30499",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 101",
+    "title": "Intro Microbiology Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "32502",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "242 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/101"
+      },
+      {
+        "crn": "32507",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "242 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/101"
+      },
+      {
+        "crn": "32509",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "242 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/101"
+      },
+      {
+        "crn": "32517",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "D",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "242 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/101"
+      },
+      {
+        "crn": "45652",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "242 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/101"
+      },
+      {
+        "crn": "45653",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "F",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "242 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/101"
+      },
+      {
+        "crn": "61439",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "G",
+        "startTime": "17:00",
+        "endTime": "18:50",
+        "day": "TR",
+        "instructor": "242 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 150",
+    "title": "Molec & Cellular Basis of Life",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "33820",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33854",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33660",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "59885",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "40558",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "45179",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "45215",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "45218",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "45221",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33812",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33676",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33849",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33817",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33823",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33825",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33864",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33860",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADO",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33902",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADP",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33840",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADQ",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33905",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADR",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33910",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADS",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "34009",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADT",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "52529",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADU",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "34028",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADV",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "34031",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADW",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "40543",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADX",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "40552",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADY",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "52538",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADZ",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      },
+      {
+        "crn": "33829",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/150"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 151",
+    "title": "Molec & Cellular Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "34078",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "413 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/151"
+      },
+      {
+        "crn": "34084",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "413 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/151"
+      },
+      {
+        "crn": "34093",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "413 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/151"
+      },
+      {
+        "crn": "34102",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "413 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/151"
+      },
+      {
+        "crn": "34108",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "413 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/151"
+      },
+      {
+        "crn": "45123",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "F",
+        "startTime": "11:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "413 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/151"
+      },
+      {
+        "crn": "52530",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "G",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "413 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/151"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 170",
+    "title": "Society and the Brain",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "56495",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "23 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/170"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 198",
+    "title": "Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "66994",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/198"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "41237",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BE1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/199"
+      },
+      {
+        "crn": "45222",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "BE2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/199"
+      },
+      {
+        "crn": "65027",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "LDR",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "M",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/199"
+      },
+      {
+        "crn": "45198",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M1",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/199"
+      },
+      {
+        "crn": "45216",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/199"
+      },
+      {
+        "crn": "45219",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "M3",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "105 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 244",
+    "title": "Human Anatomy & Physiology I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "56301",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/244"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 245",
+    "title": "Human Anat & Physiol Lab I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "56303",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56304",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "231 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56305",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "MW",
+        "instructor": "230 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56306",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56307",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "231 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56308",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "F",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "230 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56309",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "G",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56310",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "H",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "231 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56311",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "I",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "230 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "56312",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "J",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58101",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "K",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "MW",
+        "instructor": "231 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58103",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "M",
+        "startTime": "08:00",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58104",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "N",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58105",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "O",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "231 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58106",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "P",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "230 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58107",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "Q",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58108",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "R",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "231 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58109",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "S",
+        "startTime": "12:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "230 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "58110",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "T",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "TR",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      },
+      {
+        "crn": "60052",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "W",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "TR",
+        "instructor": "215 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/245"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 250",
+    "title": "Molecular Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "45426",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34034",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34037",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33844",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33852",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33856",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33861",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34039",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33865",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34051",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33904",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33908",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADM",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33911",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADN",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34019",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADO",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "40568",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADQ",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34008",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADR",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33900",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADS",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34012",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADT",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "34016",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADU",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "45428",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADY",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "45427",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADZ",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "106 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      },
+      {
+        "crn": "33831",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 251",
+    "title": "Exp Techniqs in Molecular Biol",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "33654",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "33674",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "186 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "33847",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "D",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "33916",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "186 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34046",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "G",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34053",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "H",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "186 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34074",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "J",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34081",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "K",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "186 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34100",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "M",
+        "startTime": "14:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34106",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "N",
+        "startTime": "14:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "186 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34120",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "P",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34125",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "Q",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "186 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34134",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "S",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34140",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "T",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "186 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      },
+      {
+        "crn": "34150",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "V",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "182 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 252",
+    "title": "Cells, Tissues & Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "47316",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "107 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/252"
+      },
+      {
+        "crn": "47317",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "107 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/252"
+      },
+      {
+        "crn": "47318",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/252"
+      },
+      {
+        "crn": "47319",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "107 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/252"
+      },
+      {
+        "crn": "47320",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "107 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/252"
+      },
+      {
+        "crn": "47321",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADG",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "107 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/252"
+      },
+      {
+        "crn": "47217",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "1320 Digital Computer Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/252"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 253",
+    "title": "Exp Techniqs in Cellular Biol",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "47328",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "17:50",
+        "day": "M",
+        "instructor": "164A Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/253"
+      },
+      {
+        "crn": "47329",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "164A Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/253"
+      },
+      {
+        "crn": "47330",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "164A Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/253"
+      },
+      {
+        "crn": "47332",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "164A Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/253"
+      },
+      {
+        "crn": "47333",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "E",
+        "startTime": "09:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "164A Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/253"
+      },
+      {
+        "crn": "47338",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "F",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "164A Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/253"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 290",
+    "title": "Undergraduate Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "41199",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/290"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 297",
+    "title": "MCB Honors Discussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "54821",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/297"
+      },
+      {
+        "crn": "54822",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/297"
+      },
+      {
+        "crn": "54823",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "C",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/297"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 298",
+    "title": "MCB Honors Lab Discussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "51869",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "M",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/298"
+      },
+      {
+        "crn": "51870",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/298"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 299",
+    "title": "MCB Merit Program Discussion",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "47874",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "50A",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "T",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/299"
+      },
+      {
+        "crn": "47875",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "50B",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/299"
+      },
+      {
+        "crn": "47876",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "54A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "M",
+        "instructor": "6 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 300",
+    "title": "Microbiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "30502",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/300"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 301",
+    "title": "Experimental Microbiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "33582",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "2100 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/301"
+      },
+      {
+        "crn": "33583",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYA",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "246 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/301"
+      },
+      {
+        "crn": "33584",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYB",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "246 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/301"
+      },
+      {
+        "crn": "33585",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYC",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "246 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/301"
+      },
+      {
+        "crn": "33586",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYD",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "246 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/301"
+      },
+      {
+        "crn": "33588",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYE",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "246 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/301"
+      },
+      {
+        "crn": "39770",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AYF",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "246 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 314",
+    "title": "Introduction to Neurobiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "55475",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MWF",
+        "instructor": "180 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 316",
+    "title": "Genetics and Disease",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "58147",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "147 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/316"
+      },
+      {
+        "crn": "58149",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "M",
+        "instructor": "147 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/316"
+      },
+      {
+        "crn": "47677",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "4101 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/316"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 320",
+    "title": "Mechanisms of Human Disease",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "78423",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/320"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 354",
+    "title": "Biochem & Phys Basis of Life",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "40596",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40597",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40598",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40599",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40600",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40615",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADF",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40603",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADH",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40604",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADI",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40606",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADJ",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40607",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADK",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40608",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADL",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40612",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADO",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "40613",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADP",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "5 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      },
+      {
+        "crn": "30495",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "2079 Natural History Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/354"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 364",
+    "title": "Eukaryotic Cell Biology Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "71748",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "488 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/364"
+      },
+      {
+        "crn": "71749",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "488 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/364"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 400",
+    "title": "Cancer Cell Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "31654",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 401",
+    "title": "Cellular Physiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "30555",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "161 Noyes Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 408",
+    "title": "Immunology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "73058",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADA",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/408"
+      },
+      {
+        "crn": "73059",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADB",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/408"
+      },
+      {
+        "crn": "73060",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADC",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/408"
+      },
+      {
+        "crn": "73061",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADD",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/408"
+      },
+      {
+        "crn": "77290",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "ADE",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "7 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/408"
+      },
+      {
+        "crn": "39780",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/408"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 413",
+    "title": "Endocrinology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "60060",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "124 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/413"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 421",
+    "title": "Microbial Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "30506",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/421"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 428",
+    "title": "Microbial Pathogens Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "32529",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "11:50",
+        "day": "TR",
+        "instructor": "495C Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/428"
+      },
+      {
+        "crn": "32533",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "TR",
+        "instructor": "495C Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/428"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 431",
+    "title": "Microbial Physiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "49714",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/431"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 432",
+    "title": "Computing in Molecular Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "73070",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "3217 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/432"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 433",
+    "title": "Virology & Viral Pathogenesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "70205",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "136 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/433"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 436",
+    "title": "Global Biosecurity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "60483",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "213 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/436"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 450",
+    "title": "Introductory Biochemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "40594",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/450"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 460",
+    "title": "Neuroanatomy Laboratory",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "78332",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "216 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/460"
+      },
+      {
+        "crn": "78333",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "216 Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/460"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 461",
+    "title": "Cell & Molecular Neuroscience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "59992",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "4029 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/461"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 492",
+    "title": "Senior Thesis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "47357",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/492"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 493",
+    "title": "Special Topics Mol Cell Biol",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "65276",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "APL",
+        "startTime": "10:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "485C Burrill Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/493"
+      },
+      {
+        "crn": "56452",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "EPI",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "1057 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/493"
+      },
+      {
+        "crn": "58507",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "GDC",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/493"
+      },
+      {
+        "crn": "50661",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "PBC",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "1000 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/493"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 501",
+    "title": "Advanced Biochemistry",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "58111",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "F",
+        "instructor": "B124 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/501"
+      },
+      {
+        "crn": "58112",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "B126 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/501"
+      },
+      {
+        "crn": "39763",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "day": "MW",
+        "instructor": "B102 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 502",
+    "title": "Advanced Molecular and Cell Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "58113",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "F",
+        "instructor": "B126 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/502"
+      },
+      {
+        "crn": "58114",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:30",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "B124 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/502"
+      },
+      {
+        "crn": "39764",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "day": "TR",
+        "instructor": "B102 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/502"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 529",
+    "title": "Special Topics in Cell and Developmental Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "31657",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "EMD",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/529"
+      },
+      {
+        "crn": "41532",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "GEM",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/529"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 530",
+    "title": "Reproductive Physiol Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "30558",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "F1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3526 Vet Med Basic Sciences Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/530"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 540",
+    "title": "Scientific Writing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "65455",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/540"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 542",
+    "title": "Interdisciplinary Approaches to Neuroscience I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "70845",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "IAN",
+        "startTime": "16:00",
+        "endTime": "17:15",
+        "day": "MW",
+        "instructor": "3018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 555",
+    "title": "Anlys Biochemical Literature",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "43038",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:20",
+        "day": "M",
+        "instructor": "ARR Roger Adams Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/555"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 580",
+    "title": "Res Ethics & Responsibilities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "63202",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "19:45",
+        "day": "M",
+        "instructor": "B102 Chemical and Life Sci Lab",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/580"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 581",
+    "title": "Laboratory Rotation I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "10583",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 582",
+    "title": "Laboratory Rotation II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "10001",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "MCB 583",
+    "title": "Laboratory Rotation III",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/MCB",
+    "sections": [
+      {
+        "crn": "10002",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/MCB/583"
+      }
+    ]
+  }
+]

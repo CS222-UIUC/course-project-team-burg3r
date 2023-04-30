@@ -1,0 +1,96 @@
+[
+  {
+    "courseCode": "ARTF 101",
+    "title": "Contemporary Issues in Art",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF",
+    "sections": [
+      {
+        "crn": "31200",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "M2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "134 Temple Hoyne Buell Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTF 102",
+    "title": "Observational Drawing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF",
+    "sections": [
+      {
+        "crn": "36986",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "209 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF/102"
+      },
+      {
+        "crn": "36989",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "209 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF/102"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTF 106",
+    "title": "Visualization Drawing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF",
+    "sections": [
+      {
+        "crn": "69929",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "16:40",
+        "day": "TR",
+        "instructor": "219 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF/106"
+      },
+      {
+        "crn": "70410",
+        "status": "restricted",
+        "type": "Studio",
+        "section": "2",
+        "startTime": "09:30",
+        "endTime": "12:10",
+        "day": "TR",
+        "instructor": "219 Art and Design Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF/106"
+      }
+    ]
+  },
+  {
+    "courseCode": "ARTF 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF",
+    "sections": [
+      {
+        "crn": "10377",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ARTF/199"
+      }
+    ]
+  }
+]

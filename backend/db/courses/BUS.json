@@ -1,0 +1,805 @@
+[
+  {
+    "courseCode": "BUS 101",
+    "title": "Professional Responsibility and Business",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "69908",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51438",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B10",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51443",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B11",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51444",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B12",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51445",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B13",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51442",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B14",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51440",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B15",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51462",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B16",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51463",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B17",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "58868",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B19",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "60217",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B20",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51437",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B21",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "1001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "74102",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B22",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "67133",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B25",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "67134",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B26",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "226 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51464",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B27",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "236 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "74100",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B28",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "170 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "74101",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B29",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "59025",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B30",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51460",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B31",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51447",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B32",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1025 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51449",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B33",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1049 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51452",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B34",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2043 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51454",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B35",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2063 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51457",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B36",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51461",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B37",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51450",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B39",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "1001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "58869",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B40",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "245 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51446",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B41",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "74107",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B42",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "2001 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "67135",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JS1",
+        "startTime": "09:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "67136",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JS2",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "51465",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JS3",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "3003 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      },
+      {
+        "crn": "74108",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JS4",
+        "startTime": "11:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "243 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 115",
+    "title": "First-Year Gies Scholar Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "73120",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "W",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/115"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "78019",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "CT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/199"
+      },
+      {
+        "crn": "78018",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "EBL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/199"
+      },
+      {
+        "crn": "58275",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "N",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/199"
+      },
+      {
+        "crn": "62587",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "SA",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 201",
+    "title": "Business Dynamics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "71327",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "71335",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "71336",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "2007 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "71337",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "71338",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "71339",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "72837",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "2011 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "72839",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      },
+      {
+        "crn": "72850",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "3057 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/201"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 215",
+    "title": "Sophomore Gies Scholar Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "73121",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/215"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 299",
+    "title": "BUS Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "50103",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 301",
+    "title": "Business in Action",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "72842",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "72847",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74724",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74725",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "D",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74726",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74727",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "F",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74728",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74733",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "H",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74734",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74736",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "J",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      },
+      {
+        "crn": "74737",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "K",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "152 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/301"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 315",
+    "title": "Junior Gies Scholar Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "73122",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "209 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/315"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 399",
+    "title": "Business Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "29739",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/399"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 401",
+    "title": "Global Business Perspectives",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "76882",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/401"
+      },
+      {
+        "crn": "76883",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "BUS 415",
+    "title": "Senior Gies Scholar Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/BUS",
+    "sections": [
+      {
+        "crn": "73123",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "2005 Business Instructional Fac",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/BUS/415"
+      }
+    ]
+  }
+]

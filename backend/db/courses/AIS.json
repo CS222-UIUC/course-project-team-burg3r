@@ -1,0 +1,125 @@
+[
+  {
+    "courseCode": "AIS 101",
+    "title": "Intro to Amer Indian Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AIS",
+    "sections": [
+      {
+        "crn": "72042",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/101"
+      },
+      {
+        "crn": "70726",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "115 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/101"
+      },
+      {
+        "crn": "72534",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "JR",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MW",
+        "instructor": "31 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "AIS 214",
+    "title": "American Indian Law & Politics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AIS",
+    "sections": [
+      {
+        "crn": "73393",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "115 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/214"
+      }
+    ]
+  },
+  {
+    "courseCode": "AIS 277",
+    "title": "Encounters in Native America",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AIS",
+    "sections": [
+      {
+        "crn": "46680",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "146 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/277"
+      }
+    ]
+  },
+  {
+    "courseCode": "AIS 295",
+    "title": "US Citizenship Comparatively",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AIS",
+    "sections": [
+      {
+        "crn": "55767",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "384 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/295"
+      }
+    ]
+  },
+  {
+    "courseCode": "AIS 481",
+    "title": "History of American Indian Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/AIS",
+    "sections": [
+      {
+        "crn": "52150",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/481"
+      },
+      {
+        "crn": "51850",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/AIS/481"
+      }
+    ]
+  }
+]

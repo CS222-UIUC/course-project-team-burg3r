@@ -1,0 +1,1549 @@
+[
+  {
+    "courseCode": "ANSC 100",
+    "title": "Intro to Animal Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "31288"
+      },
+      {
+        "need attention": "yes",
+        "crn": "31293"
+      },
+      {
+        "need attention": "yes",
+        "crn": "31298"
+      },
+      {
+        "need attention": "yes",
+        "crn": "31294"
+      },
+      {
+        "need attention": "yes",
+        "crn": "31296"
+      },
+      {
+        "need attention": "yes",
+        "crn": "72384"
+      },
+      {
+        "crn": "31300",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 103",
+    "title": "Working With Farm Animals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "29835"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 110",
+    "title": "Life With Animals and Biotech",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "40336",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CA",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "W203 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/110"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "10232",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/199"
+      },
+      {
+        "crn": "29846",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/199"
+      },
+      {
+        "crn": "52494",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SC2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/199"
+      },
+      {
+        "crn": "71901",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SCS",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "MW",
+        "instructor": "W109 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 205",
+    "title": "World Animal Resources",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "72084",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/205"
+      },
+      {
+        "crn": "75951",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/205"
+      },
+      {
+        "crn": "75952",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/205"
+      },
+      {
+        "crn": "75953",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D3",
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "day": "T",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/205"
+      },
+      {
+        "crn": "75954",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D4",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/205"
+      },
+      {
+        "crn": "75955",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D5",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 206",
+    "title": "Horse Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "29863"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 207",
+    "title": "The Science of Pets and How to Care for Them",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "51564",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AN1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "W",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/207"
+      },
+      {
+        "crn": "51565",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AN2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "R",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/207"
+      },
+      {
+        "crn": "51566",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AN3",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/207"
+      },
+      {
+        "crn": "51563",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AN7",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/207"
+      },
+      {
+        "crn": "51567",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AN8",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/207"
+      },
+      {
+        "crn": "29867",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "LN1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/207"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 210",
+    "title": "Grilling and BBQ Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "75440",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "120 Meat Science Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/210"
+      },
+      {
+        "crn": "76034",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "120 Meat Science Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/210"
+      },
+      {
+        "crn": "77665",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB4",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "T",
+        "instructor": "120 Meat Science Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/210"
+      },
+      {
+        "crn": "75439",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "OL1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/210"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 215",
+    "title": "Introduction to Animal Evaluation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "75817"
+      },
+      {
+        "need attention": "yes",
+        "crn": "76483"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 221",
+    "title": "Cells, Metabolism and Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "55435",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/221"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 222",
+    "title": "Anatomy and Physiology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "55434",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "150 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/222"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 250",
+    "title": "Companion Animals in Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "53235",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/250"
+      },
+      {
+        "crn": "73939",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/250"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 251",
+    "title": "Epidemics and Infectious Diseases",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "70556",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/251"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 255",
+    "title": "Animal Ethics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "74625",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DS1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "R",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/255"
+      },
+      {
+        "crn": "74626",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "DS2",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "W",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/255"
+      },
+      {
+        "crn": "74441",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "DS",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/255"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 256",
+    "title": "Horse's Role in Human History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "73798",
+        "status": "restricted",
+        "type": "Online",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/256"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 298",
+    "title": "Animal Science Careers and Professional Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29886",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "W115 Turner Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/298"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 305",
+    "title": "Human Animal Interactions",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "72003",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "AD1",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/305"
+      },
+      {
+        "crn": "72004",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "M",
+        "instructor": "103 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/305"
+      },
+      {
+        "crn": "29860",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/305"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 307",
+    "title": "Companion Animal Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "62773",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AN1",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/307"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 309",
+    "title": "Meat Production and Marketing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "65393"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 310",
+    "title": "Meat Selection and Grading",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29869",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "MWF",
+        "instructor": "ARR Meat Science Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 312",
+    "title": "Advanced Livestock Evaluation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29872",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "1",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "MWF",
+        "instructor": "ARENA Stock Pavilion",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/312"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 313",
+    "title": "Horse Appraisal",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29877",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "MW",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/313"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 314",
+    "title": "Adv Dairy Cattle Evaluation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29880",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "1",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "404 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/314"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 322",
+    "title": "Livestock Feeds and Feeding",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "59983",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/322"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 350",
+    "title": "Cellular Metabolism in Animals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29884",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/350"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 398",
+    "title": "UG Experiential Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "60742",
+        "status": "restricted",
+        "type": "Research",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "67632",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "AF",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60743",
+        "status": "restricted",
+        "type": "Research",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60744",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60745",
+        "status": "restricted",
+        "type": "Travel",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60746",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60747",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "F",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60748",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "G",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60749",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "H",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "60800",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "J",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "70588",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "M",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      },
+      {
+        "crn": "66080",
+        "status": "restricted",
+        "type": "Research",
+        "section": "MBW",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/398"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 400",
+    "title": "Dairy Herd Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "39811",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 401",
+    "title": "Beef Production",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29887",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 420",
+    "title": "Ruminant Nutrition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29891",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 422",
+    "title": "Companion Animal Nutrition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "69960",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "MWF",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/422"
+      },
+      {
+        "crn": "72528",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/422"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 424",
+    "title": "Pet Food & Feed Manufacturing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "70243",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/424"
+      },
+      {
+        "crn": "76193",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/424"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 431",
+    "title": "Advanced Reproductive Biology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "40958",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AR",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "MWF",
+        "instructor": "132 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/431"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 435",
+    "title": "Milk Quality and Udder Health",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "78157"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 440",
+    "title": "Applied Statistical Methods I",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "34101",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "149 National Soybean Res Ctr",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/440"
+      },
+      {
+        "crn": "34033",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/440"
+      },
+      {
+        "crn": "34050",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY3",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/440"
+      },
+      {
+        "crn": "34068",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY4",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/440"
+      },
+      {
+        "crn": "55893",
+        "status": "restricted",
+        "type": "Online Lab",
+        "section": "AY6",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/440"
+      },
+      {
+        "crn": "60436",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/440"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 441",
+    "title": "Human Genetics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "37078",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "G1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "209A Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/441"
+      },
+      {
+        "crn": "37076",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "U1",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "209A Davenport Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/441"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 445",
+    "title": "Statistical Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "67021",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 452",
+    "title": "Animal Growth and Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29889",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/452"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 471",
+    "title": "ANSC Leaders & Entrepreneurs",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "61674",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "08:00",
+        "endTime": "09:20",
+        "day": "TR",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 498",
+    "title": "Integrating Animal Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "59523",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "131 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/498"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 499",
+    "title": "Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "10254",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/499"
+      },
+      {
+        "crn": "63316",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JCM",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/499"
+      },
+      {
+        "crn": "65582",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MG2",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/499"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 523",
+    "title": "Techniques in Animal Nutrition",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29894",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "1",
+        "startTime": "14:30",
+        "endTime": "16:20",
+        "day": "TR",
+        "instructor": "107 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/523"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 524",
+    "title": "Nonruminant Nutrition Concepts",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "29895",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/524"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 525",
+    "title": "Topics in Nutrition Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "71226",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "C1",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "MW",
+        "instructor": "393 Bevier Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/525"
+      },
+      {
+        "crn": "58191",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "D",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/525"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 590",
+    "title": "Animal Sciences Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "43993",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "B1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "43994",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "B2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36763",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "43995",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "C1",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "43996",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "C2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36765",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "C",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "43997",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "D1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "43998",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "D2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36766",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "D",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "43999",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "E1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36767",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "E",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "44001",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "F1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3526 Vet Med Basic Sciences Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "44002",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "F2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3526 Vet Med Basic Sciences Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36769",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "F",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3526 Vet Med Basic Sciences Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "44005",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "H1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "404 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "44006",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "H2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "404 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36774",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "H",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "T",
+        "instructor": "404 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "44007",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "I1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "301 Architecture Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36776",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "I",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "174 Wohlers Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "44011",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "N1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "396 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "44012",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "N2",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "396 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "36777",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "N",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "F",
+        "instructor": "396 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "69940",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "O1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      },
+      {
+        "crn": "69939",
+        "status": "restricted",
+        "type": "Seminar",
+        "section": "O",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "292 Animal Sciences Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 593",
+    "title": "Res Studies in Animal Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "10258",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "ANSC 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC",
+    "sections": [
+      {
+        "crn": "10264",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/ANSC/599"
+      }
+    ]
+  }
+]

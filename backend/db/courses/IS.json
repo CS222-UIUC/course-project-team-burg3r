@@ -1,0 +1,3523 @@
+[
+  {
+    "courseCode": "IS 100",
+    "title": "Exploring the iSchool with a Human-Centered Lens",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72958",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/100"
+      },
+      {
+        "crn": "74814",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AJS",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/100"
+      },
+      {
+        "crn": "72959",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/100"
+      },
+      {
+        "crn": "72960",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BJS",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/100"
+      },
+      {
+        "crn": "72961",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TA",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/100"
+      },
+      {
+        "crn": "77713",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "TAJ",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "R",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/100"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 101",
+    "title": "Introduction to Information Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75194",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "75195",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "75196",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "75197",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "73391",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "77329",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD6",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "78280",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD7",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "78281",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD8",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      },
+      {
+        "crn": "75192",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/101"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 107",
+    "title": "Data Science Discovery",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "71693",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L1",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "THEAT Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "78227",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L2",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "AUD Foellinger Auditorium",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71694",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y01",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71695",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y02",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71696",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y03",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71697",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y04",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71698",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y05",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71699",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y06",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71700",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y07",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "W",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71701",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y08",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "W",
+        "instructor": "3117 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71702",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y09",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71703",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y10",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "R",
+        "instructor": "125 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71704",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y11",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "0018 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71705",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y12",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "3038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71706",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y13",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71707",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y14",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "R",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71708",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y15",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71709",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y16",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71710",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y17",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "209 Huff Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71711",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y18",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "R",
+        "instructor": "11 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71712",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y19",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1038 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      },
+      {
+        "crn": "71713",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "Y20",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "W",
+        "instructor": "1035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/107"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 142",
+    "title": "Social History of Games and Gaming",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77547",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/142"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 189",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77590",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/189"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76156",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/199"
+      },
+      {
+        "crn": "77710",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E1J",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/199"
+      },
+      {
+        "crn": "76157",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E2",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/199"
+      },
+      {
+        "crn": "77711",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "E2J",
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "day": "M",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 202",
+    "title": "Social Aspects Info Tech",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "68249",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD1",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "68250",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD2",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "68248",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD3",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "68251",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD4",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "68252",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "AD5",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "78404",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADA",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "78405",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADB",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "78406",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADC",
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "78407",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "ADD",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      },
+      {
+        "crn": "68247",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "AL1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MW",
+        "instructor": "0035 Campus Instructional Facility",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/202"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 203",
+    "title": "Analytical Foundations for Information Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76160",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "218 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/203"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 204",
+    "title": "Research Design for Information Sciences",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72974",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "214 Ceramics Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/204"
+      },
+      {
+        "crn": "76082",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "day": "MWF",
+        "instructor": "303 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/204"
+      },
+      {
+        "crn": "77515",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/204"
+      },
+      {
+        "crn": "76083",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/204"
+      },
+      {
+        "crn": "78328",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "MWF",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/204"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 205",
+    "title": "Programming for Information Problems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72965",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "333 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/205"
+      },
+      {
+        "crn": "77536",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "370 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/205"
+      },
+      {
+        "crn": "78329",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "C",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "243 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/205"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 206",
+    "title": "Introduction to Database Concepts & Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75223",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB1",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "F",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/206"
+      },
+      {
+        "crn": "75224",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB2",
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "day": "F",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/206"
+      },
+      {
+        "crn": "77315",
+        "status": "restricted",
+        "type": "Laboratory",
+        "section": "AB3",
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/206"
+      },
+      {
+        "crn": "72966",
+        "status": "restricted",
+        "type": "Online Lecture",
+        "section": "AL",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MW",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/206"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 226",
+    "title": "Introduction to HCI",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72975",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "1024 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/226"
+      },
+      {
+        "crn": "78282",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "166 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/226"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 229",
+    "title": "Web Design Fundamentals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72967",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "145 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/229"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 236",
+    "title": "User Research & Evaluation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73230",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "162 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/236"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 249",
+    "title": "BSIS Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78306",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/249"
+      },
+      {
+        "crn": "74826",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "RRH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/249"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 265",
+    "title": "Innovation Illinois: From Accessible Design to Supercomputing Cultures",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73135",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:00",
+        "endTime": "13:20",
+        "day": "TR",
+        "instructor": "31 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/265"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 269",
+    "title": "BSIS Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76879",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "FT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/269"
+      },
+      {
+        "crn": "74828",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "PT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/269"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 299",
+    "title": "Information Science Study Abroad",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76763",
+        "status": "restricted",
+        "type": "Study Abroad",
+        "section": "SAB",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/299"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 305",
+    "title": "Programming for Information Problems II",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75107",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "219 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/305"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 308",
+    "title": "Race, Gender, and Information Technology",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72963",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "MW",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/308"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 309",
+    "title": "Computers and Culture",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72968",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "day": "MWF",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/309"
+      },
+      {
+        "crn": "78291",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "day": "MWF",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/309"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 310",
+    "title": "Computing in the Humanities",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "73229"
+      },
+      {
+        "crn": "78292",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "MW",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 311",
+    "title": "History and Foundations of the Information Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73231",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/311"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 312",
+    "title": "Reading and Writing Data",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77601",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "MW",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/312"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 324",
+    "title": "Social Network Analysis",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73232",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "2200 Sidney Lu Mech Engr Bldg",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/324"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 327",
+    "title": "Concepts of Machine Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77469",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "day": "TR",
+        "instructor": "119 Materials Science & Eng Bld",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/327"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 340",
+    "title": "Project Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78264",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/340"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 380",
+    "title": "Consulting for Information Professionals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77508",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "A",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/380"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 389",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77591",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/389"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 390",
+    "title": "Special Topics in Information Studies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76322",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "RDS",
+        "startTime": "16:00",
+        "endTime": "17:20",
+        "day": "TR",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/390"
+      },
+      {
+        "crn": "68256",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "SSD",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 400",
+    "title": "Colloquium",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "74820",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/400"
+      },
+      {
+        "crn": "76158",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "JS",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/400"
+      },
+      {
+        "crn": "75103",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA1",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/400"
+      },
+      {
+        "crn": "75102",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/400"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 401",
+    "title": "Introduction to Network Information Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "72970",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/401"
+      },
+      {
+        "crn": "73221",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 403",
+    "title": "Children's Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "68946",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/403"
+      },
+      {
+        "crn": "73125",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/403"
+      },
+      {
+        "crn": "75899",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OBG",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/403"
+      },
+      {
+        "crn": "75904",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OBU",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 407",
+    "title": "Introduction to Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73126",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/407"
+      },
+      {
+        "crn": "73127",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/407"
+      },
+      {
+        "crn": "75113",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "13:00",
+        "endTime": "14:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/407"
+      },
+      {
+        "crn": "75114",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "13:00",
+        "endTime": "14:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 409",
+    "title": "Web Technologies & Techniques",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77814",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/409"
+      },
+      {
+        "crn": "77815",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "day": "TR",
+        "instructor": "113 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 410",
+    "title": "Storytelling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73128",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/410"
+      },
+      {
+        "crn": "73130",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 413",
+    "title": "Teen Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78283",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/413"
+      },
+      {
+        "crn": "78284",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/413"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 418",
+    "title": "Community Engagement",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78330",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/418"
+      },
+      {
+        "crn": "78331",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/418"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 419",
+    "title": "Entrepreneurial Information Technology Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73129",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "ARR Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/419"
+      },
+      {
+        "crn": "73131",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "ARR Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/419"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 420",
+    "title": "Community Informatics",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75121",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "S",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/420"
+      },
+      {
+        "crn": "75122",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "S",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/420"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 423",
+    "title": "Early Literacy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73132",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/423"
+      },
+      {
+        "crn": "76258",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/423"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 430",
+    "title": "Foundations of Information Processing",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73409",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/430"
+      },
+      {
+        "crn": "73215",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OBG",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/430"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 445",
+    "title": "Data Visualization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73217",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/445"
+      },
+      {
+        "crn": "73218",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "136 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/445"
+      },
+      {
+        "crn": "76467",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BCG",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/445"
+      },
+      {
+        "crn": "76468",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BCU",
+        "startTime": "15:30",
+        "endTime": "16:50",
+        "day": "TR",
+        "instructor": "1090 Lincoln Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/445"
+      },
+      {
+        "crn": "73220",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/445"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 446",
+    "title": "Systems Analysis and Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75130",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/446"
+      },
+      {
+        "crn": "75131",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/446"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 453",
+    "title": "Information Books and Resources for Youth",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76246",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/453"
+      },
+      {
+        "crn": "76248",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAU",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/453"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 455",
+    "title": "Database Design and Prototyping",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73233",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/455"
+      },
+      {
+        "crn": "71895",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/455"
+      },
+      {
+        "crn": "71897",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OBG",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/455"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 457",
+    "title": "Data Storytelling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75132",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/457"
+      },
+      {
+        "crn": "75133",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "12:30",
+        "endTime": "13:50",
+        "day": "TR",
+        "instructor": "101 Transportation Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/457"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 467",
+    "title": "Ethics and Policy for Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75138",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "day": "MW",
+        "instructor": "205 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/467"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 471",
+    "title": "Instructional Strategies and Techniques for Information Professionals",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73412",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/471"
+      },
+      {
+        "crn": "73413",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OAG",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/471"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 477",
+    "title": "Data Management, Curation & Reproducibility",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "74040",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACG",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/477"
+      },
+      {
+        "crn": "77487",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ACU",
+        "startTime": "14:00",
+        "endTime": "15:20",
+        "day": "TR",
+        "instructor": "2233 Everitt Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/477"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 490",
+    "title": "Topics in Info Foundations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "69549",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SLP",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 491",
+    "title": "Topics in Information Services",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77475",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AAL",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/491"
+      },
+      {
+        "crn": "77476",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AAU",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/491"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 494",
+    "title": "Topics in Management, Ethics & Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78346",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ABR",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/494"
+      },
+      {
+        "crn": "78402",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MP3",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/494"
+      },
+      {
+        "crn": "78401",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "MP4",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "MW",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/494"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 497",
+    "title": "Topics in Data Analytics & Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77492",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "DAG",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/497"
+      },
+      {
+        "crn": "73556",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DOG",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/497"
+      },
+      {
+        "crn": "77545",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DOU",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/497"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 500",
+    "title": "Introduction to the iSchool",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78540",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "17:00",
+        "endTime": "18:20",
+        "day": "R",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 501",
+    "title": "Reference and Information Services",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73140",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/501"
+      },
+      {
+        "crn": "73142",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/501"
+      },
+      {
+        "crn": "73143",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/501"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 503",
+    "title": "History of Children's Lit",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": []
+  },
+  {
+    "courseCode": "IS 504",
+    "title": "Sociotechnical Information Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73144",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/504"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 505",
+    "title": "Information Organization and Access",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73149",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/505"
+      },
+      {
+        "crn": "68972",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/505"
+      },
+      {
+        "crn": "73150",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/505"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 507",
+    "title": "Data, Statistical Models and Information",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "68976",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "259 English Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/507"
+      },
+      {
+        "crn": "70324",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BC",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "144 Loomis Laboratory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/507"
+      },
+      {
+        "crn": "73151",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CC",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/507"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 509",
+    "title": "History and Foundations of Information Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77511",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "09:00",
+        "endTime": "10:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/509"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 510",
+    "title": "Libraries, Information and Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75022",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/510"
+      },
+      {
+        "crn": "75023",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/510"
+      },
+      {
+        "crn": "73152",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/510"
+      },
+      {
+        "crn": "73153",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/510"
+      },
+      {
+        "crn": "70325",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OC",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/510"
+      },
+      {
+        "crn": "73989",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OD",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/510"
+      },
+      {
+        "crn": "75468",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OE",
+        "startTime": "09:00",
+        "endTime": "10:55",
+        "day": "S",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/510"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 511",
+    "title": "Scholarly Communications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "68978",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "T",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/511"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 514",
+    "title": "Applied Business Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73154",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "29 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/514"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 515",
+    "title": "Information Modeling",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76432",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BC",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "119 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/515"
+      },
+      {
+        "crn": "77504",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CC",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "F",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/515"
+      },
+      {
+        "crn": "77567",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DC",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "R",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 517",
+    "title": "Methods of Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77495",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 523",
+    "title": "Preserving Info Resources",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73160",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/523"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 524",
+    "title": "Data Governance",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78295",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "10:00",
+        "endTime": "12:50",
+        "day": "T",
+        "instructor": "111 Gregory Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/524"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 525",
+    "title": "Data Warehousing and Business Intelligence",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73161",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "R",
+        "instructor": "432 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/525"
+      },
+      {
+        "crn": "77509",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "BC",
+        "startTime": "15:30",
+        "endTime": "18:20",
+        "day": "T",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/525"
+      },
+      {
+        "crn": "77474",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/525"
+      },
+      {
+        "crn": "76245",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/525"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 529",
+    "title": "Doctoral ProSeminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73228",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/529"
+      },
+      {
+        "crn": "74823",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/529"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 530",
+    "title": "Collection Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73163",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/530"
+      },
+      {
+        "crn": "73164",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/530"
+      },
+      {
+        "crn": "73162",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OC",
+        "startTime": "13:00",
+        "endTime": "14:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/530"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 532",
+    "title": "School Library Management",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73165",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/532"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 534",
+    "title": "Information Consulting",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73166",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/534"
+      },
+      {
+        "crn": "73167",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/534"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 537",
+    "title": "Theory & Practice of Data Cleaning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73168",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "12A Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/537"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 542",
+    "title": "Research and Inquiry for Youth",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73172",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/542"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 543",
+    "title": "Digital Preservation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73173",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/543"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 544",
+    "title": "Administration & Management of Libraries and Information Centers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75810",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/544"
+      },
+      {
+        "crn": "73174",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/544"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 549",
+    "title": "Practicum",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76163",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/549"
+      },
+      {
+        "crn": "76249",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "RRH",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/549"
+      },
+      {
+        "crn": "74027",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "SLP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/549"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 551",
+    "title": "Youth Services Librarianship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73176",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/551"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 560",
+    "title": "Social Science Research in Library and Information Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "68985",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/560"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 562",
+    "title": "Administration and Use of Archival Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "69025",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "ARR Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/562"
+      },
+      {
+        "crn": "70354",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/562"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 563",
+    "title": "Advanced Topics in Literature, Media and Materials",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73188",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SSO",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/563"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 567",
+    "title": "Text Mining",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "68917",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "13:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/567"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 569",
+    "title": "Internship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76880",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "FT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/569"
+      },
+      {
+        "crn": "73675",
+        "status": "restricted",
+        "type": "Internship",
+        "section": "PT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/569"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 571",
+    "title": "Advanced Topics in Use and Users of Information",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75159",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ALR",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/571"
+      },
+      {
+        "crn": "73240",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CPO",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/571"
+      },
+      {
+        "crn": "78296",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IS2",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/571"
+      },
+      {
+        "crn": "73239",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ISO",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 573",
+    "title": "Advanced Topics in Collections",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78339",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CAO",
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "day": "S",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/573"
+      },
+      {
+        "crn": "73242",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CHO",
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/573"
+      },
+      {
+        "crn": "73138",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "ED",
+        "startTime": "16:30",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "ARR Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/573"
+      },
+      {
+        "crn": "73241",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ERO",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/573"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 575",
+    "title": "Metadata in Theory & Practice",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73243",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/575"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 577",
+    "title": "Data Mining",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73244",
+        "status": "restricted",
+        "type": "Laboratory-Discussion",
+        "section": "AC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "F",
+        "instructor": "126 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/577"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 578",
+    "title": "Seminar in Research Methods",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73245",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CCO",
+        "startTime": "09:00",
+        "endTime": "10:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/578"
+      },
+      {
+        "crn": "76073",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DHO",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/578"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 579",
+    "title": "Guided Research Experience",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78186",
+        "status": "restricted",
+        "type": "Research",
+        "section": "FT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/579"
+      },
+      {
+        "crn": "78188",
+        "status": "restricted",
+        "type": "Research",
+        "section": "PT",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/579"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 581",
+    "title": "Advanced Topics in Youth Services",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "77512",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DCE",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/581"
+      },
+      {
+        "crn": "77585",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ISM",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/581"
+      },
+      {
+        "crn": "73246",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MLO",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 582",
+    "title": "Advanced Topics in Librarianship",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73249",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ALO",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/582"
+      },
+      {
+        "crn": "73324",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ILO",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/582"
+      },
+      {
+        "crn": "77566",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LSW",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/582"
+      },
+      {
+        "crn": "73354",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MDO",
+        "startTime": "13:00",
+        "endTime": "14:55",
+        "day": "F",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/582"
+      },
+      {
+        "crn": "76098",
+        "status": "restricted",
+        "type": "Online",
+        "section": "RB2",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/582"
+      },
+      {
+        "crn": "73251",
+        "status": "restricted",
+        "type": "Online",
+        "section": "RBO",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/582"
+      },
+      {
+        "crn": "78297",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SCL",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/582"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 583",
+    "title": "Advanced Topics in Book History",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73682",
+        "status": "restricted",
+        "type": "Online",
+        "section": "BPO",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/583"
+      },
+      {
+        "crn": "75357",
+        "status": "restricted",
+        "type": "Online",
+        "section": "HBO",
+        "startTime": "09:30",
+        "endTime": "12:20",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/583"
+      },
+      {
+        "crn": "77513",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PBO",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/583"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 584",
+    "title": "Advanced Topics in Ethics and Privacy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "76035",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IFO",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/584"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 585",
+    "title": "Bibliographic Metadata",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "70377",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OA",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/585"
+      },
+      {
+        "crn": "75356",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/585"
+      },
+      {
+        "crn": "68412",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OC",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/585"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 586",
+    "title": "Usability Engineering",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73255",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "AC",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "M",
+        "instructor": "46 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/586"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 589",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73758",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/589"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 591",
+    "title": "Advanced Topics in Information Services",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75403",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ELO",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 592",
+    "title": "Advanced Topics In Information Organizations",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73257",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GW1",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/592"
+      },
+      {
+        "crn": "73256",
+        "status": "restricted",
+        "type": "Online",
+        "section": "GWO",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/592"
+      },
+      {
+        "crn": "75397",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PLO",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/592"
+      },
+      {
+        "crn": "78403",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SLC",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/592"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 593",
+    "title": "Advanced Topics in Preservation & Tech Services",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "75361",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AAO",
+        "startTime": "17:00",
+        "endTime": "18:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/593"
+      },
+      {
+        "crn": "73258",
+        "status": "restricted",
+        "type": "Online",
+        "section": "AVO",
+        "startTime": "15:00",
+        "endTime": "16:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/593"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 594",
+    "title": "Advanced Topics in Management and Policy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73259",
+        "status": "restricted",
+        "type": "Online",
+        "section": "FMO",
+        "startTime": "19:00",
+        "endTime": "20:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/594"
+      },
+      {
+        "crn": "75296",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IPO",
+        "startTime": "13:00",
+        "endTime": "14:55",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/594"
+      },
+      {
+        "crn": "78356",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PJO",
+        "startTime": "12:30",
+        "endTime": "15:20",
+        "day": "T",
+        "instructor": "53 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/594"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 595",
+    "title": "Advanced Topics in Organization & Representation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73266",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CIK",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 596",
+    "title": "Advanced Topics in Human-Centered Design & Systems",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "78290",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DIO",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/596"
+      },
+      {
+        "crn": "78289",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "DIS",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "day": "T",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/596"
+      },
+      {
+        "crn": "75278",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SSO",
+        "startTime": "13:00",
+        "endTime": "14:55",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/596"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 597",
+    "title": "Advanced Topics in Data Analytics & Data Science",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "73264",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "PR",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "W",
+        "instructor": "131 Grad Sch of Lib & Info Science",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/597"
+      },
+      {
+        "crn": "75251",
+        "status": "restricted",
+        "type": "Online",
+        "section": "PRO",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "IS 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/IS",
+    "sections": [
+      {
+        "crn": "69002",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/IS/599"
+      }
+    ]
+  }
+]

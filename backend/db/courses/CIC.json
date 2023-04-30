@@ -1,0 +1,119 @@
+[
+  {
+    "courseCode": "CIC 500",
+    "title": "CIC Traveling Scholar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/CIC",
+    "sections": [
+      {
+        "crn": "41113",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45844",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45845",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "C",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45846",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "D",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45847",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "E",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45848",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "F",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45849",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "G",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45850",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "H",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45851",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "I",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      },
+      {
+        "crn": "45852",
+        "status": "restricted",
+        "type": "Conference",
+        "section": "J",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/CIC/500"
+      }
+    ]
+  }
+]

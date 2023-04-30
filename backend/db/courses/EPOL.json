@@ -1,0 +1,1710 @@
+[
+  {
+    "courseCode": "EPOL 199",
+    "title": "Undergraduate Open Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "77330",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "CH",
+        "startTime": "09:00",
+        "endTime": "10:20",
+        "day": "TR",
+        "instructor": "212 1205 W Oregon",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/199"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 310",
+    "title": "Race and Cultural Diversity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75090",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D1",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "389 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/310"
+      },
+      {
+        "crn": "75091",
+        "status": "restricted",
+        "type": "Discussion/ Recitation",
+        "section": "D2",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "385 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/310"
+      },
+      {
+        "crn": "77816",
+        "status": "restricted",
+        "type": "Online Discussion",
+        "section": "D3",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/310"
+      },
+      {
+        "crn": "75092",
+        "status": "restricted",
+        "type": "Lecture",
+        "section": "L",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "T",
+        "instructor": "2 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/310"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 390",
+    "title": "Undergraduate Advanced Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "76318",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "EJP",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "Location Pending",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/390"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 401",
+    "title": "History of American Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73289",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/401"
+      },
+      {
+        "crn": "73290",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "17:50",
+        "day": "R",
+        "instructor": "382 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/401"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 402",
+    "title": "Asian American Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73291",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/402"
+      },
+      {
+        "crn": "73292",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "W",
+        "instructor": "22 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/402"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 403",
+    "title": "Historical and Social Barriers",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "78122",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A2",
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/403"
+      },
+      {
+        "crn": "77036",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "21:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/403"
+      },
+      {
+        "crn": "77037",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "18:00",
+        "endTime": "21:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/403"
+      },
+      {
+        "crn": "78124",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OL2",
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/403"
+      },
+      {
+        "crn": "77038",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "21:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/403"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 404",
+    "title": "History of American Indian Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "78457",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/404"
+      },
+      {
+        "crn": "78458",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/404"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 405",
+    "title": "School and Society",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "77039",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/405"
+      },
+      {
+        "crn": "77040",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/405"
+      },
+      {
+        "crn": "77627",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UG",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/405"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 407",
+    "title": "Critical Thinking in Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75093",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/407"
+      },
+      {
+        "crn": "78125",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/407"
+      },
+      {
+        "crn": "75094",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/407"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 409",
+    "title": "Sociology of Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73293",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/409"
+      },
+      {
+        "crn": "73294",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/409"
+      },
+      {
+        "crn": "77041",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/409"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 410",
+    "title": "Racial and Ethnic Families",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73295",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/410"
+      },
+      {
+        "crn": "73296",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/410"
+      },
+      {
+        "crn": "77042",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/410"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 414",
+    "title": "Anthropology of Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "78556",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "15:00",
+        "endTime": "17:50",
+        "day": "W",
+        "instructor": "241 Armory",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/414"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 470",
+    "title": "Principles of Human Resource Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73371",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/470"
+      },
+      {
+        "crn": "73372",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/470"
+      },
+      {
+        "crn": "73373",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UG",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/470"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 472",
+    "title": "Instructional and Training System Design",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73387",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/472"
+      },
+      {
+        "crn": "73388",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/472"
+      },
+      {
+        "crn": "77770",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CGC",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/472"
+      },
+      {
+        "crn": "73529",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MTC",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/472"
+      },
+      {
+        "crn": "75246",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/472"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 474",
+    "title": "Diversity in the Workplace",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "78128",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/474"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 476",
+    "title": "Project Management Principles and Applications",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75127",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/476"
+      },
+      {
+        "crn": "75128",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "B",
+        "startTime": "09:00",
+        "endTime": "11:50",
+        "day": "T",
+        "instructor": "323 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/476"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 480",
+    "title": "Technology and Educational Reform",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "78531",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/480"
+      },
+      {
+        "crn": "78532",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/480"
+      },
+      {
+        "crn": "78533",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/480"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 481",
+    "title": "New Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73333",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/481"
+      },
+      {
+        "crn": "73334",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/481"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 483",
+    "title": "Learning Technologies",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73389",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/483"
+      },
+      {
+        "crn": "77771",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CGC",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/483"
+      },
+      {
+        "crn": "73530",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MTC",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/483"
+      },
+      {
+        "crn": "73390",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/483"
+      },
+      {
+        "crn": "73652",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UG",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/483"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 485",
+    "title": "Introduction to eLearning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "77773",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CGC",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/485"
+      },
+      {
+        "crn": "73661",
+        "status": "restricted",
+        "type": "Online",
+        "section": "G",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/485"
+      },
+      {
+        "crn": "73662",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/485"
+      },
+      {
+        "crn": "73663",
+        "status": "restricted",
+        "type": "Online",
+        "section": "UG",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/485"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 490",
+    "title": "Special Study and Investigation",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75480",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "19:50",
+        "day": "T",
+        "instructor": "21 Psychology Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/490"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 500",
+    "title": "Proseminar in EPOL",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "72501",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "14:00",
+        "endTime": "15:50",
+        "day": "M",
+        "instructor": "376 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/500"
+      },
+      {
+        "crn": "72863",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/500"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 515",
+    "title": "Introduction to Diversity & Equity",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75139",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "19:00",
+        "endTime": "21:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/515"
+      },
+      {
+        "crn": "75142",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CMD",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/515"
+      },
+      {
+        "crn": "75141",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "19:00",
+        "endTime": "21:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/515"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 516",
+    "title": "Critical Race Theory and Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73278",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "21:20",
+        "day": "T",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/516"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 517",
+    "title": "Race, Gender and Sexuality Issues",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73701",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/517"
+      },
+      {
+        "crn": "75145",
+        "status": "restricted",
+        "type": "Online",
+        "section": "CMD",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/517"
+      },
+      {
+        "crn": "73703",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/517"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 520",
+    "title": "Education and Globalization",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73338",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/520"
+      },
+      {
+        "crn": "73339",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ON2",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/520"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 522",
+    "title": "Globalization of Higher Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73345",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/522"
+      },
+      {
+        "crn": "73346",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/522"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 523",
+    "title": "Global Issues in Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75148",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/523"
+      },
+      {
+        "crn": "75150",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/523"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 524",
+    "title": "Education and Human Rights",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73630",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/524"
+      },
+      {
+        "crn": "73631",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/524"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 535",
+    "title": "Introduction to Educational Leadership",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "77414"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 538",
+    "title": "Supervision of Learning Environments",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "need attention": "yes",
+        "crn": "78428"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 544",
+    "title": "Organizational Theory for Educational Leaders",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73617",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/544"
+      },
+      {
+        "crn": "77045",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/544"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 546",
+    "title": "Law and School District Leader",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "78430",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "21:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/546"
+      },
+      {
+        "crn": "78432",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "17:30",
+        "endTime": "21:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/546"
+      },
+      {
+        "crn": "78431",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:30",
+        "endTime": "21:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/546"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 551",
+    "title": "Organization of Higher Education",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73309",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "T",
+        "instructor": "326 David Kinley Hall",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/551"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 554",
+    "title": "College Teaching",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73826",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "W",
+        "instructor": "242 Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/554"
+      },
+      {
+        "crn": "73827",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "19:00",
+        "endTime": "20:50",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/554"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 558",
+    "title": "The Community College",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73367",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/558"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 563",
+    "title": "The College Student",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73312",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "16:00",
+        "endTime": "18:50",
+        "day": "W",
+        "instructor": "42A Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/563"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 571",
+    "title": "Advanced Theories in Human Resource Development",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75185",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/571"
+      },
+      {
+        "crn": "75249",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/571"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 580",
+    "title": "Ubiquitous Learning",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73335",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/580"
+      },
+      {
+        "crn": "73337",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/580"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 581",
+    "title": "Knowledge, Learning and Pedagogy",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "76276",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/581"
+      },
+      {
+        "crn": "76277",
+        "status": "restricted",
+        "type": "Online",
+        "section": "ONL",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/581"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 586",
+    "title": "General Field Research Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "72553",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DE",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/586"
+      },
+      {
+        "crn": "77067",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IE2",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/586"
+      },
+      {
+        "crn": "76375",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IEL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/586"
+      },
+      {
+        "crn": "72216",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LD1",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/586"
+      },
+      {
+        "crn": "72217",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LD2",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/586"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 587",
+    "title": "Special Field Research Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "72554",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DE",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/587"
+      },
+      {
+        "crn": "76376",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IE2",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/587"
+      },
+      {
+        "crn": "77063",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IEL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/587"
+      },
+      {
+        "crn": "72218",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LD1",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/587"
+      },
+      {
+        "crn": "72221",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LD2",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/587"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 588",
+    "title": "Methodology Research Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "72222",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LD1",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/588"
+      },
+      {
+        "crn": "72223",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LD2",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/588"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 590",
+    "title": "Advanced Graduate Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "75917",
+        "status": "restricted",
+        "type": "Lecture-Discussion",
+        "section": "A",
+        "startTime": "13:00",
+        "endTime": "14:50",
+        "day": "T",
+        "instructor": "4G Education Building",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      },
+      {
+        "crn": "73715",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DP",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      },
+      {
+        "crn": "73716",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DPO",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "T",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      },
+      {
+        "crn": "73639",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IQO",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      },
+      {
+        "crn": "73583",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MM",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      },
+      {
+        "crn": "75204",
+        "status": "restricted",
+        "type": "Online",
+        "section": "MMO",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      },
+      {
+        "crn": "73607",
+        "status": "restricted",
+        "type": "Online",
+        "section": "QM",
+        "startTime": "19:00",
+        "endTime": "21:30",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      },
+      {
+        "crn": "77369",
+        "status": "restricted",
+        "type": "Online",
+        "section": "QMO",
+        "startTime": "19:00",
+        "endTime": "21:30",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/590"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 591",
+    "title": "Thesis Seminar",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "69964",
+        "status": "restricted",
+        "type": "Online",
+        "section": "DE",
+        "startTime": "19:00",
+        "endTime": "21:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/591"
+      },
+      {
+        "crn": "72629",
+        "status": "restricted",
+        "type": "Online",
+        "section": "HRD",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/591"
+      },
+      {
+        "crn": "77062",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IE2",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/591"
+      },
+      {
+        "crn": "77061",
+        "status": "restricted",
+        "type": "Online",
+        "section": "IEL",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "day": "R",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/591"
+      },
+      {
+        "crn": "74016",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LD1",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/591"
+      },
+      {
+        "crn": "69965",
+        "status": "restricted",
+        "type": "Online",
+        "section": "LDL",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/591"
+      },
+      {
+        "crn": "72630",
+        "status": "restricted",
+        "type": "Online",
+        "section": "OB",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/591"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 595",
+    "title": "Independent Study",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "69225",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/595"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 597",
+    "title": "Clinical Experience Administration",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "73638",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/597"
+      },
+      {
+        "crn": "73634",
+        "status": "restricted",
+        "type": "Online",
+        "section": "A",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/597"
+      },
+      {
+        "crn": "73667",
+        "status": "restricted",
+        "type": "Online",
+        "section": "B",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/597"
+      },
+      {
+        "crn": "73635",
+        "status": "restricted",
+        "type": "Online",
+        "section": "C",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/597"
+      },
+      {
+        "crn": "73636",
+        "status": "restricted",
+        "type": "Online",
+        "section": "D",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "M",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/597"
+      },
+      {
+        "crn": "78258",
+        "status": "restricted",
+        "type": "Online",
+        "section": "SUP",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "day": "W",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/597"
+      }
+    ]
+  },
+  {
+    "courseCode": "EPOL 599",
+    "title": "Thesis Research",
+    "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL",
+    "sections": [
+      {
+        "crn": "69224",
+        "status": "restricted",
+        "type": "Independent Study",
+        "section": "",
+        "startTime": "N/A",
+        "endTime": "N/A",
+        "day": "n.a.",
+        "instructor": "n.a.",
+        "url": "https://courses.illinois.edu/schedule/2023/fall/EPOL/599"
+      }
+    ]
+  }
+]
