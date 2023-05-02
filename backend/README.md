@@ -1,6 +1,6 @@
 # Overall flowchart:
 
-![Flowchart](https://github.com/CS222-UIUC/course-project-team-burg3r/raw/master/backend/flowchart.png)
+![Flowchart](https://github.com/CS222-UIUC/course-project-team-burg3r/raw/master/backend/flowchart.drawio.svg)
 
 # Data Format
 
