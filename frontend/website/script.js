@@ -78,11 +78,18 @@ function submitCourses() {
             moveRight();
             // document.getElementById("Results").innerHTML += "right";
           })
+          document.getElementById("current_slide").value = 0;
+          var slide_number = document.createElement("slide_number");
+          slide_number.innerHTML = " " + (document.getElementById("current_slide").value+1) + " ";
           document.getElementById("arrows").appendChild(left_button);
+          document.getElementById("arrows").appendChild(slide_number);
           document.getElementById("arrows").appendChild(right_button);
         }
+
         
-        document.getElementById("current_slide").value = 0;
+        
+
+        // document.getElementById("Results").innerHTML += document.getElementById("current_slide").value;
 
         // document.getElementsByClassName("prev").innerHTML += "&#10094";
         // document.getElementsByClassName("next").innerHTML += "&#10095;";
@@ -160,6 +167,7 @@ function moveLeft(){
     return;
   }
   document.getElementById("current_slide").value--;
+  document.getElementById("arrows").children[1].innerHTML = " " + (document.getElementById("current_slide").value+1) + " ";
   displaySlide(document.getElementById("current_slide").value);
 }
 
@@ -171,16 +179,18 @@ function moveRight(){
     return;
   }
   document.getElementById("current_slide").value++;
+  document.getElementById("arrows").children[1].innerHTML = " " + (document.getElementById("current_slide").value+1) + " ";
   displaySlide(document.getElementById("current_slide").value);
 }
 
 function displaySlide(idx){
-  document.getElementById("slides").innerHTML = "";
+  // document.getElementById("Results").innerHTML += document.getElementById("current_slide").value;
+  document.getElementById("current_slide").innerHTML = "";
 
-  slide = document.getElementById("slides").children[idx];
-  
+  var slide = document.getElementById("slides").children[idx];
+
   for (var i=0; i<slide.childElementCount; i++) {
-    document.getElementById("slides").innerHTML += slide.children[i].json.course + "</br>";
+    document.getElementById("current_slide").innerHTML += slide.children[i].json.course + "</br>";
   }
 
   
