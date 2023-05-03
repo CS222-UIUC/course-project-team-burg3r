@@ -65,21 +65,24 @@ function submitCourses() {
     })
     .then(function(data) {
         document.getElementById("Results").innerHTML = "Schedule Results </br>";
-        const left_button = document.createElement("button");
-        left_button.innerHTML = '&#9664';
-        const right_button = document.createElement("button");
-        left_button.addEventListener('click', () => {
-          moveLeft();
-        })
-        right_button.addEventListener('click', () => {
-          moveRight();
-        })
-        right_button.innerHTML = '&#9654';
+        if (document.getElementById("arrows").childElementCount == 0) {
+          const left_button = document.createElement("button");
+          left_button.innerHTML = '&#9664';
+          const right_button = document.createElement("button");
+          right_button.innerHTML = '&#9654';
+          left_button.addEventListener('click', () => {
+            moveLeft();
+            // document.getElementById("Results").innerHTML += "left";
+          })
+          right_button.addEventListener('click', () => {
+            moveRight();
+            // document.getElementById("Results").innerHTML += "right";
+          })
+          document.getElementById("arrows").appendChild(left_button);
+          document.getElementById("arrows").appendChild(right_button);
+        }
         
         document.getElementById("current_slide").value = 0;
-        
-        document.getElementById("arrows").appendChild(left_button);
-        document.getElementById("arrows").appendChild(right_button);
 
         // document.getElementsByClassName("prev").innerHTML += "&#10094";
         // document.getElementsByClassName("next").innerHTML += "&#10095;";
@@ -90,7 +93,7 @@ function submitCourses() {
             for (var j=0; j<sched.schedule.length; j++) {
                 // slide.innerHTML += sched.schedule[j].course + "</br>";
                 var course = document.createElement("course");
-                course.value = sched.schedule[j].course;
+                course.json = sched.schedule[j];
                 slide.appendChild(course);
             }
             document.getElementById("slides").appendChild(slide);
@@ -172,12 +175,15 @@ function moveRight(){
 }
 
 function displaySlide(idx){
-  var slide = document.getElementById("slides").childNodes[idx];
   document.getElementById("slides").innerHTML = "";
-  document.getElementById("slides").innerHTML += slide.childElementCount;
+
+  slide = document.getElementById("slides").children[idx];
+  
   for (var i=0; i<slide.childElementCount; i++) {
-    document.getElementById("slides").innerHTML += slide.childNodes[i];
+    document.getElementById("slides").innerHTML += slide.children[i].json.course + "</br>";
   }
+
+  
 }
 
 window.onclick = function(event) {
