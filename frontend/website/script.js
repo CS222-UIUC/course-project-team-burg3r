@@ -13,6 +13,12 @@ function addCourse() {
         subject: document.getElementById("subject").value.toUpperCase(),
         number: document.getElementById("number").value
     };
+    if (course.subject == "") {
+      return;
+    }
+    if (course.number == "") {
+      return;
+    }
     
     // alert(JSON.stringify(course));
 
@@ -58,22 +64,54 @@ function submitCourses() {
         return response.json();
     })
     .then(function(data) {
-        document.getElementById("Results").innerHTML += "Schedule Results";
-        document.getElementsByClassName("prev").innerHTML += "&#10094";
-        document.getElementsByClassName("next").innerHTML += "&#10095;";
+        document.getElementById("Results").innerHTML = "Schedule Results </br>";
+        const left_button = document.createElement("button");
+        left_button.innerHTML = '&#9664';
+        const right_button = document.createElement("button");
+        left_button.addEventListener('click', () => {
+          moveLeft();
+        })
+        right_button.addEventListener('click', () => {
+          moveRight();
+        })
+        right_button.innerHTML = '&#9654';
+        
+        document.getElementById("current_slide").value = 0;
+        
+        document.getElementById("arrows").appendChild(left_button);
+        document.getElementById("arrows").appendChild(right_button);
+
+        // document.getElementsByClassName("prev").innerHTML += "&#10094";
+        // document.getElementsByClassName("next").innerHTML += "&#10095;";
         for (var i=0; i<data.length; i++) {
             sched = data[i];
-            var slide = document.createElement("div");
-            slide.className = "slide";
+            var slide = document.createElement("slide");
+            // slide.className = "slide";
             for (var j=0; j<sched.schedule.length; j++) {
-                slide.innerHTML += sched.schedule[j].course + "</br>";
+                // slide.innerHTML += sched.schedule[j].course + "</br>";
+                var course = document.createElement("course");
+                course.value = sched.schedule[j].course;
+                slide.appendChild(course);
             }
-            document.getElementsByClassName("results-slideshow").appendChild(slide);
-            var dot = document.createElement("span");
-            dot.className = "dot";
-            dot.onclick = currentSlide(i);
-            document.getElementsByClassName("dot").appendChild(dot);
+            document.getElementById("slides").appendChild(slide);
+            // var dot = document.createElement("span");
+            // dot.className = "dot";
+            // dot.onclick = currentSlide(i);
+            // document.getElementsByClassName("dot").appendChild(dot);
         }
+        displaySlide(0);
+        // for (var i=0; i<document.getElementById("slides").childElementCount; i++) {
+        //   document.getElementById("Results").innerHTML += i;
+        // }
+
+      //   const new_course = document.createElement("button");
+      // new_course.textContent = course.subject + " " + course.number;
+      // new_course.data = course;
+      // new_course.onclick = function deleteCourse() {
+      //   new_course.parentNode.removeChild(new_course);
+      // }
+      // course_list.append(new_course);
+
         // document.getElementById("ALL").innerHTML += "last";
         // window.open("results.html");
         
@@ -84,32 +122,63 @@ function submitCourses() {
     
 }
 
-var slideIndex = 1;
-showSlides(slideIndex);
+// var slideIndex = 1;
+// showSlides(slideIndex);
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+// function plusSlides(n) {
+//   showSlides(slideIndex += n);
+// }
+
+// function currentSlide(n) {
+//   showSlides(slideIndex = n);
+// }
+
+// function showSlides(n) {
+//   var i;
+//   var slides = document.getElementsByClassName("slide");
+//   var dots = document.getElementsByClassName("dot");
+//   if (n > slides.length) {slideIndex = 1}
+//     if (n < 1) {slideIndex = slides.length}
+//     for (i = 0; i < slides.length; i++) {
+//       slides[i].style.display = "none";
+//     }
+//     for (i = 0; i < dots.length; i++) {
+//       dots[i].className = dots[i].className.replace(" active", "");
+//     }
+//   slides[slideIndex-1].style.display = "block";
+//   dots[slideIndex-1].className += " active";
+// } 
+
+function moveLeft(){
+  if (document.getElementById("slides").childElementCount == 0) {
+    return;
+  }
+  if (document.getElementById("current_slide").value == 0) {
+    return;
+  }
+  document.getElementById("current_slide").value--;
+  displaySlide(document.getElementById("current_slide").value);
 }
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
+function moveRight(){
+  if (document.getElementById("slides").childElementCount == 0) {
+    return;
+  }
+  if (document.getElementById("current_slide").value == document.getElementById("slides").childElementCount-1) {
+    return;
+  }
+  document.getElementById("current_slide").value++;
+  displaySlide(document.getElementById("current_slide").value);
 }
 
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("slide");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-    }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-} 
+function displaySlide(idx){
+  var slide = document.getElementById("slides").childNodes[idx];
+  document.getElementById("slides").innerHTML = "";
+  document.getElementById("slides").innerHTML += slide.childElementCount;
+  for (var i=0; i<slide.childElementCount; i++) {
+    document.getElementById("slides").innerHTML += slide.childNodes[i];
+  }
+}
 
 window.onclick = function(event) {
     if (!event.target.matches('.dropbtn')) {
