@@ -1,46 +1,155 @@
 /* credits to https://css-tricks.com/building-a-conference-schedule-with-css-grid/ */
 
-.chart {
-    display: grid;
-    grid-template-rows: repeat(100, 1fr); /* 1 row = 1%! */
-}
-
-.fifty-percent-bar {
-    grid-row: 51 / 101; /* 101 - 51 = 50 => 50% */
-}
-
-.schedule {
-    display: grid;
-    grid-gap: 1em;
-    grid-template-rows:
+@media screen and (min-width:700px) {
+    .schedule {
+      display: grid;
+      grid-gap: 1em;
+      grid-template-rows:
         [tracks] auto
         [time-0800] 1fr
-        [time-0830] 1fr
         [time-0900] 1fr
-        [time-0930] 1fr;
-        /* etc...
-            Note: Use 24-hour time for line names */
-    grid-template-columns:
+        [time-1000] 1fr
+        [time-1130] 1fr
+        [time-1200] 1fr
+        [time-1300] 1fr
+        [time-1400] 1fr
+        [time-1500] 1fr
+        [time-1600] 1fr
+        [time-1700] 1fr
+        [time-1800] 1fr;
+        /* Note 1:
+        Use 24hr time for gridline names for simplicity
+  
+        Note 2: Use "auto" instead of "1fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
+        Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
+        */
+      
+      grid-template-columns:
         [times] 4em
         [track-1-start] 1fr
         [track-1-end track-2-start] 1fr
         [track-2-end track-3-start] 1fr
         [track-3-end track-4-start] 1fr
-        [track-4-end];
-}
-
-.time-slot {
+        [track-4-end track-5-start] 1fr;
+    }
+  }
+  
+  .time-slot {
     grid-column: times;
-}
-
-.session-1 {
-    grid-row: time-0800 / time-0900;
-}
-
-.session-2 {
-    grid-row: time-0900 / time-1030;
-}
-
-.track-slot {
+  }
+  
+  .track-slot {
+    display: none; /* hidden on small screens and browsers without grid support */
+  }
+  
+  @supports( display:grid ) {
+    @media screen and (min-width:700px) {
+      .track-slot {
+        display: block;
+        padding: 10px 5px 5px;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        background-color: rgba(255,255,255,.9);
+      }
+    }
+  }
+  
+  /* Small-screen & fallback styles */
+  .session {
+    margin-bottom:  1em;
+  }
+  
+  @supports( display:grid ) {
+    @media screen and (min-width: 700px) {
+      .session {
+        margin: 0;
+      } 
+    }
+  }
+  
+  body {
+    padding: 50px;
+    max-width: 1100px;
+    margin: 0 auto;
+    line-height: 1.5;
+    font-family: Trebuchet MS, serif, Arial, Helvetica, sans-serif;
+  }
+  
+  .session {
+    padding: .5em;
+    border-radius: 2px;
+    font-size: 14px;
+    box-shadow:
+      white 1px 1px 0,
+      olive 4px 4px 0;
+  }
+  
+  .session-title,
+  .session-time,
+  .session-track,
+  .session-presenter {
+    display: block;
+  }
+  
+  .session-title,
+  .time-slot {
+    margin: 0;
+    font-size: 1em;
+  }
+  
+  .track-slot,
+  .time-slot {
+    font-weight: bold;
+    font-size:.75em;
     text-align: center;
-}
+    
+  }
+
+  .track-slot {
+    background-color: goldenrod;
+  }
+
+  .time-slot {
+    background-color: lightblue;
+  }
+  
+  .track-1 {
+    background-color:tomato;
+    color: black;
+  }
+  
+  .track-2 {
+    background-color: greenyellow;
+    color: black;
+  }
+  
+  .track-3 {
+    background-color: #544D69;
+    color: black;
+  }
+  
+  .track-4 {
+    background-color: yellow;
+    color: black;
+  }
+  
+  .track-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ccc;
+    color: #000;
+    box-shadow: none;
+  }
+  
+  .text {
+    max-width: 750px;
+    font-size: 18px;
+    margin: 0 auto 50px;
+  }
+  
+  
+  hr {
+    margin: 40px 0;
+  }

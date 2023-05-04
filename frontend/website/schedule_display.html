@@ -1,0 +1,58 @@
+<!--credits to https://css-tricks.com/building-a-conference-schedule-with-css-grid/-->
+<html>
+    <head>
+        <link rel="stylesheet" href="schedule_style.css">
+        <title>Schedule Result</title>
+    </head>
+    <body>
+        <h2>Schedule Result</h2>
+        <div class="schedule">
+            <span class="track-slot" aria-hidden="true" style="grid-column: track-1;">MON</span>
+            <span class="track-slot" aria-hidden="true" style="grid-column: track-2;">TUE</span>
+            <span class="track-slot" aria-hidden="true" style="grid-column: track-3;">WED</span>
+            <span class="track-slot" aria-hidden="true" style="grid-column: track-4;">THU</span>
+            <span class="track-slot" aria-hidden="true" style="grid-column: track-5;">FRI</span>
+
+            <h3 class="time-slot">8:00am</h3>
+
+            <h3 class="time-slot">9:00am</h3>
+
+            <h3 class="time-slot">10:00am</h3>
+
+            <h3 class="time-slot">11:00am</h3>
+
+            <h3 class="time-slot">12:00pm</h3>
+            <div class="session session-1 track-2" style="grid-column: track-2; grid-row: time-1200 / time-1400;">
+                <h4 class="session-title">ECE 374</h4>
+                <span class="session-time">12:30pm - 1:45pm</span>
+                <span class="session-track">ECE Building</span>
+                <span class="session-presenter">12345</span>
+            </div>
+            <div class="session session-1 track-2" style="grid-column: track-4; grid-row: time-1200 / time-1400;">
+                <h4 class="session-title">ECE 374</h4>
+                <span class="session-time">12:30pm - 1:45pm</span>
+                <span class="session-track">ECE Building</span>
+                <span class="session-presenter">12345</span>
+            </div>
+
+            <h3 class="time-slot">1:00pm</h3>
+            <div class="session session-1 track-1" style="grid-column: track-3; grid-row: time-1300 / time-1400;">
+                <h4 class="session-title">CS 222</h4>
+                <span class="session-time">1:00pm - 1:50pm</span>
+                <span class="session-track">ECE Building</span>
+                <span class="session-presenter">12345</span>
+            </div>
+
+            <h3 class="time-slot">2:00pm</h3>
+
+            <h3 class="time-slot">3:00pm</h3>
+
+            <h3 class="time-slot">4:00pm</h3>
+
+            <h3 class="time-slot">5:00pm</h3>
+
+            <h3 class="time-slot">6:00pm</h3>
+
+        </div> <!-- end .schedule -->
+    </body>
+</html>
