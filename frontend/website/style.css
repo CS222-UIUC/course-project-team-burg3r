@@ -18,6 +18,50 @@ p {
     margin-left: 30%;
 }
 
+table {
+    width: 100px;
+    height: 200px;
+}
+
+th {
+    background-color: olivedrab;
+    color: darkolivegreen;
+    border-bottom: 1px solid darkolivegreen;
+}
+
+.cd-schedule__group > ul {
+    position: relative;
+    padding: 0 var(--component-padding);
+    display: flex;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+  
+.cd-schedule__event {
+    flex-shrink: 0;
+    float: left;
+    height: 150px;
+    width: 70%;
+    max-width: 300px;
+}
+
+.cd-schedule-modal {
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    visibility: hidden;
+    transform: translateX(100%);
+    transition: transform .4s, visibility .4s;
+}
+
+.cd-schedule-modal--open {
+    transform: translateX(0);
+    visibility: visible;
+}
+
 /* .course_list {
     background-color: #fff;
     border: 1px solid #e5e5ea;

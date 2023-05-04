@@ -1,0 +1,46 @@
+/* credits to https://css-tricks.com/building-a-conference-schedule-with-css-grid/ */
+
+.chart {
+    display: grid;
+    grid-template-rows: repeat(100, 1fr); /* 1 row = 1%! */
+}
+
+.fifty-percent-bar {
+    grid-row: 51 / 101; /* 101 - 51 = 50 => 50% */
+}
+
+.schedule {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-rows:
+        [tracks] auto
+        [time-0800] 1fr
+        [time-0830] 1fr
+        [time-0900] 1fr
+        [time-0930] 1fr;
+        /* etc...
+            Note: Use 24-hour time for line names */
+    grid-template-columns:
+        [times] 4em
+        [track-1-start] 1fr
+        [track-1-end track-2-start] 1fr
+        [track-2-end track-3-start] 1fr
+        [track-3-end track-4-start] 1fr
+        [track-4-end];
+}
+
+.time-slot {
+    grid-column: times;
+}
+
+.session-1 {
+    grid-row: time-0800 / time-0900;
+}
+
+.session-2 {
+    grid-row: time-0900 / time-1030;
+}
+
+.track-slot {
+    text-align: center;
+}

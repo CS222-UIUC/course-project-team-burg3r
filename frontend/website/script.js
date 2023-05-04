@@ -64,6 +64,13 @@ function submitCourses() {
         return response.json();
     })
     .then(function(data) {
+        var display = document.createElement("iframe");
+        display.setAttribute("src", "schedule_display_example.html");
+        display.style.width = "960px";
+        display.style.height = "480px";
+        display.setAttribute("src", "schedule_display_example.html");
+        document.getElementById("result").appendChild(display);
+        return;
         document.getElementById("Results").innerHTML = "Schedule Results </br>";
         if (document.getElementById("arrows").childElementCount == 0) {
           const left_button = document.createElement("button");
